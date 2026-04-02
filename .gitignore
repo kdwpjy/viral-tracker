@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# DB (로컬 전용 — Actions는 매번 새로 생성)
+tracker/data/tracker.db
+
+# 환경변수
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

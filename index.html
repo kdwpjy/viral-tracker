@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>바이럴 트래커 — 브랜드 이슈 모니터</title>
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #222535;
+      --border: #2e3148;
+      --pos: #22c55e;
+      --pos-dim: #14532d;
+      --neg: #ef4444;
+      --neg-dim: #7f1d1d;
+      --meme: #f59e0b;
+      --meme-dim: #78350f;
+      --blue: #6366f1;
+      --blue-dim: #312e81;
+      --text: #e2e8f0;
+      --text-muted: #64748b;
+      --text-dim: #94a3b8;
+      --baemin: #02c4a0;
+      --coupang: #e8290b;
+      --radius: 14px;
+      --radius-sm: 8px;
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* ── Layout ── */
+    .wrapper { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+    .header-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      height: 60px;
+    }
+    .logo {
+      display: flex; align-items: center; gap: 10px;
+      font-size: 18px; font-weight: 800; letter-spacing: -0.5px;
+    }
+    .logo-icon { font-size: 22px; }
+    .logo span { color: var(--blue); }
+    .header-meta {
+      display: flex; align-items: center; gap: 16px;
+    }
+    .live-dot {
+      display: flex; align-items: center; gap-: 6px;
+      font-size: 12px; color: var(--pos);
+      gap: 6px;
+    }
+    .live-dot::before {
+      content: '';
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--pos);
+      animation: pulse 1.5s infinite;
+    }
+    .updated { font-size: 12px; color: var(--text-muted); }
+    .search-wrap { position: relative; }
+    .search-wrap input {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 7px 16px 7px 36px;
+      color: var(--text);
+      font-size: 13px;
+      width: 220px;
+      outline: none;
+      transition: border-color .2s;
+    }
+    .search-wrap input:focus { border-color: var(--blue); }
+    .search-wrap input::placeholder { color: var(--text-muted); }
+    .search-icon {
+      position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
+      color: var(--text-muted); font-size: 14px; pointer-events: none;
+    }
+
+    /* ── Section Titles ── */
+    .section { margin: 40px 0; }
+    .section-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 20px;
+    }
+    .section-title {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 18px; font-weight: 700; letter-spacing: -0.3px;
+    }
+    .section-title .icon { font-size: 20px; }
+    .see-all {
+      font-size: 12px; color: var(--text-muted);
+      cursor: pointer; text-decoration: underline;
+    }
+
+    /* ── Hot Cards (Top 3) ── */
+    .hot-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 16px;
+    }
+    .hot-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px;
+      position: relative;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform .2s, border-color .2s;
+    }
+    .hot-card:hover { transform: translateY(-3px); border-color: var(--blue); }
+    .hot-card.rank-1 { grid-column: 1 / 3; }
+    .hot-card::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    }
+    .hot-card.pos::before { background: var(--pos); }
+    .hot-card.neg::before { background: var(--neg); }
+    .hot-card.meme::before { background: var(--meme); }
+
+    .card-top {
+      display: flex; align-items: flex-start;
+      justify-content: space-between; margin-bottom: 12px;
+    }
+    .brand-info { display: flex; align-items: center; gap: 10px; }
+    .brand-logo {
+      width: 40px; height: 40px; border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 20px; background: var(--surface2);
+      flex-shrink: 0;
+    }
+    .brand-name { font-size: 15px; font-weight: 700; }
+    .brand-cat { font-size: 11px; color: var(--text-muted); }
+    .sentiment-badge {
+      display: flex; align-items: center; gap-: 4px;
+      padding: 4px 10px; border-radius: 20px;
+      font-size: 12px; font-weight: 600;
+      gap: 4px; white-space: nowrap; flex-shrink: 0;
+    }
+    .sentiment-badge.pos { background: var(--pos-dim); color: var(--pos); }
+    .sentiment-badge.neg { background: var(--neg-dim); color: var(--neg); }
+    .sentiment-badge.meme { background: var(--meme-dim); color: var(--meme); }
+
+    .card-title {
+      font-size: 16px; font-weight: 700; margin-bottom: 8px;
+      letter-spacing: -0.3px; line-height: 1.4;
+    }
+    .rank-1 .card-title { font-size: 20px; }
+    .card-summary { font-size: 13px; color: var(--text-dim); margin-bottom: 14px; line-height: 1.5; }
+
+    .card-meta {
+      display: flex; align-items: center; gap: 12px;
+      font-size: 12px; color: var(--text-muted);
+    }
+    .score-bar-wrap { margin-bottom: 14px; }
+    .score-label {
+      display: flex; justify-content: space-between;
+      font-size: 11px; color: var(--text-muted); margin-bottom: 4px;
+    }
+    .score-bar {
+      height: 4px; background: var(--surface2); border-radius: 4px; overflow: hidden;
+    }
+    .score-fill {
+      height: 100%; border-radius: 4px;
+      transition: width 1s ease;
+    }
+    .pos .score-fill { background: var(--pos); }
+    .neg .score-fill { background: var(--neg); }
+    .meme .score-fill { background: var(--meme); }
+
+    .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+    .tag {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 20px; padding: 3px 10px;
+      font-size: 11px; color: var(--text-dim);
+    }
+    .source-links { display: flex; gap: 8px; flex-wrap: wrap; }
+    .source-link {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 6px; padding: 3px 8px;
+      font-size: 11px; color: var(--text-muted);
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .source-link:hover { color: var(--text); border-color: var(--blue); }
+
+    /* ── Baemin vs Coupang ── */
+    .versus-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .versus-header {
+      display: grid; grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      padding: 20px 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .versus-brand {
+      display: flex; align-items: center; gap: 12px;
+    }
+    .versus-brand.right { flex-direction: row-reverse; text-align: right; }
+    .versus-logo {
+      width: 48px; height: 48px; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 26px;
+    }
+    .versus-logo.baemin { background: rgba(2,196,160,.15); }
+    .versus-logo.coupang { background: rgba(232,41,11,.15); }
+    .versus-name { font-size: 18px; font-weight: 800; }
+    .versus-name.baemin { color: var(--baemin); }
+    .versus-name.coupang { color: var(--coupang); }
+    .versus-score { font-size: 13px; color: var(--text-muted); }
+    .vs-divider {
+      font-size: 22px; font-weight: 900; color: var(--text-muted);
+      padding: 0 20px;
+    }
+
+    .versus-body { display: grid; grid-template-columns: 1fr 1fr; }
+    .versus-col {
+      padding: 20px 24px;
+    }
+    .versus-col:first-child { border-right: 1px solid var(--border); }
+    .versus-issue {
+      background: var(--surface2);
+      border-radius: var(--radius-sm);
+      padding: 14px;
+      margin-bottom: 10px;
+      border-left: 3px solid transparent;
+      cursor: pointer;
+      transition: background .2s;
+    }
+    .versus-issue:hover { background: var(--border); }
+    .versus-issue.neg { border-left-color: var(--neg); }
+    .versus-issue.pos { border-left-color: var(--pos); }
+    .versus-issue.meme { border-left-color: var(--meme); }
+    .versus-issue-title { font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+    .versus-issue-meta {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 11px; color: var(--text-muted);
+    }
+    .versus-stat-row {
+      display: grid; grid-template-columns: 1fr 1fr;
+      border-top: 1px solid var(--border);
+    }
+    .versus-stat {
+      padding: 16px 24px;
+      border-right: 1px solid var(--border);
+    }
+    .versus-stat:last-child { border-right: none; }
+    .versus-stat-label { font-size: 11px; color: var(--text-muted); margin-bottom: 6px; }
+    .versus-stat-bars { display: flex; flex-direction: column; gap: 6px; }
+    .versus-stat-bar-row {
+      display: flex; align-items: center; gap: 8px; font-size: 12px;
+    }
+    .vbar-label { width: 60px; color: var(--text-dim); font-size: 11px; }
+    .vbar-track { flex: 1; height: 6px; background: var(--surface2); border-radius: 4px; overflow: hidden; }
+    .vbar-fill { height: 100%; border-radius: 4px; }
+    .vbar-fill.baemin { background: var(--baemin); }
+    .vbar-fill.coupang { background: var(--coupang); }
+    .vbar-val { width: 30px; text-align: right; color: var(--text-muted); }
+    .stakeholder-badges {
+      display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px;
+    }
+    .stakeholder-badge {
+      padding: 3px 10px; border-radius: 20px;
+      font-size: 11px; font-weight: 600;
+      background: var(--surface2); color: var(--text-dim);
+      border: 1px solid var(--border);
+    }
+    .stakeholder-badge.active-neg { background: var(--neg-dim); color: var(--neg); border-color: var(--neg); }
+    .stakeholder-badge.active-pos { background: var(--pos-dim); color: var(--pos); border-color: var(--pos); }
+
+    /* ── Filter Tabs ── */
+    .filter-tabs {
+      display: flex; gap: 8px; margin-bottom: 20px;
+    }
+    .tab-btn {
+      padding: 8px 20px; border-radius: 20px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text-dim);
+      font-size: 13px; font-weight: 600;
+      cursor: pointer;
+      transition: all .2s;
+    }
+    .tab-btn:hover { border-color: var(--blue); color: var(--text); }
+    .tab-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+    .tab-btn.pos.active { background: var(--pos); border-color: var(--pos); }
+    .tab-btn.neg.active { background: var(--neg); border-color: var(--neg); }
+    .tab-btn.meme.active { background: var(--meme); border-color: var(--meme); }
+
+    /* ── Grid Cards (general) ── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+    .issue-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px;
+      cursor: pointer;
+      transition: transform .2s, border-color .2s;
+      border-left: 3px solid transparent;
+    }
+    .issue-card.pos { border-left-color: var(--pos); }
+    .issue-card.neg { border-left-color: var(--neg); }
+    .issue-card.meme { border-left-color: var(--meme); }
+    .issue-card:hover { transform: translateY(-2px); border-top-color: var(--blue); }
+    .issue-card .card-top { margin-bottom: 10px; }
+    .issue-card .card-title { font-size: 14px; margin-bottom: 6px; }
+    .issue-card .card-summary { font-size: 12px; margin-bottom: 10px; }
+
+    /* ── Rising ── */
+    .rising-list { display: flex; flex-direction: column; gap: 10px; }
+    .rising-item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 14px 18px;
+      display: flex; align-items: center; gap: 16px;
+      cursor: pointer;
+      transition: border-color .2s;
+    }
+    .rising-item:hover { border-color: var(--blue); }
+    .rising-rank {
+      font-size: 20px; font-weight: 900; color: var(--border);
+      width: 28px; text-align: center; flex-shrink: 0;
+    }
+    .rising-rank.top { color: var(--meme); }
+    .rising-info { flex: 1; }
+    .rising-title { font-size: 14px; font-weight: 600; margin-bottom: 2px; }
+    .rising-meta { font-size: 12px; color: var(--text-muted); }
+    .rising-badge {
+      display: flex; align-items: center; gap: 4px;
+      font-size: 12px; font-weight: 700; flex-shrink: 0;
+    }
+    .rising-badge.up { color: var(--pos); }
+    .rising-badge.fire { color: var(--neg); }
+
+    /* ── Timeline ── */
+    .timeline { position: relative; padding-left: 20px; }
+    .timeline::before {
+      content: ''; position: absolute; left: 7px; top: 0; bottom: 0;
+      width: 2px; background: var(--border);
+    }
+    .tl-item {
+      position: relative; margin-bottom: 20px; padding-left: 20px;
+    }
+    .tl-dot {
+      position: absolute; left: -20px; top: 4px;
+      width: 14px; height: 14px; border-radius: 50%;
+      border: 2px solid var(--surface);
+    }
+    .tl-dot.pos { background: var(--pos); }
+    .tl-dot.neg { background: var(--neg); }
+    .tl-dot.meme { background: var(--meme); }
+    .tl-dot.neutral { background: var(--text-muted); }
+    .tl-time { font-size: 11px; color: var(--text-muted); margin-bottom: 3px; }
+    .tl-title { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+    .tl-brand { font-size: 12px; color: var(--text-muted); }
+
+    /* ── Animations ── */
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: .5; transform: scale(1.3); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .fade-in { animation: fadeIn .4s ease both; }
+
+    /* ── Footer ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 28px 0;
+      margin-top: 60px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 900px) {
+      .hot-grid { grid-template-columns: 1fr 1fr; }
+      .hot-card.rank-1 { grid-column: 1 / 3; }
+      .versus-body { grid-template-columns: 1fr; }
+      .versus-col:first-child { border-right: none; border-bottom: 1px solid var(--border); }
+      .versus-stat-row { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 600px) {
+      .hot-grid { grid-template-columns: 1fr; }
+      .hot-card.rank-1 { grid-column: 1; }
+      .header-inner .search-wrap { display: none; }
+      .versus-header { grid-template-columns: 1fr auto 1fr; padding: 14px; }
+      .versus-name { font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+<header>
+  <div class="wrapper header-inner">
+    <div class="logo">
+      <span class="logo-icon">📡</span>
+      바이럴<span>트래커</span>
+    </div>
+    <div class="header-meta">
+      <div class="live-dot">실시간 수집 중</div>
+      <div class="updated">마지막 갱신 2분 전</div>
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="브랜드 검색..." oninput="filterCards()" />
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="wrapper">
+
+  <!-- ── HOT 이슈 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">🔥</span> 오늘의 Hot 이슈</h2>
+      <span class="see-all">전체 보기 →</span>
+    </div>
+    <div class="hot-grid">
+
+      <!-- 1위: 빅 카드 -->
+      <div class="hot-card neg rank-1 fade-in">
+        <div class="card-top">
+          <div class="brand-info">
+            <div class="brand-logo">🍗</div>
+            <div>
+              <div class="brand-name">BBQ</div>
+              <div class="brand-cat">외식·프랜차이즈</div>
+            </div>
+          </div>
+          <div class="sentiment-badge neg">💀 부정 바이럴</div>
+        </div>
+        <div class="card-title">"치킨 한 마리 35,000원" 가격 인상 공분 폭발</div>
+        <div class="card-summary">황금올리브 일부 메뉴 35,000원 돌파 소식이 커뮤니티에 퍼지며 "이제 치킨은 특식"이라는 반응 쏟아짐. 에펨코리아·다음카페 맘카페 동시 확산, 불매 언급 급증.</div>
+        <div class="score-bar-wrap">
+          <div class="score-label"><span>바이럴 스코어</span><span>91 / 100</span></div>
+          <div class="score-bar"><div class="score-fill" style="width:91%"></div></div>
+        </div>
+        <div class="tags">
+          <span class="tag">#가격인상</span>
+          <span class="tag">#불매운동</span>
+          <span class="tag">#치킨값논란</span>
+          <span class="tag">#에펨코리아</span>
+          <span class="tag">#다음카페</span>
+        </div>
+        <div class="card-meta">
+          <span>⏱ 3시간 전 시작</span>
+          <span>💬 댓글 4,200+</span>
+          <span>🔁 공유 1,800+</span>
+        </div>
+        <div class="source-links" style="margin-top:12px;">
+          <span class="source-link">📌 에펨코리아</span>
+          <span class="source-link">📌 다음카페</span>
+          <span class="source-link">📌 X(트위터)</span>
+          <span class="source-link">📌 스레드</span>
+        </div>
+      </div>
+
+      <!-- 2위 -->
+      <div class="hot-card pos fade-in" style="animation-delay:.1s">
+        <div class="card-top">
+          <div class="brand-info">
+            <div class="brand-logo">☕</div>
+            <div>
+              <div class="brand-name">스타벅스</div>
+              <div class="brand-cat">음료·카페</div>
+            </div>
+          </div>
+          <div class="sentiment-badge pos">🔥 긍정 바이럴</div>
+        </div>
+        <div class="card-title">폭우 속 직원 우산 씌워준 CCTV 영상 감동 확산</div>
+        <div class="card-summary">강남 매장 직원이 퇴근 중인 어르신에게 직접 나와 우산을 씌워준 CCTV 영상이 스레드에서 최초 확산 후 X·인스타로 퍼짐.</div>
+        <div class="score-bar-wrap">
+          <div class="score-label"><span>바이럴 스코어</span><span>78 / 100</span></div>
+          <div class="score-bar"><div class="score-fill" style="width:78%"></div></div>
+        </div>
+        <div class="tags">
+          <span class="tag">#감동마케팅</span>
+          <span class="tag">#직원칭찬</span>
+          <span class="tag">#스레드</span>
+        </div>
+        <div class="card-meta">
+          <span>⏱ 6시간 전</span>
+          <span>💬 2,100+</span>
+          <span>❤️ 좋아요 9,400+</span>
+        </div>
+      </div>
+
+      <!-- 3위 -->
+      <div class="hot-card meme fade-in" style="animation-delay:.2s">
+        <div class="card-top">
+          <div class="brand-info">
+            <div class="brand-logo">🍔</div>
+            <div>
+              <div class="brand-name">맥도날드</div>
+              <div class="brand-cat">패스트푸드</div>
+            </div>
+          </div>
+          <div class="sentiment-badge meme">😂 밈</div>
+        </div>
+        <div class="card-title">맥모닝 가격표 vs 실물 사진 비교 밈 대유행</div>
+        <div class="card-summary">공식 앱 사진과 실물의 크기 차이를 찍은 영상이 "광고 사기" 밈으로 재가공되어 커뮤니티 전반에 확산 중.</div>
+        <div class="score-bar-wrap">
+          <div class="score-label"><span>바이럴 스코어</span><span>65 / 100</span></div>
+          <div class="score-bar"><div class="score-fill" style="width:65%"></div></div>
+        </div>
+        <div class="tags">
+          <span class="tag">#광고역효과</span>
+          <span class="tag">#밈</span>
+          <span class="tag">#루리웹</span>
+        </div>
+        <div class="card-meta">
+          <span>⏱ 어제</span>
+          <span>💬 870+</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── 배민 vs 쿠팡이츠 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">🍔</span> 배민 vs 쿠팡이츠 — 실시간 이슈 비교</h2>
+    </div>
+    <div class="versus-wrap">
+      <div class="versus-header">
+        <div class="versus-brand">
+          <div class="versus-logo baemin">🛵</div>
+          <div>
+            <div class="versus-name baemin">배달의민족</div>
+            <div class="versus-score">이슈 12건 · 스코어 avg 64</div>
+          </div>
+        </div>
+        <div class="vs-divider">VS</div>
+        <div class="versus-brand right">
+          <div class="versus-logo coupang">🚀</div>
+          <div>
+            <div class="versus-name coupang">쿠팡이츠</div>
+            <div class="versus-score">이슈 9건 · 스코어 avg 71</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="versus-body">
+        <!-- 배민 -->
+        <div class="versus-col">
+          <div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>
+          <div class="versus-issue neg">
+            <div class="versus-issue-title">배달비 4,900원 기본요금 정착에 점주 반발</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span>이해관계자: 점주</span><span>·</span><span>2시간 전</span>
+            </div>
+          </div>
+          <div class="versus-issue meme">
+            <div class="versus-issue-title">"배민 이모티콘 캐릭터가 너무 귀엽다" 굿즈 구매 인증 유행</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge meme" style="font-size:10px;padding:2px 8px;">😂 밈</span>
+              <span>이해관계자: 소비자</span><span>·</span><span>5시간 전</span>
+            </div>
+          </div>
+          <div class="versus-issue neg">
+            <div class="versus-issue-title">블라인드 배민 본사 직원 "야근 강요" 폭로글 확산</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span>이해관계자: 직원</span><span>·</span><span>어제</span>
+            </div>
+          </div>
+          <div class="stakeholder-badges">
+            <span class="stakeholder-badge active-neg">소비자</span>
+            <span class="stakeholder-badge active-neg">점주</span>
+            <span class="stakeholder-badge">라이더</span>
+            <span class="stakeholder-badge active-neg">직원</span>
+          </div>
+        </div>
+
+        <!-- 쿠팡이츠 -->
+        <div class="versus-col">
+          <div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>
+          <div class="versus-issue neg">
+            <div class="versus-issue-title">쿠팡이츠 라이더 산재 처리 거부 의혹 재점화</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span>이해관계자: 라이더</span><span>·</span><span>1시간 전</span>
+            </div>
+          </div>
+          <div class="versus-issue pos">
+            <div class="versus-issue-title">쿠팡이츠 단건배달 30분 보장 프로모션 호평</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
+              <span>이해관계자: 소비자</span><span>·</span><span>4시간 전</span>
+            </div>
+          </div>
+          <div class="versus-issue neg">
+            <div class="versus-issue-title">입점 식당 독점 계약 강요 소문 커뮤니티 확산</div>
+            <div class="versus-issue-meta">
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span>이해관계자: 점주</span><span>·</span><span>어제</span>
+            </div>
+          </div>
+          <div class="stakeholder-badges">
+            <span class="stakeholder-badge active-pos">소비자</span>
+            <span class="stakeholder-badge active-neg">점주</span>
+            <span class="stakeholder-badge active-neg">라이더</span>
+            <span class="stakeholder-badge">직원</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 통계 비교 바 -->
+      <div class="versus-stat-row">
+        <div class="versus-stat">
+          <div class="versus-stat-label">채널별 언급량 비교 (오늘)</div>
+          <div class="versus-stat-bars">
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label">커뮤니티</span>
+              <div class="vbar-track"><div class="vbar-fill baemin" style="width:72%"></div></div>
+              <span class="vbar-val" style="color:var(--baemin)">72</span>
+            </div>
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label" style="color:transparent">.</span>
+              <div class="vbar-track"><div class="vbar-fill coupang" style="width:45%"></div></div>
+              <span class="vbar-val" style="color:var(--coupang)">45</span>
+            </div>
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label">SNS</span>
+              <div class="vbar-track"><div class="vbar-fill baemin" style="width:58%"></div></div>
+              <span class="vbar-val" style="color:var(--baemin)">58</span>
+            </div>
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label" style="color:transparent">.</span>
+              <div class="vbar-track"><div class="vbar-fill coupang" style="width:81%"></div></div>
+              <span class="vbar-val" style="color:var(--coupang)">81</span>
+            </div>
+          </div>
+        </div>
+        <div class="versus-stat">
+          <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 밈)</div>
+          <div class="versus-stat-bars">
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label" style="color:var(--baemin)">배민</span>
+              <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
+                <div style="position:absolute;left:0;top:0;height:100%;width:55%;background:var(--neg);"></div>
+                <div style="position:absolute;left:55%;top:0;height:100%;width:25%;background:var(--pos);"></div>
+                <div style="position:absolute;left:80%;top:0;height:100%;width:20%;background:var(--meme);"></div>
+              </div>
+              <span class="vbar-val" style="font-size:10px">55/25/20</span>
+            </div>
+            <div class="versus-stat-bar-row">
+              <span class="vbar-label" style="color:var(--coupang)">쿠팡</span>
+              <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
+                <div style="position:absolute;left:0;top:0;height:100%;width:66%;background:var(--neg);"></div>
+                <div style="position:absolute;left:66%;top:0;height:100%;width:28%;background:var(--pos);"></div>
+                <div style="position:absolute;left:94%;top:0;height:100%;width:6%;background:var(--meme);"></div>
+              </div>
+              <span class="vbar-val" style="font-size:10px">66/28/6</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 필터 + 이슈 그리드 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">📊</span> 전체 이슈 피드</h2>
+    </div>
+    <div class="filter-tabs">
+      <button class="tab-btn active" onclick="setTab(this,'all')">전체</button>
+      <button class="tab-btn pos" onclick="setTab(this,'pos')">🔥 긍정</button>
+      <button class="tab-btn neg" onclick="setTab(this,'neg')">💀 부정</button>
+      <button class="tab-btn meme" onclick="setTab(this,'meme')">😂 밈/썰</button>
+    </div>
+    <div class="cards-grid" id="cardsGrid">
+      <!-- 카드들은 JS로 렌더링 -->
+    </div>
+  </section>
+
+  <!-- ── Rising ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">📈</span> Rising — 지금 빠르게 퍼지는 중</h2>
+    </div>
+    <div class="rising-list">
+      <div class="rising-item">
+        <div class="rising-rank top">1</div>
+        <div class="rising-info">
+          <div class="rising-title">올리브영 "직원 인센티브 삭감" 블라인드 폭로글</div>
+          <div class="rising-meta">블라인드 → 에펨코리아 → 스레드 확산 중 · 2시간 전 시작</div>
+        </div>
+        <div class="rising-badge fire">🔺 +340% / 1h</div>
+      </div>
+      <div class="rising-item">
+        <div class="rising-rank top">2</div>
+        <div class="rising-info">
+          <div class="rising-title">이마트 자체브랜드 노브랜드 버거 신메뉴 가성비 극찬 후기</div>
+          <div class="rising-meta">다음카페 맘카페 · 인스타그램 · 4시간 전</div>
+        </div>
+        <div class="rising-badge up">🔺 +210% / 2h</div>
+      </div>
+      <div class="rising-item">
+        <div class="rising-rank">3</div>
+        <div class="rising-info">
+          <div class="rising-title">카카오뱅크 앱 UI 개편 "오히려 불편해졌다" 반응</div>
+          <div class="rising-meta">클리앙 · X(트위터) · 6시간 전</div>
+        </div>
+        <div class="rising-badge fire">🔺 +180% / 3h</div>
+      </div>
+      <div class="rising-item">
+        <div class="rising-rank">4</div>
+        <div class="rising-info">
+          <div class="rising-title">다이소 3,000원 화장품 품절 대란 인증샷 릴레이</div>
+          <div class="rising-meta">인스타그램 · 스레드 · 어제 오후</div>
+        </div>
+        <div class="rising-badge up">🔺 +120% / 6h</div>
+      </div>
+      <div class="rising-item">
+        <div class="rising-rank">5</div>
+        <div class="rising-info">
+          <div class="rising-title">GS25 편의점 알바 직원 응대 영상 "갑질 고객" 역관광 밈</div>
+          <div class="rising-meta">루리웹 · 유튜브 쇼츠 · 어제</div>
+        </div>
+        <div class="rising-badge up">🔺 +95% / 12h</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 타임라인 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">🗓️</span> 오늘의 이슈 타임라인</h2>
+    </div>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="tl-dot neg"></div>
+        <div class="tl-time">오전 08:12</div>
+        <div class="tl-title">쿠팡이츠 라이더 산재 거부 의혹 — 블라인드 최초 게시</div>
+        <div class="tl-brand">쿠팡이츠 · 부정</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot pos"></div>
+        <div class="tl-time">오전 09:41</div>
+        <div class="tl-title">스타벅스 직원 우산 영상 — 스레드 최초 업로드</div>
+        <div class="tl-brand">스타벅스 · 긍정</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot neg"></div>
+        <div class="tl-time">오전 10:30</div>
+        <div class="tl-title">BBQ 가격 35,000원 인증 — 에펨코리아 게시 후 실시간 1위</div>
+        <div class="tl-brand">BBQ · 부정</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot meme"></div>
+        <div class="tl-time">오전 11:05</div>
+        <div class="tl-title">맥도날드 광고 vs 실물 밈 — 루리웹 → X 확산</div>
+        <div class="tl-brand">맥도날드 · 밈</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot neg"></div>
+        <div class="tl-time">오후 01:17</div>
+        <div class="tl-title">배민 배달비 인상 점주 반발 — 다음카페 자영업자 카페 확산</div>
+        <div class="tl-brand">배달의민족 · 부정</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot pos"></div>
+        <div class="tl-time">오후 02:50</div>
+        <div class="tl-title">올리브영 블라인드 폭로 — 직장인 카페 → 에펨코리아 확산 중</div>
+        <div class="tl-brand">올리브영 · 부정 (상승 중)</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-dot neutral"></div>
+        <div class="tl-time">오후 04:00 (예측)</div>
+        <div class="tl-title">BBQ 공식 입장 발표 예정 — 추적 중</div>
+        <div class="tl-brand">BBQ · 대응 모니터링</div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="wrapper">
+    바이럴트래커 · 수집 채널: 에펨코리아, 루리웹, 디시인사이드, 클리앙, 블라인드, 다음카페 · X, 인스타그램, 스레드, 유튜브 · 네이버/다음 뉴스<br />
+    <span style="margin-top:6px;display:block;">목업 데이터 기준 — 실제 서비스 시 실시간 API·크롤링으로 교체</span>
+  </div>
+</footer>
+
+<script>
+  // ── 상태 ──────────────────────────────────────────────────────────────────
+  let allData   = null;   // /api/status + /api/feed 등에서 로드
+  let feedIssues = [];
+  let currentTab   = 'all';
+  let searchQuery  = '';
+
+  const BRAND_EMOJI = {
+    '배달의민족': '🛵', '배민': '🛵', '쿠팡이츠': '🚀',
+    'BBQ': '🍗', '스타벅스': '☕', '맥도날드': '🍔',
+    '올리브영': '🌿', '카카오뱅크': '💛', '다이소': '🛒',
+    'GS25': '🏪', '이마트': '🛒', '쿠팡': '📦',
+  };
+  const SENTIMENT_LABEL = { positive: '🔥 긍정', negative: '💀 부정', meme: '😂 밈', neutral: '○ 중립' };
+  const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', meme: 'meme', neutral: 'neutral' };
+
+  function brandEmoji(brand) {
+    return BRAND_EMOJI[brand] || '🏢';
+  }
+
+  function relativeTime(isoStr) {
+    if (!isoStr) return '';
+    const diff = (Date.now() - new Date(isoStr)) / 1000;
+    if (diff < 3600)  return `${Math.floor(diff / 60)}분 전`;
+    if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
+    return `${Math.floor(diff / 86400)}일 전`;
+  }
+
+  // ── 데이터 로드 (단일 정적 JSON) ─────────────────────────────────────────────
+  // GitHub Actions가 1시간마다 data/issues.json을 갱신해 커밋함
+
+  let cachedData = null;
+
+  async function fetchData() {
+    try {
+      // 캐시 무효화용 타임스탬프
+      const res = await fetch(`./data/issues.json?t=${Math.floor(Date.now() / 60000)}`);
+      if (!res.ok) throw new Error('issues.json 없음');
+      cachedData = await res.json();
+
+      feedIssues = cachedData.feed || [];
+      renderHotCards(cachedData.hot || []);
+      renderFeed();
+      renderRising(cachedData.rising || []);
+      renderTimeline(cachedData.timeline || []);
+      renderVersus(cachedData.versus || {});
+
+      const updatedAt = cachedData.updated_at;
+      document.querySelector('.updated').textContent =
+        updatedAt ? `마지막 갱신 ${relativeTime(updatedAt)}` : '갱신 대기 중';
+
+    } catch (e) {
+      console.warn('data/issues.json 로드 실패:', e.message);
+      showNoDataMessage();
+    }
+  }
+
+  function fetchSearch(q) {
+    if (!cachedData) return [];
+    const feed = cachedData.feed || [];
+    return feed.filter(i =>
+      (i.brand || '').includes(q) || (i.title || '').includes(q)
+    );
+  }
+
+  // ── 렌더링 ─────────────────────────────────────────────────────────────────
+
+  function issueCard(i, extraClass = '') {
+    const css   = SENTIMENT_CSS[i.sentiment]   || 'neutral';
+    const badge = SENTIMENT_LABEL[i.sentiment] || '○';
+    const tags  = (i.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+    const score = i.viral_score ?? 0;
+    return `
+      <div class="issue-card ${css} ${extraClass} fade-in">
+        <div class="card-top">
+          <div class="brand-info">
+            <div class="brand-logo">${brandEmoji(i.brand)}</div>
+            <div>
+              <div class="brand-name">${i.brand || '기타'}</div>
+              <div class="brand-cat">${i.channel || ''}</div>
+            </div>
+          </div>
+          <div class="sentiment-badge ${css}">${badge}</div>
+        </div>
+        <div class="card-title">${i.title || ''}</div>
+        <div class="card-summary">${i.summary || ''}</div>
+        <div class="score-bar-wrap">
+          <div class="score-label"><span>스코어</span><span>${score} / 100</span></div>
+          <div class="score-bar ${css}"><div class="score-fill" style="width:${score}%"></div></div>
+        </div>
+        ${tags ? `<div class="tags">${tags}</div>` : ''}
+        <div class="card-meta">
+          <span>⏱ ${relativeTime(i.published_at)}</span>
+          ${i.comments ? `<span>💬 ${i.comments}</span>` : ''}
+          ${i.views    ? `<span>👁 ${i.views.toLocaleString()}</span>` : ''}
+        </div>
+        ${i.url ? `<div class="source-links" style="margin-top:10px">
+          <a class="source-link" href="${i.url}" target="_blank" rel="noopener">📌 원문 보기</a>
+        </div>` : ''}
+      </div>`;
+  }
+
+  function renderHotCards(hot) {
+    const grid = document.querySelector('.hot-grid');
+    if (!hot || hot.length === 0) {
+      grid.innerHTML = '<div style="color:var(--text-muted);padding:20px">수집된 데이터가 없습니다.</div>';
+      return;
+    }
+    grid.innerHTML = hot.slice(0, 3).map((item, idx) => {
+      const css   = SENTIMENT_CSS[item.sentiment] || 'neutral';
+      const badge = SENTIMENT_LABEL[item.sentiment] || '○';
+      const score = item.viral_score ?? 0;
+      const rankClass = idx === 0 ? 'rank-1' : '';
+      return `
+        <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s">
+          <div class="card-top">
+            <div class="brand-info">
+              <div class="brand-logo">${brandEmoji(item.brand)}</div>
+              <div>
+                <div class="brand-name">${item.brand || '기타'}</div>
+                <div class="brand-cat">${item.channel || ''}</div>
+              </div>
+            </div>
+            <div class="sentiment-badge ${css}">${badge}</div>
+          </div>
+          <div class="card-title">${item.title || ''}</div>
+          <div class="card-summary">${item.summary || ''}</div>
+          <div class="score-bar-wrap">
+            <div class="score-label"><span>바이럴 스코어</span><span>${score} / 100</span></div>
+            <div class="score-bar"><div class="score-fill" style="width:${score}%"></div></div>
+          </div>
+          <div class="tags">${(item.tags || []).map(t => `<span class="tag">${t}</span>`).join('')}</div>
+          <div class="card-meta">
+            <span>⏱ ${relativeTime(item.published_at)}</span>
+            ${item.comments ? `<span>💬 ${item.comments}</span>` : ''}
+          </div>
+          ${item.url ? `<div class="source-links" style="margin-top:10px">
+            <a class="source-link" href="${item.url}" target="_blank" rel="noopener">📌 원문</a>
+          </div>` : ''}
+        </div>`;
+    }).join('');
+  }
+
+  function renderFeed() {
+    const grid = document.getElementById('cardsGrid');
+    let filtered = feedIssues.filter(i => {
+      const css        = SENTIMENT_CSS[i.sentiment] || 'neutral';
+      const matchTab   = currentTab === 'all' || css === currentTab;
+      const matchSearch = !searchQuery || (i.brand || '').includes(searchQuery) || (i.title || '').includes(searchQuery);
+      return matchTab && matchSearch;
+    });
+
+    if (filtered.length === 0) {
+      grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">검색 결과가 없습니다.</div>`;
+      return;
+    }
+    grid.innerHTML = filtered.map((i, idx) =>
+      issueCard(i, `fade-in" style="animation-delay:${idx * 0.04}s`)
+    ).join('');
+  }
+
+  function renderRising(rising) {
+    const list = document.querySelector('.rising-list');
+    if (!rising || rising.length === 0) {
+      list.innerHTML = '<div style="color:var(--text-muted);padding:14px">수집 대기 중...</div>';
+      return;
+    }
+    list.innerHTML = rising.map((item, idx) => `
+      <div class="rising-item">
+        <div class="rising-rank ${idx < 2 ? 'top' : ''}">${idx + 1}</div>
+        <div class="rising-info">
+          <div class="rising-title">${item.title || ''}</div>
+          <div class="rising-meta">${item.channel || ''} · ${item.brand || ''} · ${relativeTime(item.published_at)}</div>
+        </div>
+        <div class="rising-badge ${item.sentiment === 'negative' ? 'fire' : 'up'}">
+          ${item.status === 'Hot' ? '🔴 Hot' : '🔺 Rising'}
+        </div>
+      </div>`
+    ).join('');
+  }
+
+  function renderTimeline(timeline) {
+    const tl = document.querySelector('.timeline');
+    if (!timeline || timeline.length === 0) {
+      tl.innerHTML = '<div style="color:var(--text-muted);padding:14px">수집 대기 중...</div>';
+      return;
+    }
+    const dotClass = { positive: 'pos', negative: 'neg', meme: 'meme', neutral: 'neutral' };
+    tl.innerHTML = timeline.map(item => `
+      <div class="tl-item">
+        <div class="tl-dot ${dotClass[item.sentiment] || 'neutral'}"></div>
+        <div class="tl-time">${relativeTime(item.published_at)}</div>
+        <div class="tl-title">${item.title || ''}</div>
+        <div class="tl-brand">${item.brand || ''} · ${item.channel || ''} · ${SENTIMENT_LABEL[item.sentiment] || ''}</div>
+      </div>`
+    ).join('');
+  }
+
+  function renderVersus(versus) {
+    if (!versus || !versus.baemin) return;
+    const { baemin, coupang } = versus;
+
+    // 카운트·스코어 업데이트
+    document.querySelector('.versus-score.baemin-score')?.remove();
+    const bScore = document.querySelectorAll('.versus-score')[0];
+    const cScore = document.querySelectorAll('.versus-score')[1];
+    if (bScore) bScore.textContent = `이슈 ${baemin.total}건 · 스코어 avg ${baemin.avg_score}`;
+    if (cScore) cScore.textContent = `이슈 ${coupang.total}건 · 스코어 avg ${coupang.avg_score}`;
+
+    // 이슈 목록 교체
+    const [bCol, cCol] = document.querySelectorAll('.versus-col');
+    if (bCol && baemin.issues) {
+      bCol.innerHTML = '<div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>' +
+        baemin.issues.map(i => versusIssueHTML(i)).join('') +
+        stakeholderHTML(baemin.issues);
+    }
+    if (cCol && coupang.issues) {
+      cCol.innerHTML = '<div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>' +
+        coupang.issues.map(i => versusIssueHTML(i)).join('') +
+        stakeholderHTML(coupang.issues);
+    }
+  }
+
+  function versusIssueHTML(i) {
+    const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
+    const badge = SENTIMENT_LABEL[i.sentiment] || '○';
+    return `
+      <div class="versus-issue ${css}">
+        <div class="versus-issue-title">${i.title || ''}</div>
+        <div class="versus-issue-meta">
+          <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
+          <span>${relativeTime(i.published_at)}</span>
+        </div>
+      </div>`;
+  }
+
+  function stakeholderHTML(issues) {
+    const all = issues.flatMap(i => i.stakeholders || []);
+    const uniq = [...new Set(all)];
+    const roles = ['소비자', '점주', '라이더', '직원'];
+    return `<div class="stakeholder-badges">` +
+      roles.map(r => `<span class="stakeholder-badge ${uniq.includes(r) ? 'active-neg' : ''}">${r}</span>`).join('') +
+      `</div>`;
+  }
+
+  function showNoDataMessage() {
+    const msg = `<div style="color:var(--text-muted);padding:20px;text-align:center;line-height:2">
+      GitHub Actions가 첫 수집을 진행 중입니다.<br>
+      <span style="font-size:12px">보통 레포 Push 후 5~10분 내 데이터가 채워집니다.</span>
+    </div>`;
+    document.querySelector('.hot-grid').innerHTML    = msg;
+    document.getElementById('cardsGrid').innerHTML  = msg;
+    document.querySelector('.rising-list').innerHTML = msg;
+    document.querySelector('.timeline').innerHTML   = msg;
+  }
+
+  // ── 탭·검색 ───────────────────────────────────────────────────────────────
+
+  function setTab(btn, type) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentTab = type;
+    renderFeed();
+  }
+
+  function filterCards() {
+    searchQuery = document.getElementById('searchInput').value.trim();
+    if (searchQuery.length > 1) {
+      feedIssues = fetchSearch(searchQuery);
+    } else if (searchQuery.length === 0 && cachedData) {
+      feedIssues = cachedData.feed || [];
+    }
+    renderFeed();
+  }
+
+  // ── 초기 실행 ─────────────────────────────────────────────────────────────
+  fetchData();
+  // 10분마다 자동 갱신
+  setInterval(fetchData, 10 * 60 * 1000);
+</script>
+</body>
+</html>
