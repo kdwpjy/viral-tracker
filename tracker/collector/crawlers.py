@@ -42,9 +42,9 @@ def _parse_int(text: str) -> int:
 async def crawl_naver_news(keyword: str) -> list[RawPost]:
     """
     https://search.naver.com/search.naver?where=news&query={keyword}&sort=1
-    sort=1 → 최신순
+    네이버 뉴스 검색 결과 페이지 크롤링 (sds-comps-base-layout 컨테이너 기반)
     """
-    url = f"https://search.naver.com/search.naver?where=news&query={quote(keyword)}&sort=1&ds=&de=&nso=so%3Add%2Cp%3Aall"
+    url = f"https://search.naver.com/search.naver?where=news&query={quote(keyword)}&sort=1"
     posts = []
 
     try:
@@ -53,24 +53,34 @@ async def crawl_naver_news(keyword: str) -> list[RawPost]:
             resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select("div.news_wrap")
+        seen_hrefs: set[str] = set()
 
-        for item in items[:15]:
-            title_el = item.select_one("a.news_tit")
-            desc_el  = item.select_one("div.dsc_wrap")
-            press_el = item.select_one("a.press")
-            date_el  = item.select_one("span.info")
-
-            if not title_el:
+        for container in soup.select("div.sds-comps-base-layout"):
+            links = container.find_all("a", href=True)
+            news_links = [
+                a for a in links
+                if a.get("href", "").startswith("http")
+                and len(_clean(a.get_text())) > 15
+                and "naver.com/search" not in a.get("href", "")
+                and "naver.com/main" not in a.get("href", "")
+            ]
+            if not news_links:
                 continue
 
-            title = _clean(title_el.get_text())
-            href  = title_el.get("href", "")
-            body  = _clean(desc_el.get_text()) if desc_el else ""
+            # 첫 번째 긴 텍스트 링크 = 제목
+            title_a = news_links[0]
+            href    = title_a.get("href", "")
+            title   = _clean(title_a.get_text())
 
-            # post_id는 URL 해시로 대체
+            if not title or href in seen_hrefs:
+                continue
+            seen_hrefs.add(href)
+
+            # 이후 링크 중 가장 긴 텍스트 = 요약
+            desc_candidates = [_clean(a.get_text()) for a in news_links[1:] if len(_clean(a.get_text())) > 20]
+            body = desc_candidates[0] if desc_candidates else title
+
             post_id = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
-
             posts.append(RawPost(
                 channel      = Channel.NAVER_NEWS,
                 post_id      = post_id,
@@ -92,6 +102,7 @@ async def crawl_naver_news(keyword: str) -> list[RawPost]:
 async def crawl_daum_news(keyword: str) -> list[RawPost]:
     """
     https://search.daum.net/search?w=news&q={keyword}&sort=recency
+    div.item-bundle-mid 컨테이너 기반 파싱
     """
     url = f"https://search.daum.net/search?w=news&q={quote(keyword)}&sort=recency"
     posts = []
@@ -102,19 +113,22 @@ async def crawl_daum_news(keyword: str) -> list[RawPost]:
             resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select("div.wrap_cont, li.item-list")
+        items = soup.select("div.item-bundle-mid")
 
         for item in items[:15]:
-            title_el = item.select_one("a.tit-doc, a[data-tiara-action-name='검색결과제목클릭']")
-            desc_el  = item.select_one("p.desc-doc, p.desc")
+            title_el = item.select_one("div.item-title a")
+            desc_el  = item.select_one("p.conts-desc")
 
             if not title_el:
                 continue
 
             title   = _clean(title_el.get_text())
             href    = title_el.get("href", "")
-            body    = _clean(desc_el.get_text()) if desc_el else ""
+            body    = _clean(desc_el.get_text()) if desc_el else title
             post_id = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
+
+            if not title:
+                continue
 
             posts.append(RawPost(
                 channel      = Channel.DAUM_NEWS,
@@ -137,9 +151,10 @@ async def crawl_daum_news(keyword: str) -> list[RawPost]:
 async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
     """
     https://search.daum.net/search?w=cafe&q={keyword}&sort=recency
-    공개 카페 게시글만 수집
+    다음 뉴스와 동일한 item-bundle-mid 구조 사용
     """
-    url = f"https://search.daum.net/search?w=cafe&q={quote(keyword)}&sort=recency"
+    # w=cafe 는 JS 리다이렉트로 변경됨 → w=tot(통합검색)으로 카페 결과 포함 수집
+    url = f"https://search.daum.net/search?w=tot&q={quote(keyword)}&sort=recency"
     posts = []
 
     try:
@@ -148,12 +163,12 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
             resp.raise_for_status()
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select("li.item-board, div.c-item-search")
+        items = soup.select("div.item-bundle-mid")
 
         for item in items[:15]:
-            title_el = item.select_one("a.tit-doc, strong.tit-g")
-            cafe_el  = item.select_one("span.info-cafe, a.cafe-name")
-            desc_el  = item.select_one("p.desc-doc")
+            title_el = item.select_one("div.item-title a")
+            desc_el  = item.select_one("p.conts-desc")
+            cafe_el  = item.select_one("a.cafe-name, span.cafe-name, div.item-etc a")
 
             if not title_el:
                 continue
@@ -161,8 +176,11 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
             title     = _clean(title_el.get_text())
             href      = title_el.get("href", "")
             cafe_name = _clean(cafe_el.get_text()) if cafe_el else ""
-            body      = _clean(desc_el.get_text()) if desc_el else ""
+            body      = _clean(desc_el.get_text()) if desc_el else title
             post_id   = re.sub(r"[^a-zA-Z0-9]", "", href)[-24:] or title[:20]
+
+            if not title:
+                continue
 
             posts.append(RawPost(
                 channel      = Channel.DAUM_CAFE,
@@ -183,43 +201,58 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
 # ── 루리웹 (서버사이드 렌더링 — requests 가능) ───────────────────────────────
 
 async def crawl_ruliweb(keyword: str) -> list[RawPost]:
-    url = f"https://bbs.ruliweb.com/search?searchkey={quote(keyword)}&searchtype=subject&page=1"
+    """
+    루리웹 /search 는 JS렌더링 → Playwright 사용
+    Playwright 미설치 시 건너뜀
+    """
     posts = []
+    try:
+        from playwright.async_api import async_playwright
+    except ImportError:
+        print("[Ruliweb] playwright 미설치 — 건너뜀")
+        return posts
+
+    url = f"https://bbs.ruliweb.com/search?searchkey={quote(keyword)}&searchtype=subject&page=1"
 
     try:
-        async with httpx.AsyncClient(headers=HEADERS, follow_redirects=True, timeout=15) as client:
-            resp = await client.get(url)
-            resp.raise_for_status()
+        async with async_playwright() as pw:
+            browser = await pw.chromium.launch(headless=True)
+            page    = await browser.new_page(user_agent=HEADERS["User-Agent"])
+            await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+            await asyncio.sleep(2)
 
-        soup = BeautifulSoup(resp.text, "html.parser")
-        rows = soup.select("table.board_list_table tbody tr:not(.notice)")
+            rows = await page.query_selector_all("tr.table_body")
+            for row in rows[:15]:
+                a = await row.query_selector("td.subject a.deco")
+                if not a:
+                    continue
+                title    = _clean(await a.inner_text())
+                href     = await a.get_attribute("href") or ""
+                if not href.startswith("http"):
+                    href = "https://bbs.ruliweb.com" + href
 
-        for row in rows[:15]:
-            a = row.select_one("td.subject a.deco")
-            if not a:
-                continue
+                hit_el  = await row.query_selector("td.hit")
+                cmts_el = await row.query_selector("td.reple_count")
+                views    = _parse_int(await hit_el.inner_text() if hit_el else "")
+                comments = _parse_int(await cmts_el.inner_text() if cmts_el else "")
+                post_id  = (re.search(r"/(\d+)", href) or [None, title[:12]])[1]
 
-            title    = _clean(a.get_text())
-            href     = a.get("href", "")
-            hit_el   = row.select_one("td.hit")
-            cmts_el  = row.select_one("td.reple_count")
+                if not title:
+                    continue
 
-            views    = _parse_int(hit_el.get_text() if hit_el else "")
-            comments = _parse_int(cmts_el.get_text() if cmts_el else "")
-            post_id  = (re.search(r"/(\d+)", href) or [None, title[:12]])[1]
+                posts.append(RawPost(
+                    channel      = Channel.RULIWEB,
+                    post_id      = str(post_id),
+                    url          = href,
+                    title        = title,
+                    body         = title,
+                    published_at = datetime.now(timezone.utc),
+                    views        = views,
+                    comments     = comments,
+                ))
 
-            posts.append(RawPost(
-                channel      = Channel.RULIWEB,
-                post_id      = str(post_id),
-                url          = href,
-                title        = title,
-                body         = title,
-                published_at = datetime.now(timezone.utc),
-                views        = views,
-                comments     = comments,
-            ))
-
-        await asyncio.sleep(CRAWL_DELAY)
+            await browser.close()
+            await asyncio.sleep(CRAWL_DELAY)
     except Exception as e:
         print(f"[Ruliweb] '{keyword}' 수집 실패: {e}")
 
