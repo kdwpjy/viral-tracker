@@ -1,8 +1,29 @@
 {
-  "updated_at": "",
+  "updated_at": "2026-04-02T11:17:35.491972+00:00",
   "hot": [],
   "feed": [],
   "rising": [],
   "timeline": [],
-  "versus": {}
+  "versus": {
+    "baemin": {
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
+      "ratio": {
+        "negative": 0,
+        "positive": 0,
+        "meme": 0
+      }
+    },
+    "coupang": {
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
+      "ratio": {
+        "negative": 0,
+        "positive": 0,
+        "meme": 0
+      }
+    }
+  }
 }
