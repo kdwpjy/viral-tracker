@@ -1,27 +1,2579 @@
 {
-  "updated_at": "2026-04-02T11:17:35.491972+00:00",
-  "hot": [],
-  "feed": [],
-  "rising": [],
-  "timeline": [],
+  "updated_at": "2026-04-02T11:42:55.959476+00:00",
+  "hot": [
+    {
+      "uid": "d45a8557998c30d738e838e3d135b625",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026033020292078647",
+      "title": "배민, ‘외주 인력 통한 고객정보 유출’ 논란에 사과…“내부 통제 강...",
+      "summary": "배민, ‘외주 인력 통한 고객정보 유출’ 논란에 사과…“내부 통제 강 이 과정에서 피해자의 주소 등 개인정보를 확보하기 위해 조직원을 배민 고객상담 외주업체에 상담원으로 위장 취 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란",
+        "#직원썰",
+        "#직원칭찬"
+      ],
+      "viral_score": 60.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:38:51.456393+00:00",
+      "processed_at": "2026-04-02T11:42:55.500566+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "5b9308ef228319a6b983debbcad7009a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.donga.com/news/Society/article/all/20260402/133662963/1",
+      "title": "배민 외주사 취업해 개인정보 빼내…‘보복 대행’에 넘긴 2명 송치",
+      "summary": "배민 외주사 취업해 개인정보 빼내…‘보복 대행’에 넘긴 2명 송치 배달의민족 외주사의 상담사로 위장 취업해 고객정보를 빼돌리고 이를 ‘보복 대행 경찰은 이 같은 보복 범죄 피해가 전국에서 53건 신고돼 가담자 40명을 검거했다고 밝혔다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:30:55.130501+00:00",
+      "processed_at": "2026-04-02T11:42:55.478921+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bbac9dd038602ea670be32eebe2ff322",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.fnnews.com/news/202604021829528631",
+      "title": "돈 받고 남의 집 앞에 오물·욕설테러…'보복대행' 범죄 기승",
+      "summary": "돈 받고 남의 집 앞에 오물·욕설테러…'보복대행' 범죄 기승 의뢰를 받아 남의 집 현관문에 오물을 뿌리거나 벽에 욕설 낙서를 남기는 등 이른바  이들은 배달 플랫폼 외주업체에 상담사로 위장 취업해 피해자의 개인정보를 탈취하거나 고액 알바를 미끼로 실행범 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:37:05.046302+00:00",
+      "processed_at": "2026-04-02T11:42:55.496149+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ceb196718895fb3e5bf96b9efe926e4a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongang.co.kr/article/25415977",
+      "title": "[단독] 리딩방·보복대행 범죄 한통속?…배민 \"내부통제 강화\"",
+      "summary": "[단독] 리딩방·보복대행 범죄 한통속 …배민 \"내부통제 강화\" 배민 측 “10만원 쿠폰 보상”…피해자 “제대로 된 사과 없어” 한편, 정보가 유출 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:38:51.456553+00:00",
+      "processed_at": "2026-04-02T11:42:55.500639+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c32738ed9108a9b8d984b0e9868e30a2",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5185046",
+      "title": "[사건추적] 전국 곳곳에 인분·오물 '보복 대행'…총책 꼬리 잡히나",
+      "summary": "[사건추적] 전국 곳곳에 인분·오물 '보복 대행'…총책 꼬리 잡히나 논란이 되는 사건사고 들여다보는 '사건추적' 시간입니다 \" 저희가 단독으로 최초 보도한 '보복 대행' 사건이 점점 커지고 있습니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#직원썰",
+        "#직원칭찬"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:39:38.094904+00:00",
+      "processed_at": "2026-04-02T11:42:55.502363+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "e9a91b43967cea37214ca46daadf81d2",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.newsis.com/view/NISX20260325_0003563073",
+      "title": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음",
+      "summary": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음 배달 플랫폼 쿠팡이츠 역시 '우리동네 전통시장' 기획전을 통해 지역경제 활성화 1호 대상지로는 서울 청량리시장을 선정해 전통시장 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:11.090478+00:00",
+      "processed_at": "2026-04-02T11:42:55.504441+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "dc6a6bd8040263b93953669a77089bca",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645386928",
+      "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일...",
+      "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 뜨겁다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박",
+        "#점주썰"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090642+00:00",
+      "processed_at": "2026-04-02T11:42:55.504516+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6aac68ef1dd7a665410fc1e376bb0ee5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645386928",
+      "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
+      "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090804+00:00",
+      "processed_at": "2026-04-02T11:42:55.504589+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bbcde0e2d276e8fc0e3678ab0ea06473",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2109889",
+      "title": "SK텔레콤, T멤버십 전면 개편..청년·VIP 집중 공략",
+      "summary": "SK텔레콤, T멤버십 전면 개편 청년·VIP 집중 공략 예를 들어 배달의민족에서 처갓집양념치킨 주문 시 VIP 고객은 8000원, 일반 고객 [밈 바이럴]",
+      "sentiment": "meme",
+      "tags": [],
+      "viral_score": 56.3,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:39:38.094151+00:00",
+      "processed_at": "2026-04-02T11:42:55.502207+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bc0a95842cbd7e2fed5cf031de80e1ac",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092159700",
+      "title": "배민 정보유출, 쿠팡과 닮은꼴… \"보안 관리 실패가 낳은 인재\"",
+      "summary": "배민 정보유출, 쿠팡과 닮은꼴… \"보안 관리 실패가 낳은 인재\" 배달앱 배달의민족(이하 배민)에서 발생한 고객 정보 유출 사건을 두고 단순 외주 협력사 관리 부실 드러나… \"내부자 기반 사고 전형\" 2일 보안업계 전문가들의 분석에 따르면 배민에서 벌어진 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:30:55.130341+00:00",
+      "processed_at": "2026-04-02T11:42:55.478814+00:00",
+      "views": 0,
+      "comments": 0
+    }
+  ],
+  "feed": [
+    {
+      "uid": "5513d91f283814989bd831e7e97b0897",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331092604573",
+      "title": "충남도, 상생 배달앱 업체에 건당 2천원 배달비 지원",
+      "summary": "충남도, 상생 배달앱 업체에 건당 2천원 배달비 지원 뉴스 자료사진] (홍성=연합뉴스) 김준범 기자 = 충남도가 배달 중개수수료와 물가 상승으로 도와 충남경제진흥원은 다음 달 6일부터 충남 상생 배달앱인 '땡겨요'와 '휘파람'을 이용 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:16.290236+00:00",
+      "processed_at": "2026-04-02T11:42:55.508365+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "0eb098bd06e738db5ac70d18f4a5f921",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260328074725445",
+      "title": "내가 시키면 더 비싼 이유 있었네…배달비 아끼는 사람들, 이렇게 시킨다",
+      "summary": "내가 시키면 더 비싼 이유 있었네…배달비 아끼는 사람들, 이렇게 시킨다 후 배달 앱을 켤 때마다 쉽게 주문 버튼을 누르지 못한다 1인분만 먹고 싶어도 최소주문금액을 맞추려면 메뉴를 추가해야 하고, 배달비까지 더해지면 한 끼 식사치고는 부 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 15.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289934+00:00",
+      "processed_at": "2026-04-02T11:42:55.508295+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4dd099ca97a9edfcf2d9e79684e43838",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331182708877",
+      "title": "고유가 직격탄 맞은 외식업…충남도, 배달비 지원 카드 꺼냈다",
+      "summary": "고유가 직격탄 맞은 외식업…충남도, 배달비 지원 카드 꺼냈다 중동 전쟁발 고유가에 따른 고물가로 배달비 부담이 커지고 있는 가운데, 충남도가 무 충남도와 충남경제진흥원은 다음달 6일부터 ‘소상공인 상생 배달앱 활성화 지원사업’을 본격 추진한다고 31일  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 24.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289651+00:00",
+      "processed_at": "2026-04-02T11:42:55.508223+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "007582bbd802f888cabd4d8c2d52768b",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331132525674",
+      "title": "나프타 막히면 '포장재 대란'...배달비 인상 '불씨' 되나 [Y녹취록]",
+      "summary": "나프타 막히면 '포장재 대란' 배달비 인상 '불씨' 되나 [Y녹취록] 게 없지 않습니까 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289358+00:00",
+      "processed_at": "2026-04-02T11:42:55.508154+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ab64b827fbad1129e8782f1fcec801fa",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402113003269",
+      "title": "‘중동전쟁 장기화’ 여파에 충남도, 835억 긴급 투입",
+      "summary": "‘중동전쟁 장기화’ 여파에 충남도, 835억 긴급 투입 강화된다 총 69억8000만원을 투입해 매출 감소 소상공인에게 최대 660만원, 휴·폐업 후 재창업 시 최대 850만 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.777117+00:00",
+      "processed_at": "2026-04-02T11:42:55.508080+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea36fbcb2247a34ea952f2743fcbe3d3",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402123125723",
+      "title": "먹깨비 할인에 상품권 혜택까지… 하동군, 소비 촉진",
+      "summary": "먹깨비 할인에 상품권 혜택까지… 하동군, 소비 촉진 되는 정책을 발굴하겠다\"라고 밝혔다 한편, 공공 배달앱 먹깨비는 민간 배달앱 대비 낮은 중개 수수료 구조로 소상공인의 부담을 줄이고, 이용자의  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 34.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:12.777003+00:00",
+      "processed_at": "2026-04-02T11:42:55.507986+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6b0d59b8718fa78a9be58c9c9ea7138e",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402132124753",
+      "title": "\"시민은 눈물 뿌리는데 정치는 돈 뿌립니다\"…강성희 전 의원 \"전북정치 싹 바꿔야\"",
+      "summary": "\"시민은 눈물 뿌리는데 정치는 돈 뿌립니다\"…강성희 전 의원 \"전북정치 싹 바꿔야\" 명맥만 유지 중인 '전주맛배달'을 '민관협력형 공공배달앱'으 이를 통해 절감된 운영비를 할인쿠폰과 배달비 지원에 집중적으로 투입하고 중개수수료 2% 이하 실현으로 상인  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 34.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:12.776911+00:00",
+      "processed_at": "2026-04-02T11:42:55.507918+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ffc64c339895d5fbb94e9a7d0b1f0e21",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402150802360",
+      "title": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다",
+      "summary": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다 나서 전년보다 매출이 줄어든 소상공인에게 최대 660만원, 휴·폐업 소상공인에 배달비 부담을 덜기 위한 지원 폭도 대폭 키웠다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776725+00:00",
+      "processed_at": "2026-04-02T11:42:55.507846+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c312bac2655b938e0ef91c91d520c7e2",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402161435284",
+      "title": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대",
+      "summary": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대 배달특급을 활용한 혜택을 강화한다 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20%로 확대하고(1인 월 2만원 한도), 배달비 부담 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 31.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776631+00:00",
+      "processed_at": "2026-04-02T11:42:55.507775+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c0c60b69384121af2d37aaa6efc66c47",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402162335840",
+      "title": "이천시 경기 활성화 페스타 3일부터 연말까지 추진",
+      "summary": "이천시 경기 활성화 페스타 3일부터 연말까지 추진 2탄’인 배달특급에선 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20% 캐시백으로  특히 소상공인의 경영 안정과 경쟁력 강화를 위해 소상공인 대출 특례 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776539+00:00",
+      "processed_at": "2026-04-02T11:42:55.507704+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4ac1d840aeb9ba5d2643b8f790964df2",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402165439510",
+      "title": "\"충전 10%·결제 10%\"…이천시, 역대급 소비 촉진 정책 펼친다",
+      "summary": "\"충전 10%·결제 10%\"…이천시, 역대급 소비 촉진 정책 펼친다 우리지역 소비대장 2탄’인 배달특급에서는 이천사랑 지역화폐로 결제할 경우 기 이와 함께 소상공인의 경영 안정을 위한 실질적 지원책도 마련 [밈 바이럴]",
+      "sentiment": "meme",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 36.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776444+00:00",
+      "processed_at": "2026-04-02T11:42:55.507636+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ca9f78f66f4bb49f784d6414708a0e3a",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://news.skbroadband.com/news/articleView.html?idxno=223004",
+      "title": "충남도, 835억 규모 민생경제 패키지 가동",
+      "summary": "충남도, 835억 규모 민생경제 패키지 가동 500억 원 규모의 긴급경영안정자금을 지원하고, 이자 보전 등 금융 부담을 낮출 계획입니다 매출 감소 소상공인에게는 최대 660만 원, 휴업이나 폐업한 소상공인에게는 재창업 자금 최대 850만 원을  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.761188+00:00",
+      "processed_at": "2026-04-02T11:42:55.507565+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "b3e64b2dad0c6a806c6afc1b79c72f2e",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=275785",
+      "title": "이천시, 지역화폐·배달특급 연계 ‘경기 활성화 페스타’ 추진",
+      "summary": "이천시, 지역화폐·배달특급 연계 ‘경기 활성화 페스타’ 추진 배달비 부담 완화를 위해 3천원 할인 쿠폰도 제공된다 아울러 소상공인을 위한 금융 및 환경 개선 지원도 병행된다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.761003+00:00",
+      "processed_at": "2026-04-02T11:42:55.507494+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea961009aaccbf2ac00b269a54137f4c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2414463",
+      "title": "이천시, 지역경제 활성화 정책 본격화",
+      "summary": "이천시, 지역경제 활성화 정책 본격화 '우리지역 소비대장 2탄' 배달특급은 이천사랑 지역화폐 결제 시 캐시백을 기존 10%에서 20%로 확대(1 이와 함께 소상공인 지원도 강화한다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.760856+00:00",
+      "processed_at": "2026-04-02T11:42:55.507420+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "85551d5d78b0cf6c173ce43e30541089",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.gndomin.com/news/articleView.html?idxno=470905",
+      "title": "하동군, 공공배달앱 '먹깨비' 봄맞이 할인 이벤트 진행",
+      "summary": "하동군, 공공배달앱 '먹깨비' 봄맞이 할인 이벤트 진행 큰 도움이 되길 바란다\"며 \"앞으로도 공공배달앱 활성화와 지역 경제에 이바지할 수 있는  한편, 먹깨비 공공배달앱은 민간 배달앱에 비해 저렴한 중개 수수료로 소상공인 부담을 줄이고 이용자 배달비 부 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 43.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:09.760701+00:00",
+      "processed_at": "2026-04-02T11:42:55.507348+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "e72f746d1ad1fb23f287aac5d26a3970",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.news1.kr/local/gyeonggi/6123797",
+      "title": "이천시, 연말까지 지역화폐 인센티브 8%→10% 상향",
+      "summary": "이천시, 연말까지 지역화폐 인센티브 8%→10% 상향 배달비 부담 완화를 위해 3000원 할인 쿠폰을 무제한 제공한다 소상공인의 경영 안정과 경쟁력 강화를 위해 금융 및 시설 지원도 늘린다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:42:09.760550+00:00",
+      "processed_at": "2026-04-02T11:42:55.507277+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "2927c68f0625c2dc53f339e856f0471f",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=656409",
+      "title": "유통·배달업계, 전쟁 리스크 '비상'…배달 용기 '빨간불'이 불러온 '물...",
+      "summary": "유통·배달업계, 전쟁 리스크 '비상'…배달 용기 '빨간불'이 불러온 '물 소비자들은 이제 단순한 가격 인상을 넘어 배달비와 포장비라는 명목으로 추가되는 비용에 대해 극도로 민감하게  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.760333+00:00",
+      "processed_at": "2026-04-02T11:42:55.507203+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d417e0eaaa675ee8f3a013a564bea842",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260311152103678",
+      "title": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점",
+      "summary": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점 최근 쿠팡의 배달앱인 쿠팡이츠에 새로 입점했습니다 '장보기·쇼핑' 코너에서 이마트에브리데이 상품을 주문하면 쿠팡이츠의 라이더가 배달을 해주는 겁니다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 15.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.379642+00:00",
+      "processed_at": "2026-04-02T11:42:55.507081+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "35b72a71d89c4d6d2d7c8f5118dbdbfd",
+      "brand": "배달의민족",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260402140506650",
+      "title": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나",
+      "summary": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나 대가 골목에 듬성듬성 자리를 잡았다 라이더들은 음식 픽업을 기다리면서도 스마트폰을 바라보고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.379310+00:00",
+      "processed_at": "2026-04-02T11:42:55.506990+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "53898f3f0cb084f4fbbf1d00ff0b069b",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260402092703651",
+      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.378996+00:00",
+      "processed_at": "2026-04-02T11:42:55.506914+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "0f3f29583d5e1423084f5c8b5ad2cac3",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260211120238324",
+      "title": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다",
+      "summary": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다 사건 발생 이후 약 3년이 지난 뒤에야 행정 제재로 이어졌습니다 2024년 11월 28일, 개인정보보호위원회는 쿠팡이츠 라이더 개인정보 유출 사건과 쿠팡 판매자 정보시스템에 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.378691+00:00",
+      "processed_at": "2026-04-02T11:42:55.506845+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c3b9d343304d51725d9c8c26db6cb2b6",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260328211634317",
+      "title": "K-치킨 '탈배달앱' 실험 \"소기의 성과\"",
+      "summary": "K-치킨 '탈배달앱' 실험 \"소기의 성과\" 이뤄진다고 회사 측은 설명했다 서울 도로를 누비는 배달 라이더 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042612+00:00",
+      "processed_at": "2026-04-02T11:42:55.506775+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "508eeeb403e6f0936daed5d33d898490",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260330174031357",
+      "title": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치'",
+      "summary": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치' 직접 제품을 담으면 됩니다 포장이 끝나면 물류센터에 상주하는 라이더가 곧바로 배송에 나섭니다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042521+00:00",
+      "processed_at": "2026-04-02T11:42:55.506707+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "dc5801b7b68aee5a50061e55c5be68ed",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331100144708",
+      "title": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동",
+      "summary": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동 대상으로 이륜차 무상 안전점검과 소모품 교체가 진행된다 쿠팡이츠서비스와 한국오토바이정비협회 등이 참여해 현장 밀착형 지원에 나선다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042429+00:00",
+      "processed_at": "2026-04-02T11:42:55.506637+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "819e27dd3d755b3b02a70baad1b51ead",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331152915560",
+      "title": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진",
+      "summary": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진 부산에서 동시에 시작된다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042337+00:00",
+      "processed_at": "2026-04-02T11:42:55.506564+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "53b15c7226d21d4ee0f0d740e22e0f6b",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331155025715",
+      "title": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행",
+      "summary": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행 봄 프로젝트가 시작됐다 김포 근로자이음센터에서 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 이륜차 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042244+00:00",
+      "processed_at": "2026-04-02T11:42:55.506493+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fd994bedcad733cfa433b96b5bd60552",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331162700921",
+      "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
+      "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 이날 김포와 부산에서 시작됐다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042148+00:00",
+      "processed_at": "2026-04-02T11:42:55.506417+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "125f25816f57ee3efb7cc9da63c07cc0",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331165926929",
+      "title": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진",
+      "summary": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진 봄' 프로젝트를 시작한다고 밝혔다 김포 근로자이음센터는 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이륜차 무상 안전점검 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042049+00:00",
+      "processed_at": "2026-04-02T11:42:55.506346+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "032eb86b7a4e142d21e13d0d85e798b7",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402092703651",
+      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.041844+00:00",
+      "processed_at": "2026-04-02T11:42:55.506274+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "9c8cc9981845d08b41b07cda0ba937f5",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.metroseoul.co.kr/article/20260331500447",
+      "title": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사...",
+      "summary": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 이륜차 무상  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.568003+00:00",
+      "processed_at": "2026-04-02T11:42:55.506204+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c996c5dd9889692afb0514e595f1d601",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.dailian.co.kr/news/view/1627778/?sc=Naver",
+      "title": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행",
+      "summary": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행 김포 근로자이음센터에서 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이동노동 같은 날 부산 근로자이음센터에서는 배달라이더의 ‘라이더 안전지킴이’ 활동 결성대회가 열렸다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567853+00:00",
+      "processed_at": "2026-04-02T11:42:55.506129+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "09ac1ec470ad6799688e567b31effe5d",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=05080726645388896",
+      "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
+      "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자 부산 근로자이음센터에서는 배달라이더로 구성된 ‘라이더 안전지킴이’ 결성대회가 열렸다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567700+00:00",
+      "processed_at": "2026-04-02T11:42:55.506052+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6d120bf54fc175a1fe7f0f1147c4a98d",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.fnnews.com/news/202603311646315906",
+      "title": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진",
+      "summary": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진 김포 근로자이음센터는 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이륜차 아울러 부산 근로자이음센터는 배달종사자들의 '라이더 안전지킴이' 활동을 위한 결성대회를 연다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567552+00:00",
+      "processed_at": "2026-04-02T11:42:55.505957+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "19ef0949095efcde7193023d7eb5f82f",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.news2day.co.kr/article/20260331500256",
+      "title": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매...락앤락 ‘대...",
+      "summary": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매 우아한청년들은 한국교통안전공단과 함께 라이더 도로안전 시민점검단을 운영한다고 밝혔다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567403+00:00",
+      "processed_at": "2026-04-02T11:42:55.505882+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "7129bc899ad90ccf19905babd512ad08",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03112726645412184",
+      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 사진=쿠팡이츠서비스 지난달 군포 지역에서 시작된 해당 프로그램은 이후 수도권, 청주, 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567246+00:00",
+      "processed_at": "2026-04-02T11:42:55.505805+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "b82a3ce24ae23cfe4d7ee00e469963a3",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026040209174767517",
+      "title": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작",
+      "summary": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작 쿠팡이츠서비스(CES)가 배달파트너의 안전 운행 지원을 위해 ‘2026년 상반기 이번 상반기 안전점검은 지난달 군포를 시작으로 오는 6월까지 서울·경기·인천 등 수도권과 청주, 창원, 전주 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.567084+00:00",
+      "processed_at": "2026-04-02T11:42:55.505733+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "161d97490c71e73a116ad9e40cf6ffe8",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=75065",
+      "title": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시",
+      "summary": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시 /사진=쿠팡이츠 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 6월까지 '상반기 무 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.566908+00:00",
+      "processed_at": "2026-04-02T11:42:55.505658+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "049d5f711bf7ef39a9f4452bbc8a9ea6",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=141111",
+      "title": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다",
+      "summary": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다 | 스마트비즈 = 김선주 기자 | 쿠팡이츠서비스(CES)가 2일 배달파트너 안전 정책의  이륜차 점검에 통상 1회 최소 5만원가량 비용이 드는 점을 고려하면, 라이더 입장에서는 경제적 부담을 줄일  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.566583+00:00",
+      "processed_at": "2026-04-02T11:42:55.505585+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "39c2b96f8a254f5ffc6377e35faf3cb4",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260325161747210",
+      "title": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신",
+      "summary": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신 딸기 3000톤을 매입해 농가 판로를 지원했다 배달 플랫폼 쿠팡이츠는 서울 청량리시장을 시작으로 '우리동네 전통시장' 기획전을 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:17.145102+00:00",
+      "processed_at": "2026-04-02T11:42:55.505510+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "70db5f5d0e22990aea964e3186f019c5",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260215195547440",
+      "title": "[단독] \"화장실도 못 가게 해\"…쿠팡이츠 상담원 '업무 과중' 논란",
+      "summary": "[단독] \"화장실도 못 가게 해\"…쿠팡이츠 상담원 '업무 과중' 논란 민원을 상담원들에게 떠넘겼단 비판을 받았던 쿠팡이 최근 상담원들의 업무 방 배달앱 쿠팡이츠 상담원의 동시 상담을 세 건까지 늘리고, 채팅 상담도 자동 배정으로 방식을 바꿨기 때문입니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 33.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:17.144500+00:00",
+      "processed_at": "2026-04-02T11:42:55.505438+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "258e5284314879a18b7ecb2c30538070",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260216075629346",
+      "title": "\"쉴 틈 없이 채팅 3건씩…\" 쿠팡이츠 상담원 '옥죄기' 논란",
+      "summary": "\"쉴 틈 없이 채팅 3건씩…\" 쿠팡이츠 상담원 '옥죄기' 논란 상담원은 \"처리하지 않으면 다 내 책임\"이란 생각에 눈앞이 캄캄해집니다 박소연 기자가 단독 취재했습니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:17.144185+00:00",
+      "processed_at": "2026-04-02T11:42:55.505363+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fd9441a67403f19f8afcd141e1a3fa33",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260317214815188",
+      "title": "쿠팡, '탈팡' 속 무료배송 기준 상향… 현실은",
+      "summary": "쿠팡, '탈팡' 속 무료배송 기준 상향… 현실은 쿠팡이츠 무료배달’ 서비스를 시행한 지 한 달 만에 와우 멤버십 요금을 4990원에서 7890원 인상률은 무려 58%에 달한다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#독점입점압박",
+        "#가격인상"
+      ],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:14.149456+00:00",
+      "processed_at": "2026-04-02T11:42:55.505256+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ec6f72fefd7ee74905dce354f6a7b71e",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260319060140626",
+      "title": "최악은 지났나...쿠팡 주가는 살아나는 중",
+      "summary": "쿠팡 주가는 살아나는 중 착수하기도 했고, 일반 회원 대상으로 무료 배송 장벽 높이면서 논란이 일기도 했다 탈팡 현상은 실적에도 나타났다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:14.149359+00:00",
+      "processed_at": "2026-04-02T11:42:55.505180+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "25eab79a7f021c792411366a846dc6e1",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260320063257434",
+      "title": "'누가 먼저 총대 메줬으면'…치킨값 인상 두고 '눈치게임' [이슈+]",
+      "summary": "'누가 먼저 총대 메줬으면'…치킨값 인상 두고 '눈치게임' [이슈+] 교촌치킨은 제품 가격을 유지하면서 순살치킨 중량을 줄였는데, 논란이 커지며 주문에 중개 수수료 6 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#수수료갑질",
+        "#가격인상"
+      ],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:14.149264+00:00",
+      "processed_at": "2026-04-02T11:42:55.505108+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "927a39b1aa3dd2ed74773b803caec2b5",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260323131924580",
+      "title": "韓 소비자, 쿠팡을 미국 법정에 세운 까닭 : '약자의 무기' 디스커버리",
+      "summary": "韓 소비자, 쿠팡을 미국 법정에 세운 까닭 : '약자의 무기' 디스커버리 1월 15일 쿠팡이 이용자들에게 보상으로 지급한 쿠폰에도 논란이 일었습 쿠폰의 총액은 5만원으로 적지 않았지만, '쿠팡 전 상품 5000원' '쿠팡이츠(배달앱) 5000원' 등 카 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:14.149173+00:00",
+      "processed_at": "2026-04-02T11:42:55.505012+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "756b886ad27fa47c707863ac0658c3fb",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260325055804237",
+      "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리]",
+      "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리] 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 그러나 정작 시장 안에서는 반대의 흐름이 감지되고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박"
+      ],
+      "viral_score": 44.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:14.149071+00:00",
+      "processed_at": "2026-04-02T11:42:55.504940+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bc162bde4c42aea78bffdb12fdfbe3ea",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260325055807238",
+      "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
+      "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박"
+      ],
+      "viral_score": 44.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:14.148956+00:00",
+      "processed_at": "2026-04-02T11:42:55.504868+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "b720246b317cddcc215b8f5fa9ff290c",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260325114151082",
+      "title": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음",
+      "summary": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음 쿠팡이츠 역시 '우리동네 전통시장' 기획전을 통해 지역경제 활성화에 힘을 보태 1호 대상지로는 서울 청량리시장을 선정해 전통시장 상품 소비를 촉진하고 있다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:14.148862+00:00",
+      "processed_at": "2026-04-02T11:42:55.504801+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d00029f086f25f7b3dfe23336d87bb24",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260325161747210",
+      "title": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신",
+      "summary": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신 딸기 3000톤을 매입해 농가 판로를 지원했다 배달 플랫폼 쿠팡이츠는 서울 청량리시장을 시작으로 '우리동네 전통시장' 기획전을 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:14.148765+00:00",
+      "processed_at": "2026-04-02T11:42:55.504732+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "f74991658661edc533c4dcfefc3e30c1",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331182655856",
+      "title": "'중동전쟁'에 고통 커진 자영업자…'음플법'은 4개월째 표류",
+      "summary": "'중동전쟁'에 고통 커진 자영업자…'음플법'은 4개월째 표류 분석이다 음플법의 적용 대상 중 하나인 쿠팡이츠의 모회사가 미국 기업 쿠팡인 만큼, 해당 법안이 미국 기업에 대한 규 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#점주썰"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:14.148667+00:00",
+      "processed_at": "2026-04-02T11:42:55.504661+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6aac68ef1dd7a665410fc1e376bb0ee5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645386928",
+      "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
+      "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090804+00:00",
+      "processed_at": "2026-04-02T11:42:55.504589+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "dc6a6bd8040263b93953669a77089bca",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645386928",
+      "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일...",
+      "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 뜨겁다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박",
+        "#점주썰"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090642+00:00",
+      "processed_at": "2026-04-02T11:42:55.504516+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "e9a91b43967cea37214ca46daadf81d2",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.newsis.com/view/NISX20260325_0003563073",
+      "title": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음",
+      "summary": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음 배달 플랫폼 쿠팡이츠 역시 '우리동네 전통시장' 기획전을 통해 지역경제 활성화 1호 대상지로는 서울 청량리시장을 선정해 전통시장 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:11.090478+00:00",
+      "processed_at": "2026-04-02T11:42:55.504441+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "522045f1762938dd3f434a3ce9ef638b",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.sidae.com/article/2026032515341048188",
+      "title": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신",
+      "summary": "상생 앞세운 쿠팡, 로저스 대표 '현장 경영' 이미지 쇄신 배달 플랫폼 쿠팡이츠는 서울 청량리시장을 시작으로 '우리동네 전통시장' 기획전을 운영 개인정보 유출 사태, 자체브랜드(PB) 상품 노출 관련 공정거래위원회 제재 등 잇단 논란 속에 환경(E)·사 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:11.090325+00:00",
+      "processed_at": "2026-04-02T11:42:55.504367+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d52717d005fc2a908c5463584a6df804",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434209",
+      "title": "[Who Is ?] 민승배 BGF리테일 대표이사",
+      "summary": "] 민승배 BGF리테일 대표이사 쿠팡이츠 입점과 'get 커피' 배달 서비스 확대 등 퀵커머스 역량을 강화하고, 효율 중심의 점포 운영 전략을  △첫 노사 협상부터 '무대응·자료 부실' 논란 BGF리테일 창립 이래 최초로 진행된 노사 임금 협상이 상호  [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.089835+00:00",
+      "processed_at": "2026-04-02T11:42:55.504291+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "1c2aa16765f0afdce4048b8c34b90d26",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.sidae.com/article/2026033108124112677",
+      "title": "'중동전쟁'에 고통 커진 자영업자…'음플법'은 4개월째 표류",
+      "summary": "'중동전쟁'에 고통 커진 자영업자…'음플법'은 4개월째 표류 소상공인에게 좋은 것은 사실이지만 현실적으로 제정하는 데에는 큰 어려움이 있다 배달 플랫폼 외에도 OTT, 이커머스 등도 소상공인과 관련되돼 있어 형평성 논란이 불거질 수 있다\"며 \"또  [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#점주썰"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.089513+00:00",
+      "processed_at": "2026-04-02T11:42:55.504216+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "36d51d29962704fbff9e8386e9f68b6a",
+      "brand": "배달의민족",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260305103610109",
+      "title": "배민 \"'온리’ 참여 처갓집 가맹점 매출↑…수수료 절반 낮춰\"",
+      "summary": "배민 \"'온리’ 참여 처갓집 가맹점 매출↑…수수료 절반 낮춰\" 배달의민족이 중개수수료 인하와 할인 프로모션을 지원하는 대신 가맹점이 배민 채널  배달의민족은 이에 맞춰 참여 가맹점 중개수수료를 기존 약 7 [밈 바이럴]",
+      "sentiment": "meme",
+      "tags": [
+        "#수수료갑질"
+      ],
+      "viral_score": 32.1,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:40:31.135651+00:00",
+      "processed_at": "2026-04-02T11:42:55.504141+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "265b5c91b85d4a640fe5e0ba98249148",
+      "brand": "배달의민족",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260224070142676",
+      "title": "[인사이드 스토리]'수수료 낮춘' 배민 되레 신고 당한 이유는",
+      "summary": "[인사이드 스토리]'수수료 낮춘' 배민 되레 신고 당한 이유는 우아한형제들 우선 이들은 배민이 시장지배적 지위를 남용해 사실상 프로모션을 거부하 이어질 수 있다는 겁니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#가격인상"
+      ],
+      "viral_score": 36.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:40:31.135318+00:00",
+      "processed_at": "2026-04-02T11:42:55.504067+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "9d6f252358370d784fa84c4542cb57da",
+      "brand": "배달의민족",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260402003501638",
+      "title": "[기고] 수수료 상한제, 약일까 독일까",
+      "summary": "[기고] 수수료 상한제, 약일까 독일까 적용돼야 한다 음식점을 살리면서 배달앱 시장도 키우는 상생의 제도 설계가 필요하다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:40:31.134993+00:00",
+      "processed_at": "2026-04-02T11:42:55.503970+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ec407391425cff8984bb3ac16cfd0197",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260330175119874",
+      "title": "신한 이어 하나도 배달앱 도전…포용금융·고객확대 다 잡는다",
+      "summary": "신한 이어 하나도 배달앱 도전…포용금융·고객확대 다 잡는다 시달리는 상황에서 업계 최저 수수료를 내세운 먹깨비가 인지도를 높여야 '3강 구도'로 오히려 늘어나고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:40:27.788398+00:00",
+      "processed_at": "2026-04-02T11:42:55.503902+00:00",
+      "views": 0,
+      "comments": 0
+    }
+  ],
+  "rising": [
+    {
+      "uid": "d45a8557998c30d738e838e3d135b625",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026033020292078647",
+      "title": "배민, ‘외주 인력 통한 고객정보 유출’ 논란에 사과…“내부 통제 강...",
+      "summary": "배민, ‘외주 인력 통한 고객정보 유출’ 논란에 사과…“내부 통제 강 이 과정에서 피해자의 주소 등 개인정보를 확보하기 위해 조직원을 배민 고객상담 외주업체에 상담원으로 위장 취 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란",
+        "#직원썰",
+        "#직원칭찬"
+      ],
+      "viral_score": 60.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:38:51.456393+00:00",
+      "processed_at": "2026-04-02T11:42:55.500566+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "5b9308ef228319a6b983debbcad7009a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.donga.com/news/Society/article/all/20260402/133662963/1",
+      "title": "배민 외주사 취업해 개인정보 빼내…‘보복 대행’에 넘긴 2명 송치",
+      "summary": "배민 외주사 취업해 개인정보 빼내…‘보복 대행’에 넘긴 2명 송치 배달의민족 외주사의 상담사로 위장 취업해 고객정보를 빼돌리고 이를 ‘보복 대행 경찰은 이 같은 보복 범죄 피해가 전국에서 53건 신고돼 가담자 40명을 검거했다고 밝혔다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:30:55.130501+00:00",
+      "processed_at": "2026-04-02T11:42:55.478921+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bbac9dd038602ea670be32eebe2ff322",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.fnnews.com/news/202604021829528631",
+      "title": "돈 받고 남의 집 앞에 오물·욕설테러…'보복대행' 범죄 기승",
+      "summary": "돈 받고 남의 집 앞에 오물·욕설테러…'보복대행' 범죄 기승 의뢰를 받아 남의 집 현관문에 오물을 뿌리거나 벽에 욕설 낙서를 남기는 등 이른바  이들은 배달 플랫폼 외주업체에 상담사로 위장 취업해 피해자의 개인정보를 탈취하거나 고액 알바를 미끼로 실행범 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:37:05.046302+00:00",
+      "processed_at": "2026-04-02T11:42:55.496149+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ceb196718895fb3e5bf96b9efe926e4a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongang.co.kr/article/25415977",
+      "title": "[단독] 리딩방·보복대행 범죄 한통속?…배민 \"내부통제 강화\"",
+      "summary": "[단독] 리딩방·보복대행 범죄 한통속 …배민 \"내부통제 강화\" 배민 측 “10만원 쿠폰 보상”…피해자 “제대로 된 사과 없어” 한편, 정보가 유출 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:38:51.456553+00:00",
+      "processed_at": "2026-04-02T11:42:55.500639+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c32738ed9108a9b8d984b0e9868e30a2",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5185046",
+      "title": "[사건추적] 전국 곳곳에 인분·오물 '보복 대행'…총책 꼬리 잡히나",
+      "summary": "[사건추적] 전국 곳곳에 인분·오물 '보복 대행'…총책 꼬리 잡히나 논란이 되는 사건사고 들여다보는 '사건추적' 시간입니다 \" 저희가 단독으로 최초 보도한 '보복 대행' 사건이 점점 커지고 있습니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#직원썰",
+        "#직원칭찬"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:39:38.094904+00:00",
+      "processed_at": "2026-04-02T11:42:55.502363+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "e9a91b43967cea37214ca46daadf81d2",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.newsis.com/view/NISX20260325_0003563073",
+      "title": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음",
+      "summary": "로저스 쿠팡 대표, 현장·상생 전면…이미지 쇄신·여론 환기 잰걸음 배달 플랫폼 쿠팡이츠 역시 '우리동네 전통시장' 기획전을 통해 지역경제 활성화 1호 대상지로는 서울 청량리시장을 선정해 전통시장 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#사과논란"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:41:11.090478+00:00",
+      "processed_at": "2026-04-02T11:42:55.504441+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "dc6a6bd8040263b93953669a77089bca",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645386928",
+      "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일...",
+      "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 뜨겁다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박",
+        "#점주썰"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090642+00:00",
+      "processed_at": "2026-04-02T11:42:55.504516+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6aac68ef1dd7a665410fc1e376bb0ee5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645386928",
+      "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
+      "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#독점입점압박"
+      ],
+      "viral_score": 56.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:41:11.090804+00:00",
+      "processed_at": "2026-04-02T11:42:55.504589+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bbcde0e2d276e8fc0e3678ab0ea06473",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2109889",
+      "title": "SK텔레콤, T멤버십 전면 개편..청년·VIP 집중 공략",
+      "summary": "SK텔레콤, T멤버십 전면 개편 청년·VIP 집중 공략 예를 들어 배달의민족에서 처갓집양념치킨 주문 시 VIP 고객은 8000원, 일반 고객 [밈 바이럴]",
+      "sentiment": "meme",
+      "tags": [],
+      "viral_score": 56.3,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:39:38.094151+00:00",
+      "processed_at": "2026-04-02T11:42:55.502207+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bc0a95842cbd7e2fed5cf031de80e1ac",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092159700",
+      "title": "배민 정보유출, 쿠팡과 닮은꼴… \"보안 관리 실패가 낳은 인재\"",
+      "summary": "배민 정보유출, 쿠팡과 닮은꼴… \"보안 관리 실패가 낳은 인재\" 배달앱 배달의민족(이하 배민)에서 발생한 고객 정보 유출 사건을 두고 단순 외주 협력사 관리 부실 드러나… \"내부자 기반 사고 전형\" 2일 보안업계 전문가들의 분석에 따르면 배민에서 벌어진 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:30:55.130341+00:00",
+      "processed_at": "2026-04-02T11:42:55.478814+00:00",
+      "views": 0,
+      "comments": 0
+    }
+  ],
+  "timeline": [
+    {
+      "uid": "5513d91f283814989bd831e7e97b0897",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331092604573",
+      "title": "충남도, 상생 배달앱 업체에 건당 2천원 배달비 지원",
+      "summary": "충남도, 상생 배달앱 업체에 건당 2천원 배달비 지원 뉴스 자료사진] (홍성=연합뉴스) 김준범 기자 = 충남도가 배달 중개수수료와 물가 상승으로 도와 충남경제진흥원은 다음 달 6일부터 충남 상생 배달앱인 '땡겨요'와 '휘파람'을 이용 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:16.290236+00:00",
+      "processed_at": "2026-04-02T11:42:55.508365+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "0eb098bd06e738db5ac70d18f4a5f921",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260328074725445",
+      "title": "내가 시키면 더 비싼 이유 있었네…배달비 아끼는 사람들, 이렇게 시킨다",
+      "summary": "내가 시키면 더 비싼 이유 있었네…배달비 아끼는 사람들, 이렇게 시킨다 후 배달 앱을 켤 때마다 쉽게 주문 버튼을 누르지 못한다 1인분만 먹고 싶어도 최소주문금액을 맞추려면 메뉴를 추가해야 하고, 배달비까지 더해지면 한 끼 식사치고는 부 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 15.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289934+00:00",
+      "processed_at": "2026-04-02T11:42:55.508295+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4dd099ca97a9edfcf2d9e79684e43838",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331182708877",
+      "title": "고유가 직격탄 맞은 외식업…충남도, 배달비 지원 카드 꺼냈다",
+      "summary": "고유가 직격탄 맞은 외식업…충남도, 배달비 지원 카드 꺼냈다 중동 전쟁발 고유가에 따른 고물가로 배달비 부담이 커지고 있는 가운데, 충남도가 무 충남도와 충남경제진흥원은 다음달 6일부터 ‘소상공인 상생 배달앱 활성화 지원사업’을 본격 추진한다고 31일  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 24.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289651+00:00",
+      "processed_at": "2026-04-02T11:42:55.508223+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "007582bbd802f888cabd4d8c2d52768b",
+      "brand": "기타",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260331132525674",
+      "title": "나프타 막히면 '포장재 대란'...배달비 인상 '불씨' 되나 [Y녹취록]",
+      "summary": "나프타 막히면 '포장재 대란' 배달비 인상 '불씨' 되나 [Y녹취록] 게 없지 않습니까 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:16.289358+00:00",
+      "processed_at": "2026-04-02T11:42:55.508154+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ab64b827fbad1129e8782f1fcec801fa",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402113003269",
+      "title": "‘중동전쟁 장기화’ 여파에 충남도, 835억 긴급 투입",
+      "summary": "‘중동전쟁 장기화’ 여파에 충남도, 835억 긴급 투입 강화된다 총 69억8000만원을 투입해 매출 감소 소상공인에게 최대 660만원, 휴·폐업 후 재창업 시 최대 850만 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.777117+00:00",
+      "processed_at": "2026-04-02T11:42:55.508080+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea36fbcb2247a34ea952f2743fcbe3d3",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402123125723",
+      "title": "먹깨비 할인에 상품권 혜택까지… 하동군, 소비 촉진",
+      "summary": "먹깨비 할인에 상품권 혜택까지… 하동군, 소비 촉진 되는 정책을 발굴하겠다\"라고 밝혔다 한편, 공공 배달앱 먹깨비는 민간 배달앱 대비 낮은 중개 수수료 구조로 소상공인의 부담을 줄이고, 이용자의  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 34.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:12.777003+00:00",
+      "processed_at": "2026-04-02T11:42:55.507986+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "6b0d59b8718fa78a9be58c9c9ea7138e",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402132124753",
+      "title": "\"시민은 눈물 뿌리는데 정치는 돈 뿌립니다\"…강성희 전 의원 \"전북정치 싹 바꿔야\"",
+      "summary": "\"시민은 눈물 뿌리는데 정치는 돈 뿌립니다\"…강성희 전 의원 \"전북정치 싹 바꿔야\" 명맥만 유지 중인 '전주맛배달'을 '민관협력형 공공배달앱'으 이를 통해 절감된 운영비를 할인쿠폰과 배달비 지원에 집중적으로 투입하고 중개수수료 2% 이하 실현으로 상인  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 34.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:12.776911+00:00",
+      "processed_at": "2026-04-02T11:42:55.507918+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ffc64c339895d5fbb94e9a7d0b1f0e21",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402150802360",
+      "title": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다",
+      "summary": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다 나서 전년보다 매출이 줄어든 소상공인에게 최대 660만원, 휴·폐업 소상공인에 배달비 부담을 덜기 위한 지원 폭도 대폭 키웠다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776725+00:00",
+      "processed_at": "2026-04-02T11:42:55.507846+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c312bac2655b938e0ef91c91d520c7e2",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402161435284",
+      "title": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대",
+      "summary": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대 배달특급을 활용한 혜택을 강화한다 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20%로 확대하고(1인 월 2만원 한도), 배달비 부담 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 31.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776631+00:00",
+      "processed_at": "2026-04-02T11:42:55.507775+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c0c60b69384121af2d37aaa6efc66c47",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402162335840",
+      "title": "이천시 경기 활성화 페스타 3일부터 연말까지 추진",
+      "summary": "이천시 경기 활성화 페스타 3일부터 연말까지 추진 2탄’인 배달특급에선 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20% 캐시백으로  특히 소상공인의 경영 안정과 경쟁력 강화를 위해 소상공인 대출 특례 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776539+00:00",
+      "processed_at": "2026-04-02T11:42:55.507704+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4ac1d840aeb9ba5d2643b8f790964df2",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402165439510",
+      "title": "\"충전 10%·결제 10%\"…이천시, 역대급 소비 촉진 정책 펼친다",
+      "summary": "\"충전 10%·결제 10%\"…이천시, 역대급 소비 촉진 정책 펼친다 우리지역 소비대장 2탄’인 배달특급에서는 이천사랑 지역화폐로 결제할 경우 기 이와 함께 소상공인의 경영 안정을 위한 실질적 지원책도 마련 [밈 바이럴]",
+      "sentiment": "meme",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 36.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:12.776444+00:00",
+      "processed_at": "2026-04-02T11:42:55.507636+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ca9f78f66f4bb49f784d6414708a0e3a",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://news.skbroadband.com/news/articleView.html?idxno=223004",
+      "title": "충남도, 835억 규모 민생경제 패키지 가동",
+      "summary": "충남도, 835억 규모 민생경제 패키지 가동 500억 원 규모의 긴급경영안정자금을 지원하고, 이자 보전 등 금융 부담을 낮출 계획입니다 매출 감소 소상공인에게는 최대 660만 원, 휴업이나 폐업한 소상공인에게는 재창업 자금 최대 850만 원을  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.761188+00:00",
+      "processed_at": "2026-04-02T11:42:55.507565+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "b3e64b2dad0c6a806c6afc1b79c72f2e",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=275785",
+      "title": "이천시, 지역화폐·배달특급 연계 ‘경기 활성화 페스타’ 추진",
+      "summary": "이천시, 지역화폐·배달특급 연계 ‘경기 활성화 페스타’ 추진 배달비 부담 완화를 위해 3천원 할인 쿠폰도 제공된다 아울러 소상공인을 위한 금융 및 환경 개선 지원도 병행된다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.761003+00:00",
+      "processed_at": "2026-04-02T11:42:55.507494+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea961009aaccbf2ac00b269a54137f4c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2414463",
+      "title": "이천시, 지역경제 활성화 정책 본격화",
+      "summary": "이천시, 지역경제 활성화 정책 본격화 '우리지역 소비대장 2탄' 배달특급은 이천사랑 지역화폐 결제 시 캐시백을 기존 10%에서 20%로 확대(1 이와 함께 소상공인 지원도 강화한다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.760856+00:00",
+      "processed_at": "2026-04-02T11:42:55.507420+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "85551d5d78b0cf6c173ce43e30541089",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.gndomin.com/news/articleView.html?idxno=470905",
+      "title": "하동군, 공공배달앱 '먹깨비' 봄맞이 할인 이벤트 진행",
+      "summary": "하동군, 공공배달앱 '먹깨비' 봄맞이 할인 이벤트 진행 큰 도움이 되길 바란다\"며 \"앞으로도 공공배달앱 활성화와 지역 경제에 이바지할 수 있는  한편, 먹깨비 공공배달앱은 민간 배달앱에 비해 저렴한 중개 수수료로 소상공인 부담을 줄이고 이용자 배달비 부 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란",
+        "#수수료갑질"
+      ],
+      "viral_score": 43.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-02T11:42:09.760701+00:00",
+      "processed_at": "2026-04-02T11:42:55.507348+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "e72f746d1ad1fb23f287aac5d26a3970",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.news1.kr/local/gyeonggi/6123797",
+      "title": "이천시, 연말까지 지역화폐 인센티브 8%→10% 상향",
+      "summary": "이천시, 연말까지 지역화폐 인센티브 8%→10% 상향 배달비 부담 완화를 위해 3000원 할인 쿠폰을 무제한 제공한다 소상공인의 경영 안정과 경쟁력 강화를 위해 금융 및 시설 지원도 늘린다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "직원"
+      ],
+      "published_at": "2026-04-02T11:42:09.760550+00:00",
+      "processed_at": "2026-04-02T11:42:55.507277+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "2927c68f0625c2dc53f339e856f0471f",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=656409",
+      "title": "유통·배달업계, 전쟁 리스크 '비상'…배달 용기 '빨간불'이 불러온 '물...",
+      "summary": "유통·배달업계, 전쟁 리스크 '비상'…배달 용기 '빨간불'이 불러온 '물 소비자들은 이제 단순한 가격 인상을 넘어 배달비와 포장비라는 명목으로 추가되는 비용에 대해 극도로 민감하게  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-02T11:42:09.760333+00:00",
+      "processed_at": "2026-04-02T11:42:55.507203+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d417e0eaaa675ee8f3a013a564bea842",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260311152103678",
+      "title": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점",
+      "summary": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점 최근 쿠팡의 배달앱인 쿠팡이츠에 새로 입점했습니다 '장보기·쇼핑' 코너에서 이마트에브리데이 상품을 주문하면 쿠팡이츠의 라이더가 배달을 해주는 겁니다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 15.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.379642+00:00",
+      "processed_at": "2026-04-02T11:42:55.507081+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "35b72a71d89c4d6d2d7c8f5118dbdbfd",
+      "brand": "배달의민족",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260402140506650",
+      "title": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나",
+      "summary": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나 대가 골목에 듬성듬성 자리를 잡았다 라이더들은 음식 픽업을 기다리면서도 스마트폰을 바라보고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.379310+00:00",
+      "processed_at": "2026-04-02T11:42:55.506990+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "53898f3f0cb084f4fbbf1d00ff0b069b",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260402092703651",
+      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.378996+00:00",
+      "processed_at": "2026-04-02T11:42:55.506914+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "0f3f29583d5e1423084f5c8b5ad2cac3",
+      "brand": "쿠팡이츠",
+      "channel": "다음카페",
+      "url": "http://v.daum.net/v/20260211120238324",
+      "title": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다",
+      "summary": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다 사건 발생 이후 약 3년이 지난 뒤에야 행정 제재로 이어졌습니다 2024년 11월 28일, 개인정보보호위원회는 쿠팡이츠 라이더 개인정보 유출 사건과 쿠팡 판매자 정보시스템에 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 31.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:47.378691+00:00",
+      "processed_at": "2026-04-02T11:42:55.506845+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c3b9d343304d51725d9c8c26db6cb2b6",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260328211634317",
+      "title": "K-치킨 '탈배달앱' 실험 \"소기의 성과\"",
+      "summary": "K-치킨 '탈배달앱' 실험 \"소기의 성과\" 이뤄진다고 회사 측은 설명했다 서울 도로를 누비는 배달 라이더 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042612+00:00",
+      "processed_at": "2026-04-02T11:42:55.506775+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "508eeeb403e6f0936daed5d33d898490",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260330174031357",
+      "title": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치'",
+      "summary": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치' 직접 제품을 담으면 됩니다 포장이 끝나면 물류센터에 상주하는 라이더가 곧바로 배송에 나섭니다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042521+00:00",
+      "processed_at": "2026-04-02T11:42:55.506707+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "dc5801b7b68aee5a50061e55c5be68ed",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331100144708",
+      "title": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동",
+      "summary": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동 대상으로 이륜차 무상 안전점검과 소모품 교체가 진행된다 쿠팡이츠서비스와 한국오토바이정비협회 등이 참여해 현장 밀착형 지원에 나선다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042429+00:00",
+      "processed_at": "2026-04-02T11:42:55.506637+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "819e27dd3d755b3b02a70baad1b51ead",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331152915560",
+      "title": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진",
+      "summary": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진 부산에서 동시에 시작된다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042337+00:00",
+      "processed_at": "2026-04-02T11:42:55.506564+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "53b15c7226d21d4ee0f0d740e22e0f6b",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331155025715",
+      "title": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행",
+      "summary": "노사발전재단, 배달라이더 사계절 안전망 구축…이륜차 무상점검 진행 봄 프로젝트가 시작됐다 김포 근로자이음센터에서 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 이륜차 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042244+00:00",
+      "processed_at": "2026-04-02T11:42:55.506493+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fd994bedcad733cfa433b96b5bd60552",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331162700921",
+      "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
+      "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 이날 김포와 부산에서 시작됐다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042148+00:00",
+      "processed_at": "2026-04-02T11:42:55.506417+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "125f25816f57ee3efb7cc9da63c07cc0",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260331165926929",
+      "title": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진",
+      "summary": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진 봄' 프로젝트를 시작한다고 밝혔다 김포 근로자이음센터는 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이륜차 무상 안전점검 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.042049+00:00",
+      "processed_at": "2026-04-02T11:42:55.506346+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "032eb86b7a4e142d21e13d0d85e798b7",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402092703651",
+      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 38.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:44.041844+00:00",
+      "processed_at": "2026-04-02T11:42:55.506274+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "9c8cc9981845d08b41b07cda0ba937f5",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.metroseoul.co.kr/article/20260331500447",
+      "title": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사...",
+      "summary": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 이륜차 무상  [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-02T11:41:40.568003+00:00",
+      "processed_at": "2026-04-02T11:42:55.506204+00:00",
+      "views": 0,
+      "comments": 0
+    }
+  ],
   "versus": {
     "baemin": {
-      "issues": [],
-      "total": 0,
-      "avg_score": 0,
+      "issues": [
+        {
+          "uid": "35b72a71d89c4d6d2d7c8f5118dbdbfd",
+          "brand": "배달의민족",
+          "channel": "다음카페",
+          "url": "http://v.daum.net/v/20260402140506650",
+          "title": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나",
+          "summary": "[기획] 플랫폼 종사자 보호 ‘근로자 추정제’ 입법 추진한다는데…배달 라이더들 ‘다중 소속’ 문제 어쩌나 대가 골목에 듬성듬성 자리를 잡았다 라이더들은 음식 픽업을 기다리면서도 스마트폰을 바라보고 있다 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 31.6,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:47.379310+00:00",
+          "processed_at": "2026-04-02T11:42:55.506990+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "c3b9d343304d51725d9c8c26db6cb2b6",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260328211634317",
+          "title": "K-치킨 '탈배달앱' 실험 \"소기의 성과\"",
+          "summary": "K-치킨 '탈배달앱' 실험 \"소기의 성과\" 이뤄진다고 회사 측은 설명했다 서울 도로를 누비는 배달 라이더 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 19.2,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:44.042612+00:00",
+          "processed_at": "2026-04-02T11:42:55.506775+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "508eeeb403e6f0936daed5d33d898490",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260330174031357",
+          "title": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치'",
+          "summary": "'1시간 배송' 퀵커머스 비결은…물류거점 도심 속 '전진배치' 직접 제품을 담으면 됩니다 포장이 끝나면 물류센터에 상주하는 라이더가 곧바로 배송에 나섭니다 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 19.2,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:44.042521+00:00",
+          "processed_at": "2026-04-02T11:42:55.506707+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "756b886ad27fa47c707863ac0658c3fb",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260325055804237",
+          "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리]",
+          "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리] 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 그러나 정작 시장 안에서는 반대의 흐름이 감지되고 있다 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [
+            "#수수료갑질",
+            "#독점입점압박"
+          ],
+          "viral_score": 44.3,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-04-02T11:41:14.149071+00:00",
+          "processed_at": "2026-04-02T11:42:55.504940+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "bc162bde4c42aea78bffdb12fdfbe3ea",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260325055807238",
+          "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
+          "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [
+            "#수수료갑질",
+            "#독점입점압박"
+          ],
+          "viral_score": 44.3,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-04-02T11:41:14.148956+00:00",
+          "processed_at": "2026-04-02T11:42:55.504868+00:00",
+          "views": 0,
+          "comments": 0
+        }
+      ],
+      "total": 20,
+      "avg_score": 38.7,
       "ratio": {
-        "negative": 0,
+        "negative": 85,
         "positive": 0,
-        "meme": 0
+        "meme": 5
       }
     },
     "coupang": {
-      "issues": [],
-      "total": 0,
-      "avg_score": 0,
+      "issues": [
+        {
+          "uid": "d417e0eaaa675ee8f3a013a564bea842",
+          "brand": "쿠팡이츠",
+          "channel": "다음카페",
+          "url": "http://v.daum.net/v/20260311152103678",
+          "title": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점",
+          "summary": "이마트, 퀵커머스 쿠팡과 맞손…에브리데이도 쿠팡이츠 입점 최근 쿠팡의 배달앱인 쿠팡이츠에 새로 입점했습니다 '장보기·쇼핑' 코너에서 이마트에브리데이 상품을 주문하면 쿠팡이츠의 라이더가 배달을 해주는 겁니다 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 15.7,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주",
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:47.379642+00:00",
+          "processed_at": "2026-04-02T11:42:55.507081+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "53898f3f0cb084f4fbbf1d00ff0b069b",
+          "brand": "쿠팡이츠",
+          "channel": "다음카페",
+          "url": "http://v.daum.net/v/20260402092703651",
+          "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
+          "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 31.6,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:47.378996+00:00",
+          "processed_at": "2026-04-02T11:42:55.506914+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "0f3f29583d5e1423084f5c8b5ad2cac3",
+          "brand": "쿠팡이츠",
+          "channel": "다음카페",
+          "url": "http://v.daum.net/v/20260211120238324",
+          "title": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다",
+          "summary": "'집단소송' 쿠팡이츠 라이더 개인정보 유출, 이게 다가 아닙니다 사건 발생 이후 약 3년이 지난 뒤에야 행정 제재로 이어졌습니다 2024년 11월 28일, 개인정보보호위원회는 쿠팡이츠 라이더 개인정보 유출 사건과 쿠팡 판매자 정보시스템에 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 31.6,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:47.378691+00:00",
+          "processed_at": "2026-04-02T11:42:55.506845+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "dc5801b7b68aee5a50061e55c5be68ed",
+          "brand": "쿠팡이츠",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260331100144708",
+          "title": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동",
+          "summary": "노사발전재단, 배달·택배기사 ‘사계절 안전’ 책임진다…2026 안전이음 프로젝트 가동 대상으로 이륜차 무상 안전점검과 소모품 교체가 진행된다 쿠팡이츠서비스와 한국오토바이정비협회 등이 참여해 현장 밀착형 지원에 나선다 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 19.2,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:44.042429+00:00",
+          "processed_at": "2026-04-02T11:42:55.506637+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "819e27dd3d755b3b02a70baad1b51ead",
+          "brand": "쿠팡이츠",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20260331152915560",
+          "title": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진",
+          "summary": "사계절 내내 노동현장 안전 강화…노사발전재단 ‘안전이음 프로젝트 사계’ 추진 부산에서 동시에 시작된다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상으로 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 19.2,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-02T11:41:44.042337+00:00",
+          "processed_at": "2026-04-02T11:42:55.506564+00:00",
+          "views": 0,
+          "comments": 0
+        }
+      ],
+      "total": 20,
+      "avg_score": 31.5,
       "ratio": {
-        "negative": 0,
-        "positive": 0,
+        "negative": 50,
+        "positive": 5,
         "meme": 0
       }
     }
