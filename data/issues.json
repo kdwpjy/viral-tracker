@@ -1,25 +1,6 @@
 {
-  "updated_at": "2026-04-05T23:18:14.402929+00:00",
+  "updated_at": "2026-04-06T06:29:14.074325+00:00",
   "hot": [
-    {
-      "uid": "6289cec88a1d02938ebca5b720a656d0",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.joongang.co.kr/article/25417612",
-      "title": "[단독] 리딩방 사기 신고했더니…배민 정보로 ‘끔찍 보복’",
-      "summary": "[단독] 리딩방 사기 신고했더니…배민 정보로 ‘끔찍 보복’ 경찰이 불법 투자 리딩방 사기 조직이 배달의민족(배민) 고객 정보를 활용해 피해자에게 경찰은 리딩방 사기 조직 같은 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 60.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:05:03.976741+00:00",
-      "processed_at": "2026-04-05T23:18:13.964809+00:00",
-      "views": 0,
-      "comments": 0
-    },
     {
       "uid": "bc0a95842cbd7e2fed5cf031de80e1ac",
       "brand": "배달의민족",
@@ -36,8 +17,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:28.295955+00:00",
-      "processed_at": "2026-04-05T23:18:13.986550+00:00",
+      "published_at": "2026-04-06T06:26:17.761645+00:00",
+      "processed_at": "2026-04-06T06:29:13.408654+00:00",
       "views": 0,
       "comments": 0
     },
@@ -60,48 +41,8 @@
         "소비자",
         "직원"
       ],
-      "published_at": "2026-04-05T23:14:28.296564+00:00",
-      "processed_at": "2026-04-05T23:18:13.986907+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "82b95bba08f24eb3ded4097a728429e0",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://biz.heraldcorp.com/article/10709337?ref=naver",
-      "title": "따릉이 개인정보 유출 보상 ‘30일권’ 유력…조례 개정도 추진 [서울IN...",
-      "summary": "따릉이 개인정보 유출 보상 ‘30일권’ 유력…조례 개정도 추진 [서울IN SK텔레콤은 스타벅스 등 브랜드 쿠폰, 8월 통신 요금 50% 할인, 쿠팡은 5만 원 상당의 쿠폰(쿠팡이츠  [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#사과논란"
-      ],
-      "viral_score": 56.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:05:33.760172+00:00",
-      "processed_at": "2026-04-05T23:18:13.966654+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "8eaa45141a75addae2dc6fb211af29fd",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/96756",
-      "title": "의료데이터 AI 허용 확대…생활·산업 규제 동시 완화",
-      "summary": "의료데이터 AI 허용 확대…생활·산업 규제 동시 완화 편의점에는 성인 인증 기능을 갖춘 무인 주류 자판기가 도입됩니다 PASS나 안면인식 등을 통해 연령을 확인하는 방식입니다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 56.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:13:42.390108+00:00",
-      "processed_at": "2026-04-05T23:18:13.985364+00:00",
+      "published_at": "2026-04-06T06:26:17.762329+00:00",
+      "processed_at": "2026-04-06T06:29:13.408975+00:00",
       "views": 0,
       "comments": 0
     },
@@ -121,8 +62,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:28.296745+00:00",
-      "processed_at": "2026-04-05T23:18:13.986982+00:00",
+      "published_at": "2026-04-06T06:26:17.762502+00:00",
+      "processed_at": "2026-04-06T06:29:13.409053+00:00",
       "views": 0,
       "comments": 0
     },
@@ -140,37 +81,124 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:56.735635+00:00",
-      "processed_at": "2026-04-05T23:18:13.988237+00:00",
+      "published_at": "2026-04-06T06:26:46.820034+00:00",
+      "processed_at": "2026-04-06T06:29:13.410731+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "69c8fc10881320a2e885813a04731046",
-      "brand": "배달의민족",
+      "uid": "fcf2c77dc1e63f57a50da4218375399e",
+      "brand": "올리브영",
       "channel": "네이버뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202604050006",
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 5일",
-      "summary": "[단독] 캐시워크 돈버는퀴즈 정답 4월 5일 배달의민족 배민 캐시워크 돈버는퀴즈 문제 Q 배달의민족 배짱할인에서는 처갓집양념치킨, OO치킨, 멕시카나 등 10개 이상의 브랜드 할인 쿠폰을 드려요 ( [밈 바이럴]",
-      "sentiment": "meme",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=867095",
+      "title": "[K-뷰티]휴젤, 글로벌 정보보호·개인정보보호 국제표준 인증 획득 外 지...",
+      "summary": "[K-뷰티]휴젤, 글로벌 정보보호·개인정보보호 국제표준 인증 획득 外 지 유이크는 독자 개발한 마이크로바이옴 특허성분인 큐티바이옴™, 릴리프바이옴™, 리쥬바이옴™을 함유한 제품으로  [부정 바이럴]",
+      "sentiment": "negative",
       "tags": [],
-      "viral_score": 53.1,
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:21:42.386715+00:00",
+      "processed_at": "2026-04-06T06:29:13.389837+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "776c7d12712f760b700af0e2046fe646",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.newspim.com/news/view/20260406000923",
+      "title": "참여연대 등 시민단체 \"지방선거, 서울시 공공성 회복해야\"",
+      "summary": "참여연대 등 시민단체 \"지방선거, 서울시 공공성 회복해야\" 2026 06 calebcao@newspim [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#점주썰"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:24:48.486190+00:00",
+      "processed_at": "2026-04-06T06:29:13.403482+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "8d49286e28817755eaa4c8a2b26231e1",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603310481&t=NNv",
+      "title": "닭고기·포장재 다 올랐다…치킨값 줄인상 예고",
+      "summary": "닭고기·포장재 다 올랐다…치킨값 줄인상 예고 고물가가 지속되는 상황에서 닭고기 공급 가격까지 오르면서 국민 푸드인 치킨마저 가격 상승 압박이 커 중동 전쟁 장기화로 비닐 등 포장재 가격도 오를 것으로 보여 치킨 업체들의 수익성 타격이 불가피해졌습니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#가격인상"
+      ],
+      "viral_score": 52.8,
       "status": "Rising",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:05:03.976898+00:00",
-      "processed_at": "2026-04-05T23:18:13.964903+00:00",
+      "published_at": "2026-04-06T06:25:17.963711+00:00",
+      "processed_at": "2026-04-06T06:29:13.405042+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "fb5f362717a2523d1ab77c705534073b",
-      "brand": "스타벅스",
+      "uid": "08165b2a9cd8e9dc2545961e6c8c2373",
+      "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "http://www.queen.co.kr/news/articleView.html?idxno=454419",
-      "title": "[오늘의 주요일정] 정치·정부 (6일, 월)",
-      "summary": "[오늘의 주요일정] 정치·정부 (6일, 월) 14:00 스타벅스 업무협약식 ◇국가보훈부 -장관 통상업무 -차관 통상업무 ◇감사원 -원장 통상업무 [부정 바이럴]",
+      "url": "https://www.sedaily.com/article/20028662?ref=naver",
+      "title": "대통령 한마디에 98원까지 ‘뚝’…불티나게 팔리는 ‘저가 생리대’",
+      "summary": "대통령 한마디에 98원까지 ‘뚝’…불티나게 팔리는 ‘저가 생리대’ 국내 판매 가격이 해외 대비 높다는 논란이 제기되자 제조사와 유통사들이 가격  편의점에서도 가성비 제품 중심으로 수요가 집중되고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:25:48.010568+00:00",
+      "processed_at": "2026-04-06T06:29:13.406628+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c4ce6ba4cf0a001918dcb1f0d1ebd79c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.ilyosisa.co.kr/news/article.html?no=255164",
+      "title": "<와글와글NET세상> 담뱃값 1만원 초읽기 설왕설래",
+      "summary": "<와글와글NET세상> 담뱃값 1만원 초읽기 설왕설래 2015년 2500원서 4500원으로 담배 가격 인상안 ‘만지작 ’ 담뱃값 인상 기류를 두고 논란이 일자 보건복지부는 당장 인상할 계획이 없다며 진화에 나섰다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#가격인상"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:25:48.010749+00:00",
+      "processed_at": "2026-04-06T06:29:13.406708+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "3ce9ec252ade7fb3760e42c57b537640",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.sedaily.com/article/20027870?ref=naver",
+      "title": "“크림빵 뜯자마자 하수구 악취, 그냥 버렸다”…실수로 ‘이것’ 넣었...",
+      "summary": "“크림빵 뜯자마자 하수구 악취, 그냥 버렸다”…실수로 ‘이것’ 넣었 논란 제품은 시중에 약 2만 개가 유통된 것으로 파악됐다 [부정 바이럴]",
       "sentiment": "negative",
       "tags": [],
       "viral_score": 52.8,
@@ -178,27 +206,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:06:20.292627+00:00",
-      "processed_at": "2026-04-05T23:18:13.968933+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "66bddec05df6ee0219882c3213203f44",
-      "brand": "스타벅스",
-      "channel": "네이버뉴스",
-      "url": "https://www.news1.kr/politics/assembly/6125935",
-      "title": "[오늘의 주요일정] 정치·정부 (6일, 월)",
-      "summary": "[오늘의 주요일정] 정치·정부 (6일, 월) 14:00 스타벅스 업무협약식 ◇국가보훈부 -장관 통상업무 -차관 통상업무 ◇감사원 -원장 통상업무 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 52.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:06:20.292777+00:00",
-      "processed_at": "2026-04-05T23:18:13.968998+00:00",
+      "published_at": "2026-04-06T06:25:48.011433+00:00",
+      "processed_at": "2026-04-06T06:29:13.407034+00:00",
       "views": 0,
       "comments": 0
     }
@@ -222,8 +231,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:17:35.159908+00:00",
-      "processed_at": "2026-04-05T23:18:13.993716+00:00",
+      "published_at": "2026-04-06T06:28:51.810244+00:00",
+      "processed_at": "2026-04-06T06:29:13.416607+00:00",
       "views": 0,
       "comments": 0
     },
@@ -243,8 +252,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.159590+00:00",
-      "processed_at": "2026-04-05T23:18:13.993643+00:00",
+      "published_at": "2026-04-06T06:28:51.809906+00:00",
+      "processed_at": "2026-04-06T06:29:13.416532+00:00",
       "views": 0,
       "comments": 0
     },
@@ -264,8 +273,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.159290+00:00",
-      "processed_at": "2026-04-05T23:18:13.993548+00:00",
+      "published_at": "2026-04-06T06:28:51.809590+00:00",
+      "processed_at": "2026-04-06T06:29:13.416456+00:00",
       "views": 0,
       "comments": 0
     },
@@ -287,92 +296,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.158983+00:00",
-      "processed_at": "2026-04-05T23:18:13.993450+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "7220062ce98ac16ae5dcfe4d093828b8",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402140003239",
-      "title": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략",
-      "summary": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략 통해 대상 여부를 실시간으로 확인할 수 있다 온·오프라인을 연계한 지역 마케팅도 병행된다 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976375+00:00",
-      "processed_at": "2026-04-05T23:18:13.993367+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "ffc64c339895d5fbb94e9a7d0b1f0e21",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402150802360",
-      "title": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다",
-      "summary": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다 나서 전년보다 매출이 줄어든 소상공인에게 최대 660만원, 휴·폐업 소상공인에 배달비 부담을 덜기 위한 지원 폭도 대폭 키웠다 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976283+00:00",
-      "processed_at": "2026-04-05T23:18:13.993298+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c312bac2655b938e0ef91c91d520c7e2",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402161435284",
-      "title": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대",
-      "summary": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대 배달특급을 활용한 혜택을 강화한다 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20%로 확대하고(1인 월 2만원 한도), 배달비 부담 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 31.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976191+00:00",
-      "processed_at": "2026-04-05T23:18:13.993227+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c0c60b69384121af2d37aaa6efc66c47",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402162335840",
-      "title": "이천시 경기 활성화 페스타 3일부터 연말까지 추진",
-      "summary": "이천시 경기 활성화 페스타 3일부터 연말까지 추진 2탄’인 배달특급에선 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20% 캐시백으로  특히 소상공인의 경영 안정과 경쟁력 강화를 위해 소상공인 대출 특례 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 29.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976100+00:00",
-      "processed_at": "2026-04-05T23:18:13.993157+00:00",
+      "published_at": "2026-04-06T06:28:51.809258+00:00",
+      "processed_at": "2026-04-06T06:29:13.416382+00:00",
       "views": 0,
       "comments": 0
     },
@@ -392,8 +317,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:31.976010+00:00",
-      "processed_at": "2026-04-05T23:18:13.993090+00:00",
+      "published_at": "2026-04-06T06:28:48.294196+00:00",
+      "processed_at": "2026-04-06T06:29:13.416304+00:00",
       "views": 0,
       "comments": 0
     },
@@ -414,8 +339,29 @@
         "소비자",
         "직원"
       ],
-      "published_at": "2026-04-05T23:17:31.975918+00:00",
-      "processed_at": "2026-04-05T23:18:13.993020+00:00",
+      "published_at": "2026-04-06T06:28:48.294087+00:00",
+      "processed_at": "2026-04-06T06:29:13.416228+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fe866aec9639b2be8244b3b7b7766e33",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402183933923",
+      "title": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다",
+      "summary": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다 안방인 대구·경북 지역 'Z세대' 등 시·도민들을 위한 공략도 놓치지 않았다 우선 대구 iM뱅크 영업점 대상 '와우회원 쿠팡이츠 배달비 0원' 등 지역 고객 대상 마케팅을 함께 추진한다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293972+00:00",
+      "processed_at": "2026-04-06T06:29:13.416152+00:00",
       "views": 0,
       "comments": 0
     },
@@ -437,20 +383,160 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:17:31.975732+00:00",
-      "processed_at": "2026-04-05T23:18:13.992950+00:00",
+      "published_at": "2026-04-06T06:28:48.293873+00:00",
+      "processed_at": "2026-04-06T06:29:13.416057+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "198a487854ed06598e16b78679ef264f",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://byline.network/?p=9004111222597952",
-      "title": "배민 주문량 50%, ‘배민클럽’에서 나온다",
-      "summary": "배민 주문량 50%, ‘배민클럽’에서 나온다 배민은 지난 2024년 5월 배민클럽을 도입한 이후 구독자에게 자체배달 배달비 무료, B마트 10% 단건 배달인 한집배달 경우 거리에 따라 500~1500원이 추가될 수 있다 [긍정 바이럴]",
+      "uid": "0138205c69d5b8c2c1a3f89ee8d2a11b",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406002050790",
+      "title": "고유가에 배달업계·자영업자 ‘곡소리’",
+      "summary": "고유가에 배달업계·자영업자 ‘곡소리’ 젊은 라이더들이 대거 이탈하면서 업계 고령화가 빠르게 진행 중\"이라고 설명했다 이러한 라이더들의 고충은 자영업자들에게 '배달비 인상'이라는 공포로 전이되고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#수수료갑질",
+        "#라이더이슈",
+        "#점주썰"
+      ],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:48.293773+00:00",
+      "processed_at": "2026-04-06T06:29:13.415983+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "a22807f01d5a13a2d77bb37a5a6fce46",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406041955528",
+      "title": "\"힘쎈충남\" 중동전 장기화 대응 835억 규모 민생경제 긴급 패키지 가동",
+      "summary": "\"힘쎈충남\" 중동전 장기화 대응 835억 규모 민생경제 긴급 패키지 가동 소상공인 지원도 대폭 강화된다 매출 감소 사업자에게 최대 660만원, 휴·폐업 후 재창업 시 최대 850만원을 지원한다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란",
+        "#점주썰"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:28:48.293672+00:00",
+      "processed_at": "2026-04-06T06:29:13.415908+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d37cbcedf08f819ad7d428cb35d8781c",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406095057694",
+      "title": "‘2만원 삼계탕’ 현실로…닭값, 언제까지 오를까 [푸드360]",
+      "summary": "‘2만원 삼계탕’ 현실로…닭값, 언제까지 오를까 [푸드360] 프랜차이즈 치킨 업계에서도 닭고기 수급난과 맞물려 가격 인상 가능성이 거론된다 일부 업체들이 이중가격제를 도입한 이후, 배달비를 포함한 치킨 한 마리 가격이 3만원이 넘는 곳도 등장했다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293573+00:00",
+      "processed_at": "2026-04-06T06:29:13.415830+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "88b1139c228d7b9cbdddd68b047fd7ec",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406131500241",
+      "title": "bhc, 4월 포장 주문 '더블 혜택' 프로모션 진행",
+      "summary": "bhc, 4월 포장 주문 '더블 혜택' 프로모션 진행 더블 혜택' 프로모션을 진행한다고 6일 밝혔다 이번 행사는 야외 활동과 스포츠 관람 수요 증가에 맞춰 포장 수요를 겨냥하고, 배달비 부담을 줄여 합리적인  [긍정 바이럴]",
       "sentiment": "positive",
       "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293471+00:00",
+      "processed_at": "2026-04-06T06:29:13.415755+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "41907fa9a650659afe38786f1777fd87",
+      "brand": "쿠팡",
+      "channel": "네이버뉴스",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=117543",
+      "title": "[POP!이벤트] 쿠팡, 연중 최대 뷰티 축제 '메가뷰티쇼' 시작 外",
+      "summary": "이벤트] 쿠팡, 연중 최대 뷰티 축제 '메가뷰티쇼' 시작 外 특히 외식 물가 상승으로 배달비 부담이 커진 상황에서 보다 합리적인 가격으로 메뉴를 여기에 통상 3000~4000원 대에 달하는 배달비 절약분까지 고려하면 고객은 배달 주문 대비 최소 6000 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.422700+00:00",
+      "processed_at": "2026-04-06T06:29:13.415680+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "20bb99d0a7922b6c781a2d5708d37b98",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1361869",
+      "title": "金치킨·金계탕 현실로…AI에 전쟁까지 닭고기값 밀어올려",
+      "summary": "金치킨·金계탕 현실로…AI에 전쟁까지 닭고기값 밀어올려 배달비를 포함한 치킨 한 마리 가격이 이미 3만원에 육박하는 상황에서, 원가 압박은 심해 전문가들은 대외적인 에너지 위기와 국내 수급 불안이 겹치면서 올해 2분기 내내 물가 상승 압력이 지속될 것으 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.422539+00:00",
+      "processed_at": "2026-04-06T06:29:13.415598+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4e6d9cf75ed1d6006fc2a663f2d0af0a",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=254428",
+      "title": "[오늘의 유통街] KT&G 상상마당, '2026 청춘비상' 참가자 모집…대학생 ...",
+      "summary": "[오늘의 유통街] KT&G 상상마당, '2026 청춘비상' 참가자 모집…대학생 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 저렴한 가격으로 치킨 한 마리를 1 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
         "#배달비논란"
       ],
       "viral_score": 37.8,
@@ -458,141 +544,162 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.688560+00:00",
-      "processed_at": "2026-04-05T23:18:13.992881+00:00",
+      "published_at": "2026-04-06T06:28:45.422385+00:00",
+      "processed_at": "2026-04-06T06:29:13.415519+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "d3c0e2e655371dcc165a9f4cc0769c59",
+      "uid": "6428bf655a250bd3644191d6d58d0e66",
       "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "https://www.asiatime.co.kr/article/20260403500033",
-      "title": "송언석 \"이번 추경은 가짜추경, '생존추경'으로 전환할 것\"",
-      "summary": "송언석 \"이번 추경은 가짜추경, '생존추경'으로 전환할 것\" 이어 △유류세 인하폭 15%에서 30% 확대 △운수 종사자 약 120만명에 60만원 아울러 \"끼워 넣기 추경을 [중립 바이럴]",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=97716",
+      "title": "[맥락읽기] 번 것보다 더 쓰는 1인가구…소득은 전체의 46%인데, 소비는...",
+      "summary": "[맥락읽기] 번 것보다 더 쓰는 1인가구…소득은 전체의 46%인데, 소비는 배달비와 외식 단가가 오르는 만큼 이 항목의 지출은 가파르게 상승한다 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
-        "#배달비논란",
-        "#점주썰"
+        "#배달비논란"
       ],
       "viral_score": 24.5,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.688408+00:00",
-      "processed_at": "2026-04-05T23:18:13.992807+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c5c6281399b9229773a9b54672eadd61",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=48484",
-      "title": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가···방문 포장 할인 혜택...",
-      "summary": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가···방문 포장 할인 혜택 최근 외식업계에서는 배달비 부담과 고물가 영향으로 테이크아웃 중심의 소비 패턴이 꾸준히 확대되는 추세다 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 40.6,
-      "status": "Stable",
-      "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.688247+00:00",
-      "processed_at": "2026-04-05T23:18:13.992733+00:00",
+      "published_at": "2026-04-06T06:28:45.422222+00:00",
+      "processed_at": "2026-04-06T06:29:13.415437+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "53f440bba716c9a2b406b286b7e4f5e3",
+      "uid": "86f703078058748f3174981386771d08",
       "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=175747",
-      "title": "하동군, 공공배달앱 먹깨비 봄맞이 이벤트...매일 5천 원 할인",
-      "summary": "하동군, 공공배달앱 먹깨비 봄맞이 이벤트 매일 5천 원 할인 매출 회복의 계기가 되길 기대한다\"라며, \"공공배달앱을 더욱 활성화하며 지역 경제에 도움 [긍정 바이럴]",
+      "url": "https://www.cnbnews.com/news/article.html?no=787769",
+      "title": "bhc, 포장 고객 대상 '더블 혜택' 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 '더블 혜택' 프로모션 진행 bhc 관계자는 “배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 [긍정 바이럴]",
       "sentiment": "positive",
-      "tags": [
-        "#배달비논란",
-        "#수수료갑질"
-      ],
-      "viral_score": 43.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.688095+00:00",
-      "processed_at": "2026-04-05T23:18:13.992657+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c761c857a9d6d4cd95d74131f03a966d",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.geconomy.co.kr/news/article.html?no=318742",
-      "title": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가… 방문 포장 할인 혜택",
-      "summary": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가… 방문 포장 할인 혜택 최근 외식업계에서는 배달비 부담과 고물가 영향으로 테이크아웃 중심의 소비  특히 봄철에는 벚꽃놀이, 공원 나들이, 캠핑 등 외부 활동이 늘어나면서 이동이 간편하고 여러 명이 함께 즐길 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 40.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:28.687930+00:00",
-      "processed_at": "2026-04-05T23:18:13.992559+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "9a1244289a33953a335f6d9070ec3b6e",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://weekly.chosun.com/news/articleView.html?idxno=50348",
-      "title": "장 보고 나오면 항상 예산 초과…물가 말고 '습관' 점검",
-      "summary": "장 보고 나오면 항상 예산 초과…물가 말고 '습관' 점검 3) 배달에 의존한다 배달은 편리하지만 수수료와 배달비가 추가돼 식비 부담이 커질 수  필요한 경우에만 활용하고, 가능한 직접 매장을 방문해 구매하거나 쿠폰·대용량 구매를 병행하는 것이 경제적이라 [부정 바이럴]",
-      "sentiment": "negative",
       "tags": [
         "#가성비논란",
-        "#배달비논란",
-        "#수수료갑질"
-      ],
-      "viral_score": 52.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.687758+00:00",
-      "processed_at": "2026-04-05T23:18:13.992396+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "4b18da0d62057f6dffefa6b84045d4fd",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=94688",
-      "title": "[1-Trend] '뉴노멀'된 1인 가구… 가구·가전·외식 등 수요 공략 '활발'",
-      "summary": "[1-Trend] '뉴노멀'된 1인 가구… 가구·가전·외식 등 수요 공략 '활발' 최소주문금액과 배달비 부담없이 소비자들은 치킨 한 마리를 주문 여기에 지난 2월에는 초교대점과 구의역점에서도 점심 시간대 한정으로 치킨 버거 메뉴를 판매하며 직장인 및 대 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
         "#배달비논란"
       ],
-      "viral_score": 24.5,
+      "viral_score": 37.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.687565+00:00",
-      "processed_at": "2026-04-05T23:18:13.992320+00:00",
+      "published_at": "2026-04-06T06:28:45.422037+00:00",
+      "processed_at": "2026-04-06T06:29:13.415351+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "2a65ee63318d826580a74e75929f994f",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.inews24.com/view/1957353",
+      "title": "bhc, 나들이 시즌 맞아 포장 '더블 혜택' 프로모션",
+      "summary": "bhc, 나들이 시즌 맞아 포장 '더블 혜택' 프로모션 달하는 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 저렴한  bhc 관계자는 \"포장 주문의 가격 혜택과 편의성을 동시에 강화해 고객들이 언제 어디서나 bhc치킨을 부담  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421879+00:00",
+      "processed_at": "2026-04-06T06:29:13.415276+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "796e09908e97fc3bf215b2e706a73294",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=122368",
+      "title": "\"포장주문 매일 10%할인+1천원 쿠폰\" bhc, 4월 '더블혜택' 프로모션",
+      "summary": "\"포장주문 매일 10%할인+1천원 쿠폰\" bhc, 4월 '더블혜택' 프로모션 외식 물가 상승으로 배달비 부담이 커진 상황에서 더 합리적인 가격으 여기에 통상 3000~4000원대에 달하는 배달비 절약분까지 고려하면 고객은 배달 주문 대비 최소 6000원 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421714+00:00",
+      "processed_at": "2026-04-06T06:29:13.415196+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea573e8c83fb8465d2a86e13024c4a06",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=211137",
+      "title": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행 특히, 외식 물가 상승으로 배달비 부담이 커진 상황에서 좀 더 합리적인 가격으로 이용하도록 bhc 관계자는 “포장 주문의 가격 혜택과 편의성을 동시에 강화해, 고객들이 언제 어디서나 bhc 치킨을 부 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421544+00:00",
+      "processed_at": "2026-04-06T06:29:13.415109+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "876a9df3db0b5f8c4d623499c533179b",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=20260406145124375618ef25b590_30",
+      "title": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행 통상 3,000~4,000원대에 달하는 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 즐길 수 있도록 이번 행사를 준비했다”며, “배달비 걱정 없는 합리적인 가격으로 가족, 친구들과 함께 활기찬 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421372+00:00",
+      "processed_at": "2026-04-06T06:29:13.415001+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "185a16f283b1cca95fca20ce934ba07c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.pressian.com/pages/articles/2026040608444726009?utm_source=naver&utm_medium=search",
+      "title": "\"2분 아끼려 목숨 걸 필요 없어졌어요\"…라이더 최저임금 3년, 달라진 뉴...",
+      "summary": "\"2분 아끼려 목숨 걸 필요 없어졌어요\"…라이더 최저임금 3년, 달라진 뉴 최저임금이 도입되면 배달비 부담 때문에 소비자가 배달 주문을 줄일 것이라는 플랫폼기업 주장도 사실이 아닌 것 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#배달비논란",
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:45.421181+00:00",
+      "processed_at": "2026-04-06T06:29:13.414920+00:00",
       "views": 0,
       "comments": 0
     },
@@ -612,8 +719,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155865+00:00",
-      "processed_at": "2026-04-05T23:18:13.992247+00:00",
+      "published_at": "2026-04-06T06:28:22.371945+00:00",
+      "processed_at": "2026-04-06T06:29:13.414839+00:00",
       "views": 0,
       "comments": 0
     },
@@ -635,8 +742,8 @@
         "점주",
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155551+00:00",
-      "processed_at": "2026-04-05T23:18:13.992171+00:00",
+      "published_at": "2026-04-06T06:28:22.371611+00:00",
+      "processed_at": "2026-04-06T06:29:13.414759+00:00",
       "views": 0,
       "comments": 0
     },
@@ -656,8 +763,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155212+00:00",
-      "processed_at": "2026-04-05T23:18:13.992102+00:00",
+      "published_at": "2026-04-06T06:28:22.371241+00:00",
+      "processed_at": "2026-04-06T06:29:13.414684+00:00",
       "views": 0,
       "comments": 0
     },
@@ -677,18 +784,18 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.154900+00:00",
-      "processed_at": "2026-04-05T23:18:13.992033+00:00",
+      "published_at": "2026-04-06T06:28:22.370867+00:00",
+      "processed_at": "2026-04-06T06:29:13.414607+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "fd994bedcad733cfa433b96b5bd60552",
-      "brand": "쿠팡이츠",
+      "uid": "379abf0bcf12d26acaa5ac69185bdd27",
+      "brand": "쿠팡",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260331162700921",
-      "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
-      "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 이날 김포와 부산에서 시작됐다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상 [중립 바이럴]",
+      "url": "http://v.daum.net/v/20260403103226968",
+      "title": "달라진 노동부 장관의 최저임금 심의요청서, 여기 오기까지",
+      "summary": "달라진 노동부 장관의 최저임금 심의요청서, 여기 오기까지 배달료 삭감은 일상이 됐다 올해 3월, 쿠팡은 건당 기본배달료를 2,100원으로 낮췄다 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
@@ -698,102 +805,18 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:01.095386+00:00",
-      "processed_at": "2026-04-05T23:18:13.991962+00:00",
+      "published_at": "2026-04-06T06:28:19.017540+00:00",
+      "processed_at": "2026-04-06T06:29:13.414532+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "125f25816f57ee3efb7cc9da63c07cc0",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260331165926929",
-      "title": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진",
-      "summary": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진 봄' 프로젝트를 시작한다고 밝혔다 김포 근로자이음센터는 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이륜차 무상 안전점검 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:17:01.095293+00:00",
-      "processed_at": "2026-04-05T23:18:13.991889+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "032eb86b7a4e142d21e13d0d85e798b7",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402092703651",
-      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
-      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 38.6,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:17:01.095107+00:00",
-      "processed_at": "2026-04-05T23:18:13.991817+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "19ef0949095efcde7193023d7eb5f82f",
-      "brand": "쿠팡이츠",
+      "uid": "0361daad03be0a1fc5518ee2efd80952",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20260331500256",
-      "title": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매...락앤락 ‘대...",
-      "summary": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매 우아한청년들은 한국교통안전공단과 함께 라이더 도로안전 시민점검단을 운영한다고 밝혔다 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 37.8,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.944448+00:00",
-      "processed_at": "2026-04-05T23:18:13.991745+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "7129bc899ad90ccf19905babd512ad08",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03112726645412184",
-      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
-      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 사진=쿠팡이츠서비스 지난달 군포 지역에서 시작된 해당 프로그램은 이후 수도권, 청주, 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.944298+00:00",
-      "processed_at": "2026-04-05T23:18:13.991667+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "b82a3ce24ae23cfe4d7ee00e469963a3",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.ddaily.co.kr/page/view/2026040209174767517",
-      "title": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작",
-      "summary": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작 쿠팡이츠서비스(CES)가 배달파트너의 안전 운행 지원을 위해 ‘2026년 상반기 이번 상반기 안전점검은 지난달 군포를 시작으로 오는 6월까지 서울·경기·인천 등 수도권과 청주, 창원, 전주 [중립 바이럴]",
+      "url": "https://economist.co.kr/article/view/ecn202603310082",
+      "title": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진...",
+      "summary": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진 업계에 따르면 현재 라이더의 90% 이상이 배민과 쿠팡이츠를 비롯해 배달 대행사 등 여러 개의 배달 플랫폼을 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
@@ -803,74 +826,96 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:16:57.944148+00:00",
-      "processed_at": "2026-04-05T23:18:13.991572+00:00",
+      "published_at": "2026-04-06T06:28:15.974468+00:00",
+      "processed_at": "2026-04-06T06:29:13.414454+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "161d97490c71e73a116ad9e40cf6ffe8",
-      "brand": "쿠팡이츠",
+      "uid": "fd99d133411587517315cf0f4dea123f",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=75065",
-      "title": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시",
-      "summary": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시 /사진=쿠팡이츠 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 6월까지 '상반기 무 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.943996+00:00",
-      "processed_at": "2026-04-05T23:18:13.991498+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "049d5f711bf7ef39a9f4452bbc8a9ea6",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=141111",
-      "title": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다",
-      "summary": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다 | 스마트비즈 = 김선주 기자 | 쿠팡이츠서비스(CES)가 2일 배달파트너 안전 정책의  이륜차 점검에 통상 1회 최소 5만원가량 비용이 드는 점을 고려하면, 라이더 입장에서는 경제적 부담을 줄일  [중립 바이럴]",
+      "url": "https://www.newsis.com/view/NISX20260406_0003578728",
+      "title": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\"",
+      "summary": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\" 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
       ],
       "viral_score": 24.5,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.943689+00:00",
-      "processed_at": "2026-04-05T23:18:13.991425+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "f56bed5dabb7d5c4202e693553228d86",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://biz.heraldcorp.com/article/10709136?ref=naver",
-      "title": "신한銀, ‘땡겨요’ 입점 소상공인에 572억 금융지원",
-      "summary": "신한銀, ‘땡겨요’ 입점 소상공인에 572억 금융지원 신한금융 측은 “‘땡겨요’는 낮은 수수료와 결제대금 회수 기간 단축을 통해 소상공인의 부담 iM뱅크는 시중은행 전환 이후 수도권 공략을 위해 배달앱 ‘쿠팡이츠’와 손잡고 공격적인 제휴 마케팅에 나섰다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#수수료갑질",
-        "#라이더이슈"
-      ],
-      "viral_score": 49.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
-        "점주",
         "라이더"
       ],
-      "published_at": "2026-04-05T23:16:57.943509+00:00",
-      "processed_at": "2026-04-05T23:18:13.991349+00:00",
+      "published_at": "2026-04-06T06:28:15.974300+00:00",
+      "processed_at": "2026-04-06T06:29:13.414372+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bc755225a0a41b74bb12f1ded5bdca83",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ajunews.com/view/20260406092527591",
+      "title": "부릉, 차세대 AI 배차 시스템 도입...적용지역 80곳 확대",
+      "summary": "부릉, 차세대 AI 배차 시스템 도입 적용지역 80곳 확대 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전면 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:15.974131+00:00",
+      "processed_at": "2026-04-06T06:29:13.414297+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "08552b0281366646a6549e7bc4fb2b56",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.dizzotv.com/site/data/html_dir/2026/04/06/2026040680031.html",
+      "title": "부릉, 차세대 AI 배차 시스템 도입…생산성·라이더소득·고객경험↑",
+      "summary": "부릉, 차세대 AI 배차 시스템 도입…생산성·라이더소득·고객경험↑ 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:15.973944+00:00",
+      "processed_at": "2026-04-06T06:29:13.414218+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "88e0b2aa4f19d56965e2d2411e5a5dfa",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=291664",
+      "title": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\"",
+      "summary": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\" 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:15.973769+00:00",
+      "processed_at": "2026-04-06T06:29:13.414142+00:00",
       "views": 0,
       "comments": 0
     },
@@ -888,8 +933,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:17.962463+00:00",
-      "processed_at": "2026-04-05T23:18:13.991276+00:00",
+      "published_at": "2026-04-06T06:27:52.822976+00:00",
+      "processed_at": "2026-04-06T06:29:13.414039+00:00",
       "views": 0,
       "comments": 0
     },
@@ -907,8 +952,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:17.962142+00:00",
-      "processed_at": "2026-04-05T23:18:13.991205+00:00",
+      "published_at": "2026-04-06T06:27:52.822628+00:00",
+      "processed_at": "2026-04-06T06:29:13.413963+00:00",
       "views": 0,
       "comments": 0
     },
@@ -931,8 +976,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:14.850200+00:00",
-      "processed_at": "2026-04-05T23:18:13.991133+00:00",
+      "published_at": "2026-04-06T06:27:49.639027+00:00",
+      "processed_at": "2026-04-06T06:29:13.413887+00:00",
       "views": 0,
       "comments": 0
     },
@@ -950,8 +995,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:14.850107+00:00",
-      "processed_at": "2026-04-05T23:18:13.991060+00:00",
+      "published_at": "2026-04-06T06:27:49.638928+00:00",
+      "processed_at": "2026-04-06T06:29:13.413808+00:00",
       "views": 0,
       "comments": 0
     },
@@ -972,8 +1017,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:14.850010+00:00",
-      "processed_at": "2026-04-05T23:18:13.990988+00:00",
+      "published_at": "2026-04-06T06:27:49.638825+00:00",
+      "processed_at": "2026-04-06T06:29:13.413729+00:00",
       "views": 0,
       "comments": 0
     },
@@ -994,8 +1039,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:14.849915+00:00",
-      "processed_at": "2026-04-05T23:18:13.990915+00:00",
+      "published_at": "2026-04-06T06:27:49.638724+00:00",
+      "processed_at": "2026-04-06T06:29:13.413592+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1013,8 +1058,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:14.849823+00:00",
-      "processed_at": "2026-04-05T23:18:13.990846+00:00",
+      "published_at": "2026-04-06T06:27:49.638625+00:00",
+      "processed_at": "2026-04-06T06:29:13.413516+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1032,8 +1077,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:14.849727+00:00",
-      "processed_at": "2026-04-05T23:18:13.990775+00:00",
+      "published_at": "2026-04-06T06:27:49.638521+00:00",
+      "processed_at": "2026-04-06T06:29:13.413435+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1053,8 +1098,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:14.849623+00:00",
-      "processed_at": "2026-04-05T23:18:13.990703+00:00",
+      "published_at": "2026-04-06T06:27:49.638416+00:00",
+      "processed_at": "2026-04-06T06:29:13.413358+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1072,8 +1117,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:16:12.057772+00:00",
-      "processed_at": "2026-04-05T23:18:13.990627+00:00",
+      "published_at": "2026-04-06T06:27:46.576107+00:00",
+      "processed_at": "2026-04-06T06:29:13.413280+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1095,8 +1140,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:12.057594+00:00",
-      "processed_at": "2026-04-05T23:18:13.990533+00:00",
+      "published_at": "2026-04-06T06:27:46.575921+00:00",
+      "processed_at": "2026-04-06T06:29:13.413201+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1118,8 +1163,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:12.057449+00:00",
-      "processed_at": "2026-04-05T23:18:13.990457+00:00",
+      "published_at": "2026-04-06T06:27:46.575755+00:00",
+      "processed_at": "2026-04-06T06:29:13.413115+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1137,8 +1182,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:12.057301+00:00",
-      "processed_at": "2026-04-05T23:18:13.990383+00:00",
+      "published_at": "2026-04-06T06:27:46.575586+00:00",
+      "processed_at": "2026-04-06T06:29:13.413014+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1160,8 +1205,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:12.057153+00:00",
-      "processed_at": "2026-04-05T23:18:13.990307+00:00",
+      "published_at": "2026-04-06T06:27:46.575418+00:00",
+      "processed_at": "2026-04-06T06:29:13.412933+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1181,8 +1226,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:16:12.057005+00:00",
-      "processed_at": "2026-04-05T23:18:13.990230+00:00",
+      "published_at": "2026-04-06T06:27:46.575243+00:00",
+      "processed_at": "2026-04-06T06:29:13.412848+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1202,8 +1247,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:48.609155+00:00",
-      "processed_at": "2026-04-05T23:18:13.990157+00:00",
+      "published_at": "2026-04-06T06:27:22.751535+00:00",
+      "processed_at": "2026-04-06T06:29:13.412768+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1223,8 +1268,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:48.608865+00:00",
-      "processed_at": "2026-04-05T23:18:13.990084+00:00",
+      "published_at": "2026-04-06T06:27:22.751209+00:00",
+      "processed_at": "2026-04-06T06:29:13.412690+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1245,8 +1290,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:48.608530+00:00",
-      "processed_at": "2026-04-05T23:18:13.990013+00:00",
+      "published_at": "2026-04-06T06:27:22.750799+00:00",
+      "processed_at": "2026-04-06T06:29:13.412613+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1266,8 +1311,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:48.608221+00:00",
-      "processed_at": "2026-04-05T23:18:13.989941+00:00",
+      "published_at": "2026-04-06T06:27:22.750454+00:00",
+      "processed_at": "2026-04-06T06:29:13.412535+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1288,8 +1333,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:45.502960+00:00",
-      "processed_at": "2026-04-05T23:18:13.989872+00:00",
+      "published_at": "2026-04-06T06:27:19.343908+00:00",
+      "processed_at": "2026-04-06T06:29:13.412461+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1311,8 +1356,8 @@
         "점주",
         "직원"
       ],
-      "published_at": "2026-04-05T23:15:45.502870+00:00",
-      "processed_at": "2026-04-05T23:18:13.989804+00:00",
+      "published_at": "2026-04-06T06:27:19.343807+00:00",
+      "processed_at": "2026-04-06T06:29:13.412388+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1332,8 +1377,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:45.502777+00:00",
-      "processed_at": "2026-04-05T23:18:13.989731+00:00",
+      "published_at": "2026-04-06T06:27:19.343709+00:00",
+      "processed_at": "2026-04-06T06:29:13.412309+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1353,8 +1398,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:45.502675+00:00",
-      "processed_at": "2026-04-05T23:18:13.989657+00:00",
+      "published_at": "2026-04-06T06:27:19.343607+00:00",
+      "processed_at": "2026-04-06T06:29:13.412231+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1374,8 +1419,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:45.502559+00:00",
-      "processed_at": "2026-04-05T23:18:13.989557+00:00",
+      "published_at": "2026-04-06T06:27:19.343506+00:00",
+      "processed_at": "2026-04-06T06:29:13.412152+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1395,8 +1440,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:15:45.502466+00:00",
-      "processed_at": "2026-04-05T23:18:13.989485+00:00",
+      "published_at": "2026-04-06T06:27:19.343407+00:00",
+      "processed_at": "2026-04-06T06:29:13.412054+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1416,8 +1461,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-05T23:15:45.502374+00:00",
-      "processed_at": "2026-04-05T23:18:13.989414+00:00",
+      "published_at": "2026-04-06T06:27:19.343306+00:00",
+      "processed_at": "2026-04-06T06:29:13.411973+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1440,8 +1485,8 @@
         "점주",
         "라이더"
       ],
-      "published_at": "2026-04-05T23:15:45.502278+00:00",
-      "processed_at": "2026-04-05T23:18:13.989342+00:00",
+      "published_at": "2026-04-06T06:27:19.343197+00:00",
+      "processed_at": "2026-04-06T06:29:13.411898+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1459,54 +1504,13 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:15:45.502180+00:00",
-      "processed_at": "2026-04-05T23:18:13.989268+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "2af5a476d2da05bf038510bd801a3f03",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ppss.kr/news/articleView.html?idxno=290515",
-      "title": "배달의민족 '수저 안 받기'로 383억 절감? 업체당 월 1만 원이 '경영 부...",
-      "summary": "배달의민족 '수저 안 받기'로 383억 절감 업체당 월 1만 원이 '경영 부 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#수수료갑질",
-        "#점주썰"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:15:42.538741+00:00",
-      "processed_at": "2026-04-05T23:18:13.989195+00:00",
+      "published_at": "2026-04-06T06:27:19.343060+00:00",
+      "processed_at": "2026-04-06T06:29:13.411816+00:00",
       "views": 0,
       "comments": 0
     }
   ],
   "rising": [
-    {
-      "uid": "6289cec88a1d02938ebca5b720a656d0",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.joongang.co.kr/article/25417612",
-      "title": "[단독] 리딩방 사기 신고했더니…배민 정보로 ‘끔찍 보복’",
-      "summary": "[단독] 리딩방 사기 신고했더니…배민 정보로 ‘끔찍 보복’ 경찰이 불법 투자 리딩방 사기 조직이 배달의민족(배민) 고객 정보를 활용해 피해자에게 경찰은 리딩방 사기 조직 같은 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 60.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:05:03.976741+00:00",
-      "processed_at": "2026-04-05T23:18:13.964809+00:00",
-      "views": 0,
-      "comments": 0
-    },
     {
       "uid": "bc0a95842cbd7e2fed5cf031de80e1ac",
       "brand": "배달의민족",
@@ -1523,8 +1527,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:28.295955+00:00",
-      "processed_at": "2026-04-05T23:18:13.986550+00:00",
+      "published_at": "2026-04-06T06:26:17.761645+00:00",
+      "processed_at": "2026-04-06T06:29:13.408654+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1547,48 +1551,8 @@
         "소비자",
         "직원"
       ],
-      "published_at": "2026-04-05T23:14:28.296564+00:00",
-      "processed_at": "2026-04-05T23:18:13.986907+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "82b95bba08f24eb3ded4097a728429e0",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://biz.heraldcorp.com/article/10709337?ref=naver",
-      "title": "따릉이 개인정보 유출 보상 ‘30일권’ 유력…조례 개정도 추진 [서울IN...",
-      "summary": "따릉이 개인정보 유출 보상 ‘30일권’ 유력…조례 개정도 추진 [서울IN SK텔레콤은 스타벅스 등 브랜드 쿠폰, 8월 통신 요금 50% 할인, 쿠팡은 5만 원 상당의 쿠폰(쿠팡이츠  [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#사과논란"
-      ],
-      "viral_score": 56.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:05:33.760172+00:00",
-      "processed_at": "2026-04-05T23:18:13.966654+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "8eaa45141a75addae2dc6fb211af29fd",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/96756",
-      "title": "의료데이터 AI 허용 확대…생활·산업 규제 동시 완화",
-      "summary": "의료데이터 AI 허용 확대…생활·산업 규제 동시 완화 편의점에는 성인 인증 기능을 갖춘 무인 주류 자판기가 도입됩니다 PASS나 안면인식 등을 통해 연령을 확인하는 방식입니다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 56.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:13:42.390108+00:00",
-      "processed_at": "2026-04-05T23:18:13.985364+00:00",
+      "published_at": "2026-04-06T06:26:17.762329+00:00",
+      "processed_at": "2026-04-06T06:29:13.408975+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1608,8 +1572,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:28.296745+00:00",
-      "processed_at": "2026-04-05T23:18:13.986982+00:00",
+      "published_at": "2026-04-06T06:26:17.762502+00:00",
+      "processed_at": "2026-04-06T06:29:13.409053+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1627,37 +1591,124 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:14:56.735635+00:00",
-      "processed_at": "2026-04-05T23:18:13.988237+00:00",
+      "published_at": "2026-04-06T06:26:46.820034+00:00",
+      "processed_at": "2026-04-06T06:29:13.410731+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "69c8fc10881320a2e885813a04731046",
-      "brand": "배달의민족",
+      "uid": "fcf2c77dc1e63f57a50da4218375399e",
+      "brand": "올리브영",
       "channel": "네이버뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202604050006",
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 5일",
-      "summary": "[단독] 캐시워크 돈버는퀴즈 정답 4월 5일 배달의민족 배민 캐시워크 돈버는퀴즈 문제 Q 배달의민족 배짱할인에서는 처갓집양념치킨, OO치킨, 멕시카나 등 10개 이상의 브랜드 할인 쿠폰을 드려요 ( [밈 바이럴]",
-      "sentiment": "meme",
+      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=867095",
+      "title": "[K-뷰티]휴젤, 글로벌 정보보호·개인정보보호 국제표준 인증 획득 外 지...",
+      "summary": "[K-뷰티]휴젤, 글로벌 정보보호·개인정보보호 국제표준 인증 획득 外 지 유이크는 독자 개발한 마이크로바이옴 특허성분인 큐티바이옴™, 릴리프바이옴™, 리쥬바이옴™을 함유한 제품으로  [부정 바이럴]",
+      "sentiment": "negative",
       "tags": [],
-      "viral_score": 53.1,
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:21:42.386715+00:00",
+      "processed_at": "2026-04-06T06:29:13.389837+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "776c7d12712f760b700af0e2046fe646",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.newspim.com/news/view/20260406000923",
+      "title": "참여연대 등 시민단체 \"지방선거, 서울시 공공성 회복해야\"",
+      "summary": "참여연대 등 시민단체 \"지방선거, 서울시 공공성 회복해야\" 2026 06 calebcao@newspim [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#수수료갑질",
+        "#점주썰"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:24:48.486190+00:00",
+      "processed_at": "2026-04-06T06:29:13.403482+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "8d49286e28817755eaa4c8a2b26231e1",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603310481&t=NNv",
+      "title": "닭고기·포장재 다 올랐다…치킨값 줄인상 예고",
+      "summary": "닭고기·포장재 다 올랐다…치킨값 줄인상 예고 고물가가 지속되는 상황에서 닭고기 공급 가격까지 오르면서 국민 푸드인 치킨마저 가격 상승 압박이 커 중동 전쟁 장기화로 비닐 등 포장재 가격도 오를 것으로 보여 치킨 업체들의 수익성 타격이 불가피해졌습니다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#가격인상"
+      ],
+      "viral_score": 52.8,
       "status": "Rising",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:05:03.976898+00:00",
-      "processed_at": "2026-04-05T23:18:13.964903+00:00",
+      "published_at": "2026-04-06T06:25:17.963711+00:00",
+      "processed_at": "2026-04-06T06:29:13.405042+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "fb5f362717a2523d1ab77c705534073b",
-      "brand": "스타벅스",
+      "uid": "08165b2a9cd8e9dc2545961e6c8c2373",
+      "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "http://www.queen.co.kr/news/articleView.html?idxno=454419",
-      "title": "[오늘의 주요일정] 정치·정부 (6일, 월)",
-      "summary": "[오늘의 주요일정] 정치·정부 (6일, 월) 14:00 스타벅스 업무협약식 ◇국가보훈부 -장관 통상업무 -차관 통상업무 ◇감사원 -원장 통상업무 [부정 바이럴]",
+      "url": "https://www.sedaily.com/article/20028662?ref=naver",
+      "title": "대통령 한마디에 98원까지 ‘뚝’…불티나게 팔리는 ‘저가 생리대’",
+      "summary": "대통령 한마디에 98원까지 ‘뚝’…불티나게 팔리는 ‘저가 생리대’ 국내 판매 가격이 해외 대비 높다는 논란이 제기되자 제조사와 유통사들이 가격  편의점에서도 가성비 제품 중심으로 수요가 집중되고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:25:48.010568+00:00",
+      "processed_at": "2026-04-06T06:29:13.406628+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "c4ce6ba4cf0a001918dcb1f0d1ebd79c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.ilyosisa.co.kr/news/article.html?no=255164",
+      "title": "<와글와글NET세상> 담뱃값 1만원 초읽기 설왕설래",
+      "summary": "<와글와글NET세상> 담뱃값 1만원 초읽기 설왕설래 2015년 2500원서 4500원으로 담배 가격 인상안 ‘만지작 ’ 담뱃값 인상 기류를 두고 논란이 일자 보건복지부는 당장 인상할 계획이 없다며 진화에 나섰다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#가격인상"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:25:48.010749+00:00",
+      "processed_at": "2026-04-06T06:29:13.406708+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "3ce9ec252ade7fb3760e42c57b537640",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.sedaily.com/article/20027870?ref=naver",
+      "title": "“크림빵 뜯자마자 하수구 악취, 그냥 버렸다”…실수로 ‘이것’ 넣었...",
+      "summary": "“크림빵 뜯자마자 하수구 악취, 그냥 버렸다”…실수로 ‘이것’ 넣었 논란 제품은 시중에 약 2만 개가 유통된 것으로 파악됐다 [부정 바이럴]",
       "sentiment": "negative",
       "tags": [],
       "viral_score": 52.8,
@@ -1665,27 +1716,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:06:20.292627+00:00",
-      "processed_at": "2026-04-05T23:18:13.968933+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "66bddec05df6ee0219882c3213203f44",
-      "brand": "스타벅스",
-      "channel": "네이버뉴스",
-      "url": "https://www.news1.kr/politics/assembly/6125935",
-      "title": "[오늘의 주요일정] 정치·정부 (6일, 월)",
-      "summary": "[오늘의 주요일정] 정치·정부 (6일, 월) 14:00 스타벅스 업무협약식 ◇국가보훈부 -장관 통상업무 -차관 통상업무 ◇감사원 -원장 통상업무 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [],
-      "viral_score": 52.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:06:20.292777+00:00",
-      "processed_at": "2026-04-05T23:18:13.968998+00:00",
+      "published_at": "2026-04-06T06:25:48.011433+00:00",
+      "processed_at": "2026-04-06T06:29:13.407034+00:00",
       "views": 0,
       "comments": 0
     }
@@ -1709,8 +1741,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:17:35.159908+00:00",
-      "processed_at": "2026-04-05T23:18:13.993716+00:00",
+      "published_at": "2026-04-06T06:28:51.810244+00:00",
+      "processed_at": "2026-04-06T06:29:13.416607+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1730,8 +1762,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.159590+00:00",
-      "processed_at": "2026-04-05T23:18:13.993643+00:00",
+      "published_at": "2026-04-06T06:28:51.809906+00:00",
+      "processed_at": "2026-04-06T06:29:13.416532+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1751,8 +1783,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.159290+00:00",
-      "processed_at": "2026-04-05T23:18:13.993548+00:00",
+      "published_at": "2026-04-06T06:28:51.809590+00:00",
+      "processed_at": "2026-04-06T06:29:13.416456+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1774,92 +1806,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:35.158983+00:00",
-      "processed_at": "2026-04-05T23:18:13.993450+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "7220062ce98ac16ae5dcfe4d093828b8",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402140003239",
-      "title": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략",
-      "summary": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략 통해 대상 여부를 실시간으로 확인할 수 있다 온·오프라인을 연계한 지역 마케팅도 병행된다 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976375+00:00",
-      "processed_at": "2026-04-05T23:18:13.993367+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "ffc64c339895d5fbb94e9a7d0b1f0e21",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402150802360",
-      "title": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다",
-      "summary": "“정부 추경 전에 먼저 푼다”…충남도, 지역경제 긴급 처방 내놨다 나서 전년보다 매출이 줄어든 소상공인에게 최대 660만원, 휴·폐업 소상공인에 배달비 부담을 덜기 위한 지원 폭도 대폭 키웠다 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976283+00:00",
-      "processed_at": "2026-04-05T23:18:13.993298+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c312bac2655b938e0ef91c91d520c7e2",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402161435284",
-      "title": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대",
-      "summary": "이천시, '경기 활성화 페스타' 추진…소상공인 지원 확대 배달특급을 활용한 혜택을 강화한다 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20%로 확대하고(1인 월 2만원 한도), 배달비 부담 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 31.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976191+00:00",
-      "processed_at": "2026-04-05T23:18:13.993227+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c0c60b69384121af2d37aaa6efc66c47",
-      "brand": "기타",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402162335840",
-      "title": "이천시 경기 활성화 페스타 3일부터 연말까지 추진",
-      "summary": "이천시 경기 활성화 페스타 3일부터 연말까지 추진 2탄’인 배달특급에선 이천사랑 지역화폐로 결제할 경우 기존 10% 캐시백을 20% 캐시백으로  특히 소상공인의 경영 안정과 경쟁력 강화를 위해 소상공인 대출 특례 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 29.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:31.976100+00:00",
-      "processed_at": "2026-04-05T23:18:13.993157+00:00",
+      "published_at": "2026-04-06T06:28:51.809258+00:00",
+      "processed_at": "2026-04-06T06:29:13.416382+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1879,8 +1827,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:31.976010+00:00",
-      "processed_at": "2026-04-05T23:18:13.993090+00:00",
+      "published_at": "2026-04-06T06:28:48.294196+00:00",
+      "processed_at": "2026-04-06T06:29:13.416304+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1901,8 +1849,29 @@
         "소비자",
         "직원"
       ],
-      "published_at": "2026-04-05T23:17:31.975918+00:00",
-      "processed_at": "2026-04-05T23:18:13.993020+00:00",
+      "published_at": "2026-04-06T06:28:48.294087+00:00",
+      "processed_at": "2026-04-06T06:29:13.416228+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fe866aec9639b2be8244b3b7b7766e33",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260402183933923",
+      "title": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다",
+      "summary": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다 안방인 대구·경북 지역 'Z세대' 등 시·도민들을 위한 공략도 놓치지 않았다 우선 대구 iM뱅크 영업점 대상 '와우회원 쿠팡이츠 배달비 0원' 등 지역 고객 대상 마케팅을 함께 추진한다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293972+00:00",
+      "processed_at": "2026-04-06T06:29:13.416152+00:00",
       "views": 0,
       "comments": 0
     },
@@ -1924,20 +1893,160 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-04-05T23:17:31.975732+00:00",
-      "processed_at": "2026-04-05T23:18:13.992950+00:00",
+      "published_at": "2026-04-06T06:28:48.293873+00:00",
+      "processed_at": "2026-04-06T06:29:13.416057+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "198a487854ed06598e16b78679ef264f",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://byline.network/?p=9004111222597952",
-      "title": "배민 주문량 50%, ‘배민클럽’에서 나온다",
-      "summary": "배민 주문량 50%, ‘배민클럽’에서 나온다 배민은 지난 2024년 5월 배민클럽을 도입한 이후 구독자에게 자체배달 배달비 무료, B마트 10% 단건 배달인 한집배달 경우 거리에 따라 500~1500원이 추가될 수 있다 [긍정 바이럴]",
+      "uid": "0138205c69d5b8c2c1a3f89ee8d2a11b",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406002050790",
+      "title": "고유가에 배달업계·자영업자 ‘곡소리’",
+      "summary": "고유가에 배달업계·자영업자 ‘곡소리’ 젊은 라이더들이 대거 이탈하면서 업계 고령화가 빠르게 진행 중\"이라고 설명했다 이러한 라이더들의 고충은 자영업자들에게 '배달비 인상'이라는 공포로 전이되고 있다 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#수수료갑질",
+        "#라이더이슈",
+        "#점주썰"
+      ],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:48.293773+00:00",
+      "processed_at": "2026-04-06T06:29:13.415983+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "a22807f01d5a13a2d77bb37a5a6fce46",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406041955528",
+      "title": "\"힘쎈충남\" 중동전 장기화 대응 835억 규모 민생경제 긴급 패키지 가동",
+      "summary": "\"힘쎈충남\" 중동전 장기화 대응 835억 규모 민생경제 긴급 패키지 가동 소상공인 지원도 대폭 강화된다 매출 감소 사업자에게 최대 660만원, 휴·폐업 후 재창업 시 최대 850만원을 지원한다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#배달비논란",
+        "#점주썰"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-04-06T06:28:48.293672+00:00",
+      "processed_at": "2026-04-06T06:29:13.415908+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "d37cbcedf08f819ad7d428cb35d8781c",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406095057694",
+      "title": "‘2만원 삼계탕’ 현실로…닭값, 언제까지 오를까 [푸드360]",
+      "summary": "‘2만원 삼계탕’ 현실로…닭값, 언제까지 오를까 [푸드360] 프랜차이즈 치킨 업계에서도 닭고기 수급난과 맞물려 가격 인상 가능성이 거론된다 일부 업체들이 이중가격제를 도입한 이후, 배달비를 포함한 치킨 한 마리 가격이 3만원이 넘는 곳도 등장했다 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란",
+        "#가격인상"
+      ],
+      "viral_score": 19.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293573+00:00",
+      "processed_at": "2026-04-06T06:29:13.415830+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "88b1139c228d7b9cbdddd68b047fd7ec",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260406131500241",
+      "title": "bhc, 4월 포장 주문 '더블 혜택' 프로모션 진행",
+      "summary": "bhc, 4월 포장 주문 '더블 혜택' 프로모션 진행 더블 혜택' 프로모션을 진행한다고 6일 밝혔다 이번 행사는 야외 활동과 스포츠 관람 수요 증가에 맞춰 포장 수요를 겨냥하고, 배달비 부담을 줄여 합리적인  [긍정 바이럴]",
       "sentiment": "positive",
       "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 29.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:48.293471+00:00",
+      "processed_at": "2026-04-06T06:29:13.415755+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "41907fa9a650659afe38786f1777fd87",
+      "brand": "쿠팡",
+      "channel": "네이버뉴스",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=117543",
+      "title": "[POP!이벤트] 쿠팡, 연중 최대 뷰티 축제 '메가뷰티쇼' 시작 外",
+      "summary": "이벤트] 쿠팡, 연중 최대 뷰티 축제 '메가뷰티쇼' 시작 外 특히 외식 물가 상승으로 배달비 부담이 커진 상황에서 보다 합리적인 가격으로 메뉴를 여기에 통상 3000~4000원 대에 달하는 배달비 절약분까지 고려하면 고객은 배달 주문 대비 최소 6000 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.422700+00:00",
+      "processed_at": "2026-04-06T06:29:13.415680+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "20bb99d0a7922b6c781a2d5708d37b98",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1361869",
+      "title": "金치킨·金계탕 현실로…AI에 전쟁까지 닭고기값 밀어올려",
+      "summary": "金치킨·金계탕 현실로…AI에 전쟁까지 닭고기값 밀어올려 배달비를 포함한 치킨 한 마리 가격이 이미 3만원에 육박하는 상황에서, 원가 압박은 심해 전문가들은 대외적인 에너지 위기와 국내 수급 불안이 겹치면서 올해 2분기 내내 물가 상승 압력이 지속될 것으 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.422539+00:00",
+      "processed_at": "2026-04-06T06:29:13.415598+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "4e6d9cf75ed1d6006fc2a663f2d0af0a",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=254428",
+      "title": "[오늘의 유통街] KT&G 상상마당, '2026 청춘비상' 참가자 모집…대학생 ...",
+      "summary": "[오늘의 유통街] KT&G 상상마당, '2026 청춘비상' 참가자 모집…대학생 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 저렴한 가격으로 치킨 한 마리를 1 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
         "#배달비논란"
       ],
       "viral_score": 37.8,
@@ -1945,141 +2054,162 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.688560+00:00",
-      "processed_at": "2026-04-05T23:18:13.992881+00:00",
+      "published_at": "2026-04-06T06:28:45.422385+00:00",
+      "processed_at": "2026-04-06T06:29:13.415519+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "d3c0e2e655371dcc165a9f4cc0769c59",
+      "uid": "6428bf655a250bd3644191d6d58d0e66",
       "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "https://www.asiatime.co.kr/article/20260403500033",
-      "title": "송언석 \"이번 추경은 가짜추경, '생존추경'으로 전환할 것\"",
-      "summary": "송언석 \"이번 추경은 가짜추경, '생존추경'으로 전환할 것\" 이어 △유류세 인하폭 15%에서 30% 확대 △운수 종사자 약 120만명에 60만원 아울러 \"끼워 넣기 추경을 [중립 바이럴]",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=97716",
+      "title": "[맥락읽기] 번 것보다 더 쓰는 1인가구…소득은 전체의 46%인데, 소비는...",
+      "summary": "[맥락읽기] 번 것보다 더 쓰는 1인가구…소득은 전체의 46%인데, 소비는 배달비와 외식 단가가 오르는 만큼 이 항목의 지출은 가파르게 상승한다 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
-        "#배달비논란",
-        "#점주썰"
+        "#배달비논란"
       ],
       "viral_score": 24.5,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.688408+00:00",
-      "processed_at": "2026-04-05T23:18:13.992807+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c5c6281399b9229773a9b54672eadd61",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=48484",
-      "title": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가···방문 포장 할인 혜택...",
-      "summary": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가···방문 포장 할인 혜택 최근 외식업계에서는 배달비 부담과 고물가 영향으로 테이크아웃 중심의 소비 패턴이 꾸준히 확대되는 추세다 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 40.6,
-      "status": "Stable",
-      "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.688247+00:00",
-      "processed_at": "2026-04-05T23:18:13.992733+00:00",
+      "published_at": "2026-04-06T06:28:45.422222+00:00",
+      "processed_at": "2026-04-06T06:29:13.415437+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "53f440bba716c9a2b406b286b7e4f5e3",
+      "uid": "86f703078058748f3174981386771d08",
       "brand": "기타",
       "channel": "네이버뉴스",
-      "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=175747",
-      "title": "하동군, 공공배달앱 먹깨비 봄맞이 이벤트...매일 5천 원 할인",
-      "summary": "하동군, 공공배달앱 먹깨비 봄맞이 이벤트 매일 5천 원 할인 매출 회복의 계기가 되길 기대한다\"라며, \"공공배달앱을 더욱 활성화하며 지역 경제에 도움 [긍정 바이럴]",
+      "url": "https://www.cnbnews.com/news/article.html?no=787769",
+      "title": "bhc, 포장 고객 대상 '더블 혜택' 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 '더블 혜택' 프로모션 진행 bhc 관계자는 “배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 [긍정 바이럴]",
       "sentiment": "positive",
-      "tags": [
-        "#배달비논란",
-        "#수수료갑질"
-      ],
-      "viral_score": 43.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.688095+00:00",
-      "processed_at": "2026-04-05T23:18:13.992657+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "c761c857a9d6d4cd95d74131f03a966d",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.geconomy.co.kr/news/article.html?no=318742",
-      "title": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가… 방문 포장 할인 혜택",
-      "summary": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가… 방문 포장 할인 혜택 최근 외식업계에서는 배달비 부담과 고물가 영향으로 테이크아웃 중심의 소비  특히 봄철에는 벚꽃놀이, 공원 나들이, 캠핑 등 외부 활동이 늘어나면서 이동이 간편하고 여러 명이 함께 즐길 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#배달비논란"
-      ],
-      "viral_score": 40.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-05T23:17:28.687930+00:00",
-      "processed_at": "2026-04-05T23:18:13.992559+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "9a1244289a33953a335f6d9070ec3b6e",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://weekly.chosun.com/news/articleView.html?idxno=50348",
-      "title": "장 보고 나오면 항상 예산 초과…물가 말고 '습관' 점검",
-      "summary": "장 보고 나오면 항상 예산 초과…물가 말고 '습관' 점검 3) 배달에 의존한다 배달은 편리하지만 수수료와 배달비가 추가돼 식비 부담이 커질 수  필요한 경우에만 활용하고, 가능한 직접 매장을 방문해 구매하거나 쿠폰·대용량 구매를 병행하는 것이 경제적이라 [부정 바이럴]",
-      "sentiment": "negative",
       "tags": [
         "#가성비논란",
-        "#배달비논란",
-        "#수수료갑질"
-      ],
-      "viral_score": 52.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-04-05T23:17:28.687758+00:00",
-      "processed_at": "2026-04-05T23:18:13.992396+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "4b18da0d62057f6dffefa6b84045d4fd",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=94688",
-      "title": "[1-Trend] '뉴노멀'된 1인 가구… 가구·가전·외식 등 수요 공략 '활발'",
-      "summary": "[1-Trend] '뉴노멀'된 1인 가구… 가구·가전·외식 등 수요 공략 '활발' 최소주문금액과 배달비 부담없이 소비자들은 치킨 한 마리를 주문 여기에 지난 2월에는 초교대점과 구의역점에서도 점심 시간대 한정으로 치킨 버거 메뉴를 판매하며 직장인 및 대 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
         "#배달비논란"
       ],
-      "viral_score": 24.5,
+      "viral_score": 37.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-05T23:17:28.687565+00:00",
-      "processed_at": "2026-04-05T23:18:13.992320+00:00",
+      "published_at": "2026-04-06T06:28:45.422037+00:00",
+      "processed_at": "2026-04-06T06:29:13.415351+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "2a65ee63318d826580a74e75929f994f",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.inews24.com/view/1957353",
+      "title": "bhc, 나들이 시즌 맞아 포장 '더블 혜택' 프로모션",
+      "summary": "bhc, 나들이 시즌 맞아 포장 '더블 혜택' 프로모션 달하는 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 최소 6000원 이상 저렴한  bhc 관계자는 \"포장 주문의 가격 혜택과 편의성을 동시에 강화해 고객들이 언제 어디서나 bhc치킨을 부담  [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421879+00:00",
+      "processed_at": "2026-04-06T06:29:13.415276+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "796e09908e97fc3bf215b2e706a73294",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=122368",
+      "title": "\"포장주문 매일 10%할인+1천원 쿠폰\" bhc, 4월 '더블혜택' 프로모션",
+      "summary": "\"포장주문 매일 10%할인+1천원 쿠폰\" bhc, 4월 '더블혜택' 프로모션 외식 물가 상승으로 배달비 부담이 커진 상황에서 더 합리적인 가격으 여기에 통상 3000~4000원대에 달하는 배달비 절약분까지 고려하면 고객은 배달 주문 대비 최소 6000원 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421714+00:00",
+      "processed_at": "2026-04-06T06:29:13.415196+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "ea573e8c83fb8465d2a86e13024c4a06",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=211137",
+      "title": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행 특히, 외식 물가 상승으로 배달비 부담이 커진 상황에서 좀 더 합리적인 가격으로 이용하도록 bhc 관계자는 “포장 주문의 가격 혜택과 편의성을 동시에 강화해, 고객들이 언제 어디서나 bhc 치킨을 부 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421544+00:00",
+      "processed_at": "2026-04-06T06:29:13.415109+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "876a9df3db0b5f8c4d623499c533179b",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=20260406145124375618ef25b590_30",
+      "title": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행",
+      "summary": "bhc, 포장 고객 대상 ‘더블 혜택’ 프로모션 진행 통상 3,000~4,000원대에 달하는 배달비 절약분까지 고려하면, 고객은 배달 주문 대비 즐길 수 있도록 이번 행사를 준비했다”며, “배달비 걱정 없는 합리적인 가격으로 가족, 친구들과 함께 활기찬 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#가성비논란",
+        "#배달비논란"
+      ],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-06T06:28:45.421372+00:00",
+      "processed_at": "2026-04-06T06:29:13.415001+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "185a16f283b1cca95fca20ce934ba07c",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://www.pressian.com/pages/articles/2026040608444726009?utm_source=naver&utm_medium=search",
+      "title": "\"2분 아끼려 목숨 걸 필요 없어졌어요\"…라이더 최저임금 3년, 달라진 뉴...",
+      "summary": "\"2분 아끼려 목숨 걸 필요 없어졌어요\"…라이더 최저임금 3년, 달라진 뉴 최저임금이 도입되면 배달비 부담 때문에 소비자가 배달 주문을 줄일 것이라는 플랫폼기업 주장도 사실이 아닌 것 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#배달비논란",
+        "#라이더이슈"
+      ],
+      "viral_score": 49.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:45.421181+00:00",
+      "processed_at": "2026-04-06T06:29:13.414920+00:00",
       "views": 0,
       "comments": 0
     },
@@ -2099,8 +2229,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155865+00:00",
-      "processed_at": "2026-04-05T23:18:13.992247+00:00",
+      "published_at": "2026-04-06T06:28:22.371945+00:00",
+      "processed_at": "2026-04-06T06:29:13.414839+00:00",
       "views": 0,
       "comments": 0
     },
@@ -2122,8 +2252,8 @@
         "점주",
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155551+00:00",
-      "processed_at": "2026-04-05T23:18:13.992171+00:00",
+      "published_at": "2026-04-06T06:28:22.371611+00:00",
+      "processed_at": "2026-04-06T06:29:13.414759+00:00",
       "views": 0,
       "comments": 0
     },
@@ -2143,8 +2273,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.155212+00:00",
-      "processed_at": "2026-04-05T23:18:13.992102+00:00",
+      "published_at": "2026-04-06T06:28:22.371241+00:00",
+      "processed_at": "2026-04-06T06:29:13.414684+00:00",
       "views": 0,
       "comments": 0
     },
@@ -2164,18 +2294,18 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:04.154900+00:00",
-      "processed_at": "2026-04-05T23:18:13.992033+00:00",
+      "published_at": "2026-04-06T06:28:22.370867+00:00",
+      "processed_at": "2026-04-06T06:29:13.414607+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "fd994bedcad733cfa433b96b5bd60552",
-      "brand": "쿠팡이츠",
+      "uid": "379abf0bcf12d26acaa5ac69185bdd27",
+      "brand": "쿠팡",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260331162700921",
-      "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
-      "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 이날 김포와 부산에서 시작됐다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상 [중립 바이럴]",
+      "url": "http://v.daum.net/v/20260403103226968",
+      "title": "달라진 노동부 장관의 최저임금 심의요청서, 여기 오기까지",
+      "summary": "달라진 노동부 장관의 최저임금 심의요청서, 여기 오기까지 배달료 삭감은 일상이 됐다 올해 3월, 쿠팡은 건당 기본배달료를 2,100원으로 낮췄다 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
@@ -2185,102 +2315,18 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:17:01.095386+00:00",
-      "processed_at": "2026-04-05T23:18:13.991962+00:00",
+      "published_at": "2026-04-06T06:28:19.017540+00:00",
+      "processed_at": "2026-04-06T06:29:13.414532+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "125f25816f57ee3efb7cc9da63c07cc0",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260331165926929",
-      "title": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진",
-      "summary": "노사발전재단, 배달종사자 등 권리 밖 노동 안전인식 확산 캠페인 추진 봄' 프로젝트를 시작한다고 밝혔다 김포 근로자이음센터는 쿠팡이츠서비스·한국오토바이정비협회 등과 협업해 이륜차 무상 안전점검 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 19.2,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:17:01.095293+00:00",
-      "processed_at": "2026-04-05T23:18:13.991889+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "032eb86b7a4e142d21e13d0d85e798b7",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260402092703651",
-      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
-      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 [이데일리 김정유 기자] 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 지역으로 순차 확대될 예정이다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 38.6,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:17:01.095107+00:00",
-      "processed_at": "2026-04-05T23:18:13.991817+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "19ef0949095efcde7193023d7eb5f82f",
-      "brand": "쿠팡이츠",
+      "uid": "0361daad03be0a1fc5518ee2efd80952",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20260331500256",
-      "title": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매...락앤락 ‘대...",
-      "summary": "[N2 유통] 쿠팡, 세븐일레븐서 실물 기프트카드 단독 판매 우아한청년들은 한국교통안전공단과 함께 라이더 도로안전 시민점검단을 운영한다고 밝혔다 [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 37.8,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.944448+00:00",
-      "processed_at": "2026-04-05T23:18:13.991745+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "7129bc899ad90ccf19905babd512ad08",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03112726645412184",
-      "title": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영",
-      "summary": "쿠팡이츠서비스, 배달파트너 '무상 안전점검 프로그램' 운영 사진=쿠팡이츠서비스 지난달 군포 지역에서 시작된 해당 프로그램은 이후 수도권, 청주, 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.944298+00:00",
-      "processed_at": "2026-04-05T23:18:13.991667+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "b82a3ce24ae23cfe4d7ee00e469963a3",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.ddaily.co.kr/page/view/2026040209174767517",
-      "title": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작",
-      "summary": "“안전도 배달합니다”…쿠팡이츠서비스, 라이더 무상 안전점검 시작 쿠팡이츠서비스(CES)가 배달파트너의 안전 운행 지원을 위해 ‘2026년 상반기 이번 상반기 안전점검은 지난달 군포를 시작으로 오는 6월까지 서울·경기·인천 등 수도권과 청주, 창원, 전주 [중립 바이럴]",
+      "url": "https://economist.co.kr/article/view/ecn202603310082",
+      "title": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진...",
+      "summary": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진 업계에 따르면 현재 라이더의 90% 이상이 배민과 쿠팡이츠를 비롯해 배달 대행사 등 여러 개의 배달 플랫폼을 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
@@ -2290,39 +2336,18 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-04-05T23:16:57.944148+00:00",
-      "processed_at": "2026-04-05T23:18:13.991572+00:00",
+      "published_at": "2026-04-06T06:28:15.974468+00:00",
+      "processed_at": "2026-04-06T06:29:13.414454+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "161d97490c71e73a116ad9e40cf6ffe8",
-      "brand": "쿠팡이츠",
+      "uid": "fd99d133411587517315cf0f4dea123f",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=75065",
-      "title": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시",
-      "summary": "쿠팡이츠서비스, 배달파트너 무상 안전점검 개시 /사진=쿠팡이츠 쿠팡이츠서비스(CES)는 배달파트너들의 안전운행을 위해 오는 6월까지 '상반기 무 이번 프로그램은 배달라이더들의 사고 위험 요소를 예방하는데 초점을 맞췄다 [부정 바이럴]",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더이슈"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-04-05T23:16:57.943996+00:00",
-      "processed_at": "2026-04-05T23:18:13.991498+00:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "049d5f711bf7ef39a9f4452bbc8a9ea6",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.smartbizn.com/news/articleView.html?idxno=141111",
-      "title": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다",
-      "summary": "교육 대신 점검···쿠팡이츠, 라이더 안전 전략 바꿨다 | 스마트비즈 = 김선주 기자 | 쿠팡이츠서비스(CES)가 2일 배달파트너 안전 정책의  이륜차 점검에 통상 1회 최소 5만원가량 비용이 드는 점을 고려하면, 라이더 입장에서는 경제적 부담을 줄일  [중립 바이럴]",
+      "url": "https://www.newsis.com/view/NISX20260406_0003578728",
+      "title": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\"",
+      "summary": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\" 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [
         "#라이더이슈"
@@ -2330,10 +2355,33 @@
       "viral_score": 24.5,
       "status": "Stable",
       "stakeholders": [
+        "소비자",
         "라이더"
       ],
-      "published_at": "2026-04-05T23:16:57.943689+00:00",
-      "processed_at": "2026-04-05T23:18:13.991425+00:00",
+      "published_at": "2026-04-06T06:28:15.974300+00:00",
+      "processed_at": "2026-04-06T06:29:13.414372+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "bc755225a0a41b74bb12f1ded5bdca83",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ajunews.com/view/20260406092527591",
+      "title": "부릉, 차세대 AI 배차 시스템 도입...적용지역 80곳 확대",
+      "summary": "부릉, 차세대 AI 배차 시스템 도입 적용지역 80곳 확대 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전면 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-06T06:28:15.974131+00:00",
+      "processed_at": "2026-04-06T06:29:13.414297+00:00",
       "views": 0,
       "comments": 0
     }
@@ -2341,27 +2389,6 @@
   "versus": {
     "baemin": {
       "issues": [
-        {
-          "uid": "198a487854ed06598e16b78679ef264f",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://byline.network/?p=9004111222597952",
-          "title": "배민 주문량 50%, ‘배민클럽’에서 나온다",
-          "summary": "배민 주문량 50%, ‘배민클럽’에서 나온다 배민은 지난 2024년 5월 배민클럽을 도입한 이후 구독자에게 자체배달 배달비 무료, B마트 10% 단건 배달인 한집배달 경우 거리에 따라 500~1500원이 추가될 수 있다 [긍정 바이럴]",
-          "sentiment": "positive",
-          "tags": [
-            "#배달비논란"
-          ],
-          "viral_score": 37.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-04-05T23:17:28.688560+00:00",
-          "processed_at": "2026-04-05T23:18:13.992881+00:00",
-          "views": 0,
-          "comments": 0
-        },
         {
           "uid": "35b72a71d89c4d6d2d7c8f5118dbdbfd",
           "brand": "배달의민족",
@@ -2378,107 +2405,127 @@
           "stakeholders": [
             "라이더"
           ],
-          "published_at": "2026-04-05T23:17:04.155865+00:00",
-          "processed_at": "2026-04-05T23:18:13.992247+00:00",
+          "published_at": "2026-04-06T06:28:22.371945+00:00",
+          "processed_at": "2026-04-06T06:29:13.414839+00:00",
           "views": 0,
           "comments": 0
         },
         {
-          "uid": "756b886ad27fa47c707863ac0658c3fb",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20260325055804237",
-          "title": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리]",
-          "summary": "\"넷플 오리지널처럼…'전속 맛집'이 배민·쿠팡 승부 가를 것\"[only이데일리] 배달의민족(배민)의 ‘배민 온리’ 프로모션을 둘러싼 독점 논란이 그러나 정작 시장 안에서는 반대의 흐름이 감지되고 있다 [부정 바이럴]",
-          "sentiment": "negative",
-          "tags": [
-            "#수수료갑질",
-            "#독점입점압박"
-          ],
-          "viral_score": 44.3,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-04-05T23:16:14.850010+00:00",
-          "processed_at": "2026-04-05T23:18:13.990988+00:00",
-          "views": 0,
-          "comments": 0
-        },
-        {
-          "uid": "bc162bde4c42aea78bffdb12fdfbe3ea",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20260325055807238",
-          "title": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리]",
-          "summary": "배달 플랫폼 '왕좌의게임' 시작됐다[only이데일리] 최근 배달의민족(배민) 운영사 우아한형제들이 내놓은 전속 입점 프로모션 ‘배민 온리’를 둘 배민 입점 업체가 쿠팡이츠 등 경쟁 플랫폼에 동시 입점하지 않는 조건으로 중개수수료를 기존 7 [부정 바이럴]",
-          "sentiment": "negative",
-          "tags": [
-            "#수수료갑질",
-            "#독점입점압박"
-          ],
-          "viral_score": 44.3,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-04-05T23:16:14.849915+00:00",
-          "processed_at": "2026-04-05T23:18:13.990915+00:00",
-          "views": 0,
-          "comments": 0
-        },
-        {
-          "uid": "7c3473992e29cfc288180f923961afe2",
+          "uid": "0361daad03be0a1fc5518ee2efd80952",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2411114",
-          "title": "주문 늘어도 깊어지는 배달앱 고민···수수료 갈등 안 풀린 채 규제 변...",
-          "summary": "주문 늘어도 깊어지는 배달앱 고민···수수료 갈등 안 풀린 채 규제 변 배민 운영사 우아한형제들은 2024년 매출이 늘었지만 영업이익은 전년보다 8 [부정 바이럴]",
-          "sentiment": "negative",
+          "url": "https://economist.co.kr/article/view/ecn202603310082",
+          "title": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진...",
+          "summary": "‘일하는 사람’ 정의 모호…플랫폼 기업, ‘일법 패키지’에 한숨 커진 업계에 따르면 현재 라이더의 90% 이상이 배민과 쿠팡이츠를 비롯해 배달 대행사 등 여러 개의 배달 플랫폼을 [중립 바이럴]",
+          "sentiment": "neutral",
           "tags": [
-            "#배달비논란",
-            "#수수료갑질"
+            "#라이더이슈"
           ],
-          "viral_score": 52.8,
-          "status": "Rising",
+          "viral_score": 24.5,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-04-06T06:28:15.974468+00:00",
+          "processed_at": "2026-04-06T06:29:13.414454+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "fd99d133411587517315cf0f4dea123f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.newsis.com/view/NISX20260406_0003578728",
+          "title": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\"",
+          "summary": "부릉, AI 배차 시스템 도입…\"배달대행 시장 판 바꾼다\" 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 24.5,
+          "status": "Stable",
           "stakeholders": [
             "소비자",
-            "점주"
+            "라이더"
           ],
-          "published_at": "2026-04-05T23:16:12.057594+00:00",
-          "processed_at": "2026-04-05T23:18:13.990533+00:00",
+          "published_at": "2026-04-06T06:28:15.974300+00:00",
+          "processed_at": "2026-04-06T06:29:13.414372+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "bc755225a0a41b74bb12f1ded5bdca83",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.ajunews.com/view/20260406092527591",
+          "title": "부릉, 차세대 AI 배차 시스템 도입...적용지역 80곳 확대",
+          "summary": "부릉, 차세대 AI 배차 시스템 도입 적용지역 80곳 확대 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식으로 전면 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 24.5,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "라이더"
+          ],
+          "published_at": "2026-04-06T06:28:15.974131+00:00",
+          "processed_at": "2026-04-06T06:29:13.414297+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "08552b0281366646a6549e7bc4fb2b56",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.dizzotv.com/site/data/html_dir/2026/04/06/2026040680031.html",
+          "title": "부릉, 차세대 AI 배차 시스템 도입…생산성·라이더소득·고객경험↑",
+          "summary": "부릉, 차세대 AI 배차 시스템 도입…생산성·라이더소득·고객경험↑ 배달의민족, 쿠팡이츠와 같은 주문 플랫폼을 제외하고 AI 기반의 자동배차 방식 부릉플러스는 배달 주문 접수 시 픽업 위치, 배송지 위치, 라이더 위치, 이동 동선, 배달완료 예정시간 등을 [중립 바이럴]",
+          "sentiment": "neutral",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 24.5,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "라이더"
+          ],
+          "published_at": "2026-04-06T06:28:15.973944+00:00",
+          "processed_at": "2026-04-06T06:29:13.414218+00:00",
           "views": 0,
           "comments": 0
         }
       ],
       "total": 20,
-      "avg_score": 38.3,
+      "avg_score": 35.6,
       "ratio": {
-        "negative": 80,
-        "positive": 10,
+        "negative": 65,
+        "positive": 5,
         "meme": 5
       }
     },
     "coupang": {
       "issues": [
         {
-          "uid": "7220062ce98ac16ae5dcfe4d093828b8",
+          "uid": "fe866aec9639b2be8244b3b7b7766e33",
           "brand": "쿠팡이츠",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20260402140003239",
-          "title": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략",
-          "summary": "iM뱅크, 쿠팡이츠와 손잡고 수도권 디지털 고객 공략 통해 대상 여부를 실시간으로 확인할 수 있다 온·오프라인을 연계한 지역 마케팅도 병행된다 [중립 바이럴]",
-          "sentiment": "neutral",
+          "url": "http://v.daum.net/v/20260402183933923",
+          "title": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다",
+          "summary": "iM뱅크, 쿠팡이츠 손 잡고 수도권 고객 잡는다 안방인 대구·경북 지역 'Z세대' 등 시·도민들을 위한 공략도 놓치지 않았다 우선 대구 iM뱅크 영업점 대상 '와우회원 쿠팡이츠 배달비 0원' 등 지역 고객 대상 마케팅을 함께 추진한다 [긍정 바이럴]",
+          "sentiment": "positive",
           "tags": [
             "#배달비논란"
           ],
-          "viral_score": 19.2,
+          "viral_score": 29.7,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-05T23:17:31.976375+00:00",
-          "processed_at": "2026-04-05T23:18:13.993367+00:00",
+          "published_at": "2026-04-06T06:28:48.293972+00:00",
+          "processed_at": "2026-04-06T06:29:13.416152+00:00",
           "views": 0,
           "comments": 0
         },
@@ -2500,8 +2547,8 @@
             "점주",
             "라이더"
           ],
-          "published_at": "2026-04-05T23:17:04.155551+00:00",
-          "processed_at": "2026-04-05T23:18:13.992171+00:00",
+          "published_at": "2026-04-06T06:28:22.371611+00:00",
+          "processed_at": "2026-04-06T06:29:13.414759+00:00",
           "views": 0,
           "comments": 0
         },
@@ -2521,8 +2568,8 @@
           "stakeholders": [
             "라이더"
           ],
-          "published_at": "2026-04-05T23:17:04.155212+00:00",
-          "processed_at": "2026-04-05T23:18:13.992102+00:00",
+          "published_at": "2026-04-06T06:28:22.371241+00:00",
+          "processed_at": "2026-04-06T06:29:13.414684+00:00",
           "views": 0,
           "comments": 0
         },
@@ -2542,38 +2589,36 @@
           "stakeholders": [
             "라이더"
           ],
-          "published_at": "2026-04-05T23:17:04.154900+00:00",
-          "processed_at": "2026-04-05T23:18:13.992033+00:00",
+          "published_at": "2026-04-06T06:28:22.370867+00:00",
+          "processed_at": "2026-04-06T06:29:13.414607+00:00",
           "views": 0,
           "comments": 0
         },
         {
-          "uid": "fd994bedcad733cfa433b96b5bd60552",
+          "uid": "70db5f5d0e22990aea964e3186f019c5",
           "brand": "쿠팡이츠",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20260331162700921",
-          "title": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서",
-          "summary": "“안전은 완전해야”…노사발전재단, 사계절 안전관리 강화 나서 이날 김포와 부산에서 시작됐다 김포 근로자이음센터에서는 쿠팡이츠서비스, 한국오토바이정비협회 등과 협업해 이동노동자를 대상 [중립 바이럴]",
-          "sentiment": "neutral",
-          "tags": [
-            "#라이더이슈"
-          ],
-          "viral_score": 19.2,
+          "channel": "다음카페",
+          "url": "http://v.daum.net/v/20260215195547440",
+          "title": "[단독] \"화장실도 못 가게 해\"…쿠팡이츠 상담원 '업무 과중' 논란",
+          "summary": "[단독] \"화장실도 못 가게 해\"…쿠팡이츠 상담원 '업무 과중' 논란 민원을 상담원들에게 떠넘겼단 비판을 받았던 쿠팡이 최근 상담원들의 업무 방 배달앱 쿠팡이츠 상담원의 동시 상담을 세 건까지 늘리고, 채팅 상담도 자동 배정으로 방식을 바꿨기 때문입니다 [부정 바이럴]",
+          "sentiment": "negative",
+          "tags": [],
+          "viral_score": 33.9,
           "status": "Stable",
           "stakeholders": [
-            "라이더"
+            "소비자"
           ],
-          "published_at": "2026-04-05T23:17:01.095386+00:00",
-          "processed_at": "2026-04-05T23:18:13.991962+00:00",
+          "published_at": "2026-04-06T06:27:52.822976+00:00",
+          "processed_at": "2026-04-06T06:29:13.414039+00:00",
           "views": 0,
           "comments": 0
         }
       ],
       "total": 20,
-      "avg_score": 32.6,
+      "avg_score": 31.1,
       "ratio": {
-        "negative": 60,
-        "positive": 5,
+        "negative": 55,
+        "positive": 15,
         "meme": 0
       }
     }
