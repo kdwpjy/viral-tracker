@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write           # issues.json 커밋을 위해 필요
 
+concurrency:
+  group: crawl
+  cancel-in-progress: true
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
@@ -41,7 +45,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/
           git diff --staged --quiet || git commit -m "chore: 데이터 갱신 $(date +'%Y-%m-%d %H:%M') KST"
-          git pull --rebase origin main
           git push
