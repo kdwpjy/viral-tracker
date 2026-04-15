@@ -45,7 +45,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add data/
           git diff --staged --quiet || git commit -m "chore: 데이터 갱신 $(date +'%Y-%m-%d %H:%M') KST"
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "push 실패, 재시도 $i/5..."
+            sleep 5
+          done
