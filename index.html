@@ -351,28 +351,6 @@
     .rising-badge.up { color: var(--pos); }
     .rising-badge.fire { color: var(--neg); }
 
-    /* ── Timeline ── */
-    .timeline { position: relative; padding-left: 20px; }
-    .timeline::before {
-      content: ''; position: absolute; left: 7px; top: 0; bottom: 0;
-      width: 2px; background: var(--border);
-    }
-    .tl-item {
-      position: relative; margin-bottom: 20px; padding-left: 20px;
-    }
-    .tl-dot {
-      position: absolute; left: -20px; top: 4px;
-      width: 14px; height: 14px; border-radius: 50%;
-      border: 2px solid var(--surface);
-    }
-    .tl-dot.pos { background: var(--pos); }
-    .tl-dot.neg { background: var(--neg); }
-    .tl-dot.meme { background: var(--meme); }
-    .tl-dot.neutral { background: var(--text-muted); }
-    .tl-time { font-size: 11px; color: var(--text-muted); margin-bottom: 3px; }
-    .tl-title { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
-    .tl-brand { font-size: 12px; color: var(--text-muted); }
-
     /* ── Animations ── */
     @keyframes pulse {
       0%, 100% { opacity: 1; transform: scale(1); }
@@ -745,56 +723,6 @@
     </div>
   </section>
 
-  <!-- ── 타임라인 ── -->
-  <section class="section">
-    <div class="section-header">
-      <h2 class="section-title"><span class="icon">🗓️</span> 오늘의 이슈 타임라인</h2>
-    </div>
-    <div class="timeline">
-      <div class="tl-item">
-        <div class="tl-dot neg"></div>
-        <div class="tl-time">오전 08:12</div>
-        <div class="tl-title">쿠팡이츠 라이더 산재 거부 의혹 — 블라인드 최초 게시</div>
-        <div class="tl-brand">쿠팡이츠 · 부정</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot pos"></div>
-        <div class="tl-time">오전 09:41</div>
-        <div class="tl-title">스타벅스 직원 우산 영상 — 스레드 최초 업로드</div>
-        <div class="tl-brand">스타벅스 · 긍정</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot neg"></div>
-        <div class="tl-time">오전 10:30</div>
-        <div class="tl-title">BBQ 가격 35,000원 인증 — 에펨코리아 게시 후 실시간 1위</div>
-        <div class="tl-brand">BBQ · 부정</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot meme"></div>
-        <div class="tl-time">오전 11:05</div>
-        <div class="tl-title">맥도날드 광고 vs 실물 밈 — 루리웹 → X 확산</div>
-        <div class="tl-brand">맥도날드 · 밈</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot neg"></div>
-        <div class="tl-time">오후 01:17</div>
-        <div class="tl-title">배민 배달비 인상 점주 반발 — 다음카페 자영업자 카페 확산</div>
-        <div class="tl-brand">배달의민족 · 부정</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot pos"></div>
-        <div class="tl-time">오후 02:50</div>
-        <div class="tl-title">올리브영 블라인드 폭로 — 직장인 카페 → 에펨코리아 확산 중</div>
-        <div class="tl-brand">올리브영 · 부정 (상승 중)</div>
-      </div>
-      <div class="tl-item">
-        <div class="tl-dot neutral"></div>
-        <div class="tl-time">오후 04:00 (예측)</div>
-        <div class="tl-title">BBQ 공식 입장 발표 예정 — 추적 중</div>
-        <div class="tl-brand">BBQ · 대응 모니터링</div>
-      </div>
-    </div>
-  </section>
 
 </div>
 
@@ -849,7 +777,6 @@
       renderHotCards(cachedData.hot || []);
       renderFeed();
       renderRising(cachedData.rising || []);
-      renderTimeline(cachedData.timeline || []);
       renderVersus(cachedData.versus || {});
 
       const updatedAt = cachedData.updated_at;
@@ -1010,23 +937,6 @@
     ).join('');
   }
 
-  function renderTimeline(timeline) {
-    const tl = document.querySelector('.timeline');
-    if (!timeline || timeline.length === 0) {
-      tl.innerHTML = '<div style="color:var(--text-muted);padding:14px">수집 대기 중...</div>';
-      return;
-    }
-    const dotClass = { positive: 'pos', negative: 'neg', meme: 'meme', neutral: 'neutral' };
-    tl.innerHTML = timeline.map(item => `
-      <div class="tl-item">
-        <div class="tl-dot ${dotClass[item.sentiment] || 'neutral'}"></div>
-        <div class="tl-time">${relativeTime(item.published_at)}</div>
-        <div class="tl-title">${item.title || ''}</div>
-        <div class="tl-brand">${item.brand || ''} · ${item.channel || ''} · ${SENTIMENT_LABEL[item.sentiment] || ''}</div>
-      </div>`
-    ).join('');
-  }
-
   function renderVersus(versus) {
     if (!versus || !versus.baemin) return;
     const { baemin, coupang } = versus;
@@ -1082,7 +992,6 @@
     document.querySelector('.hot-grid').innerHTML    = msg;
     document.getElementById('cardsGrid').innerHTML  = msg;
     document.querySelector('.rising-list').innerHTML = msg;
-    document.querySelector('.timeline').innerHTML   = msg;
   }
 
   // ── 탭 ────────────────────────────────────────────────────────────────────
