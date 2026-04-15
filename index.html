@@ -324,33 +324,6 @@
     .issue-card .card-title { font-size: 14px; margin-bottom: 6px; }
     .issue-card .card-summary { font-size: 12px; margin-bottom: 10px; }
 
-    /* ── Rising ── */
-    .rising-list { display: flex; flex-direction: column; gap: 10px; }
-    .rising-item {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      padding: 14px 18px;
-      display: flex; align-items: center; gap: 16px;
-      cursor: pointer;
-      transition: border-color .2s;
-    }
-    .rising-item:hover { border-color: var(--blue); }
-    .rising-rank {
-      font-size: 20px; font-weight: 900; color: var(--border);
-      width: 28px; text-align: center; flex-shrink: 0;
-    }
-    .rising-rank.top { color: var(--meme); }
-    .rising-info { flex: 1; }
-    .rising-title { font-size: 14px; font-weight: 600; margin-bottom: 2px; }
-    .rising-meta { font-size: 12px; color: var(--text-muted); }
-    .rising-badge {
-      display: flex; align-items: center; gap: 4px;
-      font-size: 12px; font-weight: 700; flex-shrink: 0;
-    }
-    .rising-badge.up { color: var(--pos); }
-    .rising-badge.fire { color: var(--neg); }
-
     /* ── Animations ── */
     @keyframes pulse {
       0%, 100% { opacity: 1; transform: scale(1); }
@@ -674,55 +647,6 @@
     </div>
   </section>
 
-  <!-- ── Rising ── -->
-  <section class="section">
-    <div class="section-header">
-      <h2 class="section-title"><span class="icon">📈</span> Rising — 지금 빠르게 퍼지는 중</h2>
-    </div>
-    <div class="rising-list">
-      <div class="rising-item">
-        <div class="rising-rank top">1</div>
-        <div class="rising-info">
-          <div class="rising-title">올리브영 "직원 인센티브 삭감" 블라인드 폭로글</div>
-          <div class="rising-meta">블라인드 → 에펨코리아 → 스레드 확산 중 · 2시간 전 시작</div>
-        </div>
-        <div class="rising-badge fire">🔺 +340% / 1h</div>
-      </div>
-      <div class="rising-item">
-        <div class="rising-rank top">2</div>
-        <div class="rising-info">
-          <div class="rising-title">이마트 자체브랜드 노브랜드 버거 신메뉴 가성비 극찬 후기</div>
-          <div class="rising-meta">다음카페 맘카페 · 인스타그램 · 4시간 전</div>
-        </div>
-        <div class="rising-badge up">🔺 +210% / 2h</div>
-      </div>
-      <div class="rising-item">
-        <div class="rising-rank">3</div>
-        <div class="rising-info">
-          <div class="rising-title">카카오뱅크 앱 UI 개편 "오히려 불편해졌다" 반응</div>
-          <div class="rising-meta">클리앙 · X(트위터) · 6시간 전</div>
-        </div>
-        <div class="rising-badge fire">🔺 +180% / 3h</div>
-      </div>
-      <div class="rising-item">
-        <div class="rising-rank">4</div>
-        <div class="rising-info">
-          <div class="rising-title">다이소 3,000원 화장품 품절 대란 인증샷 릴레이</div>
-          <div class="rising-meta">인스타그램 · 스레드 · 어제 오후</div>
-        </div>
-        <div class="rising-badge up">🔺 +120% / 6h</div>
-      </div>
-      <div class="rising-item">
-        <div class="rising-rank">5</div>
-        <div class="rising-info">
-          <div class="rising-title">GS25 편의점 알바 직원 응대 영상 "갑질 고객" 역관광 밈</div>
-          <div class="rising-meta">루리웹 · 유튜브 쇼츠 · 어제</div>
-        </div>
-        <div class="rising-badge up">🔺 +95% / 12h</div>
-      </div>
-    </div>
-  </section>
-
 
 </div>
 
@@ -776,7 +700,6 @@
       feedIssues = cachedData.feed || [];
       renderHotCards(cachedData.hot || []);
       renderFeed();
-      renderRising(cachedData.rising || []);
       renderVersus(cachedData.versus || {});
 
       const updatedAt = cachedData.updated_at;
@@ -917,26 +840,6 @@
     ).join('');
   }
 
-  function renderRising(rising) {
-    const list = document.querySelector('.rising-list');
-    if (!rising || rising.length === 0) {
-      list.innerHTML = '<div style="color:var(--text-muted);padding:14px">수집 대기 중...</div>';
-      return;
-    }
-    list.innerHTML = rising.map((item, idx) => `
-      <div class="rising-item">
-        <div class="rising-rank ${idx < 2 ? 'top' : ''}">${idx + 1}</div>
-        <div class="rising-info">
-          <div class="rising-title">${item.title || ''}</div>
-          <div class="rising-meta">${item.channel || ''} · ${item.brand || ''} · ${relativeTime(item.published_at)}</div>
-        </div>
-        <div class="rising-badge ${item.sentiment === 'negative' ? 'fire' : 'up'}">
-          ${item.status === 'Hot' ? '🔴 Hot' : '🔺 Rising'}
-        </div>
-      </div>`
-    ).join('');
-  }
-
   function renderVersus(versus) {
     if (!versus || !versus.baemin) return;
     const { baemin, coupang } = versus;
@@ -966,7 +869,7 @@
     const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
     const badge = SENTIMENT_LABEL[i.sentiment] || '○';
     return `
-      <div class="versus-issue ${css}">
+      <div class="versus-issue ${css}" ${i.url ? `onclick="window.open('${i.url}','_blank','noopener')"` : ''}>
         <div class="versus-issue-title">${i.title || ''}</div>
         <div class="versus-issue-meta">
           <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
