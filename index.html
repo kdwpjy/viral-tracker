@@ -200,6 +200,19 @@
     }
     .source-link:hover { color: var(--text); border-color: var(--blue); }
 
+    /* ── Like button ── */
+    .like-btn {
+      display: inline-flex; align-items: center; gap: 5px;
+      background: none; border: 1px solid var(--border);
+      border-radius: 20px; padding: 4px 10px;
+      font-size: 12px; color: var(--text-muted);
+      cursor: pointer; transition: all .15s;
+      margin-top: 10px;
+    }
+    .like-btn:hover { border-color: #f87171; color: #f87171; }
+    .like-btn.liked  { border-color: #f87171; color: #f87171; background: rgba(248,113,113,.08); }
+    .like-btn .like-icon { font-size: 13px; }
+
     /* ── Baemin vs Coupang ── */
     .versus-wrap {
       background: var(--surface);
@@ -882,6 +895,43 @@
     );
   }
 
+  // ── 좋아요 (localStorage) ────────────────────────────────────────────────────
+  const LIKES_KEY = 'vt-likes';
+
+  function getLikes() {
+    try { return JSON.parse(localStorage.getItem(LIKES_KEY) || '{}'); }
+    catch { return {}; }
+  }
+  function isLiked(uid) { return !!getLikes()[uid]; }
+  function getLikeCount(uid) { return getLikes()[uid] || 0; }
+
+  function toggleLike(event, uid) {
+    event.stopPropagation();
+    const likes = getLikes();
+    if (likes[uid]) {
+      delete likes[uid];
+    } else {
+      likes[uid] = 1;
+    }
+    localStorage.setItem(LIKES_KEY, JSON.stringify(likes));
+
+    // 버튼 UI 즉시 반영
+    const btn = event.currentTarget;
+    const liked = !!likes[uid];
+    btn.classList.toggle('liked', liked);
+    const countEl = btn.querySelector('.like-count');
+    if (countEl) countEl.textContent = liked ? 1 : 0;
+  }
+
+  function likeBtn(uid) {
+    if (!uid) return '';
+    const liked = isLiked(uid);
+    const count = getLikeCount(uid);
+    return `<button class="like-btn${liked ? ' liked' : ''}" onclick="toggleLike(event,'${uid}')">
+      <span class="like-icon">♥</span><span class="like-count">${count}</span>
+    </button>`;
+  }
+
   // ── 렌더링 ─────────────────────────────────────────────────────────────────
 
   function issueCard(i, extraClass = '') {
@@ -913,6 +963,7 @@
           ${i.comments ? `<span>💬 ${i.comments}</span>` : ''}
           ${i.views    ? `<span>👁 ${i.views.toLocaleString()}</span>` : ''}
         </div>
+        ${likeBtn(i.uid)}
       </div>`;
   }
 
@@ -950,6 +1001,7 @@
             <span>⏱ ${relativeTime(item.published_at)}</span>
             ${item.comments ? `<span>💬 ${item.comments}</span>` : ''}
           </div>
+          ${likeBtn(item.uid)}
         </div>`;
     }).join('');
   }
