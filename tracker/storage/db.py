@@ -150,8 +150,9 @@ def get_versus() -> dict:
 def export_json():
     """GitHub Pages가 읽을 data/issues.json 생성"""
     from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
     data = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "updated_at": now.isoformat(),
         "hot":        get_hot(10),
         "feed":       get_timeline(60),
         "rising":     get_rising(10),
@@ -162,3 +163,11 @@ def export_json():
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[DB] data/issues.json 저장 완료 ({len(data['feed'])}건)")
+
+    # 시계열 스냅샷 저장 (data/history/YYYY-MM-DDTHH.json)
+    snapshot_dir = JSON_PATH.parent / "history"
+    snapshot_dir.mkdir(parents=True, exist_ok=True)
+    snapshot_path = snapshot_dir / f"{now.strftime('%Y-%m-%dT%H')}.json"
+    with open(snapshot_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"[DB] 스냅샷 저장 완료 → {snapshot_path.name}")

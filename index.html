@@ -890,7 +890,7 @@
     const tags  = (i.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
     const score = i.viral_score ?? 0;
     return `
-      <div class="issue-card ${css} ${extraClass} fade-in">
+      <div class="issue-card ${css} ${extraClass} fade-in" ${i.url ? `onclick="window.open('${i.url}','_blank','noopener')"` : ''}>
         <div class="card-top">
           <div class="brand-info">
             <div class="brand-logo">${brandEmoji(i.brand)}</div>
@@ -913,9 +913,6 @@
           ${i.comments ? `<span>💬 ${i.comments}</span>` : ''}
           ${i.views    ? `<span>👁 ${i.views.toLocaleString()}</span>` : ''}
         </div>
-        ${i.url ? `<div class="source-links" style="margin-top:10px">
-          <a class="source-link" href="${i.url}" target="_blank" rel="noopener">📌 원문 보기</a>
-        </div>` : ''}
       </div>`;
   }
 
@@ -931,7 +928,7 @@
       const score = item.viral_score ?? 0;
       const rankClass = idx === 0 ? 'rank-1' : '';
       return `
-        <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s">
+        <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s" ${item.url ? `onclick="window.open('${item.url}','_blank','noopener')"` : ''}>
           <div class="card-top">
             <div class="brand-info">
               <div class="brand-logo">${brandEmoji(item.brand)}</div>
@@ -953,9 +950,6 @@
             <span>⏱ ${relativeTime(item.published_at)}</span>
             ${item.comments ? `<span>💬 ${item.comments}</span>` : ''}
           </div>
-          ${item.url ? `<div class="source-links" style="margin-top:10px">
-            <a class="source-link" href="${item.url}" target="_blank" rel="noopener">📌 원문</a>
-          </div>` : ''}
         </div>`;
     }).join('');
   }
