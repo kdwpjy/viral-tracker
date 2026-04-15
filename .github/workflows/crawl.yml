@@ -25,13 +25,15 @@ jobs:
 
       - name: 의존성 설치
         run: |
-          pip install httpx beautifulsoup4 lxml playwright
+          pip install -r tracker/requirements.txt
+          pip install playwright
           playwright install chromium --with-deps
 
       - name: 데이터 수집 실행
         run: python -m tracker.scheduler.pipeline --once
         env:
           PYTHONPATH: ${{ github.workspace }}
+          PLAYWRIGHT_CHANNEL: chromium
 
       - name: data/ 커밋 (issues.json + 히스토리 스냅샷)
         run: |

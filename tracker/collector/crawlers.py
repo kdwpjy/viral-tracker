@@ -4,6 +4,7 @@ httpx + BeautifulSoup4 사용 (정적 HTML)
 JS 렌더링이 필요한 경우 Playwright 사용
 """
 import asyncio
+import os
 import re
 from datetime import datetime, timezone
 from urllib.parse import quote
@@ -12,6 +13,9 @@ import httpx
 from bs4 import BeautifulSoup
 
 from .base import Channel, RawPost, detect_brands
+
+# 로컬: channel="chrome" (시스템 Chrome), CI: channel="chromium" (설치된 Chromium)
+_PW_CHANNEL = os.environ.get("PLAYWRIGHT_CHANNEL", "chrome")
 
 HEADERS = {
     "User-Agent": (
@@ -198,106 +202,54 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
     return posts
 
 
-# ── 루리웹 (서버사이드 렌더링 — requests 가능) ───────────────────────────────
 
-async def crawl_ruliweb(keyword: str) -> list[RawPost]:
-    """
-    루리웹 /search 는 JS렌더링 → Playwright 사용
-    Playwright 미설치 시 건너뜀
-    """
-    posts = []
-    try:
-        from playwright.async_api import async_playwright
-    except ImportError:
-        print("[Ruliweb] playwright 미설치 — 건너뜀")
-        return posts
-
-    url = f"https://bbs.ruliweb.com/search?searchkey={quote(keyword)}&searchtype=subject&page=1"
-
-    try:
-        async with async_playwright() as pw:
-            browser = await pw.chromium.launch(headless=True)
-            page    = await browser.new_page(user_agent=HEADERS["User-Agent"])
-            await page.goto(url, wait_until="domcontentloaded", timeout=20000)
-            await asyncio.sleep(2)
-
-            rows = await page.query_selector_all("tr.table_body")
-            for row in rows[:15]:
-                a = await row.query_selector("td.subject a.deco")
-                if not a:
-                    continue
-                title    = _clean(await a.inner_text())
-                href     = await a.get_attribute("href") or ""
-                if not href.startswith("http"):
-                    href = "https://bbs.ruliweb.com" + href
-
-                hit_el  = await row.query_selector("td.hit")
-                cmts_el = await row.query_selector("td.reple_count")
-                views    = _parse_int(await hit_el.inner_text() if hit_el else "")
-                comments = _parse_int(await cmts_el.inner_text() if cmts_el else "")
-                post_id  = (re.search(r"/(\d+)", href) or [None, title[:12]])[1]
-
-                if not title:
-                    continue
-
-                posts.append(RawPost(
-                    channel      = Channel.RULIWEB,
-                    post_id      = str(post_id),
-                    url          = href,
-                    title        = title,
-                    body         = title,
-                    published_at = datetime.now(timezone.utc),
-                    views        = views,
-                    comments     = comments,
-                ))
-
-            await browser.close()
-            await asyncio.sleep(CRAWL_DELAY)
-    except Exception as e:
-        print(f"[Ruliweb] '{keyword}' 수집 실패: {e}")
-
-    return posts
-
-
-# ── 에펨코리아 (JS 렌더링 필요 → Playwright) ────────────────────────────────
+# ── 에펨코리아 (Playwright) ───────────────────────────────────────────────────
 
 async def crawl_fmkorea(keyword: str) -> list[RawPost]:
     """
-    에펨코리아는 XE 기반이나 검색 결과가 JS로 로드됨.
-    Playwright가 설치되지 않은 경우 빈 리스트 반환.
+    에펨코리아 httpx 차단(430) → Playwright + channel=chrome 으로 우회
+    URL: /?mid=search&search_target=title&search_keyword={keyword}
+    셀렉터: h3.title a > span.ellipsis-target
     """
+    url = f"https://www.fmkorea.com/?mid=search&search_target=title&search_keyword={quote(keyword)}"
     posts = []
+
     try:
         from playwright.async_api import async_playwright
     except ImportError:
-        print("[FMKorea] playwright 미설치 — 건너뜀 (pip install playwright && playwright install chromium)")
+        print("[FMKorea] playwright 미설치")
         return posts
-
-    url = f"https://www.fmkorea.com/search?searchTarget=title&keyword={quote(keyword)}"
 
     try:
         async with async_playwright() as pw:
-            browser = await pw.chromium.launch(headless=True)
-            page    = await browser.new_page(user_agent=HEADERS["User-Agent"])
+            browser = await pw.chromium.launch(channel=_PW_CHANNEL, headless=True)
+            page = await browser.new_page(user_agent=HEADERS["User-Agent"])
             await page.goto(url, wait_until="domcontentloaded", timeout=20000)
             await asyncio.sleep(2)
 
-            rows = await page.query_selector_all("ul.searchResultList > li")
-            for row in rows[:15]:
-                a = await row.query_selector("h3.title a")
+            h3_list = await page.query_selector_all("h3.title")
+            for h3 in h3_list[:15]:
+                a = await h3.query_selector("a")
                 if not a:
                     continue
 
-                title    = _clean(await a.inner_text())
-                href     = await a.get_attribute("href") or ""
+                span = await a.query_selector("span.ellipsis-target")
+                if span:
+                    title = _clean(await span.inner_text())
+                else:
+                    title = _clean(await a.inner_text())
+                title = re.sub(r"\[\d+\]", "", title).strip()
+
+                href = await a.get_attribute("href") or ""
                 if href.startswith("/"):
                     href = "https://www.fmkorea.com" + href
 
-                view_el = await row.query_selector(".count_view")
-                cmts_el = await row.query_selector(".count_comment")
-                views    = _parse_int(await view_el.inner_text() if view_el else "")
+                cmts_el  = await a.query_selector("span.comment_count")
                 comments = _parse_int(await cmts_el.inner_text() if cmts_el else "")
-                post_id  = (re.search(r"/(\d+)", href) or [None, title[:12]])[1]
+                post_id  = (re.search(r"/(\d+)$", href) or [None, title[:12]])[1]
+
+                if not title:
+                    continue
 
                 posts.append(RawPost(
                     channel      = Channel.FMKOREA,
@@ -306,69 +258,120 @@ async def crawl_fmkorea(keyword: str) -> list[RawPost]:
                     title        = title,
                     body         = title,
                     published_at = datetime.now(timezone.utc),
-                    views        = views,
                     comments     = comments,
                 ))
 
             await browser.close()
-            await asyncio.sleep(CRAWL_DELAY)
+        await asyncio.sleep(CRAWL_DELAY)
     except Exception as e:
         print(f"[FMKorea] '{keyword}' 수집 실패: {e}")
 
     return posts
 
 
-# ── 클리앙 ────────────────────────────────────────────────────────────────────
+# ── 클리앙 (정적 크롤링) ─────────────────────────────────────────────────────
 
 async def crawl_clien(keyword: str) -> list[RawPost]:
     """
-    클리앙 소비자 게시판 검색 (networkidle 필요)
-    Playwright 없으면 건너뜀
+    클리앙 소비자 게시판 검색 — httpx로 충분 (서버사이드 렌더링)
+    셀렉터: div.list_item:not(.blocked) > a.subject_fixed
     """
-    posts = []
-    try:
-        from playwright.async_api import async_playwright
-    except ImportError:
-        return posts
-
     url = f"https://www.clien.net/service/search?q={quote(keyword)}&sort=recency&boardName=cm_consumer"
+    posts = []
 
     try:
-        async with async_playwright() as pw:
-            browser = await pw.chromium.launch(headless=True)
-            page    = await browser.new_page(user_agent=HEADERS["User-Agent"])
-            await page.goto(url, wait_until="networkidle", timeout=25000)
-            await asyncio.sleep(1.5)
+        async with httpx.AsyncClient(headers=HEADERS, follow_redirects=True, timeout=15) as client:
+            resp = await client.get(url)
+            resp.raise_for_status()
 
-            items = await page.query_selector_all("div.list_item")
-            for item in items[:15]:
-                a = await item.query_selector("span.subject_fixed a")
-                if not a:
-                    continue
+        soup = BeautifulSoup(resp.text, "html.parser")
+        items = [i for i in soup.select("div.list_item") if "blocked" not in (i.get("class") or [])]
 
-                title    = _clean(await a.inner_text())
-                href     = "https://www.clien.net" + (await a.get_attribute("href") or "")
-                hit_el   = await item.query_selector("span.hit")
-                cmts_el  = await item.query_selector("span.rSymbol")
-                views    = _parse_int(await hit_el.inner_text() if hit_el else "")
-                comments = _parse_int(await cmts_el.inner_text() if cmts_el else "")
-                post_id  = (re.search(r"(\d+)$", href) or [None, title[:12]])[1]
+        for item in items[:15]:
+            a = item.select_one("a.subject_fixed[data-role='list-title-text']")
+            if not a:
+                continue
 
-                posts.append(RawPost(
-                    channel      = Channel.CLIEN,
-                    post_id      = str(post_id),
-                    url          = href,
-                    title        = title,
-                    body         = title,
-                    published_at = datetime.now(timezone.utc),
-                    views        = views,
-                    comments     = comments,
-                ))
+            title = _clean(a.get("title") or a.get_text())
+            href  = a.get("href", "")
+            if href.startswith("/"):
+                href = "https://www.clien.net" + href.split("?")[0]
 
-            await browser.close()
-            await asyncio.sleep(CRAWL_DELAY)
+            comments = _parse_int(item.get("data-comment-count", "0"))
+            post_id  = (re.search(r"/(\d+)$", href) or [None, title[:12]])[1]
+
+            if not title:
+                continue
+
+            posts.append(RawPost(
+                channel      = Channel.CLIEN,
+                post_id      = str(post_id),
+                url          = href,
+                title        = title,
+                body         = title,
+                published_at = datetime.now(timezone.utc),
+                comments     = comments,
+            ))
+
+        await asyncio.sleep(CRAWL_DELAY)
     except Exception as e:
         print(f"[Clien] '{keyword}' 수집 실패: {e}")
+
+    return posts
+
+
+# ── 뽐뿌 (httpx 정적 크롤링) ─────────────────────────────────────────────────
+
+async def crawl_ppomppu(keyword: str) -> list[RawPost]:
+    """
+    뽐뿌 자유게시판 제목 검색 — httpx로 충분 (서버사이드 렌더링)
+    URL: /zboard/zboard.php?id=freeboard&keyword={keyword}&keyfield=subject
+    셀렉터: a.baseList-title[href*=id=freeboard] / span.baseList-c / td.baseList-views
+    """
+    url = f"https://www.ppomppu.co.kr/zboard/zboard.php?id=freeboard&keyword={quote(keyword)}&keyfield=subject"
+    posts = []
+
+    try:
+        async with httpx.AsyncClient(headers=HEADERS, follow_redirects=True, timeout=15) as client:
+            resp = await client.get(url)
+            resp.raise_for_status()
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+        title_links = [a for a in soup.find_all("a", class_="baseList-title", href=True)
+                       if "id=freeboard" in a.get("href", "")]
+
+        for a in title_links[:15]:
+            span = a.find("span")
+            title = _clean(span.get_text() if span else a.get_text())
+            if not title:
+                continue
+
+            raw_href = a.get("href", "")
+            # keyword 파라미터 제거한 클린 URL
+            no_match = re.search(r"no=(\d+)", raw_href)
+            post_id  = no_match.group(1) if no_match else title[:12]
+            href     = f"https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no={post_id}"
+
+            row      = a.find_parent("tr")
+            cmts_el  = a.find_parent("td").find("span", class_="baseList-c") if a.find_parent("td") else None
+            views_el = row.find("td", class_="baseList-views") if row else None
+            comments = _parse_int(cmts_el.get_text() if cmts_el else "")
+            views    = _parse_int(views_el.get_text() if views_el else "")
+
+            posts.append(RawPost(
+                channel      = Channel.PPOMPPU,
+                post_id      = post_id,
+                url          = href,
+                title        = title,
+                body         = title,
+                published_at = datetime.now(timezone.utc),
+                views        = views,
+                comments     = comments,
+            ))
+
+        await asyncio.sleep(CRAWL_DELAY)
+    except Exception as e:
+        print(f"[Ppomppu] '{keyword}' 수집 실패: {e}")
 
     return posts
 
@@ -379,7 +382,7 @@ CRAWLERS = [
     crawl_naver_news,
     crawl_daum_news,
     crawl_daum_cafe,
-    crawl_ruliweb,
+    crawl_ppomppu,
     crawl_fmkorea,
     crawl_clien,
 ]

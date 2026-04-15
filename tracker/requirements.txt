@@ -5,6 +5,5 @@ httpx>=0.27.0
 beautifulsoup4>=4.12.0
 lxml>=5.2.0
 
-# JS 렌더링이 필요한 사이트 (에펨코리아, 클리앙)
-# 설치 후: playwright install chromium
+# JS 렌더링 (에펨코리아)
 playwright>=1.44.0
