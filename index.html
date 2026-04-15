@@ -844,12 +844,14 @@
     if (!versus || !versus.baemin) return;
     const { baemin, coupang } = versus;
 
-    // 카운트·스코어 업데이트
-    document.querySelector('.versus-score.baemin-score')?.remove();
+    const bM = baemin.mentions ?? baemin.total ?? 0;
+    const cM = coupang.mentions ?? coupang.total ?? 0;
+
+    // 헤더 점수 업데이트
     const bScore = document.querySelectorAll('.versus-score')[0];
     const cScore = document.querySelectorAll('.versus-score')[1];
-    if (bScore) bScore.textContent = `이슈 ${baemin.total}건 · 스코어 avg ${baemin.avg_score}`;
-    if (cScore) cScore.textContent = `이슈 ${coupang.total}건 · 스코어 avg ${coupang.avg_score}`;
+    if (bScore) bScore.textContent = `언급 ${bM}건 · avg ${baemin.avg_score}`;
+    if (cScore) cScore.textContent = `언급 ${cM}건 · avg ${coupang.avg_score}`;
 
     // 이슈 목록 교체
     const [bCol, cCol] = document.querySelectorAll('.versus-col');
@@ -863,6 +865,54 @@
         coupang.issues.map(i => versusIssueHTML(i)).join('') +
         stakeholderHTML(coupang.issues);
     }
+
+    // 통계 바 업데이트
+    const statRow = document.querySelector('.versus-stat-row');
+    if (!statRow) return;
+    const maxM = Math.max(bM, cM, 1);
+    const bPct = Math.round(bM / maxM * 100);
+    const cPct = Math.round(cM / maxM * 100);
+    const br = baemin.ratio || {};
+    const cr = coupang.ratio || {};
+    statRow.innerHTML = `
+      <div class="versus-stat">
+        <div class="versus-stat-label">언급 빈도 비교 (전체 수집 기사 기준)</div>
+        <div class="versus-stat-bars">
+          <div class="versus-stat-bar-row">
+            <span class="vbar-label" style="color:var(--baemin)">배민</span>
+            <div class="vbar-track"><div class="vbar-fill baemin" style="width:${bPct}%"></div></div>
+            <span class="vbar-val" style="color:var(--baemin)">${bM}건</span>
+          </div>
+          <div class="versus-stat-bar-row">
+            <span class="vbar-label" style="color:var(--coupang)">쿠팡이츠</span>
+            <div class="vbar-track"><div class="vbar-fill coupang" style="width:${cPct}%"></div></div>
+            <span class="vbar-val" style="color:var(--coupang)">${cM}건</span>
+          </div>
+        </div>
+      </div>
+      <div class="versus-stat">
+        <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 밈)</div>
+        <div class="versus-stat-bars">
+          <div class="versus-stat-bar-row">
+            <span class="vbar-label" style="color:var(--baemin)">배민</span>
+            <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
+              <div style="position:absolute;left:0;top:0;height:100%;width:${br.negative||0}%;background:var(--neg);"></div>
+              <div style="position:absolute;left:${br.negative||0}%;top:0;height:100%;width:${br.positive||0}%;background:var(--pos);"></div>
+              <div style="position:absolute;left:${(br.negative||0)+(br.positive||0)}%;top:0;height:100%;width:${br.meme||0}%;background:var(--meme);"></div>
+            </div>
+            <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.positive||0}/${br.meme||0}</span>
+          </div>
+          <div class="versus-stat-bar-row">
+            <span class="vbar-label" style="color:var(--coupang)">쿠팡</span>
+            <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
+              <div style="position:absolute;left:0;top:0;height:100%;width:${cr.negative||0}%;background:var(--neg);"></div>
+              <div style="position:absolute;left:${cr.negative||0}%;top:0;height:100%;width:${cr.positive||0}%;background:var(--pos);"></div>
+              <div style="position:absolute;left:${(cr.negative||0)+(cr.positive||0)}%;top:0;height:100%;width:${cr.meme||0}%;background:var(--meme);"></div>
+            </div>
+            <span class="vbar-val" style="font-size:10px">${cr.negative||0}/${cr.positive||0}/${cr.meme||0}</span>
+          </div>
+        </div>
+      </div>`;
   }
 
   function versusIssueHTML(i) {

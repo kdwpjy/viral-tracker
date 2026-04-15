@@ -1,7 +1,8 @@
+import hashlib
+import re
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import Enum
-import hashlib
 
 
 class Channel(str, Enum):
@@ -34,25 +35,24 @@ class RawPost:
 
 # 감지할 브랜드와 검색 키워드 매핑
 BRAND_KEYWORDS: dict[str, list[str]] = {
-    "배달의민족": ["배민", "배달의민족", "우아한형제들"],
+    "배민": ["배민", "배달의민족"],
     "쿠팡이츠":   ["쿠팡이츠"],
-    "BBQ":       ["BBQ", "비비큐"],
-    "스타벅스":   ["스타벅스"],
-    "맥도날드":   ["맥도날드", "맥날"],
-    "올리브영":   ["올리브영", "올영"],
-    "카카오뱅크": ["카카오뱅크", "카뱅"],
-    "다이소":     ["다이소"],
-    "GS25":      ["GS25"],
-    "이마트":     ["이마트"],
-    "쿠팡":       ["쿠팡"],
-    "네이버":     ["네이버"],
-    "카카오":     ["카카오"],
+}
+
+# 정규식 기반 언급 감지 — 띄어쓰기 변형 허용 (배달 의 민족, 쿠팡 이츠 등)
+BRAND_MENTION_PATTERNS: dict[str, re.Pattern] = {
+    "배달의민족": re.compile(r'배민|배달\s*의\s*민족'),
+    "쿠팡이츠":   re.compile(r'쿠팡\s*이츠'),
 }
 
 def detect_brands(text: str) -> list[str]:
     found = []
     for brand, keywords in BRAND_KEYWORDS.items():
-        if any(kw in text for kw in keywords):
+        pattern = BRAND_MENTION_PATTERNS.get(brand)
+        if pattern:
+            if pattern.search(text):
+                found.append(brand)
+        elif any(kw in text for kw in keywords):
             found.append(brand)
     return found
 

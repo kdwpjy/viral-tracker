@@ -141,9 +141,20 @@ def get_versus() -> dict:
             "meme":     round(sum(1 for i in items if i["sentiment"] == "meme")     / total * 100),
         }
 
+    # 전체 수집 기사에서 정규식 기반 언급 횟수 집계
+    from tracker.collector.base import BRAND_MENTION_PATTERNS
+    with get_conn() as conn:
+        all_rows = conn.execute("SELECT title, summary FROM issues").fetchall()
+    mention_counts = {}
+    for brand, pattern in BRAND_MENTION_PATTERNS.items():
+        mention_counts[brand] = sum(
+            1 for row in all_rows
+            if pattern.search((row["title"] or "") + " " + (row["summary"] or ""))
+        )
+
     return {
-        "baemin":  {"issues": baemin[:5],  "total": len(baemin),  "avg_score": avg_score(baemin),  "ratio": ratio(baemin)},
-        "coupang": {"issues": coupang[:5], "total": len(coupang), "avg_score": avg_score(coupang), "ratio": ratio(coupang)},
+        "baemin":  {"issues": baemin[:5],  "total": len(baemin),  "avg_score": avg_score(baemin),  "ratio": ratio(baemin),  "mentions": mention_counts.get("배달의민족", 0)},
+        "coupang": {"issues": coupang[:5], "total": len(coupang), "avg_score": avg_score(coupang), "ratio": ratio(coupang), "mentions": mention_counts.get("쿠팡이츠",   0)},
     }
 
 
