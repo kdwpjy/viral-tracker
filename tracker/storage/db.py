@@ -85,9 +85,12 @@ def _to_dicts(rows) -> list[dict]:
 
 
 def get_hot(limit=10) -> list[dict]:
+    from datetime import datetime, timezone, timedelta
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
     with get_conn() as conn:
         rows = conn.execute(
-            "SELECT * FROM issues ORDER BY viral_score DESC LIMIT ?", (limit,)
+            "SELECT * FROM issues WHERE published_at >= ? ORDER BY viral_score DESC LIMIT ?",
+            (cutoff, limit)
         ).fetchall()
     return _to_dicts(rows)
 
@@ -119,11 +122,14 @@ def get_timeline(limit=30) -> list[dict]:
 
 
 def get_versus() -> dict:
+    from datetime import datetime, timezone, timedelta
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
+
     def by_brand(name, limit=20):
         with get_conn() as conn:
             rows = conn.execute(
-                "SELECT * FROM issues WHERE brand LIKE ? ORDER BY published_at DESC LIMIT ?",
-                (f"%{name}%", limit)
+                "SELECT * FROM issues WHERE brand LIKE ? AND published_at >= ? ORDER BY published_at DESC LIMIT ?",
+                (f"%{name}%", cutoff, limit)
             ).fetchall()
         return _to_dicts(rows)
 

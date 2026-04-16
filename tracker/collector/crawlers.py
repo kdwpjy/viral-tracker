@@ -6,7 +6,7 @@ JS 렌더링이 필요한 경우 Playwright 사용
 import asyncio
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 import httpx
@@ -32,6 +32,63 @@ CRAWL_DELAY = 2.0  # 초 (사이트 부하 방지)
 
 def _clean(text: str) -> str:
     return re.sub(r"\s+", " ", text or "").strip()
+
+
+def _parse_date(text: str) -> datetime:
+    """
+    사이트별 날짜 텍스트를 datetime(UTC)으로 변환.
+    파싱 실패 시 현재 시각 반환.
+    지원 형식:
+      "16:30"          → 오늘
+      "04.16"          → 올해 4월 16일
+      "26.04.16"       → 2026-04-16
+      "2026.04.16"     → 2026-04-16
+      "2026-04-16"     → 2026-04-16
+      "2026/04/16"     → 2026-04-16
+      "N분/시간/일 전"  → 상대 시각
+    """
+    now = datetime.now(timezone.utc)
+    text = (text or "").strip()
+
+    # HH:MM 또는 HH:MM:SS → 오늘
+    if re.match(r'^\d{1,2}:\d{2}(:\d{2})?$', text):
+        return now
+
+    # 상대 시각
+    m = re.match(r'^(\d+)\s*(분|시간|일)\s*전$', text)
+    if m:
+        n, unit = int(m.group(1)), m.group(2)
+        delta = {"분": timedelta(minutes=n), "시간": timedelta(hours=n), "일": timedelta(days=n)}
+        return now - delta[unit]
+
+    # YYYY-MM-DD 또는 YYYY/MM/DD
+    m = re.match(r'^(\d{4})[-/](\d{1,2})[-/](\d{1,2})', text)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except ValueError:
+            pass
+
+    # YY.MM.DD 또는 YYYY.MM.DD
+    m = re.match(r'^(\d{2,4})\.(\d{1,2})\.(\d{1,2})$', text)
+    if m:
+        try:
+            y = int(m.group(1))
+            if y < 100:
+                y += 2000
+            return datetime(y, int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except ValueError:
+            pass
+
+    # MM.DD → 올해
+    m = re.match(r'^(\d{1,2})\.(\d{1,2})$', text)
+    if m:
+        try:
+            return datetime(now.year, int(m.group(1)), int(m.group(2)), tzinfo=timezone.utc)
+        except ValueError:
+            pass
+
+    return now
 
 
 def _parse_int(text: str) -> int:
@@ -84,14 +141,16 @@ async def crawl_naver_news(keyword: str) -> list[RawPost]:
             desc_candidates = [_clean(a.get_text()) for a in news_links[1:] if len(_clean(a.get_text())) > 20]
             body = desc_candidates[0] if desc_candidates else title
 
-            post_id = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
+            date_el  = container.select_one("span.sds-comps-profile-info-item, span[class*='date'], span[class*='time']")
+            pub_date = _parse_date(date_el.get_text() if date_el else "")
+            post_id  = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
             posts.append(RawPost(
                 channel      = Channel.NAVER_NEWS,
                 post_id      = post_id,
                 url          = href,
                 title        = title,
                 body         = body,
-                published_at = datetime.now(timezone.utc),
+                published_at = pub_date,
             ))
 
         await asyncio.sleep(CRAWL_DELAY)
@@ -122,14 +181,16 @@ async def crawl_daum_news(keyword: str) -> list[RawPost]:
         for item in items[:15]:
             title_el = item.select_one("div.item-title a")
             desc_el  = item.select_one("p.conts-desc")
+            date_el  = item.select_one("span.date, span.item-date, span[class*='date']")
 
             if not title_el:
                 continue
 
-            title   = _clean(title_el.get_text())
-            href    = title_el.get("href", "")
-            body    = _clean(desc_el.get_text()) if desc_el else title
-            post_id = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
+            title    = _clean(title_el.get_text())
+            href     = title_el.get("href", "")
+            body     = _clean(desc_el.get_text()) if desc_el else title
+            pub_date = _parse_date(date_el.get_text() if date_el else "")
+            post_id  = re.sub(r"[^a-zA-Z0-9]", "", href)[-20:] or title[:20]
 
             if not title:
                 continue
@@ -140,7 +201,7 @@ async def crawl_daum_news(keyword: str) -> list[RawPost]:
                 url          = href,
                 title        = title,
                 body         = body,
-                published_at = datetime.now(timezone.utc),
+                published_at = pub_date,
             ))
 
         await asyncio.sleep(CRAWL_DELAY)
@@ -181,6 +242,8 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
             href      = title_el.get("href", "")
             cafe_name = _clean(cafe_el.get_text()) if cafe_el else ""
             body      = _clean(desc_el.get_text()) if desc_el else title
+            date_el   = item.select_one("span.date, span.item-date, span[class*='date']")
+            pub_date  = _parse_date(date_el.get_text() if date_el else "")
             post_id   = re.sub(r"[^a-zA-Z0-9]", "", href)[-24:] or title[:20]
 
             if not title:
@@ -192,7 +255,7 @@ async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
                 url          = href,
                 title        = f"[{cafe_name}] {title}" if cafe_name else title,
                 body         = body,
-                published_at = datetime.now(timezone.utc),
+                published_at = pub_date,
             ))
 
         await asyncio.sleep(CRAWL_DELAY)
@@ -299,6 +362,10 @@ async def crawl_clien(keyword: str) -> list[RawPost]:
 
             comments = _parse_int(item.get("data-comment-count", "0"))
             post_id  = (re.search(r"/(\d+)$", href) or [None, title[:12]])[1]
+            date_el  = item.select_one("span.time, span.list_time, time")
+            pub_date = _parse_date(
+                date_el.get("datetime") or date_el.get_text() if date_el else ""
+            )
 
             if not title:
                 continue
@@ -309,7 +376,7 @@ async def crawl_clien(keyword: str) -> list[RawPost]:
                 url          = href,
                 title        = title,
                 body         = title,
-                published_at = datetime.now(timezone.utc),
+                published_at = pub_date,
                 comments     = comments,
             ))
 
@@ -357,6 +424,15 @@ async def crawl_ppomppu(keyword: str) -> list[RawPost]:
             views_el = row.find("td", class_="baseList-views") if row else None
             comments = _parse_int(cmts_el.get_text() if cmts_el else "")
             views    = _parse_int(views_el.get_text() if views_el else "")
+            # 날짜 셀: baseList-space td 중 날짜/시간 패턴인 것을 찾음
+            date_text = ""
+            if row:
+                for td in row.find_all("td", class_="baseList-space"):
+                    t = td.get_text(strip=True)
+                    if re.match(r'^\d{2}[.:]\d{2}', t):  # HH:MM 또는 YY.MM.DD
+                        date_text = t
+                        break
+            pub_date = _parse_date(date_text)
 
             posts.append(RawPost(
                 channel      = Channel.PPOMPPU,
@@ -364,7 +440,7 @@ async def crawl_ppomppu(keyword: str) -> list[RawPost]:
                 url          = href,
                 title        = title,
                 body         = title,
-                published_at = datetime.now(timezone.utc),
+                published_at = pub_date,
                 views        = views,
                 comments     = comments,
             ))

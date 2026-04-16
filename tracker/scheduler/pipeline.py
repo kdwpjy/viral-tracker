@@ -13,10 +13,15 @@ from pathlib import Path
 # 프로젝트 루트를 sys.path에 추가 (GitHub Actions 환경 대응)
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
+from datetime import datetime, timedelta, timezone
+
 from tracker.collector.base import SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands
 from tracker.collector.crawlers import collect_keyword
 from tracker.processor.analyzer import analyze_posts
 from tracker.storage.db import init_db, save_issue, export_json
+
+FEED_CUTOFF_DAYS = 7   # 피드: 7일 이내
+HOT_CUTOFF_HOURS = 24  # hot/versus: 24시간 이내
 
 logging.basicConfig(
     level=logging.INFO,
@@ -51,7 +56,16 @@ async def run():
 
     log.info(f"📥 총 {len(all_posts)}건 수집 완료")
 
-    # 3) 분석
+    # 3) 7일 초과 게시글 필터 (오래된 검색 결과 제거)
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=FEED_CUTOFF_DAYS)
+    all_posts = [
+        p for p in all_posts
+        if p.published_at.replace(tzinfo=timezone.utc) >= cutoff
+    ]
+    log.info(f"📥 7일 이내 {len(all_posts)}건 필터링 완료")
+
+    # 4) 분석
     issues = analyze_posts(all_posts)
     log.info(f"🔍 {len(issues)}건 분석 완료")
 
