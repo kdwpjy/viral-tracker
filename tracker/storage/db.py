@@ -158,17 +158,47 @@ def get_versus() -> dict:
     }
 
 
+def _build_weekly_feed(now) -> list[dict]:
+    """현재 DB + 최근 7일 히스토리 스냅샷을 uid 기준 중복 제거 후 합산"""
+    from datetime import timedelta, timezone
+    cutoff = now - timedelta(days=7)
+
+    # 현재 실행 데이터
+    with get_conn() as conn:
+        rows = conn.execute("SELECT * FROM issues ORDER BY published_at DESC").fetchall()
+    seen: dict[str, dict] = {item["uid"]: item for item in _to_dicts(rows)}
+
+    # 히스토리 스냅샷 병합 (최신 → 오래된 순)
+    history_dir = JSON_PATH.parent / "history"
+    if history_dir.exists():
+        from datetime import datetime
+        for snap_file in sorted(history_dir.glob("*.json"), reverse=True):
+            try:
+                ts = datetime.fromisoformat(snap_file.stem).replace(tzinfo=timezone.utc)
+            except Exception:
+                continue
+            if ts < cutoff:
+                break
+            with open(snap_file, encoding="utf-8") as fp:
+                snap = json.load(fp)
+            for item in snap.get("feed", []):
+                uid = item.get("uid")
+                if uid and uid not in seen:
+                    seen[uid] = item
+
+    result = sorted(seen.values(), key=lambda x: x.get("published_at", ""), reverse=True)
+    return result[:300]
+
+
 def export_json():
     """GitHub Pages가 읽을 data/issues.json 생성"""
     from datetime import datetime, timezone
     now = datetime.now(timezone.utc)
     data = {
         "updated_at": now.isoformat(),
-        "hot":        get_hot(10),
-        "feed":       get_timeline(60),
-        "rising":     get_rising(10),
-        "timeline":   get_timeline(30),
-        "versus":     get_versus(),
+        "hot":        get_hot(10),        # 당일 수집 기준
+        "feed":       _build_weekly_feed(now),  # 최근 7일 누적
+        "versus":     get_versus(),       # 당일 수집 기준
     }
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(JSON_PATH, "w", encoding="utf-8") as f:
