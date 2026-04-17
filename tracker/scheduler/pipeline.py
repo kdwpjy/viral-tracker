@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from datetime import datetime, timedelta, timezone
 
 from tracker.collector.base import SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands
-from tracker.collector.crawlers import collect_keyword
+from tracker.collector.crawlers import collect_keyword, fetch_actual_dates
 from tracker.processor.analyzer import analyze_posts
 from tracker.storage.db import init_db, save_issue, export_json
 
@@ -56,7 +56,11 @@ async def run():
 
     log.info(f"📥 총 {len(all_posts)}건 수집 완료")
 
-    # 3) 7일 초과 게시글 필터 (오래된 검색 결과 제거)
+    # 3) 실제 발행일 보정 (뉴스·커뮤니티 기사 URL fetch) — 필터 전에 실행
+    log.info(f"📅 발행일 보정 중 (전체 {len(all_posts)}건)...")
+    await fetch_actual_dates(all_posts, concurrency=5)
+
+    # 4) 7일 초과 게시글 필터 (발행일 보정 후 적용)
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=FEED_CUTOFF_DAYS)
     all_posts = [
@@ -65,11 +69,11 @@ async def run():
     ]
     log.info(f"📥 7일 이내 {len(all_posts)}건 필터링 완료")
 
-    # 4) 분석
+    # 5) 분석
     issues = analyze_posts(all_posts)
     log.info(f"🔍 {len(issues)}건 분석 완료")
 
-    # 4) 저장 + JSON 내보내기
+    # 6) 저장 + JSON 내보내기
     for issue in issues:
         save_issue(issue)
 

@@ -677,12 +677,24 @@
     return BRAND_EMOJI[brand] || '🏢';
   }
 
+  // 우상단 갱신 시각용 — 상대시각
   function relativeTime(isoStr) {
     if (!isoStr) return '';
     const diff = (Date.now() - new Date(isoStr)) / 1000;
     if (diff < 3600)  return `${Math.floor(diff / 60)}분 전`;
     if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
     return `${Math.floor(diff / 86400)}일 전`;
+  }
+
+  // 카드용 — 발행 절대 시각
+  function pubTime(isoStr) {
+    if (!isoStr) return '';
+    const d  = new Date(isoStr);
+    const mm = String(d.getMonth() + 1).padStart(2, '0');
+    const dd = String(d.getDate()).padStart(2, '0');
+    const hh = String(d.getHours()).padStart(2, '0');
+    const mi = String(d.getMinutes()).padStart(2, '0');
+    return `${mm}.${dd} ${hh}:${mi}`;
   }
 
   // ── 데이터 로드 (단일 정적 JSON) ─────────────────────────────────────────────
@@ -704,7 +716,7 @@
 
       const updatedAt = cachedData.updated_at;
       document.querySelector('.updated').textContent =
-        updatedAt ? `마지막 갱신 ${relativeTime(updatedAt)}` : '갱신 대기 중';
+        updatedAt ? `마지막 갱신 ${pubTime(updatedAt)}` : '갱신 대기 중';
 
     } catch (e) {
       console.warn('data/issues.json 로드 실패:', e.message);
@@ -776,7 +788,7 @@
         </div>
         ${tags ? `<div class="tags">${tags}</div>` : ''}
         <div class="card-meta">
-          <span>⏱ ${relativeTime(i.published_at)}</span>
+          <span>🕐 ${pubTime(i.published_at)}</span>
           ${i.comments ? `<span>💬 ${i.comments}</span>` : ''}
           ${i.views    ? `<span>👁 ${i.views.toLocaleString()}</span>` : ''}
         </div>
@@ -815,7 +827,7 @@
           </div>
           <div class="tags">${(item.tags || []).map(t => `<span class="tag">${t}</span>`).join('')}</div>
           <div class="card-meta">
-            <span>⏱ ${relativeTime(item.published_at)}</span>
+            <span>🕐 ${pubTime(item.published_at)}</span>
             ${item.comments ? `<span>💬 ${item.comments}</span>` : ''}
           </div>
           ${likeBtn(item.uid)}
@@ -923,7 +935,7 @@
         <div class="versus-issue-title">${i.title || ''}</div>
         <div class="versus-issue-meta">
           <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
-          <span>${relativeTime(i.published_at)}</span>
+          <span>${pubTime(i.published_at)}</span>
         </div>
       </div>`;
   }

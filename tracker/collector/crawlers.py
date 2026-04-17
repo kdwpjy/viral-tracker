@@ -320,7 +320,8 @@ async def crawl_fmkorea(keyword: str) -> list[RawPost]:
                     url          = href,
                     title        = title,
                     body         = title,
-                    published_at = datetime.now(timezone.utc),
+                    # 30일 전 sentinel: fetch_actual_dates가 실제 날짜를 못 가져오면 7일 필터에서 제거됨
+                    published_at = datetime.now(timezone.utc) - timedelta(days=30),
                     comments     = comments,
                 ))
 
@@ -450,6 +451,225 @@ async def crawl_ppomppu(keyword: str) -> list[RawPost]:
         print(f"[Ppomppu] '{keyword}' 수집 실패: {e}")
 
     return posts
+
+
+# ── 기사 페이지에서 실제 발행일 보정 ─────────────────────────────────────────
+
+# HTTP fetch 시 스킵할 채널 (차단·JS 렌더링 필요)
+_SKIP_FETCH_CHANNELS = {Channel.PPOMPPU.value, Channel.FMKOREA.value}
+
+import logging as _logging
+_log = _logging.getLogger("crawlers")
+
+
+def _parse_date_text(text: str) -> datetime | None:
+    """
+    기사 페이지에서 추출한 날짜 텍스트를 UTC datetime으로 변환.
+    지원:
+      ISO8601  "2026-04-16T06:41:00+09:00" / "2026-04-16T06:41:00Z"
+      한국형   "2026. 4. 16. 06:41"
+      일반     "2025-12-30 21:48:17"
+    """
+    if not text:
+        return None
+    text = text.strip()
+
+    # ISO8601 with timezone offset (e.g. +09:00, Z)
+    m = re.match(r'(\d{4}-\d{2}-\d{2})[T ](\d{2}:\d{2}:\d{2})(Z|[+-]\d{2}:?\d{2})?', text)
+    if m:
+        try:
+            base = f"{m.group(1)}T{m.group(2)}"
+            tz_str = m.group(3) or ""
+            dt = datetime.fromisoformat(base)
+            if tz_str == "Z" or not tz_str:
+                dt = dt.replace(tzinfo=timezone.utc)
+            elif tz_str.startswith("+") or tz_str.startswith("-"):
+                # e.g. +09:00 → offset 9h
+                sign = 1 if tz_str[0] == "+" else -1
+                parts = tz_str[1:].replace(":", "")
+                off_h, off_m = int(parts[:2]), int(parts[2:4]) if len(parts) >= 4 else 0
+                offset = timedelta(hours=off_h, minutes=off_m) * sign
+                dt = dt.replace(tzinfo=timezone.utc) - offset
+            return dt
+        except Exception:
+            pass
+
+    # ISO8601 without seconds (e.g. 2026-04-16T06:41+09:00)
+    m = re.match(r'(\d{4}-\d{2}-\d{2})[T ](\d{2}:\d{2})(Z|[+-]\d{2}:?\d{2})?', text)
+    if m:
+        try:
+            base = f"{m.group(1)}T{m.group(2)}:00"
+            tz_str = m.group(3) or ""
+            dt = datetime.fromisoformat(base)
+            if tz_str == "Z" or not tz_str:
+                dt = dt.replace(tzinfo=timezone.utc)
+            elif tz_str.startswith("+") or tz_str.startswith("-"):
+                sign = 1 if tz_str[0] == "+" else -1
+                parts = tz_str[1:].replace(":", "")
+                off_h, off_m = int(parts[:2]), int(parts[2:4]) if len(parts) >= 4 else 0
+                offset = timedelta(hours=off_h, minutes=off_m) * sign
+                dt = dt.replace(tzinfo=timezone.utc) - offset
+            return dt
+        except Exception:
+            pass
+
+    # "2026. 4. 16. 06:41" 또는 "2026. 4. 16." (KST → UTC)
+    m = re.match(r'(\d{4})\.\s*(\d{1,2})\.\s*(\d{1,2})\.?\s*(?:(\d{1,2}):(\d{2}))?', text)
+    if m:
+        try:
+            y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            h  = int(m.group(4)) if m.group(4) else 0
+            mi = int(m.group(5)) if m.group(5) else 0
+            dt = datetime(y, mo, d, h, mi) - timedelta(hours=9)
+            return dt.replace(tzinfo=timezone.utc)
+        except Exception:
+            pass
+
+    return None
+
+
+def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
+    """HTML 파싱 결과에서 발행일 추출 (우선순위 순)"""
+    # 1. OG/표준 메타태그 (property=)
+    for prop in ("article:published_time", "article:modified_time",
+                 "og:article:published_time"):
+        el = soup.find("meta", property=prop)
+        if el and el.get("content"):
+            dt = _parse_date_text(el["content"])
+            if dt:
+                return dt
+
+    # 2. meta name 태그
+    for name in ("pubdate", "publishDate", "DATE", "article.published",
+                 "article_date_original", "LastModifiedDate"):
+        el = soup.find("meta", attrs={"name": name})
+        if el and el.get("content"):
+            dt = _parse_date_text(el["content"])
+            if dt:
+                return dt
+
+    # 3. <time datetime="...">
+    for el in soup.find_all("time", attrs={"datetime": True})[:3]:
+        dt = _parse_date_text(el.get("datetime", ""))
+        if dt:
+            return dt
+
+    # 4. 에펨코리아 (XE 플랫폼)
+    for sel in ("span.date", "div.info span.date", "li.date",
+                "div.rd_hd01 span", "span.m_no_date"):
+        el = soup.select_one(sel)
+        if el:
+            dt = _parse_date_text(el.get_text(strip=True))
+            if dt:
+                return dt
+
+    # 5. 클리앙 article-date
+    for sel in ("div.view-info span.view_time", "span.article-date",
+                "em.date", "p.date"):
+        el = soup.select_one(sel)
+        if el:
+            dt = _parse_date_text(el.get_text(strip=True))
+            if dt:
+                return dt
+
+    # 5. class 이름에 'date' 포함 (광범위 fallback)
+    for el in soup.select("[class*='date']")[:5]:
+        text = el.get_text(strip=True)
+        if re.match(r'\d{4}', text):  # 연도로 시작하는 텍스트만
+            dt = _parse_date_text(text)
+            if dt:
+                return dt
+
+    return None
+
+
+async def _fetch_fmkorea_dates_playwright(posts: list[RawPost]) -> int:
+    """Playwright로 에펨코리아 개별 기사 발행일 보정 (httpx 차단 우회)"""
+    try:
+        from playwright.async_api import async_playwright
+    except ImportError:
+        return 0
+
+    updated = 0
+    try:
+        async with async_playwright() as pw:
+            browser = await pw.chromium.launch(channel=_PW_CHANNEL, headless=True)
+            context = await browser.new_context(user_agent=HEADERS["User-Agent"])
+            sem = asyncio.Semaphore(3)  # 동시 3페이지
+
+            async def _fix_one(post: RawPost) -> None:
+                nonlocal updated
+                async with sem:
+                    try:
+                        page = await context.new_page()
+                        await page.goto(post.url, wait_until="domcontentloaded", timeout=10000)
+                        date_el = await page.query_selector("span.date")
+                        if date_el:
+                            text = _clean(await date_el.inner_text())
+                            dt = _parse_date_text(text)
+                            if dt:
+                                post.published_at = dt
+                                updated += 1
+                        await page.close()
+                    except Exception:
+                        pass
+
+            await asyncio.gather(*[_fix_one(p) for p in posts])
+            await context.close()
+            await browser.close()
+    except Exception as e:
+        _log.debug(f"[fetch_fmkorea_playwright] error: {e}")
+
+    return updated
+
+
+async def fetch_actual_dates(posts: list[RawPost], concurrency: int = 5) -> None:
+    """
+    뉴스·커뮤니티 기사 URL을 직접 fetch해서 실제 발행일로 published_at을 보정.
+    - httpx: 네이버뉴스·다음·클리앙
+    - Playwright: 에펨코리아 (httpx 차단)
+    - skip: 뽐뿌
+    """
+    httpx_targets = [p for p in posts
+                     if p.channel.value not in _SKIP_FETCH_CHANNELS
+                     and p.url.startswith("http")]
+    fm_targets = [p for p in posts
+                  if p.channel.value == Channel.FMKOREA.value
+                  and p.url.startswith("http")]
+
+    total = len(httpx_targets) + len(fm_targets)
+    if not total:
+        return
+
+    _log.info(f"  [fetch_actual_dates] httpx {len(httpx_targets)}건 + 에펨코리아 {len(fm_targets)}건 시작...")
+    sem = asyncio.Semaphore(concurrency)
+    updated = 0
+
+    async def _fix(post: RawPost) -> None:
+        nonlocal updated
+        async with sem:
+            try:
+                async with httpx.AsyncClient(
+                    headers=HEADERS, follow_redirects=True, timeout=10
+                ) as client:
+                    resp = await client.get(post.url)
+                if resp.status_code != 200:
+                    return
+                soup = BeautifulSoup(resp.text, "html.parser")
+                dt = _extract_date_from_soup(soup)
+                if dt:
+                    post.published_at = dt
+                    updated += 1
+            except Exception as e:
+                _log.debug(f"  [fetch_actual_dates] skip {post.url[:60]}: {e}")
+
+    await asyncio.gather(*[_fix(p) for p in httpx_targets])
+
+    if fm_targets:
+        fm_updated = await _fetch_fmkorea_dates_playwright(fm_targets)
+        updated += fm_updated
+
+    _log.info(f"  [fetch_actual_dates] {updated}/{total}건 날짜 보정 완료")
 
 
 # ── 통합 수집 함수 ────────────────────────────────────────────────────────────
