@@ -554,14 +554,12 @@ def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
         if dt:
             return dt
 
-    # 4. 에펨코리아 (XE 플랫폼)
-    for sel in ("span.date", "div.info span.date", "li.date",
-                "div.rd_hd01 span", "span.m_no_date"):
-        el = soup.select_one(sel)
-        if el:
-            dt = _parse_date_text(el.get_text(strip=True))
-            if dt:
-                return dt
+    # 4. 에펨코리아 (XE 플랫폼): <span class="date m_no">
+    el = soup.select_one("span.date.m_no")
+    if el:
+        dt = _parse_date_text(el.get_text(strip=True))
+        if dt:
+            return dt
 
     # 5. 클리앙 article-date
     for sel in ("div.view-info span.view_time", "span.article-date",
@@ -603,7 +601,7 @@ async def _fetch_fmkorea_dates_playwright(posts: list[RawPost]) -> int:
                     try:
                         page = await context.new_page()
                         await page.goto(post.url, wait_until="domcontentloaded", timeout=10000)
-                        date_el = await page.query_selector("span.date")
+                        date_el = await page.query_selector("span.date.m_no")
                         if date_el:
                             text = _clean(await date_el.inner_text())
                             dt = _parse_date_text(text)
