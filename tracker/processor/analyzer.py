@@ -5,9 +5,9 @@ LLM/API 없이 순수 규칙(rule-based)으로 동작
 import math
 import re
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime
 
-from tracker.collector.base import Channel, RawPost, detect_brands, BRAND_KEYWORDS
+from tracker.collector.base import KST, Channel, RawPost, detect_brands, BRAND_KEYWORDS, now_kst
 
 
 # ── 감성 키워드 사전 ──────────────────────────────────────────────────────────
@@ -20,7 +20,7 @@ NEGATIVE_KEYWORDS = [
     "화남", "짜증", "분노", "충격", "황당", "어이없", "기가 막",
     # 사건
     "사고", "피해", "사과", "해명", "인정", "위반", "불법", "폭로",
-    "갈취", "착취", "압박", "강요", "꼼수", "꼼꼼", "횡포",
+    "갈취", "착취", "압박", "강요", "꼼수", "횡포",
     # 배달앱 특화
     "수수료", "배달비 인상", "라이더 산재", "독점", "입점 강요",
     "점주 갑질", "수수료 인상", "라이더 착취",
@@ -67,7 +67,7 @@ class ProcessedIssue:
     status: str            # Hot / Rising / Stable
     stakeholders: list[str]
     published_at: str
-    processed_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
+    processed_at: str = field(default_factory=lambda: now_kst().isoformat())
     views: int = 0
     comments: int = 0
 
@@ -153,7 +153,6 @@ def generate_summary(title: str, body: str, sentiment: str) -> str:
 
 CHANNEL_WEIGHT: dict[str, float] = {
     "에펨코리아": 1.2,
-    "루리웹":     1.0,
     "클리앙":     0.9,
     "다음카페":   0.9,
     "네이버뉴스": 1.4,
@@ -176,9 +175,13 @@ def compute_viral_score(post: RawPost, sentiment: str) -> float:
     )
     engagement_score = min(engagement * 3, 60.0)  # max 60점
 
-    # 시간 점수 (최신일수록 높음)
-    now   = datetime.now(timezone.utc)
-    hours = (now - post.published_at.replace(tzinfo=timezone.utc)).total_seconds() / 3600
+    # 시간 점수 (최신일수록 높음, KST 기준)
+    now = now_kst()
+    pub = post.published_at
+    if pub.tzinfo is None:
+        # naive datetime은 KST로 가정 (크롤러가 모두 aware KST를 반환하지만 방어)
+        pub = pub.replace(tzinfo=KST)
+    hours = max(0.0, (now - pub.astimezone(KST)).total_seconds() / 3600)
     recency_score = 25.0 if hours <= 6 else 15.0 if hours <= 24 else 5.0 if hours <= 72 else 0.0
 
     # 키워드 밀도 보너스 (제목+본문에 감성 키워드가 많을수록)

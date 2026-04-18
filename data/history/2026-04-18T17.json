@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-04-19T02:52:38.737338+09:00",
+  "updated_at": "2026-04-18T17:12:48.236389+00:00",
   "hot": [
+    {
+      "uid": "a309c56a64faf44f431247fab234b3fb",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "https://biz.heraldcorp.com/article/10720205?ref=naver",
+      "title": "“5만원→5천원, 난리 났다” 충격적인 다이소 제품…알고보니 싼 게 비...",
+      "summary": "“5만원→5천원, 난리 났다” 충격적인 다이소 제품…알고보니 싼 게 비 “IT 제품, 싼 게 비지떡 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-18T11:40:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.219507+00:00",
+      "views": 0,
+      "comments": 0
+    },
     {
       "uid": "16b6fdb40ae753f460b8dc4c3d703667",
       "brand": "기타",
@@ -15,8 +36,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:16:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.709822+09:00",
+      "published_at": "2026-04-18T15:16:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.217990+00:00",
       "views": 0,
       "comments": 0
     },
@@ -34,8 +55,29 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T21:49:17+09:00",
-      "processed_at": "2026-04-19T02:52:38.709945+09:00",
+      "published_at": "2026-04-18T12:49:17+00:00",
+      "processed_at": "2026-04-18T17:12:48.218068+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "fddbe4a153167d518a2b865c2dba254b",
+      "brand": "기타",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260418204134541",
+      "title": "“5만원→5천원, 난리 났다” 충격적인 다이소 제품…알고보니 싼 게 비지떡?",
+      "summary": "“5만원→5천원, 난리 났다” 충격적인 다이소 제품…알고보니 싼 게 비지떡 ITSub잇섭’] [헤럴드경제= 박세정 기자] “IT 제품, 싼 게 비지떡 [부정 바이럴]",
+      "sentiment": "negative",
+      "tags": [
+        "#가성비논란"
+      ],
+      "viral_score": 41.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-18T11:41:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.219935+00:00",
       "views": 0,
       "comments": 0
     },
@@ -53,8 +95,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T23:59:17+09:00",
-      "processed_at": "2026-04-19T02:52:38.698146+09:00",
+      "published_at": "2026-04-18T14:59:17+00:00",
+      "processed_at": "2026-04-18T17:12:48.211962+00:00",
       "views": 0,
       "comments": 0
     },
@@ -74,10 +116,72 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T17:19:35+09:00",
-      "processed_at": "2026-04-19T02:52:38.713779+09:00",
-      "views": 767,
+      "published_at": "2026-04-18T08:19:35+00:00",
+      "processed_at": "2026-04-18T17:12:48.220416+00:00",
+      "views": 759,
       "comments": 3
+    },
+    {
+      "uid": "8073566c490bc9096100d41ca7520cc0",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026041415025301571",
+      "title": "무료배달의 역설…쿠팡이츠, 외형 커질수록 적자 는다",
+      "summary": "무료배달의 역설…쿠팡이츠, 외형 커질수록 적자 는다 쿠팡이츠서비스는 라이더 운영 기반의 배달 대행 사업을 중심으로 하는 별도 법인으로, 플랫폼  실제 지난 10일 공개된 쿠팡이츠서비스 감사보고서에는 배달 대행 관련 실적만 일부 포함돼 있으며, 앱 개발과 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-18T18:09:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.229770+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "187effcd712be48eb1664231acde892a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026041413472535431",
+      "title": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전",
+      "summary": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전 쿠팡이츠서비스는 라이더 운영을 통한 음식 배달 대행 서비스업을 주로 영업으로 하고 있으며 즉 쿠팡이츠서비스의 감사보고서는 쿠팡이츠에 대한 실적이 아니다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-18T18:09:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.229907+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "0e1566e72526a07693add148d5c97d93",
+      "brand": "기타",
+      "channel": "네이버뉴스",
+      "url": "http://www.segyebiz.com/newsView/20260418504356?OutUrl=naver",
+      "title": "까르마, 롯데백화점 동탄점서 전문가 체형측정 이벤트 전개",
+      "summary": "까르마, 롯데백화점 동탄점서 전문가 체형측정 이벤트 전개 네이버 예약하기를 통해 매장 체험을 할 경우 스타벅스 커피쿠폰을 추가로 받을 수 있다 까르마 관계자는 “수면은 단순히 쉬는 것이 아니라 신체의 회복 과정인 만큼, 전문가의 관점에서 본인에게 맞는 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [],
+      "viral_score": 37.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-18T13:46:15+00:00",
+      "processed_at": "2026-04-18T17:12:48.212389+00:00",
+      "views": 0,
+      "comments": 0
     },
     {
       "uid": "ad90af418053765545b7acaba95d50ca",
@@ -93,29 +197,31 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T23:05:11+09:00",
-      "processed_at": "2026-04-19T02:52:38.714624+09:00",
+      "published_at": "2026-04-18T14:05:11+00:00",
+      "processed_at": "2026-04-18T17:12:48.220925+00:00",
       "views": 0,
       "comments": 0
-    },
+    }
+  ],
+  "feed": [
     {
-      "uid": "687809af5a15021d2c59d0b2131d07f3",
+      "uid": "64b261c33afb3e1024b958977195f513",
       "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=907785",
-      "title": "[오늘 로또]1220회 로또 1등 14명…자동 10·수동 2·반자동 2…'21억' 대...",
-      "summary": "[오늘 로또]1220회 로또 1등 14명…자동 10·수동 2·반자동 2…'21억' 대 인생한방(광주 동구 화산로 328-6 상가 106호 GS25 용산호반점) 2 [긍정 바이럴]",
-      "sentiment": "positive",
+      "channel": "클리앙",
+      "url": "https://www.clien.net/service/board/park/19179609",
+      "title": "동네 귀여운 강아지..",
+      "summary": "동네 귀여운 강아지.. [중립 바이럴]",
+      "sentiment": "neutral",
       "tags": [],
-      "viral_score": 37.8,
+      "viral_score": 21.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T21:12:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.714868+09:00",
+      "published_at": "2026-04-19T00:42:51+00:00",
+      "processed_at": "2026-04-18T17:12:48.220741+00:00",
       "views": 0,
-      "comments": 0
+      "comments": 4
     },
     {
       "uid": "078d55396b5355cf07e74fbe8290b921",
@@ -131,46 +237,27 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:01:01+09:00",
-      "processed_at": "2026-04-19T02:52:38.717325+09:00",
+      "published_at": "2026-04-19T00:01:01+00:00",
+      "processed_at": "2026-04-18T17:12:48.222583+00:00",
       "views": 0,
       "comments": 0
     },
     {
-      "uid": "1aa323bdcff9fa9a2c85fab9cca12d8d",
+      "uid": "2831c79241c0058f4190efb63a062b6f",
       "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061093",
-      "title": "이마트 롯데마트 홈플러스 대형마트 휴무일… 할인·기부 캠페인 주목",
-      "summary": "이마트 롯데마트 홈플러스 대형마트 휴무일… 할인·기부 캠페인 주목 대형마트,휴무일 이마트가 어린이날을 맞아 내달 6일까지 중고 장난감 기부 캠페 이마트 제공 19일은 4월 세 번째 일요일로 롯데마트·이마트·홈플러스 등 대부분의 대형마트가 정상 영업을 진 [긍정 바이럴]",
-      "sentiment": "positive",
+      "channel": "클리앙",
+      "url": "https://www.clien.net/service/board/sold/19179558",
+      "title": "아이폰 17 화이트 512GB 자급제 공기계 판매 합니다",
+      "summary": "아이폰 17 화이트 512GB 자급제 공기계 판매 합니다 아이폰 17 화이트 512GB 자급제 공기계 판매 합니다 [중립 바이럴]",
+      "sentiment": "neutral",
       "tags": [],
-      "viral_score": 37.8,
+      "viral_score": 15.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:00:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.717539+09:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "723588ad35a394d01568834b701b3d79",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202604180005",
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 18일",
-      "summary": "[단독] 캐시워크 돈버는퀴즈 정답 4월 18일 배달의민족 배민 캐시워크 돈버는퀴즈 문제 Q 배달의민족 OOOO에서는 처갓집양념치킨, 네네치킨, 멕시카나 등 10개 이상의 브랜드 할인 쿠폰을 드려요 ( [밈 바이럴]",
-      "sentiment": "meme",
-      "tags": [],
-      "viral_score": 37.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T10:00:36+09:00",
-      "processed_at": "2026-04-19T02:52:38.691211+09:00",
+      "published_at": "2026-04-18T21:40:04+00:00",
+      "processed_at": "2026-04-18T17:12:48.220779+00:00",
       "views": 0,
       "comments": 0
     },
@@ -188,13 +275,73 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T20:59:27+09:00",
-      "processed_at": "2026-04-19T02:52:38.694502+09:00",
+      "published_at": "2026-04-18T20:59:27+00:00",
+      "processed_at": "2026-04-18T17:12:48.210337+00:00",
       "views": 0,
       "comments": 9
-    }
-  ],
-  "feed": [
+    },
+    {
+      "uid": "8073566c490bc9096100d41ca7520cc0",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026041415025301571",
+      "title": "무료배달의 역설…쿠팡이츠, 외형 커질수록 적자 는다",
+      "summary": "무료배달의 역설…쿠팡이츠, 외형 커질수록 적자 는다 쿠팡이츠서비스는 라이더 운영 기반의 배달 대행 사업을 중심으로 하는 별도 법인으로, 플랫폼  실제 지난 10일 공개된 쿠팡이츠서비스 감사보고서에는 배달 대행 관련 실적만 일부 포함돼 있으며, 앱 개발과 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-04-18T18:09:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.229770+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "187effcd712be48eb1664231acde892a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026041413472535431",
+      "title": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전",
+      "summary": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전 쿠팡이츠서비스는 라이더 운영을 통한 음식 배달 대행 서비스업을 주로 영업으로 하고 있으며 즉 쿠팡이츠서비스의 감사보고서는 쿠팡이츠에 대한 실적이 아니다 [긍정 바이럴]",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더이슈"
+      ],
+      "viral_score": 40.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-04-18T18:09:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.229907+00:00",
+      "views": 0,
+      "comments": 0
+    },
+    {
+      "uid": "3cda55c13df8fb39c36f8a507fe2cf6f",
+      "brand": "기타",
+      "channel": "클리앙",
+      "url": "https://www.clien.net/service/board/sold/19179461",
+      "title": "아이폰 Xs 데빌케이스 Type X2 미개봉",
+      "summary": "아이폰 Xs 데빌케이스 Type X2 미개봉 아이폰 Xs 데빌케이스 Type X2 미개봉 [중립 바이럴]",
+      "sentiment": "neutral",
+      "tags": [],
+      "viral_score": 15.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-04-18T17:10:11+00:00",
+      "processed_at": "2026-04-18T17:12:48.222482+00:00",
+      "views": 0,
+      "comments": 0
+    },
     {
       "uid": "4d580d1060f927a346f033f3b4d8016a",
       "brand": "기타",
@@ -209,8 +356,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-19T01:36:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.720399+09:00",
+      "published_at": "2026-04-18T16:36:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.224599+00:00",
       "views": 0,
       "comments": 0
     },
@@ -2515,8 +2662,8 @@
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-04-19T01:13:16+09:00",
-      "processed_at": "2026-04-19T02:52:38.719772+09:00",
+      "published_at": "2026-04-18T16:13:16+00:00",
+      "processed_at": "2026-04-18T17:12:48.224187+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5241,25 +5388,6 @@
       "comments": 17
     },
     {
-      "uid": "64b261c33afb3e1024b958977195f513",
-      "brand": "기타",
-      "channel": "클리앙",
-      "url": "https://www.clien.net/service/board/park/19179609",
-      "title": "동네 귀여운 강아지..",
-      "summary": "동네 귀여운 강아지.. [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [],
-      "viral_score": 21.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-19T00:42:51+09:00",
-      "processed_at": "2026-04-19T02:52:38.714327+09:00",
-      "views": 0,
-      "comments": 4
-    },
-    {
       "uid": "858ce7917a58f139f91e6169c4219cfa",
       "brand": "기타",
       "channel": "뽐뿌",
@@ -5268,14 +5396,14 @@
       "summary": "[다만50억] 네이버페이 12원 + 랜덤 포인트 받으세요 (+기타 360원) [다만50억] 네이버페이 12원 + 랜덤 포인트 받으세요 (+기타  [중립 바이럴]",
       "sentiment": "neutral",
       "tags": [],
-      "viral_score": 29.4,
+      "viral_score": 29.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:16:08+09:00",
-      "processed_at": "2026-04-19T02:52:38.693620+09:00",
-      "views": 1064,
+      "published_at": "2026-04-18T15:16:08+00:00",
+      "processed_at": "2026-04-18T17:12:48.209949+00:00",
+      "views": 947,
       "comments": 2
     },
     {
@@ -5292,8 +5420,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:16:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.709822+09:00",
+      "published_at": "2026-04-18T15:16:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.217990+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5311,8 +5439,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:03:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.718272+09:00",
+      "published_at": "2026-04-18T15:03:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.223221+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5330,27 +5458,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:03:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.719057+09:00",
-      "views": 0,
-      "comments": 0
-    },
-    {
-      "uid": "078d55396b5355cf07e74fbe8290b921",
-      "brand": "기타",
-      "channel": "네이버뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202604180051",
-      "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘더 싸게~’",
-      "summary": "이마트·롯데마트·홈플러스·코스트코 ‘더 싸게~’ 이마트·롯데마트·홈플러스·코스트코 ‘더 싸게~’=이마트·롯데마트·홈플러스·코스트코 등 대형마트가 이마트는 ‘제철 토마토 균일가전’을, 롯데마트는‘PB 페스타’ 행사를, 홈플러스는 ‘PB '심플러스'(sim [긍정 바이럴]",
-      "sentiment": "positive",
-      "tags": [],
-      "viral_score": 37.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-19T00:01:01+09:00",
-      "processed_at": "2026-04-19T02:52:38.717325+09:00",
+      "published_at": "2026-04-18T15:03:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.223740+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5368,8 +5477,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:00:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.717433+09:00",
+      "published_at": "2026-04-18T15:00:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.222655+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5387,8 +5496,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-19T00:00:00+09:00",
-      "processed_at": "2026-04-19T02:52:38.717539+09:00",
+      "published_at": "2026-04-18T15:00:00+00:00",
+      "processed_at": "2026-04-18T17:12:48.222725+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5406,8 +5515,8 @@
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-04-18T23:59:17+09:00",
-      "processed_at": "2026-04-19T02:52:38.698146+09:00",
+      "published_at": "2026-04-18T14:59:17+00:00",
+      "processed_at": "2026-04-18T17:12:48.211962+00:00",
       "views": 0,
       "comments": 0
     },
@@ -5895,112 +6004,33 @@
       "processed_at": "2026-04-18T14:20:57.605451+00:00",
       "views": 1387,
       "comments": 7
-    },
-    {
-      "uid": "b0f413c1e7f761eb47eb58d5236f3ebb",
-      "brand": "기타",
-      "channel": "뽐뿌",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9903582",
-      "title": "허니콤보 '2만6천원', 서울 배달 치킨값 인상 확산",
-      "summary": "허니콤보 '2만6천원', 서울 배달 치킨값 인상 확산 허니콤보 '2만6천원', 서울 배달 치킨값 인상 확산 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#가성비논란",
-        "#가격인상"
-      ],
-      "viral_score": 33.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T14:12:26.954938+00:00",
-      "processed_at": "2026-04-18T14:20:57.605408+00:00",
-      "views": 1441,
-      "comments": 6
-    },
-    {
-      "uid": "ace7febdef382f89fe4b86c40033c38a",
-      "brand": "기타",
-      "channel": "뽐뿌",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9903699",
-      "title": "[단독] 교촌 치킨 값 2만6천원으로 인상 ㄷㄷ..jpg",
-      "summary": "[단독] 교촌 치킨 값 2만6천원으로 인상 ㄷㄷ jpg [단독] 교촌 치킨 값 2만6천원으로 인상 ㄷㄷ [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [
-        "#가성비논란",
-        "#가격인상"
-      ],
-      "viral_score": 35.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T14:12:26.954770+00:00",
-      "processed_at": "2026-04-18T14:20:57.605364+00:00",
-      "views": 2238,
-      "comments": 9
-    },
-    {
-      "uid": "8414e05061ca862177cc424919d36d88",
-      "brand": "쿠팡이츠",
-      "channel": "뽐뿌",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9904583",
-      "title": "쿠팡이츠 매장 위치가 이상하네요.",
-      "summary": "쿠팡이츠 매장 위치가 이상하네요 쿠팡이츠 매장 위치가 이상하네요 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [],
-      "viral_score": 33.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T14:12:26.954599+00:00",
-      "processed_at": "2026-04-18T14:20:57.605317+00:00",
-      "views": 1073,
-      "comments": 7
-    },
-    {
-      "uid": "9a5a58143bb6b2d50b52f68e39814871",
-      "brand": "쿠팡이츠",
-      "channel": "뽐뿌",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9905457",
-      "title": "처음 쿠팡이츠 주문해봤네요",
-      "summary": "처음 쿠팡이츠 주문해봤네요 처음 쿠팡이츠 주문해봤네요 [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [],
-      "viral_score": 33.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T14:12:26.954422+00:00",
-      "processed_at": "2026-04-18T14:20:57.605275+00:00",
-      "views": 1274,
-      "comments": 6
-    },
-    {
-      "uid": "2c944fbc13c158de69cfcd488e94a828",
-      "brand": "기타",
-      "channel": "뽐뿌",
-      "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&no=9904791",
-      "title": "[다만50억] 네이버페이 36원 + 랜덤 포인트 받으세요 (+기타 318원)",
-      "summary": "[다만50억] 네이버페이 36원 + 랜덤 포인트 받으세요 (+기타 318원) [다만50억] 네이버페이 36원 + 랜덤 포인트 받으세요 (+기타  [중립 바이럴]",
-      "sentiment": "neutral",
-      "tags": [],
-      "viral_score": 36.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-04-18T14:12:04.065388+00:00",
-      "processed_at": "2026-04-18T14:20:57.603549+00:00",
-      "views": 8608,
-      "comments": 9
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "187effcd712be48eb1664231acde892a",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.ddaily.co.kr/page/view/2026041413472535431",
+          "title": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전",
+          "summary": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전 쿠팡이츠서비스는 라이더 운영을 통한 음식 배달 대행 서비스업을 주로 영업으로 하고 있으며 즉 쿠팡이츠서비스의 감사보고서는 쿠팡이츠에 대한 실적이 아니다 [긍정 바이럴]",
+          "sentiment": "positive",
+          "tags": [
+            "#라이더이슈"
+          ],
+          "viral_score": 40.6,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "라이더"
+          ],
+          "published_at": "2026-04-18T18:09:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.229907+00:00",
+          "views": 0,
+          "comments": 0
+        },
         {
           "uid": "dc86741166d19932e825d2d6fee1dd82",
           "brand": "배달의민족",
@@ -6015,8 +6045,27 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T20:04:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.691383+09:00",
+          "published_at": "2026-04-18T11:04:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.209052+00:00",
+          "views": 0,
+          "comments": 0
+        },
+        {
+          "uid": "723588ad35a394d01568834b701b3d79",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202604180005",
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 18일",
+          "summary": "[단독] 캐시워크 돈버는퀴즈 정답 4월 18일 배달의민족 배민 캐시워크 돈버는퀴즈 문제 Q 배달의민족 OOOO에서는 처갓집양념치킨, 네네치킨, 멕시카나 등 10개 이상의 브랜드 할인 쿠폰을 드려요 ( [밈 바이럴]",
+          "sentiment": "meme",
+          "tags": [],
+          "viral_score": 37.0,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-04-18T10:00:36+00:00",
+          "processed_at": "2026-04-18T17:12:48.208984+00:00",
           "views": 0,
           "comments": 0
         },
@@ -6034,30 +6083,8 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T18:32:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.690023+09:00",
-          "views": 0,
-          "comments": 0
-        },
-        {
-          "uid": "187effcd712be48eb1664231acde892a",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.ddaily.co.kr/page/view/2026041413472535431",
-          "title": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전",
-          "summary": "배달앱, ‘배민-쿠팡이츠’ 양강 굳어지나…요기요는 고전 쿠팡이츠서비스는 라이더 운영을 통한 음식 배달 대행 서비스업을 주로 영업으로 하고 있으며 즉 쿠팡이츠서비스의 감사보고서는 쿠팡이츠에 대한 실적이 아니다 [긍정 바이럴]",
-          "sentiment": "positive",
-          "tags": [
-            "#라이더이슈"
-          ],
-          "viral_score": 26.6,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "라이더"
-          ],
-          "published_at": "2026-04-18T18:09:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.727954+09:00",
+          "published_at": "2026-04-18T09:32:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.208509+00:00",
           "views": 0,
           "comments": 0
         },
@@ -6075,39 +6102,20 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T17:03:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.691543+09:00",
-          "views": 0,
-          "comments": 0
-        },
-        {
-          "uid": "f1e71a8ef971e505af55dd817099d625",
-          "brand": "배달의민족",
-          "channel": "다음카페",
-          "url": "http://v.daum.net/v/20260418170301536",
-          "title": "배민B마트 주문 37%↑…최대 성과 비결은",
-          "summary": "배민B마트 주문 37%↑…최대 성과 비결은 배달의민족 즉시배달 장보기 서비스 배민B마트(이하 B마트)가 국내 장보기 플랫폼의 입지를 한층 넓혀가 주문 즉시 받아볼 수 있는 빠른 배달을 실현하고 상품 경쟁력을 지속적으로 강화한 것이 효과를 거두면서다 [중립 바이럴]",
-          "sentiment": "neutral",
-          "tags": [],
-          "viral_score": 9.4,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-04-18T17:03:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.693518+09:00",
+          "published_at": "2026-04-18T08:03:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.209114+00:00",
           "views": 0,
           "comments": 0
         }
       ],
       "total": 16,
-      "avg_score": 22.1,
+      "avg_score": 22.9,
       "ratio": {
         "negative": 6,
         "positive": 25,
         "meme": 25
       },
-      "mentions": 63
+      "mentions": 64
     },
     "coupang": {
       "issues": [
@@ -6122,13 +6130,13 @@
           "tags": [
             "#라이더이슈"
           ],
-          "viral_score": 26.6,
+          "viral_score": 40.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
-          "published_at": "2026-04-18T18:09:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.727759+09:00",
+          "published_at": "2026-04-18T18:09:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.229770+00:00",
           "views": 0,
           "comments": 0
         },
@@ -6146,8 +6154,8 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T08:30:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.694825+09:00",
+          "published_at": "2026-04-17T23:30:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.210493+00:00",
           "views": 0,
           "comments": 0
         },
@@ -6165,8 +6173,8 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T08:30:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.696064+09:00",
+          "published_at": "2026-04-17T23:30:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.211069+00:00",
           "views": 0,
           "comments": 0
         },
@@ -6184,20 +6192,20 @@
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-04-18T08:30:00+09:00",
-          "processed_at": "2026-04-19T02:52:38.697817+09:00",
+          "published_at": "2026-04-17T23:30:00+00:00",
+          "processed_at": "2026-04-18T17:12:48.211799+00:00",
           "views": 0,
           "comments": 0
         }
       ],
       "total": 4,
-      "avg_score": 26.7,
+      "avg_score": 30.2,
       "ratio": {
         "negative": 75,
         "positive": 25,
         "meme": 0
       },
-      "mentions": 34
+      "mentions": 35
     }
   }
 }

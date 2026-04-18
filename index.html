@@ -62,9 +62,8 @@
       display: flex; align-items: center; gap: 16px;
     }
     .live-dot {
-      display: flex; align-items: center; gap-: 6px;
+      display: flex; align-items: center; gap: 6px;
       font-size: 12px; color: var(--pos);
-      gap: 6px;
     }
     .live-dot::before {
       content: '';
@@ -129,10 +128,10 @@
     .brand-name { font-size: 15px; font-weight: 700; }
     .brand-cat { font-size: 11px; color: var(--text-muted); }
     .sentiment-badge {
-      display: flex; align-items: center; gap-: 4px;
+      display: flex; align-items: center; gap: 4px;
       padding: 4px 10px; border-radius: 20px;
       font-size: 12px; font-weight: 600;
-      gap: 4px; white-space: nowrap; flex-shrink: 0;
+      white-space: nowrap; flex-shrink: 0;
     }
     .sentiment-badge.pos { background: var(--pos-dim); color: var(--pos); }
     .sentiment-badge.neg { background: var(--neg-dim); color: var(--neg); }
@@ -476,7 +475,7 @@
         <div class="tags">
           <span class="tag">#광고역효과</span>
           <span class="tag">#밈</span>
-          <span class="tag">#루리웹</span>
+          <span class="tag">#에펨코리아</span>
         </div>
         <div class="card-meta">
           <span>⏱ 어제</span>
@@ -653,7 +652,7 @@
 <!-- FOOTER -->
 <footer>
   <div class="wrapper">
-    바이럴트래커 · 수집 채널: 에펨코리아, 루리웹, 디시인사이드, 클리앙, 블라인드, 다음카페 · X, 인스타그램, 스레드, 유튜브 · 네이버/다음 뉴스<br />
+    바이럴트래커 · 수집 채널: 에펨코리아, 클리앙, 다음카페, 뽐뿌 · 네이버/다음 뉴스<br />
     <span style="margin-top:6px;display:block;">목업 데이터 기준 — 실제 서비스 시 실시간 API·크롤링으로 교체</span>
   </div>
 </footer>
@@ -677,6 +676,23 @@
     return BRAND_EMOJI[brand] || '🏢';
   }
 
+  function esc(s) {
+    return String(s ?? '').replace(/[&<>"']/g,
+      m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m]));
+  }
+
+  function safeUrl(u) {
+    try {
+      const p = new URL(u, location.href);
+      return /^https?:$/.test(p.protocol) ? p.href : '#';
+    } catch { return '#'; }
+  }
+
+  function clampScore(n) {
+    const v = Number(n);
+    return Number.isFinite(v) ? Math.max(0, Math.min(100, v)) : 0;
+  }
+
   // 우상단 갱신 시각용 — 상대시각
   function relativeTime(isoStr) {
     if (!isoStr) return '';
@@ -686,15 +702,19 @@
     return `${Math.floor(diff / 86400)}일 전`;
   }
 
-  // 카드용 — 발행 절대 시각
+  // 카드용 — 발행 절대 시각 (KST 고정, 브라우저 로컬 tz 영향 받지 않음)
   function pubTime(isoStr) {
     if (!isoStr) return '';
-    const d  = new Date(isoStr);
-    const mm = String(d.getMonth() + 1).padStart(2, '0');
-    const dd = String(d.getDate()).padStart(2, '0');
-    const hh = String(d.getHours()).padStart(2, '0');
-    const mi = String(d.getMinutes()).padStart(2, '0');
-    return `${mm}.${dd} ${hh}:${mi}`;
+    const d = new Date(isoStr);
+    if (isNaN(d.getTime())) return '';
+    // 'ko-KR' + Asia/Seoul → "MM.DD HH:mm" 형식
+    const fmt = new Intl.DateTimeFormat('ko-KR', {
+      timeZone: 'Asia/Seoul',
+      month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', hour12: false,
+    });
+    const parts = Object.fromEntries(fmt.formatToParts(d).map(p => [p.type, p.value]));
+    return `${parts.month}.${parts.day} ${parts.hour}:${parts.minute}`;
   }
 
   // ── 데이터 로드 (단일 정적 JSON) ─────────────────────────────────────────────
@@ -756,8 +776,9 @@
     if (!uid) return '';
     const liked = isLiked(uid);
     const count = getLikeCount(uid);
-    return `<button class="like-btn${liked ? ' liked' : ''}" onclick="toggleLike(event,'${uid}')">
-      <span class="like-icon">♥</span><span class="like-count">${count}</span>
+    const safeUid = esc(String(uid));
+    return `<button class="like-btn${liked ? ' liked' : ''}" onclick="toggleLike(event,'${safeUid}')">
+      <span class="like-icon">♥</span><span class="like-count">${Number(count) || 0}</span>
     </button>`;
   }
 
@@ -766,31 +787,34 @@
   function issueCard(i, extraClass = '') {
     const css   = SENTIMENT_CSS[i.sentiment]   || 'neutral';
     const badge = SENTIMENT_LABEL[i.sentiment] || '○';
-    const tags  = (i.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
-    const score = i.viral_score ?? 0;
+    const tags  = (i.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+    const score = clampScore(i.viral_score);
+    const url   = i.url ? safeUrl(i.url) : '';
+    const comments = Number(i.comments) || 0;
+    const views    = Number(i.views) || 0;
     return `
-      <div class="issue-card ${css} ${extraClass} fade-in" ${i.url ? `onclick="window.open('${i.url}','_blank','noopener')"` : ''}>
+      <div class="issue-card ${css} ${extraClass} fade-in" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
         <div class="card-top">
           <div class="brand-info">
             <div class="brand-logo">${brandEmoji(i.brand)}</div>
             <div>
-              <div class="brand-name">${i.brand || '기타'}</div>
-              <div class="brand-cat">${i.channel || ''}</div>
+              <div class="brand-name">${esc(i.brand || '기타')}</div>
+              <div class="brand-cat">${esc(i.channel || '')}</div>
             </div>
           </div>
           <div class="sentiment-badge ${css}">${badge}</div>
         </div>
-        <div class="card-title">${i.title || ''}</div>
-        <div class="card-summary">${i.summary || ''}</div>
+        <div class="card-title">${esc(i.title || '')}</div>
+        <div class="card-summary">${esc(i.summary || '')}</div>
         <div class="score-bar-wrap">
           <div class="score-label"><span>스코어</span><span>${score} / 100</span></div>
           <div class="score-bar ${css}"><div class="score-fill" style="width:${score}%"></div></div>
         </div>
         ${tags ? `<div class="tags">${tags}</div>` : ''}
         <div class="card-meta">
-          <span>🕐 ${pubTime(i.published_at)}</span>
-          ${i.comments ? `<span>💬 ${i.comments}</span>` : ''}
-          ${i.views    ? `<span>👁 ${i.views.toLocaleString()}</span>` : ''}
+          <span>🕐 ${esc(pubTime(i.published_at))}</span>
+          ${comments ? `<span>💬 ${comments}</span>` : ''}
+          ${views    ? `<span>👁 ${views.toLocaleString()}</span>` : ''}
         </div>
         ${likeBtn(i.uid)}
       </div>`;
@@ -805,30 +829,32 @@
     grid.innerHTML = hot.slice(0, 3).map((item, idx) => {
       const css   = SENTIMENT_CSS[item.sentiment] || 'neutral';
       const badge = SENTIMENT_LABEL[item.sentiment] || '○';
-      const score = item.viral_score ?? 0;
+      const score = clampScore(item.viral_score);
       const rankClass = idx === 0 ? 'rank-1' : '';
+      const url = item.url ? safeUrl(item.url) : '';
+      const comments = Number(item.comments) || 0;
       return `
-        <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s" ${item.url ? `onclick="window.open('${item.url}','_blank','noopener')"` : ''}>
+        <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
           <div class="card-top">
             <div class="brand-info">
               <div class="brand-logo">${brandEmoji(item.brand)}</div>
               <div>
-                <div class="brand-name">${item.brand || '기타'}</div>
-                <div class="brand-cat">${item.channel || ''}</div>
+                <div class="brand-name">${esc(item.brand || '기타')}</div>
+                <div class="brand-cat">${esc(item.channel || '')}</div>
               </div>
             </div>
             <div class="sentiment-badge ${css}">${badge}</div>
           </div>
-          <div class="card-title">${item.title || ''}</div>
-          <div class="card-summary">${item.summary || ''}</div>
+          <div class="card-title">${esc(item.title || '')}</div>
+          <div class="card-summary">${esc(item.summary || '')}</div>
           <div class="score-bar-wrap">
             <div class="score-label"><span>바이럴 스코어</span><span>${score} / 100</span></div>
             <div class="score-bar"><div class="score-fill" style="width:${score}%"></div></div>
           </div>
-          <div class="tags">${(item.tags || []).map(t => `<span class="tag">${t}</span>`).join('')}</div>
+          <div class="tags">${(item.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
           <div class="card-meta">
-            <span>🕐 ${pubTime(item.published_at)}</span>
-            ${item.comments ? `<span>💬 ${item.comments}</span>` : ''}
+            <span>🕐 ${esc(pubTime(item.published_at))}</span>
+            ${comments ? `<span>💬 ${comments}</span>` : ''}
           </div>
           ${likeBtn(item.uid)}
         </div>`;
@@ -856,14 +882,16 @@
     if (!versus || !versus.baemin) return;
     const { baemin, coupang } = versus;
 
-    const bM = baemin.mentions ?? baemin.total ?? 0;
-    const cM = coupang.mentions ?? coupang.total ?? 0;
+    const bM = Number(baemin.mentions ?? baemin.total ?? 0) || 0;
+    const cM = Number(coupang.mentions ?? coupang.total ?? 0) || 0;
+    const bAvg = Number(baemin.avg_score) || 0;
+    const cAvg = Number(coupang.avg_score) || 0;
 
     // 헤더 점수 업데이트
     const bScore = document.querySelectorAll('.versus-score')[0];
     const cScore = document.querySelectorAll('.versus-score')[1];
-    if (bScore) bScore.textContent = `언급 ${bM}건 · avg ${baemin.avg_score}`;
-    if (cScore) cScore.textContent = `언급 ${cM}건 · avg ${coupang.avg_score}`;
+    if (bScore) bScore.textContent = `언급 ${bM}건 · avg ${bAvg}`;
+    if (cScore) cScore.textContent = `언급 ${cM}건 · avg ${cAvg}`;
 
     // 이슈 목록 교체
     const [bCol, cCol] = document.querySelectorAll('.versus-col');
@@ -882,10 +910,12 @@
     const statRow = document.querySelector('.versus-stat-row');
     if (!statRow) return;
     const maxM = Math.max(bM, cM, 1);
-    const bPct = Math.round(bM / maxM * 100);
-    const cPct = Math.round(cM / maxM * 100);
-    const br = baemin.ratio || {};
-    const cr = coupang.ratio || {};
+    const bPct = clampScore(bM / maxM * 100);
+    const cPct = clampScore(cM / maxM * 100);
+    const rawBr = baemin.ratio || {};
+    const rawCr = coupang.ratio || {};
+    const br = { negative: clampScore(rawBr.negative), positive: clampScore(rawBr.positive), meme: clampScore(rawBr.meme) };
+    const cr = { negative: clampScore(rawCr.negative), positive: clampScore(rawCr.positive), meme: clampScore(rawCr.meme) };
     statRow.innerHTML = `
       <div class="versus-stat">
         <div class="versus-stat-label">언급 빈도 비교 (전체 수집 기사 기준)</div>
@@ -930,22 +960,23 @@
   function versusIssueHTML(i) {
     const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
     const badge = SENTIMENT_LABEL[i.sentiment] || '○';
+    const url   = i.url ? safeUrl(i.url) : '';
     return `
-      <div class="versus-issue ${css}" ${i.url ? `onclick="window.open('${i.url}','_blank','noopener')"` : ''}>
-        <div class="versus-issue-title">${i.title || ''}</div>
+      <div class="versus-issue ${css}" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
+        <div class="versus-issue-title">${esc(i.title || '')}</div>
         <div class="versus-issue-meta">
           <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
-          <span>${pubTime(i.published_at)}</span>
+          <span>${esc(pubTime(i.published_at))}</span>
         </div>
       </div>`;
   }
 
   function stakeholderHTML(issues) {
     const all = issues.flatMap(i => i.stakeholders || []);
-    const uniq = [...new Set(all)];
+    const uniq = new Set(all);
     const roles = ['소비자', '점주', '라이더', '직원'];
     return `<div class="stakeholder-badges">` +
-      roles.map(r => `<span class="stakeholder-badge ${uniq.includes(r) ? 'active-neg' : ''}">${r}</span>`).join('') +
+      roles.map(r => `<span class="stakeholder-badge ${uniq.has(r) ? 'active-neg' : ''}">${r}</span>`).join('') +
       `</div>`;
   }
 
@@ -954,9 +985,10 @@
       GitHub Actions가 첫 수집을 진행 중입니다.<br>
       <span style="font-size:12px">보통 레포 Push 후 5~10분 내 데이터가 채워집니다.</span>
     </div>`;
-    document.querySelector('.hot-grid').innerHTML    = msg;
-    document.getElementById('cardsGrid').innerHTML  = msg;
-    document.querySelector('.rising-list').innerHTML = msg;
+    const hotGrid = document.querySelector('.hot-grid');
+    const cardsGrid = document.getElementById('cardsGrid');
+    if (hotGrid) hotGrid.innerHTML = msg;
+    if (cardsGrid) cardsGrid.innerHTML = msg;
   }
 
   // ── 탭 ────────────────────────────────────────────────────────────────────

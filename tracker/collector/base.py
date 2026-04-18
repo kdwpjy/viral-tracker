@@ -1,13 +1,21 @@
 import hashlib
 import re
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from enum import Enum
+
+# 모든 datetime은 KST(Asia/Seoul, UTC+9) 기준으로 통일.
+# 원본 사이트들이 모두 KST이므로 변환 없이 직관적으로 다룬다.
+KST = timezone(timedelta(hours=9))
+
+
+def now_kst() -> datetime:
+    """현재 KST aware datetime"""
+    return datetime.now(KST)
 
 
 class Channel(str, Enum):
     FMKOREA   = "에펨코리아"
-    RULIWEB   = "루리웹"
     CLIEN     = "클리앙"
     PPOMPPU   = "뽐뿌"
     DAUM_CAFE = "다음카페"
@@ -26,33 +34,33 @@ class RawPost:
     views: int = 0
     comments: int = 0
     likes: int = 0
-    fetched_at: datetime = field(default_factory=datetime.utcnow)
+    fetched_at: datetime = field(default_factory=now_kst)
 
     @property
     def uid(self) -> str:
         return hashlib.md5(f"{self.channel}:{self.post_id}".encode()).hexdigest()
 
 
-# 감지할 브랜드와 검색 키워드 매핑
-BRAND_KEYWORDS: dict[str, list[str]] = {
-    "배민": ["배민", "배달의민족"],
-    "쿠팡이츠":   ["쿠팡이츠"],
-}
-
-# 정규식 기반 언급 감지 — 띄어쓰기 변형 허용 (배달 의 민족, 쿠팡 이츠 등)
+# 감지할 브랜드와 정규식 기반 언급 패턴 — 띄어쓰기 변형 허용
+# key 는 표준(canonical) 브랜드명. 이 값이 DB의 brand 컬럼·UI 표시에 그대로 사용됨.
 BRAND_MENTION_PATTERNS: dict[str, re.Pattern] = {
     "배달의민족": re.compile(r'배민|배달\s*의\s*민족'),
     "쿠팡이츠":   re.compile(r'쿠팡\s*이츠'),
 }
 
+# 키워드 기반 fallback (정규식 미정의 브랜드 추가 시 사용)
+BRAND_KEYWORDS: dict[str, list[str]] = {}
+
+
 def detect_brands(text: str) -> list[str]:
     found = []
+    for brand, pattern in BRAND_MENTION_PATTERNS.items():
+        if pattern.search(text):
+            found.append(brand)
     for brand, keywords in BRAND_KEYWORDS.items():
-        pattern = BRAND_MENTION_PATTERNS.get(brand)
-        if pattern:
-            if pattern.search(text):
-                found.append(brand)
-        elif any(kw in text for kw in keywords):
+        if brand in found:
+            continue
+        if any(kw in text for kw in keywords):
             found.append(brand)
     return found
 

@@ -9,8 +9,8 @@ import urllib.parse
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 
-DATA_FILE   = Path(__file__).parent.parent / "data" / "issues.json"
-STATIC_ROOT = Path(__file__).parent.parent.parent  # index.html 위치
+STATIC_ROOT = Path(__file__).parent.parent.parent      # 프로젝트 루트 (index.html, data/)
+DATA_FILE   = STATIC_ROOT / "data" / "issues.json"
 
 
 def load_data() -> dict:

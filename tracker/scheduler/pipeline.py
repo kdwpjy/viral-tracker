@@ -7,18 +7,16 @@ import argparse
 import asyncio
 import logging
 import sys
-from datetime import datetime
+from datetime import timedelta
 from pathlib import Path
 
 # 프로젝트 루트를 sys.path에 추가 (GitHub Actions 환경 대응)
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from datetime import datetime, timedelta, timezone
-
-from tracker.collector.base import SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands
+from tracker.collector.base import KST, SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands, now_kst
 from tracker.collector.crawlers import collect_keyword, fetch_actual_dates
 from tracker.processor.analyzer import analyze_posts
-from tracker.storage.db import init_db, save_issue, export_json
+from tracker.storage.db import init_db, save_issues_bulk, export_json
 
 FEED_CUTOFF_DAYS = 7   # 피드: 7일 이내
 HOT_CUTOFF_HOURS = 24  # hot/versus: 24시간 이내
@@ -31,7 +29,7 @@ log = logging.getLogger("pipeline")
 
 
 async def run():
-    log.info(f"🚀 수집 시작 [{datetime.now().strftime('%Y-%m-%d %H:%M')}]")
+    log.info(f"🚀 수집 시작 [{now_kst().strftime('%Y-%m-%d %H:%M')} KST]")
 
     all_posts = []
     seen_uids = set()
@@ -60,25 +58,32 @@ async def run():
     log.info(f"📅 발행일 보정 중 (전체 {len(all_posts)}건)...")
     await fetch_actual_dates(all_posts, concurrency=5)
 
-    # 4) 7일 초과 게시글 필터 (발행일 보정 후 적용)
-    now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(days=FEED_CUTOFF_DAYS)
-    all_posts = [
-        p for p in all_posts
-        if p.published_at.replace(tzinfo=timezone.utc) >= cutoff
-    ]
+    # 4) 7일 초과 게시글 필터 (발행일 보정 후 적용, KST 기준)
+    cutoff = now_kst() - timedelta(days=FEED_CUTOFF_DAYS)
+
+    def _aware_kst(dt):
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=KST)
+        return dt.astimezone(KST)
+
+    all_posts = [p for p in all_posts if _aware_kst(p.published_at) >= cutoff]
     log.info(f"📥 7일 이내 {len(all_posts)}건 필터링 완료")
 
     # 5) 분석
     issues = analyze_posts(all_posts)
     log.info(f"🔍 {len(issues)}건 분석 완료")
 
-    # 6) 저장 + JSON 내보내기
-    for issue in issues:
-        save_issue(issue)
+    # 6) 저장 + JSON 내보내기 (M5: 단일 트랜잭션 일괄 저장)
+    saved = save_issues_bulk(issues)
+    log.info(f"💾 {saved}건 저장 완료")
 
     export_json()
     log.info("✅ 완료")
+
+    # L3: 모든 채널 차단/장애 감지 — 한 건도 못 받으면 Actions 실패로 알림
+    if saved == 0:
+        log.error("⚠️  수집된 이슈가 0건입니다. 모든 채널이 차단됐거나 셀렉터가 깨졌을 수 있습니다.")
+        sys.exit(1)
 
 
 async def run_scheduled(interval_hours: int = 1):
