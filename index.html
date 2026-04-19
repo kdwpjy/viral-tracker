@@ -269,17 +269,15 @@
     .vbar-fill.baemin { background: var(--baemin); }
     .vbar-fill.coupang { background: var(--coupang); }
     .vbar-val { width: 30px; text-align: right; color: var(--text-muted); }
-    .stakeholder-badges {
-      display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px;
+    .stakeholder-tags {
+      display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px;
     }
-    .stakeholder-badge {
-      padding: 3px 10px; border-radius: 20px;
-      font-size: 11px; font-weight: 600;
+    .stakeholder-tag {
+      padding: 2px 8px; border-radius: 12px;
+      font-size: 10px; font-weight: 500;
       background: var(--surface2); color: var(--text-dim);
       border: 1px solid var(--border);
     }
-    .stakeholder-badge.active-neg { background: var(--neg-dim); color: var(--neg); border-color: var(--neg); }
-    .stakeholder-badge.active-pos { background: var(--pos-dim); color: var(--pos); border-color: var(--pos); }
 
     /* ── Sentiment Charts (감성 비중 파이차트) ── */
     .sentiment-filter {
@@ -524,28 +522,31 @@
             <div class="versus-issue-title">배달비 4,900원 기본요금 정착에 점주 반발</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
-              <span>이해관계자: 점주</span><span>·</span><span>2시간 전</span>
+              <span>2시간 전</span>
+            </div>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#점주</span>
             </div>
           </div>
           <div class="versus-issue pos">
             <div class="versus-issue-title">"배민 이모티콘 캐릭터가 너무 귀엽다" 굿즈 구매 인증 유행</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
-              <span>이해관계자: 소비자</span><span>·</span><span>5시간 전</span>
+              <span>5시간 전</span>
+            </div>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#소비자</span>
             </div>
           </div>
           <div class="versus-issue neg">
             <div class="versus-issue-title">블라인드 배민 본사 직원 "야근 강요" 폭로글 확산</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
-              <span>이해관계자: 직원</span><span>·</span><span>어제</span>
+              <span>어제</span>
             </div>
-          </div>
-          <div class="stakeholder-badges">
-            <span class="stakeholder-badge active-neg">소비자</span>
-            <span class="stakeholder-badge active-neg">점주</span>
-            <span class="stakeholder-badge">라이더</span>
-            <span class="stakeholder-badge active-neg">직원</span>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#직원</span>
+            </div>
           </div>
         </div>
 
@@ -556,28 +557,31 @@
             <div class="versus-issue-title">쿠팡이츠 라이더 산재 처리 거부 의혹 재점화</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
-              <span>이해관계자: 라이더</span><span>·</span><span>1시간 전</span>
+              <span>1시간 전</span>
+            </div>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#라이더</span>
             </div>
           </div>
           <div class="versus-issue pos">
             <div class="versus-issue-title">쿠팡이츠 단건배달 30분 보장 프로모션 호평</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
-              <span>이해관계자: 소비자</span><span>·</span><span>4시간 전</span>
+              <span>4시간 전</span>
+            </div>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#소비자</span>
             </div>
           </div>
           <div class="versus-issue neg">
             <div class="versus-issue-title">입점 식당 독점 계약 강요 소문 커뮤니티 확산</div>
             <div class="versus-issue-meta">
               <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
-              <span>이해관계자: 점주</span><span>·</span><span>어제</span>
+              <span>어제</span>
             </div>
-          </div>
-          <div class="stakeholder-badges">
-            <span class="stakeholder-badge active-pos">소비자</span>
-            <span class="stakeholder-badge active-neg">점주</span>
-            <span class="stakeholder-badge active-neg">라이더</span>
-            <span class="stakeholder-badge">직원</span>
+            <div class="stakeholder-tags">
+              <span class="stakeholder-tag">#점주</span>
+            </div>
           </div>
         </div>
       </div>
@@ -1019,13 +1023,11 @@
     const [bCol, cCol] = document.querySelectorAll('.versus-col');
     if (bCol && baemin.issues) {
       bCol.innerHTML = '<div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>' +
-        baemin.issues.map(i => versusIssueHTML(i)).join('') +
-        stakeholderHTML(baemin.issues);
+        baemin.issues.map(i => versusIssueHTML(i)).join('');
     }
     if (cCol && coupang.issues) {
       cCol.innerHTML = '<div style="font-size:12px;color:var(--text-muted);margin-bottom:12px;font-weight:600;">최신 이슈</div>' +
-        coupang.issues.map(i => versusIssueHTML(i)).join('') +
-        stakeholderHTML(coupang.issues);
+        coupang.issues.map(i => versusIssueHTML(i)).join('');
     }
 
     // 통계 바 업데이트
@@ -1083,6 +1085,8 @@
     const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
     const badge = SENTIMENT_LABEL[i.sentiment] || '○';
     const url   = i.url ? safeUrl(i.url) : '';
+    const stakeholders = (i.stakeholders || [])
+      .map(s => `<span class="stakeholder-tag">#${esc(s)}</span>`).join('');
     return `
       <div class="versus-issue ${css}" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
         <div class="versus-issue-title">${esc(i.title || '')}</div>
@@ -1090,16 +1094,8 @@
           <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
           <span>${esc(pubTime(i.published_at))}</span>
         </div>
+        ${stakeholders ? `<div class="stakeholder-tags">${stakeholders}</div>` : ''}
       </div>`;
-  }
-
-  function stakeholderHTML(issues) {
-    const all = issues.flatMap(i => i.stakeholders || []);
-    const uniq = new Set(all);
-    const roles = ['소비자', '점주', '라이더', '직원'];
-    return `<div class="stakeholder-badges">` +
-      roles.map(r => `<span class="stakeholder-badge ${uniq.has(r) ? 'active-neg' : ''}">${r}</span>`).join('') +
-      `</div>`;
   }
 
   function showNoDataMessage() {
