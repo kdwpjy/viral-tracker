@@ -1,8 +1,11 @@
 """
-감성 분류 (Gemma 4 E2B-it via HuggingFace transformers) + 바이럴 스코어 계산
+감성 분류 (Gemma 4 E2B-it) + 바이럴 스코어 계산
 
-- 기본: LLM 기반 감성 분류 (positive / negative / neutral)
-- LLM 로드 실패 또는 DISABLE_LLM=1 환경변수 → 규칙 기반 fallback
+## 백엔드 (환경변수 SENTIMENT_BACKEND 로 선택)
+- 'transformers' (기본 auto, 로컬): HF transformers + FP16
+- 'llamacpp'     (CI 권장): llama.cpp + GGUF Q4_K_M 양자화 (CPU 친화)
+- 자동 (미지정): transformers 우선, 실패 시 llamacpp, 모두 실패 시 규칙 fallback
+- DISABLE_LLM=1: LLM 완전 비활성화 → 규칙 기반
 """
 import logging
 import math
@@ -73,43 +76,15 @@ class ProcessedIssue:
 
 # ── 감성 분류 ─────────────────────────────────────────────────────────────────
 
-_LLM_MODEL_ID = os.environ.get("SENTIMENT_MODEL", "google/gemma-4-E2B-it")
-_llm_pipeline = None           # None = 아직 시도 안 함, False = 로드 실패, 객체 = 성공
+# ── 모델 설정 ────────────────────────────────────────────────────────────────
+
+_LLM_MODEL_ID   = os.environ.get("SENTIMENT_MODEL", "google/gemma-4-E2B-it")
+_GGUF_REPO      = os.environ.get("SENTIMENT_GGUF_REPO", "unsloth/gemma-4-E2B-it-GGUF")
+_GGUF_FILE      = os.environ.get("SENTIMENT_GGUF_FILE", "gemma-4-E2B-it-Q4_K_M.gguf")
+_BACKEND_PREF   = os.environ.get("SENTIMENT_BACKEND", "auto").lower()
+
+_llm_backend = None   # None=미시도, False=사용불가, ('transformers'|'llamacpp', obj)=성공
 _VALID_LABELS = ("positive", "negative", "neutral")
-
-
-def _get_llm_pipeline():
-    """최초 호출 시 1회만 HF pipeline 로드 (lazy). 실패/비활성 시 False 반환."""
-    global _llm_pipeline
-    if _llm_pipeline is not None:
-        return _llm_pipeline
-    if os.environ.get("DISABLE_LLM") == "1":
-        _log.info("DISABLE_LLM=1 → 규칙 기반 감성 분류 사용")
-        _llm_pipeline = False
-        return False
-    try:
-        import torch  # noqa: F401
-        from transformers import pipeline as hf_pipeline
-    except ImportError as e:
-        _log.warning(f"transformers/torch 미설치 → 규칙 기반 fallback ({e})")
-        _llm_pipeline = False
-        return False
-
-    try:
-        _log.info(f"🤖 LLM 로드 시작: {_LLM_MODEL_ID}")
-        # Mac: MPS 자동 선택, Linux: CPU/GPU 자동. device_map='auto' 사용.
-        _llm_pipeline = hf_pipeline(
-            task="text-generation",
-            model=_LLM_MODEL_ID,
-            torch_dtype="auto",
-            device_map="auto",
-        )
-        _log.info("✅ LLM 로드 완료")
-    except Exception as e:
-        _log.warning(f"LLM 로드 실패 → 규칙 기반 fallback: {e}")
-        _llm_pipeline = False
-    return _llm_pipeline
-
 
 _SENTIMENT_PROMPT = (
     "다음 한국어 글의 감성을 분류하세요. "
@@ -118,23 +93,112 @@ _SENTIMENT_PROMPT = (
 )
 
 
-def classify_sentiment_llm(title: str, body: str) -> str | None:
-    """LLM으로 감성 분류. 실패 시 None 반환 (호출 측에서 fallback)."""
-    pipe = _get_llm_pipeline()
-    if not pipe:
+def _try_transformers():
+    try:
+        import torch  # noqa: F401
+        from transformers import pipeline as hf_pipeline
+    except ImportError as e:
+        _log.debug(f"transformers 미설치: {e}")
         return None
     try:
-        prompt = _SENTIMENT_PROMPT.format(title=title[:200], body=body[:500])
-        messages = [{"role": "user", "content": prompt}]
-        out = pipe(messages, max_new_tokens=8, do_sample=False)
-        text = _extract_generated_text(out).lower()
-        for label in _VALID_LABELS:
-            if label in text:
-                return label
-        return None
+        _log.info(f"🤖 [transformers] LLM 로드 시작: {_LLM_MODEL_ID}")
+        pipe = hf_pipeline(
+            task="text-generation",
+            model=_LLM_MODEL_ID,
+            torch_dtype="auto",
+            device_map="auto",
+        )
+        _log.info("✅ [transformers] LLM 로드 완료")
+        return ("transformers", pipe)
     except Exception as e:
-        _log.debug(f"LLM 분류 실패 ({title[:30]}): {e}")
+        _log.warning(f"[transformers] 로드 실패: {e}")
         return None
+
+
+def _try_llamacpp():
+    try:
+        from llama_cpp import Llama
+        from huggingface_hub import hf_hub_download
+    except ImportError as e:
+        _log.debug(f"llama-cpp-python/huggingface_hub 미설치: {e}")
+        return None
+    try:
+        _log.info(f"🤖 [llamacpp] GGUF 준비: {_GGUF_REPO}/{_GGUF_FILE}")
+        model_path = hf_hub_download(repo_id=_GGUF_REPO, filename=_GGUF_FILE)
+        _log.info(f"🤖 [llamacpp] Llama 초기화...")
+        llm = Llama(
+            model_path=model_path,
+            n_ctx=1024,
+            n_threads=int(os.environ.get("LLAMACPP_THREADS", "4")),
+            verbose=False,
+        )
+        _log.info("✅ [llamacpp] LLM 로드 완료")
+        return ("llamacpp", llm)
+    except Exception as e:
+        _log.warning(f"[llamacpp] 로드 실패: {e}")
+        return None
+
+
+def _get_llm_backend():
+    """최초 호출 시 1회만 backend 로드 (lazy). SENTIMENT_BACKEND 순서대로 시도."""
+    global _llm_backend
+    if _llm_backend is not None:
+        return _llm_backend if _llm_backend else None
+    if os.environ.get("DISABLE_LLM") == "1":
+        _log.info("DISABLE_LLM=1 → 규칙 기반 감성 분류 사용")
+        _llm_backend = False
+        return None
+
+    if _BACKEND_PREF == "llamacpp":
+        _llm_backend = _try_llamacpp() or _try_transformers() or False
+    elif _BACKEND_PREF == "transformers":
+        _llm_backend = _try_transformers() or _try_llamacpp() or False
+    else:  # auto
+        _llm_backend = _try_transformers() or _try_llamacpp() or False
+
+    if not _llm_backend:
+        _log.info("LLM 백엔드 사용 불가 → 규칙 기반 fallback")
+    return _llm_backend if _llm_backend else None
+
+
+def _classify_transformers(pipe, title: str, body: str) -> str | None:
+    prompt = _SENTIMENT_PROMPT.format(title=title[:200], body=body[:500])
+    out = pipe([{"role": "user", "content": prompt}], max_new_tokens=8, do_sample=False)
+    return _find_label(_extract_generated_text(out))
+
+
+def _classify_llamacpp(llm, title: str, body: str) -> str | None:
+    prompt = _SENTIMENT_PROMPT.format(title=title[:200], body=body[:500])
+    resp = llm.create_chat_completion(
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=8,
+        temperature=0.0,
+    )
+    return _find_label(resp["choices"][0]["message"]["content"])
+
+
+def _find_label(text: str) -> str | None:
+    t = (text or "").lower()
+    for label in _VALID_LABELS:
+        if label in t:
+            return label
+    return None
+
+
+def classify_sentiment_llm(title: str, body: str) -> str | None:
+    """LLM으로 감성 분류. 실패 시 None 반환 (호출 측에서 fallback)."""
+    backend = _get_llm_backend()
+    if not backend:
+        return None
+    kind, obj = backend
+    try:
+        if kind == "transformers":
+            return _classify_transformers(obj, title, body)
+        if kind == "llamacpp":
+            return _classify_llamacpp(obj, title, body)
+    except Exception as e:
+        _log.debug(f"LLM 분류 실패 ({kind}, {title[:30]}): {e}")
+    return None
 
 
 def _extract_generated_text(out) -> str:

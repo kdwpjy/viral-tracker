@@ -8,8 +8,13 @@ lxml>=5.2.0
 # JS 렌더링 (에펨코리아)
 playwright>=1.44.0
 
-# 감성 분류 (Gemma 4 E2B-it via HuggingFace transformers)
-# DISABLE_LLM=1 환경변수로 비활성화 가능 (CI 기본값)
+# 감성 분류 (Gemma 4 E2B-it)
+# 백엔드는 SENTIMENT_BACKEND 환경변수로 전환:
+#   - 'transformers' (기본, 로컬 권장): FP16 고품질
+#   - 'llamacpp'     (CI 권장): Q4_K_M 양자화, CPU 친화 (~2~3초/건)
+# DISABLE_LLM=1 → LLM 완전 비활성화 (규칙 기반 fallback)
 transformers>=4.55.0
 torch>=2.2.0
 accelerate>=0.30.0
+llama-cpp-python>=0.3.0
+huggingface_hub>=0.24.0
