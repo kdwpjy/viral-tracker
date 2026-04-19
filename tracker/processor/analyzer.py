@@ -37,13 +37,6 @@ POSITIVE_KEYWORDS = [
     "빠른배달", "가성비", "할인쿠폰", "무료배달",
 ]
 
-MEME_KEYWORDS = [
-    "ㅋㅋ", "ㅋㅋㅋ", "ㅎㅎ", "레전드", "역대급", "짤",
-    "밈", "병맛", "웃기", "웃음", "개웃", "이게뭐야", "미쳤다",
-    "실화냐", "실화임", "오졌다", "오진다", "갓", "갓겜", "갓브랜드",
-    "광고 사기", "광고랑 다르", "실물이", "비교짤",
-]
-
 # 이해관계자 키워드 (배달앱 특화)
 STAKEHOLDER_KEYWORDS = {
     "소비자": ["소비자", "고객", "이용자", "유저", "배달비", "주문"],
@@ -61,7 +54,7 @@ class ProcessedIssue:
     url: str
     title: str
     summary: str
-    sentiment: str         # positive / negative / meme / neutral
+    sentiment: str         # positive / negative / neutral
     tags: list[str]
     viral_score: float
     status: str            # Hot / Rising / Stable
@@ -77,13 +70,9 @@ class ProcessedIssue:
 def classify_sentiment(text: str) -> str:
     text_lower = text.lower()
 
-    neg_count  = sum(1 for kw in NEGATIVE_KEYWORDS if kw in text_lower)
-    pos_count  = sum(1 for kw in POSITIVE_KEYWORDS if kw in text_lower)
-    meme_count = sum(1 for kw in MEME_KEYWORDS    if kw in text_lower)
+    neg_count = sum(1 for kw in NEGATIVE_KEYWORDS if kw in text_lower)
+    pos_count = sum(1 for kw in POSITIVE_KEYWORDS if kw in text_lower)
 
-    # 밈 키워드가 있으면서 부정도 섞인 경우 meme 우선
-    if meme_count >= 1 and (meme_count >= neg_count or meme_count >= pos_count):
-        return "meme"
     if neg_count > pos_count:
         return "negative"
     if pos_count > neg_count:
@@ -110,7 +99,6 @@ def extract_tags(text: str) -> list[str]:
         ("점주썰",        ["점주", "사장님", "자영업"]),
         ("품질논란",      ["품질", "위생", "이물질"]),
         ("가격인상",      ["가격 인상", "인상", "올랐"]),
-        ("밈",            ["밈", "짤", "레전드", "ㅋㅋ"]),
         ("직원칭찬",      ["직원", "칭찬", "감동"]),
     ]
     for tag, keywords in checks:
@@ -137,7 +125,6 @@ def generate_summary(title: str, body: str, sentiment: str) -> str:
     sentiment_label = {
         "negative": "부정",
         "positive": "긍정",
-        "meme":     "밈",
         "neutral":  "중립",
     }.get(sentiment, "")
 
@@ -161,7 +148,6 @@ CHANNEL_WEIGHT: dict[str, float] = {
 
 SENTIMENT_MULTIPLIER: dict[str, float] = {
     "negative": 1.3,
-    "meme":     1.15,
     "positive": 1.0,
     "neutral":  0.7,
 }
@@ -188,8 +174,7 @@ def compute_viral_score(post: RawPost, sentiment: str) -> float:
     text = post.title + " " + post.body
     kw_count = (
         sum(1 for kw in NEGATIVE_KEYWORDS if kw in text) +
-        sum(1 for kw in POSITIVE_KEYWORDS if kw in text) +
-        sum(1 for kw in MEME_KEYWORDS     if kw in text)
+        sum(1 for kw in POSITIVE_KEYWORDS if kw in text)
     )
     kw_bonus = min(kw_count * 2, 15.0)  # max 15점
 

@@ -16,8 +16,8 @@
       --pos-dim: #14532d;
       --neg: #ef4444;
       --neg-dim: #7f1d1d;
-      --meme: #f59e0b;
-      --meme-dim: #78350f;
+      --neutral: #94a3b8;
+      --neutral-dim: #1e293b;
       --blue: #6366f1;
       --blue-dim: #312e81;
       --text: #e2e8f0;
@@ -112,7 +112,7 @@
     }
     .hot-card.pos::before { background: var(--pos); }
     .hot-card.neg::before { background: var(--neg); }
-    .hot-card.meme::before { background: var(--meme); }
+    .hot-card.neutral::before { background: var(--neutral); }
 
     .card-top {
       display: flex; align-items: flex-start;
@@ -135,7 +135,7 @@
     }
     .sentiment-badge.pos { background: var(--pos-dim); color: var(--pos); }
     .sentiment-badge.neg { background: var(--neg-dim); color: var(--neg); }
-    .sentiment-badge.meme { background: var(--meme-dim); color: var(--meme); }
+    .sentiment-badge.neutral { background: var(--neutral-dim); color: var(--neutral); }
 
     .card-title {
       font-size: 16px; font-weight: 700; margin-bottom: 8px;
@@ -162,7 +162,7 @@
     }
     .pos .score-fill { background: var(--pos); }
     .neg .score-fill { background: var(--neg); }
-    .meme .score-fill { background: var(--meme); }
+    .neutral .score-fill { background: var(--neutral); }
 
     .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
     .tag {
@@ -243,7 +243,7 @@
     .versus-issue:hover { background: var(--border); }
     .versus-issue.neg { border-left-color: var(--neg); }
     .versus-issue.pos { border-left-color: var(--pos); }
-    .versus-issue.meme { border-left-color: var(--meme); }
+    .versus-issue.neutral { border-left-color: var(--neutral); }
     .versus-issue-title { font-size: 13px; font-weight: 600; margin-bottom: 4px; }
     .versus-issue-meta {
       display: flex; align-items: center; gap: 8px;
@@ -298,7 +298,7 @@
     .tab-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
     .tab-btn.pos.active { background: var(--pos); border-color: var(--pos); }
     .tab-btn.neg.active { background: var(--neg); border-color: var(--neg); }
-    .tab-btn.meme.active { background: var(--meme); border-color: var(--meme); }
+    .tab-btn.neutral.active { background: var(--neutral); border-color: var(--neutral); color: #0f1117; }
 
     /* ── Grid Cards (general) ── */
     .cards-grid {
@@ -317,7 +317,7 @@
     }
     .issue-card.pos { border-left-color: var(--pos); }
     .issue-card.neg { border-left-color: var(--neg); }
-    .issue-card.meme { border-left-color: var(--meme); }
+    .issue-card.neutral { border-left-color: var(--neutral); }
     .issue-card:hover { transform: translateY(-2px); border-top-color: var(--blue); }
     .issue-card .card-top { margin-bottom: 10px; }
     .issue-card .card-title { font-size: 14px; margin-bottom: 6px; }
@@ -455,32 +455,19 @@
       </div>
 
       <!-- 3위 -->
-      <div class="hot-card meme fade-in" style="animation-delay:.2s">
+      <div class="hot-card neutral fade-in" style="animation-delay:.2s">
         <div class="card-top">
           <div class="brand-info">
-            <div class="brand-logo">🍔</div>
+            <div class="brand-logo">📰</div>
             <div>
-              <div class="brand-name">맥도날드</div>
-              <div class="brand-cat">패스트푸드</div>
+              <div class="brand-name">데이터 로딩 중</div>
+              <div class="brand-cat">—</div>
             </div>
           </div>
-          <div class="sentiment-badge meme">😂 밈</div>
+          <div class="sentiment-badge neutral">○ 중립</div>
         </div>
-        <div class="card-title">맥모닝 가격표 vs 실물 사진 비교 밈 대유행</div>
-        <div class="card-summary">공식 앱 사진과 실물의 크기 차이를 찍은 영상이 "광고 사기" 밈으로 재가공되어 커뮤니티 전반에 확산 중.</div>
-        <div class="score-bar-wrap">
-          <div class="score-label"><span>바이럴 스코어</span><span>65 / 100</span></div>
-          <div class="score-bar"><div class="score-fill" style="width:65%"></div></div>
-        </div>
-        <div class="tags">
-          <span class="tag">#광고역효과</span>
-          <span class="tag">#밈</span>
-          <span class="tag">#에펨코리아</span>
-        </div>
-        <div class="card-meta">
-          <span>⏱ 어제</span>
-          <span>💬 870+</span>
-        </div>
+        <div class="card-title">실제 데이터를 불러오는 중입니다…</div>
+        <div class="card-summary">잠시 후 자동으로 최신 이슈가 표시됩니다.</div>
       </div>
 
     </div>
@@ -521,10 +508,10 @@
               <span>이해관계자: 점주</span><span>·</span><span>2시간 전</span>
             </div>
           </div>
-          <div class="versus-issue meme">
+          <div class="versus-issue pos">
             <div class="versus-issue-title">"배민 이모티콘 캐릭터가 너무 귀엽다" 굿즈 구매 인증 유행</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge meme" style="font-size:10px;padding:2px 8px;">😂 밈</span>
+              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
               <span>이해관계자: 소비자</span><span>·</span><span>5시간 전</span>
             </div>
           </div>
@@ -604,14 +591,14 @@
           </div>
         </div>
         <div class="versus-stat">
-          <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 밈)</div>
+          <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 중립)</div>
           <div class="versus-stat-bars">
             <div class="versus-stat-bar-row">
               <span class="vbar-label" style="color:var(--baemin)">배민</span>
               <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
                 <div style="position:absolute;left:0;top:0;height:100%;width:55%;background:var(--neg);"></div>
                 <div style="position:absolute;left:55%;top:0;height:100%;width:25%;background:var(--pos);"></div>
-                <div style="position:absolute;left:80%;top:0;height:100%;width:20%;background:var(--meme);"></div>
+                <div style="position:absolute;left:80%;top:0;height:100%;width:20%;background:var(--neutral);"></div>
               </div>
               <span class="vbar-val" style="font-size:10px">55/25/20</span>
             </div>
@@ -620,7 +607,7 @@
               <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
                 <div style="position:absolute;left:0;top:0;height:100%;width:66%;background:var(--neg);"></div>
                 <div style="position:absolute;left:66%;top:0;height:100%;width:28%;background:var(--pos);"></div>
-                <div style="position:absolute;left:94%;top:0;height:100%;width:6%;background:var(--meme);"></div>
+                <div style="position:absolute;left:94%;top:0;height:100%;width:6%;background:var(--neutral);"></div>
               </div>
               <span class="vbar-val" style="font-size:10px">66/28/6</span>
             </div>
@@ -639,7 +626,7 @@
       <button class="tab-btn active" onclick="setTab(this,'all')">전체</button>
       <button class="tab-btn pos" onclick="setTab(this,'pos')">🔥 긍정</button>
       <button class="tab-btn neg" onclick="setTab(this,'neg')">💀 부정</button>
-      <button class="tab-btn meme" onclick="setTab(this,'meme')">😂 밈/썰</button>
+      <button class="tab-btn neutral" onclick="setTab(this,'neutral')">○ 중립</button>
     </div>
     <div class="cards-grid" id="cardsGrid">
       <!-- 카드들은 JS로 렌더링 -->
@@ -669,8 +656,8 @@
     '올리브영': '🌿', '카카오뱅크': '💛', '다이소': '🛒',
     'GS25': '🏪', '이마트': '🛒', '쿠팡': '📦',
   };
-  const SENTIMENT_LABEL = { positive: '🔥 긍정', negative: '💀 부정', meme: '😂 밈', neutral: '○ 중립' };
-  const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', meme: 'meme', neutral: 'neutral' };
+  const SENTIMENT_LABEL = { positive: '🔥 긍정', negative: '💀 부정', neutral: '○ 중립' };
+  const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', neutral: 'neutral' };
 
   function brandEmoji(brand) {
     return BRAND_EMOJI[brand] || '🏢';
@@ -914,8 +901,8 @@
     const cPct = clampScore(cM / maxM * 100);
     const rawBr = baemin.ratio || {};
     const rawCr = coupang.ratio || {};
-    const br = { negative: clampScore(rawBr.negative), positive: clampScore(rawBr.positive), meme: clampScore(rawBr.meme) };
-    const cr = { negative: clampScore(rawCr.negative), positive: clampScore(rawCr.positive), meme: clampScore(rawCr.meme) };
+    const br = { negative: clampScore(rawBr.negative), positive: clampScore(rawBr.positive), neutral: clampScore(rawBr.neutral) };
+    const cr = { negative: clampScore(rawCr.negative), positive: clampScore(rawCr.positive), neutral: clampScore(rawCr.neutral) };
     statRow.innerHTML = `
       <div class="versus-stat">
         <div class="versus-stat-label">언급 빈도 비교 (전체 수집 기사 기준)</div>
@@ -933,25 +920,25 @@
         </div>
       </div>
       <div class="versus-stat">
-        <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 밈)</div>
+        <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 중립)</div>
         <div class="versus-stat-bars">
           <div class="versus-stat-bar-row">
             <span class="vbar-label" style="color:var(--baemin)">배민</span>
             <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
               <div style="position:absolute;left:0;top:0;height:100%;width:${br.negative||0}%;background:var(--neg);"></div>
               <div style="position:absolute;left:${br.negative||0}%;top:0;height:100%;width:${br.positive||0}%;background:var(--pos);"></div>
-              <div style="position:absolute;left:${(br.negative||0)+(br.positive||0)}%;top:0;height:100%;width:${br.meme||0}%;background:var(--meme);"></div>
+              <div style="position:absolute;left:${(br.negative||0)+(br.positive||0)}%;top:0;height:100%;width:${br.neutral||0}%;background:var(--neutral);"></div>
             </div>
-            <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.positive||0}/${br.meme||0}</span>
+            <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.positive||0}/${br.neutral||0}</span>
           </div>
           <div class="versus-stat-bar-row">
             <span class="vbar-label" style="color:var(--coupang)">쿠팡</span>
             <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
               <div style="position:absolute;left:0;top:0;height:100%;width:${cr.negative||0}%;background:var(--neg);"></div>
               <div style="position:absolute;left:${cr.negative||0}%;top:0;height:100%;width:${cr.positive||0}%;background:var(--pos);"></div>
-              <div style="position:absolute;left:${(cr.negative||0)+(cr.positive||0)}%;top:0;height:100%;width:${cr.meme||0}%;background:var(--meme);"></div>
+              <div style="position:absolute;left:${(cr.negative||0)+(cr.positive||0)}%;top:0;height:100%;width:${cr.neutral||0}%;background:var(--neutral);"></div>
             </div>
-            <span class="vbar-val" style="font-size:10px">${cr.negative||0}/${cr.positive||0}/${cr.meme||0}</span>
+            <span class="vbar-val" style="font-size:10px">${cr.negative||0}/${cr.positive||0}/${cr.neutral||0}</span>
           </div>
         </div>
       </div>`;

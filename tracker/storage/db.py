@@ -172,7 +172,7 @@ def get_versus() -> dict:
         return {
             "negative": round(sum(1 for i in items if i["sentiment"] == "negative") / total * 100),
             "positive": round(sum(1 for i in items if i["sentiment"] == "positive") / total * 100),
-            "meme":     round(sum(1 for i in items if i["sentiment"] == "meme")     / total * 100),
+            "neutral":  round(sum(1 for i in items if i["sentiment"] == "neutral")  / total * 100),
         }
 
     # 전체 수집 기사에서 정규식 기반 언급 횟수 집계
