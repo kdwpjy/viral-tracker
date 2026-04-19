@@ -286,6 +286,44 @@
       border: 1px solid var(--border);
     }
 
+    /* 중복 기사 뱃지 (+N 유사) — 클릭 시 하단 리스트 토글 */
+    .dup-badge {
+      display: inline-flex; align-items: center; gap: 4px;
+      padding: 2px 8px; border-radius: 10px;
+      font-size: 10px; font-weight: 600;
+      background: var(--blue-dim); color: var(--blue);
+      border: 1px solid var(--blue);
+      cursor: pointer;
+      user-select: none;
+      transition: background .15s;
+    }
+    .dup-badge:hover { background: var(--blue); color: #fff; }
+    .dup-badge::after { content: ' ▾'; font-size: 9px; }
+    .dup-badge.open::after { content: ' ▴'; }
+
+    .dup-list {
+      display: none;
+      margin-top: 10px;
+      padding: 10px 12px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+    }
+    .dup-list.open { display: block; }
+    .dup-list ul { list-style: none; padding: 0; margin: 0; }
+    .dup-list li { padding: 4px 0; border-bottom: 1px dashed var(--border); }
+    .dup-list li:last-child { border-bottom: none; }
+    .dup-list a {
+      color: var(--text-dim); text-decoration: none;
+      display: block; line-height: 1.4;
+    }
+    .dup-list a:hover { color: var(--blue); }
+    .dup-list .dup-channel {
+      display: inline-block; font-size: 10px; color: var(--text-muted);
+      margin-right: 6px;
+    }
+
     /* ── Sentiment Charts (감성 비중 파이차트) ── */
     .sentiment-filter {
       display: flex; flex-wrap: wrap; align-items: center;
@@ -711,6 +749,28 @@
     return BRAND_EMOJI[brand] || '🏢';
   }
 
+  // +N 유사 뱃지 클릭 시 같은 카드 안의 .dup-list 토글 (카드 click propagation 차단)
+  function toggleDupList(ev, btn) {
+    ev.stopPropagation();
+    const card = btn.closest('.hot-card, .versus-issue');
+    const list = card && card.querySelector('.dup-list');
+    if (!list) return;
+    list.classList.toggle('open');
+    btn.classList.toggle('open');
+  }
+
+  // 유사 기사 리스트 HTML (duplicates 배열 기반)
+  function dupListHTML(duplicates) {
+    if (!Array.isArray(duplicates) || duplicates.length === 0) return '';
+    const items = duplicates.map(d => {
+      const url = safeUrl(d.url || '');
+      const title = esc(d.title || '');
+      const ch = d.channel ? `<span class="dup-channel">[${esc(d.channel)}]</span>` : '';
+      return `<li><a href="${esc(url)}" target="_blank" rel="noopener" onclick="event.stopPropagation();">${ch}${title}</a></li>`;
+    }).join('');
+    return `<div class="dup-list"><ul>${items}</ul></div>`;
+  }
+
   // UI 표시용 단축 라벨 (DB는 canonical 풀네임을 저장하지만 화면에는 단축형)
   const BRAND_LABEL = {
     '배달의민족': '배민',
@@ -841,6 +901,7 @@
       const rankClass = idx === 0 ? 'rank-1' : idx === 1 ? 'rank-2' : '';
       const url = item.url ? safeUrl(item.url) : '';
       const comments = Number(item.comments) || 0;
+      const dup = Number(item.duplicate_count) || 0;
       return `
         <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
           <div class="card-top">
@@ -863,7 +924,9 @@
           <div class="card-meta">
             <span>🕐 ${esc(pubTime(item.published_at))}</span>
             ${comments ? `<span>💬 ${comments}</span>` : ''}
+            ${dup ? `<span class="dup-badge" onclick="toggleDupList(event, this)" title="클릭해서 유사 기사 ${dup}건 보기">+${dup} 유사</span>` : ''}
           </div>
+          ${dup ? dupListHTML(item.duplicates) : ''}
           ${likeBtn(item.uid)}
         </div>`;
     }).join('');
@@ -1093,6 +1156,7 @@
     const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
     const badge = SENTIMENT_LABEL[i.sentiment] || '○';
     const url   = i.url ? safeUrl(i.url) : '';
+    const dup   = Number(i.duplicate_count) || 0;
     const stakeholders = (i.stakeholders || [])
       .map(s => `<span class="stakeholder-tag">#${esc(s)}</span>`).join('');
     return `
@@ -1101,8 +1165,10 @@
         <div class="versus-issue-meta">
           <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px">${badge}</span>
           <span>${esc(pubTime(i.published_at))}</span>
+          ${dup ? `<span class="dup-badge" onclick="toggleDupList(event, this)" title="클릭해서 유사 기사 ${dup}건 보기">+${dup} 유사</span>` : ''}
         </div>
         ${stakeholders ? `<div class="stakeholder-tags">${stakeholders}</div>` : ''}
+        ${dup ? dupListHTML(i.duplicates) : ''}
       </div>`;
   }
 

@@ -4,6 +4,8 @@ GitHub Pages용: data/issues.json 을 프로젝트 루트에 생성
 모든 datetime 은 KST aware (Asia/Seoul, UTC+9) 기준.
 """
 import json
+import os
+import re
 import sqlite3
 from contextlib import contextmanager
 from dataclasses import asdict
@@ -104,14 +106,118 @@ def _to_dicts(rows) -> list[dict]:
     return result
 
 
+# ── 유사 기사 병합 ────────────────────────────────────────────────────────────
+# 같은 사건을 여러 매체가 재게재하는 경우 (예: 연합뉴스 wire + 각 언론사) 대표
+# 하나만 남기고 duplicate_count/_urls 를 기록. 문자 n-gram Jaccard 유사도 사용.
+
+DEDUP_THRESHOLD = float(os.environ.get("DEDUP_THRESHOLD", "0.2"))
+_NGRAM_N = 2   # 한국어 짧은 제목엔 2-gram 이 조사/어미 변화에 더 관대
+
+
+def _char_ngrams(text: str, n: int = _NGRAM_N) -> set:
+    """한국어 친화적 n-gram: 기호/공백 제거 후 문자 단위로 n-gram 생성."""
+    clean = re.sub(r"[^\w가-힣]", "", (text or ""))
+    if len(clean) < n:
+        return {clean} if clean else set()
+    return {clean[i:i + n] for i in range(len(clean) - n + 1)}
+
+
+def _jaccard(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    inter = len(a & b)
+    union = len(a | b)
+    return inter / union if union else 0.0
+
+
+def _min_containment(a: set, b: set) -> float:
+    """두 집합 중 작은 쪽 기준 공통 비율. 짧은 제목 간 포함 관계 감지에 유리."""
+    if not a or not b:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
+
+
+# 병합 조건: Jaccard >= THRESHOLD 이거나 min-containment >= CONTAIN_THRESHOLD
+CONTAIN_THRESHOLD = float(os.environ.get("DEDUP_CONTAIN", "0.6"))
+
+
+def _title_similar(a_ng: set, b_ng: set) -> bool:
+    if _jaccard(a_ng, b_ng) >= DEDUP_THRESHOLD:
+        return True
+    if _min_containment(a_ng, b_ng) >= CONTAIN_THRESHOLD:
+        return True
+    return False
+
+
+def _dedup_by_title(items: list[dict], threshold: float = DEDUP_THRESHOLD) -> list[dict]:
+    """
+    제목 유사도(char n-gram Jaccard) 기반 중복 병합.
+
+    - 대표(rep)는 각 group에서 viral_score 최고인 항목.
+    - 반환 순서는 **호출자가 전달한 원본 순서를 유지** (published_at 정렬 등 보존).
+    - 각 대표에 duplicate_count / duplicate_urls 필드 추가.
+    """
+    # Pass 1: viral_score 내림차순으로 group 구성 → rep 선정
+    by_score = sorted(
+        enumerate(items),
+        key=lambda t: t[1].get("viral_score", 0) or 0,
+        reverse=True,
+    )
+    group_rep_idx: list[int] = []       # 각 group 의 대표 원본 인덱스
+    group_ngrams: list[set] = []
+    group_dup_idx: list[list[int]] = [] # group 별 중복 원본 인덱스들
+    item_to_group: dict[int, int] = {}
+
+    for orig_idx, it in by_score:
+        ng = _char_ngrams(it.get("title", ""))
+        matched_gi = None
+        for gi, rep_ng in enumerate(group_ngrams):
+            if _title_similar(ng, rep_ng):
+                matched_gi = gi
+                break
+        if matched_gi is None:
+            matched_gi = len(group_ngrams)
+            group_ngrams.append(ng)
+            group_rep_idx.append(orig_idx)
+            group_dup_idx.append([])
+        else:
+            group_dup_idx[matched_gi].append(orig_idx)
+        item_to_group[orig_idx] = matched_gi
+
+    # Pass 2: 원본 순서대로 순회하되, group 은 처음 등장 시만 emit
+    seen_groups: set[int] = set()
+    result = []
+    for orig_idx in range(len(items)):
+        gi = item_to_group[orig_idx]
+        if gi in seen_groups:
+            continue
+        seen_groups.add(gi)
+        rep = dict(items[group_rep_idx[gi]])
+        dup_idx = group_dup_idx[gi]
+        rep["duplicate_count"] = len(dup_idx)
+        # 유사 기사 상세 (프론트에서 +N 유사 뱃지 클릭 시 expand 표시)
+        rep["duplicates"] = [
+            {
+                "title":   items[di].get("title", ""),
+                "url":     items[di].get("url", ""),
+                "channel": items[di].get("channel", ""),
+            }
+            for di in dup_idx
+        ]
+        result.append(rep)
+    return result
+
+
 def get_hot(limit=10) -> list[dict]:
     cutoff = (now_kst() - timedelta(hours=24)).isoformat()
     with get_conn() as conn:
+        # dedup 후 limit 맞추기 위해 여유있게 3배수 조회
         rows = conn.execute(
             "SELECT * FROM issues WHERE published_at >= ? ORDER BY viral_score DESC LIMIT ?",
-            (cutoff, limit)
+            (cutoff, max(limit * 3, 30))
         ).fetchall()
-    return _to_dicts(rows)
+    items = _to_dicts(rows)
+    return _dedup_by_title(items)[:limit]
 
 
 def get_by_sentiment(sentiment: str, limit=20) -> list[dict]:
@@ -161,8 +267,8 @@ def get_versus() -> dict:
             deduped.append(d)
         return deduped
 
-    baemin  = by_brand_any(["배달의민족", "배민"])
-    coupang = by_brand_any(["쿠팡이츠"])
+    baemin  = _dedup_by_title(by_brand_any(["배달의민족", "배민"]))
+    coupang = _dedup_by_title(by_brand_any(["쿠팡이츠"]))
 
     def avg_score(items):
         return round(sum(i["viral_score"] for i in items) / len(items), 1) if items else 0
@@ -238,8 +344,10 @@ def _build_weekly_feed(now: datetime) -> list[dict]:
                 if uid and uid not in seen:
                     seen[uid] = item
 
-    result = sorted(seen.values(), key=lambda x: _parse_iso(x.get("published_at", "")), reverse=True)
-    return result[:300]
+    # 1) 최신순 정렬 → 2) 제목 유사도 중복 병합 → 3) 300건 cap
+    by_time = sorted(seen.values(), key=lambda x: _parse_iso(x.get("published_at", "")), reverse=True)
+    deduped = _dedup_by_title(by_time)
+    return deduped[:300]
 
 
 def export_json():
