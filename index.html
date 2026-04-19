@@ -88,10 +88,10 @@
       cursor: pointer; text-decoration: underline;
     }
 
-    /* ── Hot Cards (Top 3) ── */
+    /* ── Hot Cards (Top 6, hero pattern: 1·2위 상단(2열) + 3~6위 하단(4열)) ── */
     .hot-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: repeat(4, 1fr);
       gap: 16px;
     }
     .hot-card {
@@ -103,9 +103,13 @@
       overflow: hidden;
       cursor: pointer;
       transition: transform .2s, border-color .2s;
+      display: flex; flex-direction: column;
     }
     .hot-card:hover { transform: translateY(-3px); border-color: var(--blue); }
-    .hot-card.rank-1 { grid-column: 1 / 3; }
+    /* 1·2위(hero): 상단을 절반씩 차지 */
+    .hot-card.rank-1 { grid-column: 1 / 3; padding: 28px; }
+    .hot-card.rank-2 { grid-column: 3 / 5; padding: 28px; }
+    /* 3~6위는 하단 4열에 자동 배치 */
     .hot-card::before {
       content: '';
       position: absolute; top: 0; left: 0; right: 0; height: 3px;
@@ -141,7 +145,10 @@
       font-size: 16px; font-weight: 700; margin-bottom: 8px;
       letter-spacing: -0.3px; line-height: 1.4;
     }
-    .rank-1 .card-title { font-size: 20px; }
+    .rank-1 .card-title,
+    .rank-2 .card-title { font-size: 22px; line-height: 1.3; }
+    .rank-1 .card-summary,
+    .rank-2 .card-summary { font-size: 14px; }
     .card-summary { font-size: 13px; color: var(--text-dim); margin-bottom: 14px; line-height: 1.5; }
 
     .card-meta {
@@ -363,16 +370,18 @@
 
     /* ── Responsive ── */
     @media (max-width: 900px) {
+      /* 1·2위는 1열씩(=상단 1행에 2개), 3~6위는 2열로 (2행) */
       .hot-grid { grid-template-columns: 1fr 1fr; }
-      .hot-card.rank-1 { grid-column: 1 / 3; }
+      .hot-card.rank-1 { grid-column: 1; }
+      .hot-card.rank-2 { grid-column: 2; }
       .versus-body { grid-template-columns: 1fr; }
       .versus-col:first-child { border-right: none; border-bottom: 1px solid var(--border); }
       .versus-stat-row { grid-template-columns: 1fr; }
     }
     @media (max-width: 600px) {
       .hot-grid { grid-template-columns: 1fr; }
-      .hot-card.rank-1 { grid-column: 1; }
-.versus-header { grid-template-columns: 1fr auto 1fr; padding: 14px; }
+      .hot-card.rank-1, .hot-card.rank-2 { grid-column: 1; }
+      .versus-header { grid-template-columns: 1fr auto 1fr; padding: 14px; }
       .versus-name { font-size: 14px; }
     }
   </style>
@@ -825,11 +834,11 @@
       grid.innerHTML = '<div style="color:var(--text-muted);padding:20px">수집된 데이터가 없습니다.</div>';
       return;
     }
-    grid.innerHTML = hot.slice(0, 3).map((item, idx) => {
+    grid.innerHTML = hot.slice(0, 6).map((item, idx) => {
       const css   = SENTIMENT_CSS[item.sentiment] || 'neutral';
       const badge = SENTIMENT_LABEL[item.sentiment] || '○';
       const score = clampScore(item.viral_score);
-      const rankClass = idx === 0 ? 'rank-1' : '';
+      const rankClass = idx === 0 ? 'rank-1' : idx === 1 ? 'rank-2' : '';
       const url = item.url ? safeUrl(item.url) : '';
       const comments = Number(item.comments) || 0;
       return `
