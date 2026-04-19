@@ -281,47 +281,66 @@
     .stakeholder-badge.active-neg { background: var(--neg-dim); color: var(--neg); border-color: var(--neg); }
     .stakeholder-badge.active-pos { background: var(--pos-dim); color: var(--pos); border-color: var(--pos); }
 
-    /* ── Filter Tabs ── */
-    .filter-tabs {
-      display: flex; gap: 8px; margin-bottom: 20px;
+    /* ── Sentiment Charts (감성 비중 파이차트) ── */
+    .sentiment-filter {
+      display: flex; flex-wrap: wrap; align-items: center;
+      gap: 8px; margin-bottom: 16px;
     }
-    .tab-btn {
-      padding: 8px 20px; border-radius: 20px;
+    .sentiment-filter .period-btn {
+      padding: 6px 14px; border-radius: 16px;
       border: 1px solid var(--border);
       background: var(--surface);
       color: var(--text-dim);
-      font-size: 13px; font-weight: 600;
+      font-size: 12px; font-weight: 600;
       cursor: pointer;
-      transition: all .2s;
+      transition: all .15s;
     }
-    .tab-btn:hover { border-color: var(--blue); color: var(--text); }
-    .tab-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
-    .tab-btn.pos.active { background: var(--pos); border-color: var(--pos); }
-    .tab-btn.neg.active { background: var(--neg); border-color: var(--neg); }
-    .tab-btn.neutral.active { background: var(--neutral); border-color: var(--neutral); color: #0f1117; }
+    .sentiment-filter .period-btn:hover { border-color: var(--blue); color: var(--text); }
+    .sentiment-filter .period-btn.active {
+      background: var(--blue); border-color: var(--blue); color: #fff;
+    }
+    .sentiment-filter .filter-divider {
+      color: var(--text-muted); margin: 0 4px;
+    }
+    .sentiment-filter .date-picker-label {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 12px; color: var(--text-dim);
+    }
+    .sentiment-filter .date-picker {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 16px; padding: 5px 10px;
+      color: var(--text); font-size: 12px;
+      color-scheme: dark;
+      cursor: pointer;
+    }
+    .sentiment-filter .date-picker:focus { outline: 1px solid var(--blue); }
 
-    /* ── Grid Cards (general) ── */
-    .cards-grid {
+    .sentiment-charts {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-template-columns: 1fr 1fr;
       gap: 16px;
     }
-    .issue-card {
+    .sentiment-chart-card {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 18px;
-      cursor: pointer;
-      transition: transform .2s, border-color .2s;
-      border-left: 3px solid transparent;
     }
-    .issue-card.pos { border-left-color: var(--pos); }
-    .issue-card.neg { border-left-color: var(--neg); }
-    .issue-card.neutral { border-left-color: var(--neutral); }
-    .issue-card:hover { transform: translateY(-2px); border-top-color: var(--blue); }
-    .issue-card .card-top { margin-bottom: 10px; }
-    .issue-card .card-title { font-size: 14px; margin-bottom: 6px; }
-    .issue-card .card-summary { font-size: 12px; margin-bottom: 10px; }
+    .sentiment-chart-title {
+      display: flex; justify-content: space-between; align-items: baseline;
+      font-size: 14px; font-weight: 700; margin-bottom: 12px;
+      letter-spacing: -0.3px;
+    }
+    .sentiment-chart-title .chart-subtitle {
+      font-size: 11px; font-weight: 500; color: var(--text-muted);
+    }
+    .sentiment-chart-body {
+      position: relative;
+      height: 240px;
+    }
+    @media (max-width: 700px) {
+      .sentiment-charts { grid-template-columns: 1fr; }
+    }
 
     /* ── Animations ── */
     @keyframes pulse {
@@ -617,24 +636,43 @@
     </div>
   </section>
 
-  <!-- ── 필터 + 이슈 그리드 ── -->
+  <!-- ── 감성 비중 파이차트 (배민 / 쿠팡이츠) ── -->
   <section class="section">
     <div class="section-header">
-      <h2 class="section-title"><span class="icon">📊</span> 전체 이슈 피드</h2>
+      <h2 class="section-title"><span class="icon">📊</span> 감성 비중</h2>
+      <span class="see-all" id="sentimentEmpty" style="display:none;">데이터 수집 중…</span>
     </div>
-    <div class="filter-tabs">
-      <button class="tab-btn active" onclick="setTab(this,'all')">전체</button>
-      <button class="tab-btn pos" onclick="setTab(this,'pos')">🔥 긍정</button>
-      <button class="tab-btn neg" onclick="setTab(this,'neg')">💀 부정</button>
-      <button class="tab-btn neutral" onclick="setTab(this,'neutral')">○ 중립</button>
+    <div class="sentiment-filter">
+      <button class="period-btn active" data-period="7">최근 7일</button>
+      <button class="period-btn" data-period="3">최근 3일</button>
+      <button class="period-btn" data-period="1">오늘</button>
+      <span class="filter-divider">|</span>
+      <label class="date-picker-label">일자 선택
+        <input type="date" class="date-picker" id="datePicker" />
+      </label>
     </div>
-    <div class="cards-grid" id="cardsGrid">
-      <!-- 카드들은 JS로 렌더링 -->
+    <div class="sentiment-charts">
+      <div class="sentiment-chart-card">
+        <div class="sentiment-chart-title">
+          <span style="color:var(--baemin)">🛵 배달의민족</span>
+          <span class="chart-subtitle" id="subtitleBaemin"></span>
+        </div>
+        <div class="sentiment-chart-body"><canvas id="chartBaemin"></canvas></div>
+      </div>
+      <div class="sentiment-chart-card">
+        <div class="sentiment-chart-title">
+          <span style="color:var(--coupang)">🚀 쿠팡이츠</span>
+          <span class="chart-subtitle" id="subtitleCoupang"></span>
+        </div>
+        <div class="sentiment-chart-body"><canvas id="chartCoupang"></canvas></div>
+      </div>
     </div>
   </section>
 
 
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 
 <!-- FOOTER -->
 <footer>
@@ -648,7 +686,6 @@
   // ── 상태 ──────────────────────────────────────────────────────────────────
   let allData   = null;   // /api/status + /api/feed 등에서 로드
   let feedIssues = [];
-  let currentTab   = 'all';
 
   const BRAND_EMOJI = {
     '배달의민족': '🛵', '배민': '🛵', '쿠팡이츠': '🚀',
@@ -718,7 +755,7 @@
 
       feedIssues = cachedData.feed || [];
       renderHotCards(cachedData.hot || []);
-      renderFeed();
+      renderSentimentTrend();
       renderVersus(cachedData.versus || {});
 
       const updatedAt = cachedData.updated_at;
@@ -771,42 +808,6 @@
 
   // ── 렌더링 ─────────────────────────────────────────────────────────────────
 
-  function issueCard(i, extraClass = '') {
-    const css   = SENTIMENT_CSS[i.sentiment]   || 'neutral';
-    const badge = SENTIMENT_LABEL[i.sentiment] || '○';
-    const tags  = (i.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('');
-    const score = clampScore(i.viral_score);
-    const url   = i.url ? safeUrl(i.url) : '';
-    const comments = Number(i.comments) || 0;
-    const views    = Number(i.views) || 0;
-    return `
-      <div class="issue-card ${css} ${extraClass} fade-in" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
-        <div class="card-top">
-          <div class="brand-info">
-            <div class="brand-logo">${brandEmoji(i.brand)}</div>
-            <div>
-              <div class="brand-name">${esc(i.brand || '기타')}</div>
-              <div class="brand-cat">${esc(i.channel || '')}</div>
-            </div>
-          </div>
-          <div class="sentiment-badge ${css}">${badge}</div>
-        </div>
-        <div class="card-title">${esc(i.title || '')}</div>
-        <div class="card-summary">${esc(i.summary || '')}</div>
-        <div class="score-bar-wrap">
-          <div class="score-label"><span>스코어</span><span>${score} / 100</span></div>
-          <div class="score-bar ${css}"><div class="score-fill" style="width:${score}%"></div></div>
-        </div>
-        ${tags ? `<div class="tags">${tags}</div>` : ''}
-        <div class="card-meta">
-          <span>🕐 ${esc(pubTime(i.published_at))}</span>
-          ${comments ? `<span>💬 ${comments}</span>` : ''}
-          ${views    ? `<span>👁 ${views.toLocaleString()}</span>` : ''}
-        </div>
-        ${likeBtn(i.uid)}
-      </div>`;
-  }
-
   function renderHotCards(hot) {
     const grid = document.querySelector('.hot-grid');
     if (!hot || hot.length === 0) {
@@ -848,21 +849,147 @@
     }).join('');
   }
 
-  function renderFeed() {
-    const grid = document.getElementById('cardsGrid');
-    let filtered = feedIssues.filter(i => {
-      const css        = SENTIMENT_CSS[i.sentiment] || 'neutral';
-      const matchTab = currentTab === 'all' || css === currentTab;
-      return matchTab;
-    });
+  // ── 감성 비중 파이차트 (배민 / 쿠팡이츠) ───────────────────────────────────
+  const _charts = { baemin: null, coupang: null };
+  // 필터 상태: { type: 'period', value: <days> }  또는  { type: 'date', value: 'YYYY-MM-DD' }
+  let _sentimentFilter = { type: 'period', value: 7 };
 
-    if (filtered.length === 0) {
-      grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">수집된 데이터가 없습니다.</div>`;
-      return;
+  // KST 기준 YYYY-MM-DD 문자열
+  function _kstDate(iso) {
+    if (!iso) return null;
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return null;
+    const fmt = new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Seoul',
+      year: 'numeric', month: '2-digit', day: '2-digit',
+    });
+    return fmt.format(d);   // 'YYYY-MM-DD'
+  }
+
+  function _filterRangeKst(filter) {
+    // 반환: { start, end } — 모두 'YYYY-MM-DD' 문자열 (KST 기준, inclusive)
+    const todayKst = _kstDate(new Date().toISOString());
+    if (filter.type === 'date') {
+      return { start: filter.value, end: filter.value };
     }
-    grid.innerHTML = filtered.map((i, idx) =>
-      issueCard(i, `fade-in" style="animation-delay:${idx * 0.04}s`)
-    ).join('');
+    // period (N일): 오늘 포함 직전 N일 (예: 7일 → 오늘부터 6일 전까지)
+    const days = Math.max(1, Number(filter.value) || 1);
+    const start = new Date();
+    start.setDate(start.getDate() - (days - 1));
+    return { start: _kstDate(start.toISOString()), end: todayKst };
+  }
+
+  function _aggregate(items, brandNames, filter) {
+    const { start, end } = _filterRangeKst(filter);
+    const counts = { negative: 0, positive: 0, neutral: 0 };
+    for (const it of items) {
+      if (!brandNames.includes(it.brand)) continue;
+      const d = _kstDate(it.published_at);
+      if (!d || d < start || d > end) continue;
+      if (counts[it.sentiment] !== undefined) counts[it.sentiment]++;
+    }
+    return { counts, range: { start, end } };
+  }
+
+  function _filterRangeText(range) {
+    return range.start === range.end ? range.start : `${range.start} ~ ${range.end}`;
+  }
+
+  function _renderPie(canvasId, subtitleId, items, brandNames, key) {
+    if (typeof Chart === 'undefined') return;
+    const ctx = document.getElementById(canvasId);
+    if (!ctx) return;
+    const { counts, range } = _aggregate(items, brandNames, _sentimentFilter);
+    const data = [counts.negative, counts.positive, counts.neutral];
+    const total = data.reduce((s, x) => s + x, 0);
+
+    const sub = document.getElementById(subtitleId);
+    if (sub) {
+      sub.textContent = total
+        ? `${_filterRangeText(range)} · 총 ${total}건`
+        : `${_filterRangeText(range)} · 데이터 없음`;
+    }
+
+    if (_charts[key]) _charts[key].destroy();
+    _charts[key] = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels: ['💀 부정', '🔥 긍정', '○ 중립'],
+        datasets: [{
+          data,
+          backgroundColor: [
+            'rgba(239, 68, 68, .9)',
+            'rgba(34, 197, 94, .9)',
+            'rgba(148, 163, 184, .85)',
+          ],
+          borderColor: '#1a1d27',
+          borderWidth: 2,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        cutout: '55%',
+        plugins: {
+          legend: {
+            position: 'right',
+            labels: { color: '#e2e8f0', boxWidth: 14, font: { size: 12 }, padding: 12 },
+          },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => {
+                const v = ctx.raw || 0;
+                const pct = total ? Math.round(v / total * 100) : 0;
+                return `${ctx.label}: ${v}건 (${pct}%)`;
+              },
+            },
+          },
+        },
+      },
+    });
+  }
+
+  function renderSentimentTrend() {
+    const items = feedIssues || [];
+    _renderPie('chartBaemin',  'subtitleBaemin',  items, ['배달의민족'], 'baemin');
+    _renderPie('chartCoupang', 'subtitleCoupang', items, ['쿠팡이츠'],   'coupang');
+    const empty = document.getElementById('sentimentEmpty');
+    const hasData = items.some(i => ['배달의민족','쿠팡이츠'].includes(i.brand));
+    if (empty) empty.style.display = hasData ? 'none' : '';
+  }
+
+  function _setSentimentFilter(filter) {
+    _sentimentFilter = filter;
+    // UI: period 버튼 active 토글
+    document.querySelectorAll('.period-btn').forEach(b => {
+      b.classList.toggle('active',
+        filter.type === 'period' && Number(b.dataset.period) === filter.value);
+    });
+    // date picker 동기화
+    const dp = document.getElementById('datePicker');
+    if (dp) dp.value = filter.type === 'date' ? filter.value : '';
+    renderSentimentTrend();
+  }
+
+  // 필터 이벤트 바인딩 (DOMContentLoaded 시점에 안전하게)
+  function _bindSentimentFilters() {
+    document.querySelectorAll('.period-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const days = Number(btn.dataset.period);
+        if (Number.isFinite(days)) _setSentimentFilter({ type: 'period', value: days });
+      });
+    });
+    const dp = document.getElementById('datePicker');
+    if (dp) {
+      // 최대 = 오늘 (KST), 최소 = 7일 전 (history retention)
+      const today = _kstDate(new Date().toISOString());
+      const minD = new Date(); minD.setDate(minD.getDate() - 7);
+      dp.max = today;
+      dp.min = _kstDate(minD.toISOString());
+      dp.addEventListener('change', e => {
+        if (e.target.value) _setSentimentFilter({ type: 'date', value: e.target.value });
+      });
+    }
   }
 
   function renderVersus(versus) {
@@ -973,21 +1100,13 @@
       <span style="font-size:12px">보통 레포 Push 후 5~10분 내 데이터가 채워집니다.</span>
     </div>`;
     const hotGrid = document.querySelector('.hot-grid');
-    const cardsGrid = document.getElementById('cardsGrid');
     if (hotGrid) hotGrid.innerHTML = msg;
-    if (cardsGrid) cardsGrid.innerHTML = msg;
-  }
-
-  // ── 탭 ────────────────────────────────────────────────────────────────────
-
-  function setTab(btn, type) {
-    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    currentTab = type;
-    renderFeed();
+    const empty = document.getElementById('sentimentEmpty');
+    if (empty) empty.style.display = '';
   }
 
   // ── 초기 실행 ─────────────────────────────────────────────────────────────
+  _bindSentimentFilters();
   fetchData();
   // 10분마다 자동 갱신
   setInterval(fetchData, 10 * 60 * 1000);
