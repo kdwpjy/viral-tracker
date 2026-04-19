@@ -610,25 +610,25 @@
           </div>
         </div>
         <div class="versus-stat">
-          <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 중립)</div>
+          <div class="versus-stat-label">감성 비율 (부정 / 중립 / 긍정)</div>
           <div class="versus-stat-bars">
             <div class="versus-stat-bar-row">
               <span class="vbar-label" style="color:var(--baemin)">배민</span>
               <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
                 <div style="position:absolute;left:0;top:0;height:100%;width:55%;background:var(--neg);"></div>
-                <div style="position:absolute;left:55%;top:0;height:100%;width:25%;background:var(--pos);"></div>
-                <div style="position:absolute;left:80%;top:0;height:100%;width:20%;background:var(--neutral);"></div>
+                <div style="position:absolute;left:55%;top:0;height:100%;width:20%;background:var(--neutral);"></div>
+                <div style="position:absolute;left:75%;top:0;height:100%;width:25%;background:var(--pos);"></div>
               </div>
-              <span class="vbar-val" style="font-size:10px">55/25/20</span>
+              <span class="vbar-val" style="font-size:10px">55/20/25</span>
             </div>
             <div class="versus-stat-bar-row">
               <span class="vbar-label" style="color:var(--coupang)">쿠팡이츠</span>
               <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
                 <div style="position:absolute;left:0;top:0;height:100%;width:66%;background:var(--neg);"></div>
-                <div style="position:absolute;left:66%;top:0;height:100%;width:28%;background:var(--pos);"></div>
-                <div style="position:absolute;left:94%;top:0;height:100%;width:6%;background:var(--neutral);"></div>
+                <div style="position:absolute;left:66%;top:0;height:100%;width:6%;background:var(--neutral);"></div>
+                <div style="position:absolute;left:72%;top:0;height:100%;width:28%;background:var(--pos);"></div>
               </div>
-              <span class="vbar-val" style="font-size:10px">66/28/6</span>
+              <span class="vbar-val" style="font-size:10px">66/6/28</span>
             </div>
           </div>
         </div>
@@ -908,7 +908,7 @@
     const ctx = document.getElementById(canvasId);
     if (!ctx) return;
     const { counts, range } = _aggregate(items, brandNames, _sentimentFilter);
-    const data = [counts.negative, counts.positive, counts.neutral];
+    const data = [counts.negative, counts.neutral, counts.positive];
     const total = data.reduce((s, x) => s + x, 0);
 
     const sub = document.getElementById(subtitleId);
@@ -922,13 +922,13 @@
     _charts[key] = new Chart(ctx, {
       type: 'doughnut',
       data: {
-        labels: ['💀 부정', '🔥 긍정', '○ 중립'],
+        labels: ['💀 부정', '○ 중립', '🔥 긍정'],
         datasets: [{
           data,
           backgroundColor: [
             'rgba(239, 68, 68, .9)',
-            'rgba(34, 197, 94, .9)',
             'rgba(148, 163, 184, .85)',
+            'rgba(34, 197, 94, .9)',
           ],
           borderColor: '#1a1d27',
           borderWidth: 2,
@@ -1055,25 +1055,25 @@
         </div>
       </div>
       <div class="versus-stat">
-        <div class="versus-stat-label">감성 비율 (부정 / 긍정 / 중립)</div>
+        <div class="versus-stat-label">감성 비율 (부정 / 중립 / 긍정)</div>
         <div class="versus-stat-bars">
           <div class="versus-stat-bar-row">
             <span class="vbar-label" style="color:var(--baemin)">배민</span>
             <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
               <div style="position:absolute;left:0;top:0;height:100%;width:${br.negative||0}%;background:var(--neg);"></div>
-              <div style="position:absolute;left:${br.negative||0}%;top:0;height:100%;width:${br.positive||0}%;background:var(--pos);"></div>
-              <div style="position:absolute;left:${(br.negative||0)+(br.positive||0)}%;top:0;height:100%;width:${br.neutral||0}%;background:var(--neutral);"></div>
+              <div style="position:absolute;left:${br.negative||0}%;top:0;height:100%;width:${br.neutral||0}%;background:var(--neutral);"></div>
+              <div style="position:absolute;left:${(br.negative||0)+(br.neutral||0)}%;top:0;height:100%;width:${br.positive||0}%;background:var(--pos);"></div>
             </div>
-            <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.positive||0}/${br.neutral||0}</span>
+            <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.neutral||0}/${br.positive||0}</span>
           </div>
           <div class="versus-stat-bar-row">
             <span class="vbar-label" style="color:var(--coupang)">쿠팡이츠</span>
             <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
               <div style="position:absolute;left:0;top:0;height:100%;width:${cr.negative||0}%;background:var(--neg);"></div>
-              <div style="position:absolute;left:${cr.negative||0}%;top:0;height:100%;width:${cr.positive||0}%;background:var(--pos);"></div>
-              <div style="position:absolute;left:${(cr.negative||0)+(cr.positive||0)}%;top:0;height:100%;width:${cr.neutral||0}%;background:var(--neutral);"></div>
+              <div style="position:absolute;left:${cr.negative||0}%;top:0;height:100%;width:${cr.neutral||0}%;background:var(--neutral);"></div>
+              <div style="position:absolute;left:${(cr.negative||0)+(cr.neutral||0)}%;top:0;height:100%;width:${cr.positive||0}%;background:var(--pos);"></div>
             </div>
-            <span class="vbar-val" style="font-size:10px">${cr.negative||0}/${cr.positive||0}/${cr.neutral||0}</span>
+            <span class="vbar-val" style="font-size:10px">${cr.negative||0}/${cr.neutral||0}/${cr.positive||0}</span>
           </div>
         </div>
       </div>`;
