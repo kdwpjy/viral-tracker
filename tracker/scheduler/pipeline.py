@@ -31,27 +31,30 @@ log = logging.getLogger("pipeline")
 async def run():
     log.info(f"🚀 수집 시작 [{now_kst().strftime('%Y-%m-%d %H:%M')} KST]")
 
-    all_posts = []
-    seen_uids = set()
+    # uid 기준 중복 제거하되, 같은 글이 여러 키워드에 걸리면 matched_keywords 누적
+    by_uid: dict[str, object] = {}
+
+    def _merge(posts):
+        for p in posts:
+            if p.uid in by_uid:
+                exist = by_uid[p.uid]
+                for kw in p.matched_keywords:
+                    if kw not in exist.matched_keywords:
+                        exist.matched_keywords.append(kw)
+            else:
+                by_uid[p.uid] = p
 
     # 1) 일반 키워드 수집
     for kw in SEARCH_KEYWORDS:
         log.info(f"  📥 '{kw}' 수집 중...")
-        posts = await collect_keyword(kw)
-        for p in posts:
-            if p.uid not in seen_uids:
-                seen_uids.add(p.uid)
-                all_posts.append(p)
+        _merge(await collect_keyword(kw))
 
     # 2) 배민·쿠팡이츠 우선 수집
     log.info("  🍔 배민·쿠팡이츠 전용 키워드 수집 중...")
     for kw in PRIORITY_KEYWORDS:
-        posts = await collect_keyword(kw)
-        for p in posts:
-            if p.uid not in seen_uids:
-                seen_uids.add(p.uid)
-                all_posts.append(p)
+        _merge(await collect_keyword(kw))
 
+    all_posts = list(by_uid.values())
     log.info(f"📥 총 {len(all_posts)}건 수집 완료")
 
     # 3) 실제 발행일 보정 (뉴스·커뮤니티 기사 URL fetch) — 필터 전에 실행

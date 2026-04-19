@@ -107,6 +107,26 @@ class Handler(BaseHTTPRequestHandler):
         elif path == "/data/issues.json":
             self.send_file(DATA_FILE, "application/json; charset=utf-8")
 
+        # /assets/ 정적 파일 (로고 이미지 등)
+        elif path.startswith("/assets/"):
+            # path traversal 방어: resolve 후 STATIC_ROOT 하위인지 확인
+            rel = path.lstrip("/").split("?")[0]
+            target = (STATIC_ROOT / rel).resolve()
+            if str(target).startswith(str(STATIC_ROOT.resolve()) + "/") and target.is_file():
+                ext = target.suffix.lower()
+                mime = {
+                    ".png":  "image/png",
+                    ".jpg":  "image/jpeg",
+                    ".jpeg": "image/jpeg",
+                    ".webp": "image/webp",
+                    ".svg":  "image/svg+xml; charset=utf-8",
+                    ".gif":  "image/gif",
+                    ".ico":  "image/x-icon",
+                }.get(ext, "application/octet-stream")
+                self.send_file(target, mime)
+            else:
+                self.send_response(404); self.end_headers()
+
         else:
             self.send_response(404)
             self.end_headers()

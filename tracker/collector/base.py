@@ -35,6 +35,8 @@ class RawPost:
     comments: int = 0
     likes: int = 0
     fetched_at: datetime = field(default_factory=now_kst)
+    # 이 글을 잡아낸 검색 키워드들 (여러 키워드에 동시 매칭되면 모두 누적)
+    matched_keywords: list[str] = field(default_factory=list)
 
     @property
     def uid(self) -> str:

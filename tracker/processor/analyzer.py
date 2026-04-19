@@ -72,6 +72,8 @@ class ProcessedIssue:
     processed_at: str = field(default_factory=lambda: now_kst().isoformat())
     views: int = 0
     comments: int = 0
+    # 이 글을 잡아낸 검색 키워드 (카드에 '🔍 배민 / 배달비' 형태로 표시)
+    matched_keywords: list[str] = field(default_factory=list)
 
 
 # ── 감성 분류 ─────────────────────────────────────────────────────────────────
@@ -275,25 +277,41 @@ def detect_stakeholders(text: str) -> list[str]:
     return found or ["소비자"]
 
 
-def generate_summary(title: str, body: str, sentiment: str) -> str:
-    """제목+본문에서 첫 두 문장을 뽑아 요약 (LLM 없이)"""
-    full_text = (title + " " + body).strip()
-    # 문장 분리
+def generate_summary(title: str, body: str, sentiment: str = "") -> str:
+    """
+    제목+본문에서 첫 두 문장을 뽑아 요약.
+    - body 가 title 과 같거나 title 로 시작하면 중복 제거
+    - 전체 문장 리스트에서 동일 문장이 반복되면 dedup
+    - (sentiment 인자는 호환용 — 이제 결과에 부착하지 않음)
+    """
+    title = (title or "").strip()
+    body  = (body  or "").strip()
+
+    # body 가 title 을 단순 복제한 경우 비움 (뽐뿌/클리앙 등 body=title 케이스)
+    if body == title:
+        body = ""
+    # body 가 title 로 시작하면 title 부분 잘라냄
+    elif body.startswith(title):
+        body = body[len(title):].strip()
+
+    full_text = (title + ". " + body).strip() if body else title
     sentences = re.split(r"[.。!?！？]\s*", full_text)
     sentences = [s.strip() for s in sentences if len(s.strip()) > 10]
 
-    sentiment_label = {
-        "negative": "부정",
-        "positive": "긍정",
-        "neutral":  "중립",
-    }.get(sentiment, "")
+    # 중복 문장 제거 (순서 유지)
+    seen = set()
+    unique = []
+    for s in sentences:
+        if s not in seen:
+            seen.add(s)
+            unique.append(s)
 
-    if sentences:
-        summary = sentences[0][:80]
-        if len(sentences) > 1:
-            summary += " " + sentences[1][:60]
-        return summary + f" [{sentiment_label} 바이럴]"
-    return title[:100] + f" [{sentiment_label} 바이럴]"
+    if unique:
+        summary = unique[0][:80]
+        if len(unique) > 1:
+            summary += " " + unique[1][:60]
+        return summary
+    return title[:100]
 
 
 # ── 바이럴 스코어 계산 ────────────────────────────────────────────────────────
@@ -379,16 +397,24 @@ def analyze(post: RawPost, brand: str) -> ProcessedIssue:
         published_at = post.published_at.isoformat(),
         views        = post.views,
         comments     = post.comments,
+        matched_keywords = list(post.matched_keywords),
     )
 
 
+GENERIC_BRAND_LABEL = "배달앱 일반"
+
+
 def analyze_posts(posts: list[RawPost]) -> list[ProcessedIssue]:
+    """
+    글별 sentiment/tags/score 등을 계산해 ProcessedIssue 생성.
+    brand 필드:
+      - 배민·쿠팡이츠 둘 다 언급 → '배달의민족, 쿠팡이츠' (detect_brands 순서)
+      - 하나만 언급 → 해당 브랜드
+      - 둘 다 미언급 → '배달앱 일반'
+    """
     issues = []
     for post in posts:
         brands = detect_brands(post.title + " " + post.body)
-        if not brands:
-            brands = ["기타"]
-        # 브랜드별로 하나씩 이슈 생성
-        issue = analyze(post, brands[0])
-        issues.append(issue)
+        brand = ", ".join(brands) if brands else GENERIC_BRAND_LABEL
+        issues.append(analyze(post, brand))
     return issues

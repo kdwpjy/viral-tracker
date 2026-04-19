@@ -124,10 +124,30 @@
     }
     .brand-info { display: flex; align-items: center; gap: 10px; }
     .brand-logo {
-      width: 40px; height: 40px; border-radius: 10px;
-      display: flex; align-items: center; justify-content: center;
+      min-width: 40px; height: 40px; border-radius: 10px;
+      display: inline-flex; align-items: center; justify-content: center;
       font-size: 20px; background: var(--surface2);
       flex-shrink: 0;
+      gap: 2px; padding: 2px;
+      overflow: hidden;
+    }
+    .brand-logo .brand-img {
+      height: 100%;
+      min-width: 0;
+      max-width: 100%;
+      object-fit: contain;
+      background: #fff;
+      border-radius: 4px;
+    }
+    /* 로고가 2개(다중 브랜드) 일 때 각 로고 폭 제한 */
+    .brand-logo .brand-img + .brand-img { margin-left: 0; }
+    .brand-logo:has(.brand-img + .brand-img) { min-width: 60px; }
+    .brand-logo:has(.brand-img + .brand-img) .brand-img { width: 26px; }
+    .versus-logo .brand-img {
+      width: 100%; height: 100%;
+      object-fit: contain;
+      border-radius: 12px;
+      background: #fff;
     }
     .brand-name { font-size: 15px; font-weight: 700; }
     .brand-cat { font-size: 11px; color: var(--text-muted); }
@@ -189,10 +209,12 @@
 
     /* ── Like button ── */
     .like-btn {
-      display: inline-flex; align-items: center; gap: 5px;
+      align-self: flex-start;           /* 부모 flex 에서 자기 폭만 */
+      display: inline-flex; align-items: center; gap: 4px;
+      width: auto;
       background: none; border: 1px solid var(--border);
-      border-radius: 20px; padding: 4px 10px;
-      font-size: 12px; color: var(--text-muted);
+      border-radius: 16px; padding: 3px 8px;
+      font-size: 11px; color: var(--text-muted);
       cursor: pointer; transition: all .15s;
       margin-top: 10px;
     }
@@ -283,6 +305,92 @@
       padding: 2px 8px; border-radius: 12px;
       font-size: 10px; font-weight: 500;
       background: var(--surface2); color: var(--text-dim);
+      border: 1px solid var(--border);
+    }
+
+    /* 최근 7일 전체 이슈 피드 필터 */
+    .feed-filters {
+      display: flex; flex-direction: column; gap: 8px;
+      margin-bottom: 16px;
+    }
+    .feed-filter-row {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+    }
+    .feed-filter-row .filter-label {
+      font-size: 11px; color: var(--text-muted); font-weight: 600;
+      margin-right: 4px; min-width: 40px;
+    }
+    .ff-btn {
+      padding: 5px 12px; border-radius: 14px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text-dim);
+      font-size: 12px; font-weight: 600;
+      cursor: pointer;
+      transition: all .15s;
+    }
+    .ff-btn:hover { border-color: var(--blue); color: var(--text); }
+    .ff-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+
+    /* 최근 7일 전체 이슈 피드 (feed-grid) */
+    .feed-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    @media (max-width: 900px) { .feed-grid { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 600px) { .feed-grid { grid-template-columns: 1fr; } }
+    .feed-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid transparent;
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      cursor: pointer;
+      transition: transform .15s, border-color .15s;
+      display: flex; flex-direction: column;
+      gap: 8px;
+    }
+    .feed-card:hover { transform: translateY(-2px); border-color: var(--blue); }
+    .feed-card.pos     { border-left-color: var(--pos); }
+    .feed-card.neg     { border-left-color: var(--neg); }
+    .feed-card.neutral { border-left-color: var(--neutral); }
+    .feed-card .fc-top {
+      display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    }
+    .feed-card .fc-brand {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 11px; color: var(--text-dim);
+    }
+    .feed-card .fc-brand .brand-logo {
+      min-width: 22px; height: 22px; border-radius: 5px;
+      padding: 1px; gap: 1px;
+    }
+    .feed-card .fc-brand .brand-img { border-radius: 3px; }
+    .feed-card .fc-title {
+      font-size: 14px; font-weight: 600;
+      line-height: 1.35; letter-spacing: -0.2px;
+    }
+    .feed-card .fc-summary {
+      font-size: 12px; color: var(--text-dim);
+      line-height: 1.45;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .feed-card .fc-meta {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      font-size: 11px; color: var(--text-muted);
+    }
+
+    /* 크롤 트리거 키워드 표시 — 이 글이 어느 검색어에 잡혔는지 */
+    .trigger-kws {
+      display: flex; flex-wrap: wrap; gap: 4px;
+      margin-top: 8px; font-size: 11px; color: var(--text-muted);
+    }
+    .trigger-kws .tkw-label { color: var(--text-muted); }
+    .trigger-kws .tkw {
+      padding: 2px 8px; border-radius: 10px;
+      background: transparent; color: var(--text-dim);
       border: 1px solid var(--border);
     }
 
@@ -377,6 +485,13 @@
     .sentiment-chart-title .chart-subtitle {
       font-size: 11px; font-weight: 500; color: var(--text-muted);
     }
+    .chart-brand-label {
+      display: inline-flex; align-items: center; gap: 8px;
+    }
+    .chart-brand-logo {
+      width: 22px; height: 22px; object-fit: contain;
+      background: #fff; border-radius: 5px; padding: 2px;
+    }
     .sentiment-chart-body {
       position: relative;
       height: 240px;
@@ -459,7 +574,7 @@
               <div class="brand-cat">외식·프랜차이즈</div>
             </div>
           </div>
-          <div class="sentiment-badge neg">💀 부정 바이럴</div>
+          <div class="sentiment-badge neg">🔥 부정 바이럴</div>
         </div>
         <div class="card-title">"치킨 한 마리 35,000원" 가격 인상 공분 폭발</div>
         <div class="card-summary">황금올리브 일부 메뉴 35,000원 돌파 소식이 커뮤니티에 퍼지며 "이제 치킨은 특식"이라는 반응 쏟아짐. 에펨코리아·다음카페 맘카페 동시 확산, 불매 언급 급증.</div>
@@ -497,7 +612,7 @@
               <div class="brand-cat">음료·카페</div>
             </div>
           </div>
-          <div class="sentiment-badge pos">🔥 긍정 바이럴</div>
+          <div class="sentiment-badge pos">🍀 긍정 바이럴</div>
         </div>
         <div class="card-title">폭우 속 직원 우산 씌워준 CCTV 영상 감동 확산</div>
         <div class="card-summary">강남 매장 직원이 퇴근 중인 어르신에게 직접 나와 우산을 씌워준 CCTV 영상이 스레드에서 최초 확산 후 X·인스타로 퍼짐.</div>
@@ -527,7 +642,7 @@
               <div class="brand-cat">—</div>
             </div>
           </div>
-          <div class="sentiment-badge neutral">○ 중립</div>
+          <div class="sentiment-badge neutral">⚖️ 중립</div>
         </div>
         <div class="card-title">실제 데이터를 불러오는 중입니다…</div>
         <div class="card-summary">잠시 후 자동으로 최신 이슈가 표시됩니다.</div>
@@ -544,7 +659,7 @@
     <div class="versus-wrap">
       <div class="versus-header">
         <div class="versus-brand">
-          <div class="versus-logo baemin">🛵</div>
+          <div class="versus-logo baemin"><img class="brand-img" src="./assets/baemin_logo.png" alt="배민" onerror="this.outerHTML='🛵';" /></div>
           <div>
             <div class="versus-name baemin">배민</div>
             <div class="versus-score">이슈 12건 · 스코어 avg 64</div>
@@ -552,7 +667,7 @@
         </div>
         <div class="vs-divider">VS</div>
         <div class="versus-brand right">
-          <div class="versus-logo coupang">🚀</div>
+          <div class="versus-logo coupang"><img class="brand-img" src="./assets/coupang_eats_logo.svg" alt="쿠팡이츠" onerror="this.outerHTML='🚀';" /></div>
           <div>
             <div class="versus-name coupang">쿠팡이츠</div>
             <div class="versus-score">이슈 9건 · 스코어 avg 71</div>
@@ -567,7 +682,7 @@
           <div class="versus-issue neg">
             <div class="versus-issue-title">배달비 4,900원 기본요금 정착에 점주 반발</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">🔥 부정</span>
               <span>2시간 전</span>
             </div>
             <div class="stakeholder-tags">
@@ -577,7 +692,7 @@
           <div class="versus-issue pos">
             <div class="versus-issue-title">"배민 이모티콘 캐릭터가 너무 귀엽다" 굿즈 구매 인증 유행</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
+              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🍀 긍정</span>
               <span>5시간 전</span>
             </div>
             <div class="stakeholder-tags">
@@ -587,7 +702,7 @@
           <div class="versus-issue neg">
             <div class="versus-issue-title">블라인드 배민 본사 직원 "야근 강요" 폭로글 확산</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">🔥 부정</span>
               <span>어제</span>
             </div>
             <div class="stakeholder-tags">
@@ -602,7 +717,7 @@
           <div class="versus-issue neg">
             <div class="versus-issue-title">쿠팡이츠 라이더 산재 처리 거부 의혹 재점화</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">🔥 부정</span>
               <span>1시간 전</span>
             </div>
             <div class="stakeholder-tags">
@@ -612,7 +727,7 @@
           <div class="versus-issue pos">
             <div class="versus-issue-title">쿠팡이츠 단건배달 30분 보장 프로모션 호평</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🔥 긍정</span>
+              <span class="sentiment-badge pos" style="font-size:10px;padding:2px 8px;">🍀 긍정</span>
               <span>4시간 전</span>
             </div>
             <div class="stakeholder-tags">
@@ -622,7 +737,7 @@
           <div class="versus-issue neg">
             <div class="versus-issue-title">입점 식당 독점 계약 강요 소문 커뮤니티 확산</div>
             <div class="versus-issue-meta">
-              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">💀 부정</span>
+              <span class="sentiment-badge neg" style="font-size:10px;padding:2px 8px;">🔥 부정</span>
               <span>어제</span>
             </div>
             <div class="stakeholder-tags">
@@ -704,14 +819,20 @@
     <div class="sentiment-charts">
       <div class="sentiment-chart-card">
         <div class="sentiment-chart-title">
-          <span style="color:var(--baemin)">🛵 배민</span>
+          <span class="chart-brand-label" style="color:var(--baemin)">
+            <img class="chart-brand-logo" src="./assets/baemin_logo.png" alt="배민" onerror="this.outerHTML='🛵';" />
+            배민
+          </span>
           <span class="chart-subtitle" id="subtitleBaemin"></span>
         </div>
         <div class="sentiment-chart-body"><canvas id="chartBaemin"></canvas></div>
       </div>
       <div class="sentiment-chart-card">
         <div class="sentiment-chart-title">
-          <span style="color:var(--coupang)">🚀 쿠팡이츠</span>
+          <span class="chart-brand-label" style="color:var(--coupang)">
+            <img class="chart-brand-logo" src="./assets/coupang_eats_logo.svg" alt="쿠팡이츠" onerror="this.outerHTML='🚀';" />
+            쿠팡이츠
+          </span>
           <span class="chart-subtitle" id="subtitleCoupang"></span>
         </div>
         <div class="sentiment-chart-body"><canvas id="chartCoupang"></canvas></div>
@@ -719,6 +840,40 @@
     </div>
   </section>
 
+  <!-- ── 최근 7일 전체 이슈 피드 ── -->
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title"><span class="icon">📰</span> 최근 7일 전체 이슈</h2>
+      <span class="see-all" id="feedCount"></span>
+    </div>
+    <div class="feed-filters">
+      <div class="feed-filter-row">
+        <span class="filter-label">감성</span>
+        <button class="ff-btn active" data-group="sent" data-value="all">전체</button>
+        <button class="ff-btn" data-group="sent" data-value="positive">🍀 긍정</button>
+        <button class="ff-btn" data-group="sent" data-value="negative">🔥 부정</button>
+        <button class="ff-btn" data-group="sent" data-value="neutral">⚖️ 중립</button>
+      </div>
+      <div class="feed-filter-row">
+        <span class="filter-label">브랜드</span>
+        <button class="ff-btn active" data-group="brand" data-value="all">전체</button>
+        <button class="ff-btn" data-group="brand" data-value="baemin">배민</button>
+        <button class="ff-btn" data-group="brand" data-value="coupang">쿠팡이츠</button>
+        <button class="ff-btn" data-group="brand" data-value="generic">배달앱 일반</button>
+      </div>
+      <div class="feed-filter-row">
+        <span class="filter-label">소스</span>
+        <button class="ff-btn active" data-group="channel" data-value="all">전체</button>
+        <button class="ff-btn" data-group="channel" data-value="네이버뉴스">네이버뉴스</button>
+        <button class="ff-btn" data-group="channel" data-value="다음뉴스">다음뉴스</button>
+        <button class="ff-btn" data-group="channel" data-value="뽐뿌">뽐뿌</button>
+        <button class="ff-btn" data-group="channel" data-value="클리앙">클리앙</button>
+        <button class="ff-btn" data-group="channel" data-value="다음카페">다음카페</button>
+        <button class="ff-btn" data-group="channel" data-value="에펨코리아">에펨코리아</button>
+      </div>
+    </div>
+    <div class="feed-grid" id="feedGrid"></div>
+  </section>
 
 </div>
 
@@ -737,12 +892,32 @@
   let allData   = null;   // /api/status + /api/feed 등에서 로드
   let feedIssues = [];
 
-  // 데이터 brand 값 → emoji (canonical 풀네임 키. UI 표시는 brandLabel() 별도 사용)
+  // 데이터 brand 값 → emoji (로고 로드 실패 시 fallback)
   const BRAND_EMOJI = {
-    '배달의민족': '🛵', '배민': '🛵',   // '배민'은 stale 데이터(M7 fix 전) 대응
-    '쿠팡이츠': '🚀',
+    '배달의민족': '🛵', '배민': '🛵',
+    '쿠팡이츠':   '🚀',
   };
-  const SENTIMENT_LABEL = { positive: '🔥 긍정', negative: '💀 부정', neutral: '○ 중립' };
+
+  // 브랜드 공식 로고 이미지 (로컬 assets/) — 배민/쿠팡이츠만 사용
+  const BRAND_LOGO = {
+    '배달의민족': './assets/baemin_logo.png',
+    '배민':       './assets/baemin_logo.png',
+    '쿠팡이츠':   './assets/coupang_eats_logo.svg',
+  };
+
+  // 카드 좌상단 대표 아이콘 — 다중 브랜드면 여러 로고 (배민 먼저)
+  function cardIconHTML(item) {
+    const raw = (item.brand || '').split(',').map(b => b.trim()).filter(Boolean);
+    const withLogo = raw.filter(b => BRAND_LOGO[b]);
+    if (withLogo.length === 0) return brandEmoji(item.brand);
+    return withLogo.map(b => {
+      const url = BRAND_LOGO[b];
+      const emoji = brandEmoji(b);
+      return `<img class="brand-img" src="${esc(url)}" alt="${esc(b)}"
+                onerror="this.outerHTML='${esc(emoji)}';" />`;
+    }).join('');
+  }
+  const SENTIMENT_LABEL = { positive: '🍀 긍정', negative: '🔥 부정', neutral: '⚖️ 중립' };
   const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', neutral: 'neutral' };
 
   function brandEmoji(brand) {
@@ -759,6 +934,13 @@
     btn.classList.toggle('open');
   }
 
+  // 크롤 트리거 키워드 HTML
+  function triggerKwsHTML(kws) {
+    if (!Array.isArray(kws) || kws.length === 0) return '';
+    const tags = kws.map(k => `<span class="tkw">${esc(k)}</span>`).join('');
+    return `<div class="trigger-kws"><span class="tkw-label">🔍 트리거:</span>${tags}</div>`;
+  }
+
   // 유사 기사 리스트 HTML (duplicates 배열 기반)
   function dupListHTML(duplicates) {
     if (!Array.isArray(duplicates) || duplicates.length === 0) return '';
@@ -771,13 +953,18 @@
     return `<div class="dup-list"><ul>${items}</ul></div>`;
   }
 
-  // UI 표시용 단축 라벨 (DB는 canonical 풀네임을 저장하지만 화면에는 단축형)
+  // UI 표시용 단축 라벨 (DB는 canonical 풀네임 저장)
   const BRAND_LABEL = {
     '배달의민족': '배민',
     '쿠팡이츠':   '쿠팡이츠',
   };
   function brandLabel(brand) {
-    return BRAND_LABEL[brand] || brand || '기타';
+    if (!brand) return '배달앱 일반';
+    // 다중 브랜드 ('배달의민족, 쿠팡이츠') 지원
+    return brand.split(',')
+      .map(b => b.trim())
+      .map(b => BRAND_LABEL[b] || b)
+      .join(', ');
   }
 
   function esc(s) {
@@ -837,6 +1024,7 @@
       renderHotCards(cachedData.hot || []);
       renderSentimentTrend();
       renderVersus(cachedData.versus || {});
+      renderFeedList(feedIssues);
 
       const updatedAt = cachedData.updated_at;
       document.querySelector('.updated').textContent =
@@ -888,6 +1076,89 @@
 
   // ── 렌더링 ─────────────────────────────────────────────────────────────────
 
+  // 최근 7일 전체 이슈 피드 렌더
+  function feedCardHTML(i) {
+    const css   = SENTIMENT_CSS[i.sentiment] || 'neutral';
+    const badge = SENTIMENT_LABEL[i.sentiment] || '○';
+    const url   = i.url ? safeUrl(i.url) : '';
+    const dup   = Number(i.duplicate_count) || 0;
+    const comments = Number(i.comments) || 0;
+    const icon     = cardIconHTML(i);
+    return `
+      <div class="feed-card ${css}" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
+        <div class="fc-top">
+          <span class="fc-brand">
+            <span class="brand-logo">${icon}</span>
+            <span>${esc(brandLabel(i.brand))}</span>
+            <span style="color:var(--text-muted)">· ${esc(i.channel || '')}</span>
+          </span>
+          <span class="sentiment-badge ${css}" style="font-size:10px;padding:2px 8px;">${badge}</span>
+        </div>
+        <div class="fc-title">${esc(i.title || '')}</div>
+        <div class="fc-summary">${esc(i.summary || '')}</div>
+        <div class="fc-meta">
+          <span>🕐 ${esc(pubTime(i.published_at))}</span>
+          ${comments ? `<span>💬 ${comments}</span>` : ''}
+          ${dup ? `<span class="dup-badge" onclick="toggleDupList(event, this)" title="유사 기사 ${dup}건">+${dup} 유사</span>` : ''}
+        </div>
+        ${triggerKwsHTML(i.matched_keywords)}
+        ${dup ? dupListHTML(i.duplicates) : ''}
+      </div>`;
+  }
+
+  // 최근 7일 피드 필터 상태
+  let _feedFilter = { sent: 'all', brand: 'all', channel: 'all' };
+
+  function _matchesFeedFilter(item) {
+    // 감성
+    if (_feedFilter.sent !== 'all' && item.sentiment !== _feedFilter.sent) return false;
+    // 브랜드 (comma-separated brand 고려)
+    const brand = item.brand || '';
+    if (_feedFilter.brand === 'baemin') {
+      if (!brand.includes('배달의민족') && !brand.includes('배민')) return false;
+    } else if (_feedFilter.brand === 'coupang') {
+      if (!brand.includes('쿠팡이츠')) return false;
+    } else if (_feedFilter.brand === 'generic') {
+      if (brand !== '배달앱 일반') return false;
+    }
+    // 소스 (채널)
+    if (_feedFilter.channel !== 'all' && item.channel !== _feedFilter.channel) return false;
+    return true;
+  }
+
+  function renderFeedList(feed) {
+    const grid = document.getElementById('feedGrid');
+    const counter = document.getElementById('feedCount');
+    if (!grid) return;
+    const all = Array.isArray(feed) ? feed : [];
+    const items = all.filter(_matchesFeedFilter);
+    if (counter) {
+      counter.textContent = (items.length !== all.length)
+        ? `${items.length} / ${all.length}건`
+        : (all.length ? `전체 ${all.length}건` : '');
+    }
+    if (items.length === 0) {
+      grid.innerHTML = `<div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);">조건에 맞는 이슈가 없습니다.</div>`;
+      return;
+    }
+    grid.innerHTML = items.map(feedCardHTML).join('');
+  }
+
+  // 필터 버튼 바인딩 (DOMContentLoaded 시점에)
+  function _bindFeedFilters() {
+    document.querySelectorAll('.ff-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const group = btn.dataset.group;
+        const value = btn.dataset.value;
+        _feedFilter[group] = value;
+        // 같은 group 안의 버튼 active 토글
+        document.querySelectorAll(`.ff-btn[data-group="${group}"]`)
+          .forEach(b => b.classList.toggle('active', b === btn));
+        renderFeedList(feedIssues);
+      });
+    });
+  }
+
   function renderHotCards(hot) {
     const grid = document.querySelector('.hot-grid');
     if (!hot || hot.length === 0) {
@@ -906,7 +1177,7 @@
         <div class="hot-card ${css} ${rankClass} fade-in" style="animation-delay:${idx * 0.1}s" ${url ? `onclick="window.open('${esc(url)}','_blank','noopener')"` : ''}>
           <div class="card-top">
             <div class="brand-info">
-              <div class="brand-logo">${brandEmoji(item.brand)}</div>
+              <div class="brand-logo">${cardIconHTML(item)}</div>
               <div>
                 <div class="brand-name">${esc(brandLabel(item.brand))}</div>
                 <div class="brand-cat">${esc(item.channel || '')}</div>
@@ -926,6 +1197,7 @@
             ${comments ? `<span>💬 ${comments}</span>` : ''}
             ${dup ? `<span class="dup-badge" onclick="toggleDupList(event, this)" title="클릭해서 유사 기사 ${dup}건 보기">+${dup} 유사</span>` : ''}
           </div>
+          ${triggerKwsHTML(item.matched_keywords)}
           ${dup ? dupListHTML(item.duplicates) : ''}
           ${likeBtn(item.uid)}
         </div>`;
@@ -997,7 +1269,7 @@
     _charts[key] = new Chart(ctx, {
       type: 'doughnut',
       data: {
-        labels: ['💀 부정', '○ 중립', '🔥 긍정'],
+        labels: ['🔥 부정', '⚖️ 중립', '🍀 긍정'],
         datasets: [{
           data,
           backgroundColor: [
@@ -1168,6 +1440,7 @@
           ${dup ? `<span class="dup-badge" onclick="toggleDupList(event, this)" title="클릭해서 유사 기사 ${dup}건 보기">+${dup} 유사</span>` : ''}
         </div>
         ${stakeholders ? `<div class="stakeholder-tags">${stakeholders}</div>` : ''}
+        ${triggerKwsHTML(i.matched_keywords)}
         ${dup ? dupListHTML(i.duplicates) : ''}
       </div>`;
   }
@@ -1185,6 +1458,7 @@
 
   // ── 초기 실행 ─────────────────────────────────────────────────────────────
   _bindSentimentFilters();
+  _bindFeedFilters();
   fetchData();
   // 10분마다 자동 갱신
   setInterval(fetchData, 10 * 60 * 1000);

@@ -512,7 +512,9 @@ async def crawl_ppomppu(keyword: str) -> list[RawPost]:
 # ── 기사 페이지에서 실제 발행일 보정 ─────────────────────────────────────────
 
 # HTTP fetch 시 스킵할 채널 (차단·JS 렌더링 필요)
-_SKIP_FETCH_CHANNELS = {Channel.PPOMPPU.value, Channel.FMKOREA.value}
+# httpx fetch 스킵할 채널. 에펨은 httpx 차단(430) → Playwright 전용이라 유지.
+# 뽐뿌는 httpx로 상세 페이지 접근 가능하므로 본문 보강을 위해 포함.
+_SKIP_FETCH_CHANNELS = {Channel.FMKOREA.value}
 
 import logging as _logging
 _log = _logging.getLogger("crawlers")
@@ -663,11 +665,79 @@ def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
     return None
 
 
+# ── 본문 추출 ────────────────────────────────────────────────────────────────
+
+def _extract_body_text(soup: BeautifulSoup, url: str = "") -> str:
+    """
+    기사/포스트 페이지에서 본문 텍스트 추출 (요약 생성용).
+    사이트별 specific selector 우선 + 일반 fallback.
+    """
+    host = url.lower()
+
+    # 뽐뿌 자유게시판 상세
+    if "ppomppu" in host:
+        for sel in ("td.board-contents", "div.han", "div#quote", "div.board-contents"):
+            el = soup.select_one(sel)
+            if el:
+                t = _clean(el.get_text(" "))
+                if len(t) > 30:
+                    return t[:800]
+
+    # 클리앙
+    if "clien.net" in host:
+        for sel in ("div.post_article", "div.post-article", "div.post_content"):
+            el = soup.select_one(sel)
+            if el:
+                t = _clean(el.get_text(" "))
+                if len(t) > 30:
+                    return t[:800]
+
+    # 다음카페 / 다음뉴스
+    if "daum.net" in host:
+        for sel in ("section#harmonyContainer", "div#harmonyContainer",
+                    "div.article_view", "div.article-view",
+                    "article[role=article]"):
+            el = soup.select_one(sel)
+            if el:
+                t = _clean(el.get_text(" "))
+                if len(t) > 50:
+                    return t[:800]
+
+    # 일반 뉴스 (article 표준 / 흔한 클래스)
+    for sel in ("article[itemprop='articleBody']",
+                "div[itemprop='articleBody']",
+                "article.article-body",
+                "div.article-body", "div#articleBody", "div#article_body",
+                "div.article-content", "div#article-content",
+                "div.news-content", "div.content-article"):
+        el = soup.select_one(sel)
+        if el:
+            t = _clean(el.get_text(" "))
+            if len(t) > 80:
+                return t[:800]
+
+    # fallback: <article> 통째
+    art = soup.find("article")
+    if art:
+        t = _clean(art.get_text(" "))
+        if len(t) > 80:
+            return t[:800]
+
+    # 최종 fallback: <p> 체인
+    ps = soup.find_all("p")
+    if ps:
+        t = _clean(" ".join(p.get_text() for p in ps[:8]))
+        if len(t) > 80:
+            return t[:800]
+
+    return ""
+
+
 async def fetch_actual_dates(posts: list[RawPost], concurrency: int = 5) -> None:
     """
-    뉴스·커뮤니티 기사 URL을 직접 fetch해서 실제 발행일로 published_at을 보정.
-    - httpx: 네이버뉴스·다음·클리앙
-    - skip: 뽐뿌, 에펨코리아 (에펨은 검색 결과의 span.regdate 에서 직접 채움)
+    뉴스·커뮤니티 기사 URL을 직접 fetch해서 실제 발행일 + 본문 요약 보강.
+    - httpx: 네이버뉴스·다음·클리앙·뽐뿌 (커뮤니티 포함 — body=title 이면 본문 보강)
+    - skip: 에펨코리아 (httpx 차단. body=title 유지)
     """
     httpx_targets = [p for p in posts
                      if p.channel.value not in _SKIP_FETCH_CHANNELS
@@ -677,20 +747,28 @@ async def fetch_actual_dates(posts: list[RawPost], concurrency: int = 5) -> None
 
     _log.info(f"  [fetch_actual_dates] httpx {len(httpx_targets)}건 시작...")
     sem = asyncio.Semaphore(concurrency)
-    updated = 0
+    date_updated = 0
+    body_updated = 0
 
     async def _fix(client: httpx.AsyncClient, post: RawPost) -> None:
-        nonlocal updated
+        nonlocal date_updated, body_updated
         async with sem:
             try:
                 resp = await client.get(post.url)
                 if resp.status_code != 200:
                     return
                 soup = BeautifulSoup(resp.text, "html.parser")
+                # 1) 발행일 보정
                 dt = _extract_date_from_soup(soup)
                 if dt:
                     post.published_at = dt
-                    updated += 1
+                    date_updated += 1
+                # 2) body 보강 — 현재 body가 title과 같거나 비었을 때만
+                if not post.body or post.body.strip() == (post.title or "").strip():
+                    body = _extract_body_text(soup, post.url)
+                    if body and len(body) > 30:
+                        post.body = body
+                        body_updated += 1
             except Exception as e:
                 _log.debug(f"  [fetch_actual_dates] skip {post.url[:60]}: {e}")
 
@@ -700,7 +778,10 @@ async def fetch_actual_dates(posts: list[RawPost], concurrency: int = 5) -> None
     ) as client:
         await asyncio.gather(*[_fix(client, p) for p in httpx_targets])
 
-    _log.info(f"  [fetch_actual_dates] {updated}/{len(httpx_targets)}건 날짜 보정 완료")
+    _log.info(
+        f"  [fetch_actual_dates] 날짜 {date_updated}/{len(httpx_targets)}건, "
+        f"본문 {body_updated}/{len(httpx_targets)}건 보강 완료"
+    )
 
 
 # ── 통합 수집 함수 ────────────────────────────────────────────────────────────
@@ -720,6 +801,10 @@ async def collect_keyword(keyword: str) -> list[RawPost]:
     for crawl_fn in CRAWLERS:
         try:
             posts = await crawl_fn(keyword)
+            # 각 post 에 이 호출을 트리거한 키워드 기록
+            for p in posts:
+                if keyword not in p.matched_keywords:
+                    p.matched_keywords.append(keyword)
             all_posts.extend(posts)
         except Exception as e:
             print(f"[{crawl_fn.__name__}] 오류: {e}")

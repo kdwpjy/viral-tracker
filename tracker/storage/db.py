@@ -26,26 +26,31 @@ def init_db():
     with get_conn() as conn:
         conn.executescript("""
         CREATE TABLE IF NOT EXISTS issues (
-            uid          TEXT PRIMARY KEY,
-            brand        TEXT,
-            channel      TEXT,
-            url          TEXT,
-            title        TEXT,
-            summary      TEXT,
-            sentiment    TEXT,
-            tags         TEXT,
-            viral_score  REAL,
-            status       TEXT,
-            stakeholders TEXT,
-            published_at TEXT,
-            processed_at TEXT,
-            views        INTEGER DEFAULT 0,
-            comments     INTEGER DEFAULT 0
+            uid               TEXT PRIMARY KEY,
+            brand             TEXT,
+            channel           TEXT,
+            url               TEXT,
+            title             TEXT,
+            summary           TEXT,
+            sentiment         TEXT,
+            tags              TEXT,
+            viral_score       REAL,
+            status            TEXT,
+            stakeholders      TEXT,
+            published_at      TEXT,
+            processed_at      TEXT,
+            views             INTEGER DEFAULT 0,
+            comments          INTEGER DEFAULT 0,
+            matched_keywords  TEXT
         );
         CREATE INDEX IF NOT EXISTS idx_brand     ON issues(brand);
         CREATE INDEX IF NOT EXISTS idx_sentiment ON issues(sentiment);
         CREATE INDEX IF NOT EXISTS idx_score     ON issues(viral_score DESC);
         """)
+        # 구버전 DB 마이그레이션 (컬럼 없으면 추가)
+        cols = {r[1] for r in conn.execute("PRAGMA table_info(issues)").fetchall()}
+        if "matched_keywords" not in cols:
+            conn.execute("ALTER TABLE issues ADD COLUMN matched_keywords TEXT")
 
 
 @contextmanager
@@ -65,16 +70,19 @@ def get_conn():
 _INSERT_SQL = """
     INSERT OR REPLACE INTO issues
     (uid, brand, channel, url, title, summary, sentiment,
-     tags, viral_score, status, stakeholders, published_at, processed_at, views, comments)
+     tags, viral_score, status, stakeholders, published_at, processed_at,
+     views, comments, matched_keywords)
     VALUES (:uid,:brand,:channel,:url,:title,:summary,:sentiment,
-            :tags,:viral_score,:status,:stakeholders,:published_at,:processed_at,:views,:comments)
+            :tags,:viral_score,:status,:stakeholders,:published_at,:processed_at,
+            :views,:comments,:matched_keywords)
 """
 
 
 def _issue_to_row(issue: ProcessedIssue) -> dict:
     d = asdict(issue)
-    d["tags"]         = json.dumps(d["tags"],         ensure_ascii=False)
-    d["stakeholders"] = json.dumps(d["stakeholders"], ensure_ascii=False)
+    d["tags"]             = json.dumps(d["tags"],             ensure_ascii=False)
+    d["stakeholders"]     = json.dumps(d["stakeholders"],     ensure_ascii=False)
+    d["matched_keywords"] = json.dumps(d.get("matched_keywords", []), ensure_ascii=False)
     return d
 
 
@@ -97,7 +105,7 @@ def _to_dicts(rows) -> list[dict]:
     result = []
     for row in rows:
         d = dict(row)
-        for key in ("tags", "stakeholders"):
+        for key in ("tags", "stakeholders", "matched_keywords"):
             try:
                 d[key] = json.loads(d[key])
             except Exception:
