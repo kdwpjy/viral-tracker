@@ -555,9 +555,58 @@ def _parse_date_text(text: str) -> datetime | None:
     return None
 
 
+def _jsonld_published(soup: BeautifulSoup) -> datetime | None:
+    """schema.org JSON-LD 의 datePublished 추출 (한국 뉴스사이트 다수가 제공)"""
+    import json as _json
+    for s in soup.find_all("script", type="application/ld+json"):
+        raw = s.string or s.get_text() or ""
+        if not raw.strip():
+            continue
+        try:
+            data = _json.loads(raw)
+        except Exception:
+            continue
+        # JSON-LD 는 dict 또는 list of dict
+        candidates = data if isinstance(data, list) else [data]
+        # @graph 구조도 평탄화
+        flat = []
+        for c in candidates:
+            if isinstance(c, dict):
+                flat.append(c)
+                if isinstance(c.get("@graph"), list):
+                    flat.extend(x for x in c["@graph"] if isinstance(x, dict))
+        for c in flat:
+            for key in ("datePublished", "dateCreated", "uploadDate"):
+                v = c.get(key)
+                if isinstance(v, str):
+                    dt = _parse_date_text(v)
+                    if dt:
+                        return dt
+    return None
+
+
+# 본문 발행일임을 시사하는 한글/영문 prefix — 사이드바/푸터 위젯과 구별
+_PUB_PREFIX_RE = re.compile(r'^(?:발행일|작성일|등록일|입력|기사입력|Published|PUBLISHED)')
+
+# 임의 텍스트에서 datetime/date 패턴 추출 (한글 prefix 허용)
+# - 표준 형식: 2026-04-18 20:04, 2026/04/18 20:04, 2026.04.18 20:04
+# - 한국형:    2026. 4. 18. 20:04 (점 + 공백 + 단자리 가능, 다음뉴스 num_date 등)
+_DATETIME_IN_TEXT_RE = re.compile(
+    r'(\d{4}\.\s*\d{1,2}\.\s*\d{1,2}\.?(?:\s*\d{1,2}:\d{2}(?::\d{2})?)?'
+    r'|\d{4}[-/]\d{1,2}[-/]\d{1,2}(?:[\sT]\d{1,2}:\d{2}(?::\d{2})?)?'
+    r'|\d{4}\.\d{1,2}\.\d{1,2}(?:[\sT]\d{1,2}:\d{2}(?::\d{2})?)?'
+    r')'
+)
+
+
 def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
     """HTML 파싱 결과에서 발행일 추출 (우선순위 순)"""
-    # 1. OG/표준 메타태그 (property=)
+    # 1. JSON-LD datePublished — 가장 신뢰성 높음 (schema.org 표준)
+    dt = _jsonld_published(soup)
+    if dt:
+        return dt
+
+    # 2. OG/표준 메타태그 (property=)
     for prop in ("article:published_time", "article:modified_time",
                  "og:article:published_time"):
         el = soup.find("meta", property=prop)
@@ -566,7 +615,7 @@ def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
             if dt:
                 return dt
 
-    # 2. meta name 태그
+    # 3. meta name 태그
     for name in ("pubdate", "publishDate", "DATE", "article.published",
                  "article_date_original", "LastModifiedDate"):
         el = soup.find("meta", attrs={"name": name})
@@ -575,20 +624,20 @@ def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
             if dt:
                 return dt
 
-    # 3. <time datetime="...">
+    # 4. <time datetime="...">
     for el in soup.find_all("time", attrs={"datetime": True})[:3]:
         dt = _parse_date_text(el.get("datetime", ""))
         if dt:
             return dt
 
-    # 4. 에펨코리아 (XE 플랫폼): <span class="date m_no">
+    # 5. 에펨코리아 (XE 플랫폼): <span class="date m_no">
     el = soup.select_one("span.date.m_no")
     if el:
         dt = _parse_date_text(el.get_text(strip=True))
         if dt:
             return dt
 
-    # 5. 클리앙 article-date
+    # 6. 클리앙 등 article-date 류
     for sel in ("div.view-info span.view_time", "span.article-date",
                 "em.date", "p.date"):
         el = soup.select_one(sel)
@@ -597,11 +646,17 @@ def _extract_date_from_soup(soup: BeautifulSoup) -> datetime | None:
             if dt:
                 return dt
 
-    # 5. class 이름에 'date' 포함 (광범위 fallback)
-    for el in soup.select("[class*='date']")[:5]:
+    # 7. class 이름에 'date' 포함 (광범위 fallback)
+    #    - "발행일/입력/등록일" 같은 본문 prefix가 있으면 우선
+    #    - 없으면 첫 elem (사이드바 위젯이 잡힐 위험은 있지만 prefix 우선이 막아줌)
+    candidates = soup.select("[class*='date']")[:10]
+    prefix_matches = [el for el in candidates
+                      if _PUB_PREFIX_RE.match(el.get_text(strip=True))]
+    for el in prefix_matches + candidates:
         text = el.get_text(strip=True)
-        if re.match(r'\d{4}', text):  # 연도로 시작하는 텍스트만
-            dt = _parse_date_text(text)
+        m = _DATETIME_IN_TEXT_RE.search(text)
+        if m:
+            dt = _parse_date_text(m.group(1))
             if dt:
                 return dt
 
