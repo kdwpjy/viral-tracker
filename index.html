@@ -502,7 +502,7 @@
         <div class="versus-brand">
           <div class="versus-logo baemin">🛵</div>
           <div>
-            <div class="versus-name baemin">배달의민족</div>
+            <div class="versus-name baemin">배민</div>
             <div class="versus-score">이슈 12건 · 스코어 avg 64</div>
           </div>
         </div>
@@ -622,7 +622,7 @@
               <span class="vbar-val" style="font-size:10px">55/25/20</span>
             </div>
             <div class="versus-stat-bar-row">
-              <span class="vbar-label" style="color:var(--coupang)">쿠팡</span>
+              <span class="vbar-label" style="color:var(--coupang)">쿠팡이츠</span>
               <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
                 <div style="position:absolute;left:0;top:0;height:100%;width:66%;background:var(--neg);"></div>
                 <div style="position:absolute;left:66%;top:0;height:100%;width:28%;background:var(--pos);"></div>
@@ -654,7 +654,7 @@
     <div class="sentiment-charts">
       <div class="sentiment-chart-card">
         <div class="sentiment-chart-title">
-          <span style="color:var(--baemin)">🛵 배달의민족</span>
+          <span style="color:var(--baemin)">🛵 배민</span>
           <span class="chart-subtitle" id="subtitleBaemin"></span>
         </div>
         <div class="sentiment-chart-body"><canvas id="chartBaemin"></canvas></div>
@@ -687,17 +687,25 @@
   let allData   = null;   // /api/status + /api/feed 등에서 로드
   let feedIssues = [];
 
+  // 데이터 brand 값 → emoji (canonical 풀네임 키. UI 표시는 brandLabel() 별도 사용)
   const BRAND_EMOJI = {
-    '배달의민족': '🛵', '배민': '🛵', '쿠팡이츠': '🚀',
-    'BBQ': '🍗', '스타벅스': '☕', '맥도날드': '🍔',
-    '올리브영': '🌿', '카카오뱅크': '💛', '다이소': '🛒',
-    'GS25': '🏪', '이마트': '🛒', '쿠팡': '📦',
+    '배달의민족': '🛵', '배민': '🛵',   // '배민'은 stale 데이터(M7 fix 전) 대응
+    '쿠팡이츠': '🚀',
   };
   const SENTIMENT_LABEL = { positive: '🔥 긍정', negative: '💀 부정', neutral: '○ 중립' };
   const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', neutral: 'neutral' };
 
   function brandEmoji(brand) {
     return BRAND_EMOJI[brand] || '🏢';
+  }
+
+  // UI 표시용 단축 라벨 (DB는 canonical 풀네임을 저장하지만 화면에는 단축형)
+  const BRAND_LABEL = {
+    '배달의민족': '배민',
+    '쿠팡이츠':   '쿠팡이츠',
+  };
+  function brandLabel(brand) {
+    return BRAND_LABEL[brand] || brand || '기타';
   }
 
   function esc(s) {
@@ -827,7 +835,7 @@
             <div class="brand-info">
               <div class="brand-logo">${brandEmoji(item.brand)}</div>
               <div>
-                <div class="brand-name">${esc(item.brand || '기타')}</div>
+                <div class="brand-name">${esc(brandLabel(item.brand))}</div>
                 <div class="brand-cat">${esc(item.channel || '')}</div>
               </div>
             </div>
@@ -1059,7 +1067,7 @@
             <span class="vbar-val" style="font-size:10px">${br.negative||0}/${br.positive||0}/${br.neutral||0}</span>
           </div>
           <div class="versus-stat-bar-row">
-            <span class="vbar-label" style="color:var(--coupang)">쿠팡</span>
+            <span class="vbar-label" style="color:var(--coupang)">쿠팡이츠</span>
             <div class="vbar-track" style="position:relative;overflow:hidden;height:14px;border-radius:4px;">
               <div style="position:absolute;left:0;top:0;height:100%;width:${cr.negative||0}%;background:var(--neg);"></div>
               <div style="position:absolute;left:${cr.negative||0}%;top:0;height:100%;width:${cr.positive||0}%;background:var(--pos);"></div>
