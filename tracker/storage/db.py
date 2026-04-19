@@ -275,8 +275,16 @@ def get_versus() -> dict:
             deduped.append(d)
         return deduped
 
-    baemin  = _dedup_by_title(by_brand_any(["배달의민족", "배민"]))
-    coupang = _dedup_by_title(by_brand_any(["쿠팡이츠"]))
+    # versus 섹션은 각 브랜드 '단독' 이슈만 표시 — 두 브랜드 동시 언급된 공통
+    # 이슈(brand='배달의민족, 쿠팡이츠')는 양쪽 모두에서 제외.
+    def _only(items, exclude_keys):
+        return [i for i in items
+                if not any(k in (i.get("brand") or "") for k in exclude_keys)]
+
+    baemin_rows  = _only(by_brand_any(["배달의민족", "배민"]), exclude_keys=["쿠팡이츠"])
+    coupang_rows = _only(by_brand_any(["쿠팡이츠"]),            exclude_keys=["배달의민족", "배민"])
+    baemin  = _dedup_by_title(baemin_rows)
+    coupang = _dedup_by_title(coupang_rows)
 
     def avg_score(items):
         return round(sum(i["viral_score"] for i in items) / len(items), 1) if items else 0
@@ -379,31 +387,3 @@ def export_json():
     with open(snapshot_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"[DB] 스냅샷 저장 완료 → {snapshot_path.name}")
-
-    _prune_history(snapshot_dir, now)
-
-
-# 7일 누적 피드 + 약간의 여유 → 10일 이상 된 스냅샷 삭제
-HISTORY_RETENTION_DAYS = 10
-
-
-def _prune_history(snapshot_dir: Path, now: datetime) -> int:
-    """오래된 history 스냅샷 삭제 (M2: 리포 비대화 방지)"""
-    cutoff = now - timedelta(days=HISTORY_RETENTION_DAYS)
-    removed = 0
-    for f in snapshot_dir.glob("*.json"):
-        try:
-            ts = datetime.fromisoformat(f.stem)
-            if ts.tzinfo is None:
-                ts = ts.replace(tzinfo=KST)
-        except Exception:
-            continue   # 비정상 파일명은 보존 (수동 분석용일 수 있음)
-        if ts < cutoff:
-            try:
-                f.unlink()
-                removed += 1
-            except OSError:
-                pass
-    if removed:
-        print(f"[DB] 오래된 스냅샷 {removed}개 삭제 (>{HISTORY_RETENTION_DAYS}일)")
-    return removed

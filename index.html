@@ -126,29 +126,33 @@
     .brand-logo {
       min-width: 40px; height: 40px; border-radius: 10px;
       display: inline-flex; align-items: center; justify-content: center;
-      font-size: 20px; background: var(--surface2);
+      font-size: 20px;
+      /* 이미지 있을 땐 배경·padding 제거, emoji 폴백일 때만 surface2 배경 적용 */
+      background: var(--surface2);
       flex-shrink: 0;
       gap: 2px; padding: 2px;
       overflow: hidden;
     }
+    /* 로고 이미지가 자식으로 있으면 컨테이너 배경 투명화 */
+    .brand-logo:has(.brand-img) { background: transparent; padding: 0; }
     .brand-logo .brand-img {
       height: 100%;
       min-width: 0;
       max-width: 100%;
       object-fit: contain;
-      background: #fff;
-      border-radius: 4px;
+      background: transparent;
     }
     /* 로고가 2개(다중 브랜드) 일 때 각 로고 폭 제한 */
-    .brand-logo .brand-img + .brand-img { margin-left: 0; }
+    .brand-logo .brand-img + .brand-img { margin-left: 4px; }
     .brand-logo:has(.brand-img + .brand-img) { min-width: 60px; }
     .brand-logo:has(.brand-img + .brand-img) .brand-img { width: 26px; }
     .versus-logo .brand-img {
       width: 100%; height: 100%;
       object-fit: contain;
-      border-radius: 12px;
-      background: #fff;
+      background: transparent;
     }
+    /* versus-logo 배경도 이미지 있으면 투명 */
+    .versus-logo:has(.brand-img) { background: transparent !important; }
     .brand-name { font-size: 15px; font-weight: 700; }
     .brand-cat { font-size: 11px; color: var(--text-muted); }
     .sentiment-badge {
@@ -490,7 +494,7 @@
     }
     .chart-brand-logo {
       width: 22px; height: 22px; object-fit: contain;
-      background: #fff; border-radius: 5px; padding: 2px;
+      background: transparent;
     }
     .sentiment-chart-body {
       position: relative;
