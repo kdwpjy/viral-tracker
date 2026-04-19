@@ -39,6 +39,9 @@ jobs:
         env:
           PYTHONPATH: ${{ github.workspace }}
           PLAYWRIGHT_CHANNEL: chromium
+          # CI 러너는 CPU-only라 LLM이 너무 느림 → 규칙 기반 감성 분류로 fallback
+          # 로컬에서는 설정 없이 실행하면 Gemma 4 E2B-it 자동 사용
+          DISABLE_LLM: "1"
 
       - name: data/ 커밋 (issues.json + 히스토리 스냅샷)
         run: |

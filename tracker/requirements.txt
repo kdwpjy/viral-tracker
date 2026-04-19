@@ -7,3 +7,9 @@ lxml>=5.2.0
 
 # JS 렌더링 (에펨코리아)
 playwright>=1.44.0
+
+# 감성 분류 (Gemma 4 E2B-it via HuggingFace transformers)
+# DISABLE_LLM=1 환경변수로 비활성화 가능 (CI 기본값)
+transformers>=4.55.0
+torch>=2.2.0
+accelerate>=0.30.0
