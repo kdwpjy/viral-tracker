@@ -380,13 +380,6 @@ def generate_summary(title: str, body: str, sentiment: str = "") -> str:
 
 # ── 바이럴 스코어 계산 ────────────────────────────────────────────────────────
 
-CHANNEL_WEIGHT: dict[str, float] = {
-    "에펨코리아": 1.2,
-    "클리앙":     0.9,
-    "네이버뉴스": 1.4,
-    "다음뉴스":   1.1,
-}
-
 SENTIMENT_MULTIPLIER: dict[str, float] = {
     "negative": 1.3,
     "positive": 1.0,
@@ -420,7 +413,6 @@ def compute_viral_score(post: RawPost, sentiment: str) -> float:
     kw_bonus = min(kw_count * 2, 15.0)  # max 15점
 
     raw = (engagement_score + recency_score + kw_bonus)
-    raw *= CHANNEL_WEIGHT.get(post.channel.value, 1.0)
     raw *= SENTIMENT_MULTIPLIER.get(sentiment, 1.0)
 
     return round(min(raw, 100.0), 1)
