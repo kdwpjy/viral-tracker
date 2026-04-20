@@ -256,59 +256,8 @@ async def crawl_daum_news(keyword: str) -> list[RawPost]:
     return posts
 
 
-# ── 다음 카페 (공개 게시글 검색) ──────────────────────────────────────────────
-
-async def crawl_daum_cafe(keyword: str) -> list[RawPost]:
-    """
-    https://search.daum.net/search?w=cafe&q={keyword}&sort=recency
-    다음 뉴스와 동일한 item-bundle-mid 구조 사용
-    """
-    # w=cafe 는 JS 리다이렉트로 변경됨 → w=tot(통합검색)으로 카페 결과 포함 수집
-    url = f"https://search.daum.net/search?w=tot&q={quote(keyword)}&sort=recency"
-    posts = []
-
-    try:
-        async with httpx.AsyncClient(headers=HEADERS, follow_redirects=True, timeout=15) as client:
-            resp = await client.get(url)
-            resp.raise_for_status()
-
-        soup = BeautifulSoup(resp.text, "html.parser")
-        items = soup.select("div.item-bundle-mid")
-
-        for item in items[:15]:
-            title_el = item.select_one("div.item-title a")
-            desc_el  = item.select_one("p.conts-desc")
-            cafe_el  = item.select_one("a.cafe-name, span.cafe-name, div.item-etc a")
-
-            if not title_el:
-                continue
-
-            title     = _clean(title_el.get_text())
-            href      = title_el.get("href", "")
-            cafe_name = _clean(cafe_el.get_text()) if cafe_el else ""
-            body      = _clean(desc_el.get_text()) if desc_el else title
-            date_el   = item.select_one("span.date, span.item-date, span[class*='date']")
-            pub_date  = _parsed_or_drop(date_el.get_text() if date_el else "")
-            post_id   = re.sub(r"[^a-zA-Z0-9]", "", href)[-24:] or title[:20]
-
-            if not title:
-                continue
-
-            posts.append(RawPost(
-                channel      = Channel.DAUM_CAFE,
-                post_id      = post_id,
-                url          = href,
-                title        = f"[{cafe_name}] {title}" if cafe_name else title,
-                body         = body,
-                published_at = pub_date,
-            ))
-
-        await asyncio.sleep(CRAWL_DELAY)
-    except Exception as e:
-        print(f"[DaumCafe] '{keyword}' 수집 실패: {e}")
-
-    return posts
-
+# 다음카페 크롤러 제거됨 — w=tot 통합검색은 다음뉴스와 동일한 셀렉터를 써서
+# 사실상 뉴스 중복 수집만 하고 있었음. w=cafe 는 JS 리다이렉트로 차단되어 우회 불가.
 
 
 # ── 에펨코리아 (Playwright) ───────────────────────────────────────────────────
@@ -692,7 +641,7 @@ def _extract_body_text(soup: BeautifulSoup, url: str = "") -> str:
                 if len(t) > 30:
                     return t[:800]
 
-    # 다음카페 / 다음뉴스
+    # 다음뉴스 (daum.net)
     if "daum.net" in host:
         for sel in ("section#harmonyContainer", "div#harmonyContainer",
                     "div.article_view", "div.article-view",
@@ -789,7 +738,6 @@ async def fetch_actual_dates(posts: list[RawPost], concurrency: int = 5) -> None
 CRAWLERS = [
     crawl_naver_news,
     crawl_daum_news,
-    crawl_daum_cafe,
     crawl_ppomppu,
     crawl_fmkorea,
     crawl_clien,

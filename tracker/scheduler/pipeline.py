@@ -72,6 +72,24 @@ async def run():
     all_posts = [p for p in all_posts if _aware_kst(p.published_at) >= cutoff]
     log.info(f"📥 7일 이내 {len(all_posts)}건 필터링 완료")
 
+    # 4-1) 제목 관련성 필터 + matched_keywords 보정
+    all_kws = list(dict.fromkeys(SEARCH_KEYWORDS + PRIORITY_KEYWORDS))  # 순서 유지 dedup
+
+    def _title_has_keyword(post) -> bool:
+        title_lower = post.title.lower()
+        return any(kw.lower() in title_lower for kw in all_kws)
+
+    def _rectify_keywords(post) -> None:
+        """제목에 실제로 포함된 키워드로 재구성 (검색 엔진 노이즈 제거 + 누락 보완)."""
+        title_lower = post.title.lower()
+        post.matched_keywords = [kw for kw in all_kws if kw.lower() in title_lower]
+
+    before = len(all_posts)
+    all_posts = [p for p in all_posts if _title_has_keyword(p)]
+    for p in all_posts:
+        _rectify_keywords(p)
+    log.info(f"🔎 제목 관련성 필터: {before - len(all_posts)}건 제거 → {len(all_posts)}건 남음")
+
     # 5) 분석
     issues = analyze_posts(all_posts)
     log.info(f"🔍 {len(issues)}건 분석 완료")

@@ -18,7 +18,6 @@ class Channel(str, Enum):
     FMKOREA   = "에펨코리아"
     CLIEN     = "클리앙"
     PPOMPPU   = "뽐뿌"
-    DAUM_CAFE = "다음카페"
     NAVER_NEWS = "네이버뉴스"
     DAUM_NEWS  = "다음뉴스"
 

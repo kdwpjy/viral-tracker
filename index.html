@@ -325,6 +325,7 @@
       margin-right: 4px; min-width: 40px;
     }
     .ff-btn {
+      display: inline-flex; align-items: center; gap: 5px;
       padding: 5px 12px; border-radius: 14px;
       border: 1px solid var(--border);
       background: var(--surface);
@@ -335,6 +336,10 @@
     }
     .ff-btn:hover { border-color: var(--blue); color: var(--text); }
     .ff-btn.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+    .ff-btn .btn-logo {
+      width: 16px; height: 16px; object-fit: contain;
+      border-radius: 3px; flex-shrink: 0;
+    }
 
     /* 최근 7일 전체 이슈 피드 (feed-grid) */
     .feed-grid {
@@ -581,7 +586,7 @@
           <div class="sentiment-badge neg">🔥 부정 바이럴</div>
         </div>
         <div class="card-title">"치킨 한 마리 35,000원" 가격 인상 공분 폭발</div>
-        <div class="card-summary">황금올리브 일부 메뉴 35,000원 돌파 소식이 커뮤니티에 퍼지며 "이제 치킨은 특식"이라는 반응 쏟아짐. 에펨코리아·다음카페 맘카페 동시 확산, 불매 언급 급증.</div>
+        <div class="card-summary">황금올리브 일부 메뉴 35,000원 돌파 소식이 커뮤니티에 퍼지며 "이제 치킨은 특식"이라는 반응 쏟아짐. 에펨코리아·클리앙 등 동시 확산, 불매 언급 급증.</div>
         <div class="score-bar-wrap">
           <div class="score-label"><span>바이럴 스코어</span><span>91 / 100</span></div>
           <div class="score-bar"><div class="score-fill" style="width:91%"></div></div>
@@ -591,7 +596,7 @@
           <span class="tag">#불매운동</span>
           <span class="tag">#치킨값논란</span>
           <span class="tag">#에펨코리아</span>
-          <span class="tag">#다음카페</span>
+          <span class="tag">#클리앙</span>
         </div>
         <div class="card-meta">
           <span>⏱ 3시간 전 시작</span>
@@ -600,9 +605,9 @@
         </div>
         <div class="source-links" style="margin-top:12px;">
           <span class="source-link">📌 에펨코리아</span>
-          <span class="source-link">📌 다음카페</span>
-          <span class="source-link">📌 X(트위터)</span>
-          <span class="source-link">📌 스레드</span>
+          <span class="source-link">📌 클리앙</span>
+          <span class="source-link">📌 뽐뿌</span>
+          <span class="source-link">📌 네이버뉴스</span>
         </div>
       </div>
 
@@ -861,19 +866,18 @@
       <div class="feed-filter-row">
         <span class="filter-label">브랜드</span>
         <button class="ff-btn active" data-group="brand" data-value="all">전체</button>
-        <button class="ff-btn" data-group="brand" data-value="baemin">배민</button>
-        <button class="ff-btn" data-group="brand" data-value="coupang">쿠팡이츠</button>
-        <button class="ff-btn" data-group="brand" data-value="generic">배달앱 일반</button>
+        <button class="ff-btn" data-group="brand" data-value="baemin"><img class="btn-logo" src="./assets/baemin_logo.png" alt="배민">배민</button>
+        <button class="ff-btn" data-group="brand" data-value="coupang"><img class="btn-logo" src="./assets/coupang_eats_logo.svg" alt="쿠팡이츠">쿠팡이츠</button>
+        <button class="ff-btn" data-group="brand" data-value="generic">🛵 배달앱 일반</button>
       </div>
       <div class="feed-filter-row">
         <span class="filter-label">소스</span>
         <button class="ff-btn active" data-group="channel" data-value="all">전체</button>
-        <button class="ff-btn" data-group="channel" data-value="네이버뉴스">네이버뉴스</button>
-        <button class="ff-btn" data-group="channel" data-value="다음뉴스">다음뉴스</button>
-        <button class="ff-btn" data-group="channel" data-value="뽐뿌">뽐뿌</button>
-        <button class="ff-btn" data-group="channel" data-value="클리앙">클리앙</button>
-        <button class="ff-btn" data-group="channel" data-value="다음카페">다음카페</button>
-        <button class="ff-btn" data-group="channel" data-value="에펨코리아">에펨코리아</button>
+        <button class="ff-btn" data-group="channel" data-value="네이버뉴스"><img class="btn-logo" src="./assets/naver_logo.svg" alt="네이버뉴스">네이버뉴스</button>
+        <button class="ff-btn" data-group="channel" data-value="다음뉴스"><img class="btn-logo" src="./assets/daum_logo.jpeg" alt="다음뉴스">다음뉴스</button>
+        <button class="ff-btn" data-group="channel" data-value="뽐뿌"><img class="btn-logo" src="./assets/ppomppu_logo.webp" alt="뽐뿌">뽐뿌</button>
+        <button class="ff-btn" data-group="channel" data-value="클리앙"><img class="btn-logo" src="./assets/clien_logo.png" alt="클리앙">클리앙</button>
+        <button class="ff-btn" data-group="channel" data-value="에펨코리아"><img class="btn-logo" src="./assets/fm_logo.png" alt="에펨코리아">에펨코리아</button>
       </div>
     </div>
     <div class="feed-grid" id="feedGrid"></div>
@@ -886,7 +890,7 @@
 <!-- FOOTER -->
 <footer>
   <div class="wrapper">
-    바이럴트래커 · 수집 채널: 에펨코리아, 클리앙, 다음카페, 뽐뿌 · 네이버/다음 뉴스<br />
+    바이럴트래커 · 수집 채널: 에펨코리아, 클리앙, 뽐뿌 · 네이버/다음 뉴스<br />
     <span style="margin-top:6px;display:block;">목업 데이터 기준 — 실제 서비스 시 실시간 API·크롤링으로 교체</span>
   </div>
 </footer>
@@ -896,11 +900,9 @@
   let allData   = null;   // /api/status + /api/feed 등에서 로드
   let feedIssues = [];
 
-  // 데이터 brand 값 → emoji (로고 로드 실패 시 fallback)
-  const BRAND_EMOJI = {
-    '배달의민족': '🛵', '배민': '🛵',
-    '쿠팡이츠':   '🚀',
-  };
+  // 데이터 brand 값 → emoji. 배민/쿠팡이츠는 로고가 메인이므로 fallback(🛵) 공통.
+  // 배달앱 일반 / 기타 도 배달 오토바이 이모지로 통일.
+  const BRAND_EMOJI = {};
 
   // 브랜드 공식 로고 이미지 (로컬 assets/) — 배민/쿠팡이츠만 사용
   const BRAND_LOGO = {
@@ -925,7 +927,7 @@
   const SENTIMENT_CSS   = { positive: 'pos', negative: 'neg', neutral: 'neutral' };
 
   function brandEmoji(brand) {
-    return BRAND_EMOJI[brand] || '🏢';
+    return BRAND_EMOJI[brand] || '🛵';
   }
 
   // +N 유사 뱃지 클릭 시 같은 카드 안의 .dup-list 토글 (카드 click propagation 차단)
@@ -942,7 +944,7 @@
   function triggerKwsHTML(kws) {
     if (!Array.isArray(kws) || kws.length === 0) return '';
     const tags = kws.map(k => `<span class="tkw">${esc(k)}</span>`).join('');
-    return `<div class="trigger-kws"><span class="tkw-label">🔍 트리거:</span>${tags}</div>`;
+    return `<div class="trigger-kws"><span class="tkw-label">🔍 검색 키워드:</span>${tags}</div>`;
   }
 
   // 유사 기사 리스트 HTML (duplicates 배열 기반)
@@ -961,6 +963,8 @@
   const BRAND_LABEL = {
     '배달의민족': '배민',
     '쿠팡이츠':   '쿠팡이츠',
+    '배민':       '배민',          // 구 데이터(M7 fix 이전) 방어
+    '기타':       '배달앱 일반',   // 구 라벨 → 신 라벨
   };
   function brandLabel(brand) {
     if (!brand) return '배달앱 일반';
@@ -1100,6 +1104,7 @@
         </div>
         <div class="fc-title">${esc(i.title || '')}</div>
         <div class="fc-summary">${esc(i.summary || '')}</div>
+        ${(i.tags || []).length ? `<div class="tags" style="margin:6px 0 4px">${(i.tags).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
         <div class="fc-meta">
           <span>🕐 ${esc(pubTime(i.published_at))}</span>
           ${comments ? `<span>💬 ${comments}</span>` : ''}

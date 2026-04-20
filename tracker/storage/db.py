@@ -12,7 +12,13 @@ from dataclasses import asdict
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from tracker.collector.base import KST, now_kst
+from tracker.collector.base import KST, now_kst, SEARCH_KEYWORDS, PRIORITY_KEYWORDS
+
+_TITLE_KWS = [kw.lower() for kw in SEARCH_KEYWORDS + PRIORITY_KEYWORDS]
+
+def _title_relevant(item: dict) -> bool:
+    title = (item.get("title") or "").lower()
+    return any(kw in title for kw in _TITLE_KWS)
 from tracker.processor.analyzer import ProcessedIssue
 
 # 프로젝트 루트 기준으로 경로 설정 (GitHub Actions 환경 대응)
@@ -224,7 +230,7 @@ def get_hot(limit=10) -> list[dict]:
             "SELECT * FROM issues WHERE published_at >= ? ORDER BY viral_score DESC LIMIT ?",
             (cutoff, max(limit * 3, 30))
         ).fetchall()
-    items = _to_dicts(rows)
+    items = [i for i in _to_dicts(rows) if _title_relevant(i)]
     return _dedup_by_title(items)[:limit]
 
 
@@ -358,10 +364,14 @@ def _build_weekly_feed(now: datetime) -> list[dict]:
             for item in snap.get("feed", []):
                 uid = item.get("uid")
                 if uid and uid not in seen:
+                    item.setdefault("matched_keywords", [])
                     seen[uid] = item
 
-    # 1) 최신순 정렬 → 2) 제목 유사도 중복 병합 → 3) 300건 cap
-    by_time = sorted(seen.values(), key=lambda x: _parse_iso(x.get("published_at", "")), reverse=True)
+    # 1) 제목 관련성 필터 (파이프라인과 동일 규칙)
+    relevant = {uid: item for uid, item in seen.items() if _title_relevant(item)}
+
+    # 2) 최신순 정렬 → 3) 제목 유사도 중복 병합 → 4) 300건 cap
+    by_time = sorted(relevant.values(), key=lambda x: _parse_iso(x.get("published_at", "")), reverse=True)
     deduped = _dedup_by_title(by_time)
     return deduped[:300]
 

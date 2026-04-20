@@ -244,29 +244,93 @@ def classify_sentiment(text: str, title: str = "") -> str:
     return llm_result if llm_result in _VALID_LABELS else classify_sentiment_rules(text)
 
 
-def extract_tags(text: str) -> list[str]:
-    tags = []
-    checks = [
-        ("불매운동",      ["불매"]),
-        ("갑질논란",      ["갑질"]),
-        ("감동마케팅",    ["감동", "칭찬", "친절"]),
-        ("사과논란",      ["사과", "해명"]),
-        ("가성비논란",    ["가성비", "가격", "인상"]),
-        ("직원썰",        ["직원", "블라인드", "내부고발"]),
-        ("광고역효과",    ["광고 사기", "광고랑 다르", "실물이"]),
-        ("배달비논란",    ["배달비", "배달비 인상"]),
-        ("수수료갑질",    ["수수료", "수수료 인상"]),
-        ("라이더이슈",    ["라이더", "배달원", "산재"]),
-        ("독점입점압박",  ["독점", "입점 강요", "강요"]),
-        ("점주썰",        ["점주", "사장님", "자영업"]),
-        ("품질논란",      ["품질", "위생", "이물질"]),
-        ("가격인상",      ["가격 인상", "인상", "올랐"]),
-        ("직원칭찬",      ["직원", "칭찬", "감동"]),
-    ]
-    for tag, keywords in checks:
+ISSUE_CATEGORIES = [
+    "가격·수수료",
+    "서비스·품질",
+    "라이더",
+    "점주·자영업",
+    "소비자반응",
+    "마케팅·광고",
+    "기업·정책",
+    "감동·긍정",
+]
+
+_TAG_PROMPT = (
+    "다음 한국어 글을 읽고, 아래 카테고리 중 해당하는 것을 최대 3개 골라 쉼표로 구분해서 답하세요. "
+    "해당하는 카테고리가 없으면 '없음'이라고만 답하세요. "
+    "카테고리 이름만 정확히 답하세요.\n\n"
+    "카테고리: {categories}\n\n"
+    "제목: {title}\n내용: {body}\n답:"
+)
+
+_TAG_RULES = [
+    ("가격·수수료",  ["배달비", "수수료", "가격 인상", "가격인상", "인상", "가성비"]),
+    ("서비스·품질",  ["품질", "위생", "이물질", "배달 지연", "오배달", "앱 오류"]),
+    ("라이더",       ["라이더", "배달원", "배달기사", "산재", "배달부"]),
+    ("점주·자영업",  ["점주", "사장님", "업주", "자영업", "식당", "입점", "독점"]),
+    ("소비자반응",   ["불매", "환불", "항의", "탈퇴", "취소", "갑질"]),
+    ("마케팅·광고",  ["광고", "마케팅", "협찬", "캠페인", "홍보"]),
+    ("기업·정책",    ["공정위", "규제", "인수합병", "노사", "정책", "내부고발", "블라인드"]),
+    ("감동·긍정",    ["감동", "칭찬", "친절", "훌륭", "응원", "선행"]),
+]
+
+
+def _parse_tag_response(text: str) -> list[str]:
+    t = (text or "").strip()
+    if not t or "없음" in t:
+        return []
+    found = []
+    for cat in ISSUE_CATEGORIES:
+        if cat in t:
+            found.append(f"#{cat}")
+    return found[:3]
+
+
+def _extract_tags_transformers(pipe, title: str, body: str) -> list[str]:
+    prompt = _TAG_PROMPT.format(
+        categories=", ".join(ISSUE_CATEGORIES), title=title[:200], body=body[:500]
+    )
+    out = pipe([{"role": "user", "content": prompt}], max_new_tokens=40, do_sample=False)
+    return _parse_tag_response(_extract_generated_text(out))
+
+
+def _extract_tags_llamacpp(llm, title: str, body: str) -> list[str]:
+    prompt = _TAG_PROMPT.format(
+        categories=", ".join(ISSUE_CATEGORIES), title=title[:200], body=body[:500]
+    )
+    resp = llm.create_chat_completion(
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=40,
+        temperature=0.0,
+    )
+    return _parse_tag_response(resp["choices"][0]["message"]["content"])
+
+
+def _extract_tags_rules(text: str) -> list[str]:
+    found = []
+    for cat, keywords in _TAG_RULES:
         if any(kw in text for kw in keywords):
-            tags.append(f"#{tag}")
-    return tags[:5]  # 최대 5개
+            found.append(f"#{cat}")
+    return found[:3]
+
+
+def extract_tags(title: str, body: str = "") -> list[str]:
+    """LLM으로 카테고리 태그 추출 (최대 3개). 실패 시 규칙 기반. 매칭 없으면 ['#기타']."""
+    full_text = title + " " + body
+    backend = _get_llm_backend()
+    tags: list[str] | None = None
+    if backend:
+        kind, obj = backend
+        try:
+            if kind == "transformers":
+                tags = _extract_tags_transformers(obj, title, body)
+            elif kind == "llamacpp":
+                tags = _extract_tags_llamacpp(obj, title, body)
+        except Exception as e:
+            _log.debug(f"태그 추출 LLM 실패 ({kind}, {title[:30]}): {e}")
+    if tags is None:
+        tags = _extract_tags_rules(full_text)
+    return tags if tags else ["#기타"]
 
 
 def detect_stakeholders(text: str) -> list[str]:
@@ -319,7 +383,6 @@ def generate_summary(title: str, body: str, sentiment: str = "") -> str:
 CHANNEL_WEIGHT: dict[str, float] = {
     "에펨코리아": 1.2,
     "클리앙":     0.9,
-    "다음카페":   0.9,
     "네이버뉴스": 1.4,
     "다음뉴스":   1.1,
 }
@@ -376,7 +439,7 @@ def classify_status(score: float) -> str:
 def analyze(post: RawPost, brand: str) -> ProcessedIssue:
     full_text = post.title + " " + post.body
     sentiment    = classify_sentiment(full_text, title=post.title)
-    tags         = extract_tags(full_text)
+    tags         = extract_tags(post.title, post.body)
     stakeholders = detect_stakeholders(full_text)
     summary      = generate_summary(post.title, post.body, sentiment)
     viral_score  = compute_viral_score(post, sentiment)
@@ -414,7 +477,8 @@ def analyze_posts(posts: list[RawPost]) -> list[ProcessedIssue]:
     """
     issues = []
     for post in posts:
-        brands = detect_brands(post.title + " " + post.body)
+        # 제목만으로 브랜드 매칭 (본문에 일반 언급만 있는 경우 제외 → 오탐 감소)
+        brands = detect_brands(post.title)
         brand = ", ".join(brands) if brands else GENERIC_BRAND_LABEL
         issues.append(analyze(post, brand))
     return issues
