@@ -13,7 +13,7 @@ from pathlib import Path
 # 프로젝트 루트를 sys.path에 추가 (GitHub Actions 환경 대응)
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from tracker.collector.base import KST, SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands, now_kst
+from tracker.collector.base import KST, BRAND_MENTION_PATTERNS, SEARCH_KEYWORDS, PRIORITY_KEYWORDS, detect_brands, now_kst
 from tracker.collector.crawlers import collect_keyword, fetch_actual_dates
 from tracker.processor.analyzer import analyze_posts
 from tracker.storage.db import init_db, save_issues_bulk, export_json
@@ -72,17 +72,21 @@ async def run():
     all_posts = [p for p in all_posts if _aware_kst(p.published_at) >= cutoff]
     log.info(f"📥 7일 이내 {len(all_posts)}건 필터링 완료")
 
-    # 4-1) 제목 관련성 필터 + matched_keywords 보정
-    all_kws = list(dict.fromkeys(SEARCH_KEYWORDS + PRIORITY_KEYWORDS))  # 순서 유지 dedup
+    # 4-1) 제목 관련성 필터 + matched_keywords 보정 (브랜드 패턴 regex 기반)
+    _non_brand_kws = ["배달비", "무료배달", "단건배달", "배달앱"]
 
     def _title_has_keyword(post) -> bool:
-        title_lower = post.title.lower()
-        return any(kw.lower() in title_lower for kw in all_kws)
+        if any(p.search(post.title) for p in BRAND_MENTION_PATTERNS.values()):
+            return True
+        tl = post.title.lower()
+        return any(kw in tl for kw in _non_brand_kws)
 
     def _rectify_keywords(post) -> None:
-        """제목에 실제로 포함된 키워드로 재구성 (검색 엔진 노이즈 제거 + 누락 보완)."""
-        title_lower = post.title.lower()
-        post.matched_keywords = [kw for kw in all_kws if kw.lower() in title_lower]
+        """브랜드 패턴 + 비브랜드 키워드 기반으로 matched_keywords 재구성."""
+        result = [brand for brand, p in BRAND_MENTION_PATTERNS.items() if p.search(post.title)]
+        tl = post.title.lower()
+        result += [kw for kw in _non_brand_kws if kw in tl]
+        post.matched_keywords = result
 
     before = len(all_posts)
     all_posts = [p for p in all_posts if _title_has_keyword(p)]

@@ -12,13 +12,17 @@ from dataclasses import asdict
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from tracker.collector.base import KST, now_kst, SEARCH_KEYWORDS, PRIORITY_KEYWORDS
+from tracker.collector.base import KST, now_kst, BRAND_MENTION_PATTERNS
 
-_TITLE_KWS = [kw.lower() for kw in SEARCH_KEYWORDS + PRIORITY_KEYWORDS]
+# 브랜드 패턴 외 제목 관련성 판단에 쓸 비브랜드 키워드
+_NON_BRAND_KWS = ["배달비", "무료배달", "단건배달", "배달앱"]
 
 def _title_relevant(item: dict) -> bool:
-    title = (item.get("title") or "").lower()
-    return any(kw in title for kw in _TITLE_KWS)
+    title = item.get("title") or ""
+    if any(p.search(title) for p in BRAND_MENTION_PATTERNS.values()):
+        return True
+    tl = title.lower()
+    return any(kw in tl for kw in _NON_BRAND_KWS)
 from tracker.processor.analyzer import ProcessedIssue
 
 # 프로젝트 루트 기준으로 경로 설정 (GitHub Actions 환경 대응)
