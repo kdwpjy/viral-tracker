@@ -386,6 +386,12 @@ SENTIMENT_MULTIPLIER: dict[str, float] = {
     "neutral":  0.7,
 }
 
+# 뉴스 채널 기본 engagement 점수 (views/comments 데이터 없는 경우 보정)
+_NEWS_BASE_SCORE: dict[str, float] = {
+    Channel.NAVER_NEWS.value: 10.0,
+    Channel.DAUM_NEWS.value:  10.0,
+}
+
 def compute_viral_score(post: RawPost, sentiment: str) -> float:
     # 반응 지표 (로그 스케일)
     engagement = (
@@ -394,15 +400,16 @@ def compute_viral_score(post: RawPost, sentiment: str) -> float:
         math.log1p(post.likes)    * 1.0
     )
     engagement_score = min(engagement * 3, 60.0)  # max 60점
+    # 뉴스 기사는 engagement 데이터가 없으므로 기본 점수 적용 (더 높은 쪽 사용)
+    engagement_score = max(engagement_score, _NEWS_BASE_SCORE.get(post.channel.value, 0.0))
 
-    # 시간 점수 (최신일수록 높음, KST 기준)
+    # 시간 점수 (최신일수록 높음, KST 기준) — max 40점
     now = now_kst()
     pub = post.published_at
     if pub.tzinfo is None:
-        # naive datetime은 KST로 가정 (크롤러가 모두 aware KST를 반환하지만 방어)
         pub = pub.replace(tzinfo=KST)
     hours = max(0.0, (now - pub.astimezone(KST)).total_seconds() / 3600)
-    recency_score = 25.0 if hours <= 6 else 15.0 if hours <= 24 else 5.0 if hours <= 72 else 0.0
+    recency_score = round(max(0.0, 40.0 * math.exp(-hours / 24)), 2)
 
     # 키워드 밀도 보너스 (제목+본문에 감성 키워드가 많을수록)
     text = post.title + " " + post.body
@@ -410,7 +417,7 @@ def compute_viral_score(post: RawPost, sentiment: str) -> float:
         sum(1 for kw in NEGATIVE_KEYWORDS if kw in text) +
         sum(1 for kw in POSITIVE_KEYWORDS if kw in text)
     )
-    kw_bonus = min(kw_count * 2, 15.0)  # max 15점
+    kw_bonus = min(kw_count * 4, 30.0)  # max 30점
 
     raw = (engagement_score + recency_score + kw_bonus)
     raw *= SENTIMENT_MULTIPLIER.get(sentiment, 1.0)
@@ -469,8 +476,8 @@ def analyze_posts(posts: list[RawPost]) -> list[ProcessedIssue]:
     """
     issues = []
     for post in posts:
-        # 제목만으로 브랜드 매칭 (본문에 일반 언급만 있는 경우 제외 → 오탐 감소)
-        brands = detect_brands(post.title)
+        # 제목 우선, 없으면 본문까지 확인
+        brands = detect_brands(post.title) or detect_brands(post.body)
         brand = ", ".join(brands) if brands else GENERIC_BRAND_LABEL
         issues.append(analyze(post, brand))
     return issues

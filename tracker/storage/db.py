@@ -227,12 +227,12 @@ def _dedup_by_title(items: list[dict], threshold: float = DEDUP_THRESHOLD) -> li
 
 
 def get_hot(limit=10) -> list[dict]:
-    cutoff = (now_kst() - timedelta(hours=24)).isoformat()
+    cutoff = (now_kst() - timedelta(hours=48)).isoformat()
     with get_conn() as conn:
         # dedup 후 limit 맞추기 위해 여유있게 3배수 조회
         rows = conn.execute(
-            "SELECT * FROM issues WHERE published_at >= ? ORDER BY viral_score DESC LIMIT ?",
-            (cutoff, max(limit * 3, 30))
+            "SELECT * FROM issues WHERE published_at >= ? ORDER BY viral_score DESC",
+            (cutoff,)
         ).fetchall()
     items = [i for i in _to_dicts(rows) if _title_relevant(i)]
     return _dedup_by_title(items)[:limit]
@@ -265,7 +265,7 @@ def get_timeline(limit=30) -> list[dict]:
 
 
 def get_versus() -> dict:
-    cutoff = (now_kst() - timedelta(hours=24)).isoformat()
+    cutoff = (now_kst() - timedelta(hours=48)).isoformat()
 
     def by_brand_any(names: list[str], limit=20):
         like_clauses = " OR ".join("brand LIKE ?" for _ in names)
@@ -307,10 +307,12 @@ def get_versus() -> dict:
             "neutral":  round(sum(1 for i in items if i["sentiment"] == "neutral")  / total * 100),
         }
 
-    # 전체 수집 기사에서 정규식 기반 언급 횟수 집계
+    # 48시간 이내 기사에서 정규식 기반 언급 횟수 집계
     from tracker.collector.base import BRAND_MENTION_PATTERNS
     with get_conn() as conn:
-        all_rows = conn.execute("SELECT title, summary FROM issues").fetchall()
+        all_rows = conn.execute(
+            "SELECT title, summary FROM issues WHERE published_at >= ?", (cutoff,)
+        ).fetchall()
     mention_counts = {}
     for brand, pattern in BRAND_MENTION_PATTERNS.items():
         mention_counts[brand] = sum(
@@ -319,8 +321,8 @@ def get_versus() -> dict:
         )
 
     return {
-        "baemin":  {"issues": baemin[:5],  "total": len(baemin),  "avg_score": avg_score(baemin),  "ratio": ratio(baemin),  "mentions": mention_counts.get("배달의민족", 0)},
-        "coupang": {"issues": coupang[:5], "total": len(coupang), "avg_score": avg_score(coupang), "ratio": ratio(coupang), "mentions": mention_counts.get("쿠팡이츠",   0)},
+        "baemin":  {"issues": baemin,  "total": len(baemin),  "avg_score": avg_score(baemin),  "ratio": ratio(baemin),  "mentions": mention_counts.get("배달의민족", 0)},
+        "coupang": {"issues": coupang, "total": len(coupang), "avg_score": avg_score(coupang), "ratio": ratio(coupang), "mentions": mention_counts.get("쿠팡이츠",   0)},
     }
 
 

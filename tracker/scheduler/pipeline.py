@@ -19,7 +19,7 @@ from tracker.processor.analyzer import analyze_posts
 from tracker.storage.db import init_db, save_issues_bulk, export_json
 
 FEED_CUTOFF_DAYS = 7   # 피드: 7일 이내
-HOT_CUTOFF_HOURS = 24  # hot/versus: 24시간 이내
+HOT_CUTOFF_HOURS = 48  # hot/versus: 48시간 이내
 
 logging.basicConfig(
     level=logging.INFO,

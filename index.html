@@ -179,21 +179,7 @@
       display: flex; align-items: center; gap: 12px;
       font-size: 12px; color: var(--text-muted);
     }
-    .score-bar-wrap { margin-bottom: 14px; }
-    .score-label {
-      display: flex; justify-content: space-between;
-      font-size: 11px; color: var(--text-muted); margin-bottom: 4px;
-    }
-    .score-bar {
-      height: 4px; background: var(--surface2); border-radius: 4px; overflow: hidden;
-    }
-    .score-fill {
-      height: 100%; border-radius: 4px;
-      transition: width 1s ease;
-    }
-    .pos .score-fill { background: var(--pos); }
-    .neg .score-fill { background: var(--neg); }
-    .neutral .score-fill { background: var(--neutral); }
+
 
     .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
     .tag {
@@ -262,6 +248,8 @@
     .versus-body { display: grid; grid-template-columns: 1fr 1fr; }
     .versus-col {
       padding: 20px 24px;
+      max-height: 480px;
+      overflow-y: auto;
     }
     .versus-col:first-child { border-right: 1px solid var(--border); }
     .versus-issue {
@@ -569,7 +557,7 @@
   <!-- ── HOT 이슈 ── -->
   <section class="section">
     <div class="section-header">
-      <h2 class="section-title"><span class="icon">🔥</span> 오늘의 Hot 이슈</h2>
+      <h2 class="section-title"><span class="icon">🔥</span> Hot 이슈</h2>
     </div>
     <div class="hot-grid">
 
@@ -587,10 +575,6 @@
         </div>
         <div class="card-title">"치킨 한 마리 35,000원" 가격 인상 공분 폭발</div>
         <div class="card-summary">황금올리브 일부 메뉴 35,000원 돌파 소식이 커뮤니티에 퍼지며 "이제 치킨은 특식"이라는 반응 쏟아짐. 에펨코리아·클리앙 등 동시 확산, 불매 언급 급증.</div>
-        <div class="score-bar-wrap">
-          <div class="score-label"><span>바이럴 스코어</span><span>91 / 100</span></div>
-          <div class="score-bar"><div class="score-fill" style="width:91%"></div></div>
-        </div>
         <div class="tags">
           <span class="tag">#가격인상</span>
           <span class="tag">#불매운동</span>
@@ -625,10 +609,6 @@
         </div>
         <div class="card-title">폭우 속 직원 우산 씌워준 CCTV 영상 감동 확산</div>
         <div class="card-summary">강남 매장 직원이 퇴근 중인 어르신에게 직접 나와 우산을 씌워준 CCTV 영상이 스레드에서 최초 확산 후 X·인스타로 퍼짐.</div>
-        <div class="score-bar-wrap">
-          <div class="score-label"><span>바이럴 스코어</span><span>78 / 100</span></div>
-          <div class="score-bar"><div class="score-fill" style="width:78%"></div></div>
-        </div>
         <div class="tags">
           <span class="tag">#감동마케팅</span>
           <span class="tag">#직원칭찬</span>
@@ -671,7 +651,7 @@
           <div class="versus-logo baemin"><img class="brand-img" src="./assets/baemin_logo.png" alt="배민" onerror="this.outerHTML='🛵';" /></div>
           <div>
             <div class="versus-name baemin">배민</div>
-            <div class="versus-score">이슈 12건 · 스코어 avg 64</div>
+            <div class="versus-score">언급 건수 (최근 48시간): 12건</div>
           </div>
         </div>
         <div class="vs-divider">VS</div>
@@ -679,7 +659,7 @@
           <div class="versus-logo coupang"><img class="brand-img" src="./assets/coupang_eats_logo.svg" alt="쿠팡이츠" onerror="this.outerHTML='🚀';" /></div>
           <div>
             <div class="versus-name coupang">쿠팡이츠</div>
-            <div class="versus-score">이슈 9건 · 스코어 avg 71</div>
+            <div class="versus-score">언급 건수 (최근 48시간): 9건</div>
           </div>
         </div>
       </div>
@@ -1177,7 +1157,6 @@
     grid.innerHTML = hot.slice(0, 6).map((item, idx) => {
       const css   = SENTIMENT_CSS[item.sentiment] || 'neutral';
       const badge = SENTIMENT_LABEL[item.sentiment] || '○';
-      const score = clampScore(item.viral_score);
       const rankClass = idx === 0 ? 'rank-1' : idx === 1 ? 'rank-2' : '';
       const url = item.url ? safeUrl(item.url) : '';
       const comments = Number(item.comments) || 0;
@@ -1196,10 +1175,6 @@
           </div>
           <div class="card-title">${esc(item.title || '')}</div>
           <div class="card-summary">${esc(item.summary || '')}</div>
-          <div class="score-bar-wrap">
-            <div class="score-label"><span>바이럴 스코어</span><span>${score} / 100</span></div>
-            <div class="score-bar"><div class="score-fill" style="width:${score}%"></div></div>
-          </div>
           <div class="tags">${(item.tags || []).map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
           <div class="card-meta">
             <span>🕐 ${esc(pubTime(item.published_at))}</span>
@@ -1360,16 +1335,16 @@
     if (!versus || !versus.baemin) return;
     const { baemin, coupang } = versus;
 
-    const bM = Number(baemin.mentions ?? baemin.total ?? 0) || 0;
-    const cM = Number(coupang.mentions ?? coupang.total ?? 0) || 0;
+    const bM = Number(baemin.total ?? 0) || 0;
+    const cM = Number(coupang.total ?? 0) || 0;
     const bAvg = Number(baemin.avg_score) || 0;
     const cAvg = Number(coupang.avg_score) || 0;
 
     // 헤더 점수 업데이트
     const bScore = document.querySelectorAll('.versus-score')[0];
     const cScore = document.querySelectorAll('.versus-score')[1];
-    if (bScore) bScore.textContent = `언급 ${bM}건 · avg ${bAvg}`;
-    if (cScore) cScore.textContent = `언급 ${cM}건 · avg ${cAvg}`;
+    if (bScore) bScore.textContent = `언급 건수 (최근 48시간): ${bM}건`;
+    if (cScore) cScore.textContent = `언급 건수 (최근 48시간): ${cM}건`;
 
     // 이슈 목록 교체
     const [bCol, cCol] = document.querySelectorAll('.versus-col');
