@@ -913,7 +913,7 @@
   // +N 유사 뱃지 클릭 시 같은 카드 안의 .dup-list 토글 (카드 click propagation 차단)
   function toggleDupList(ev, btn) {
     ev.stopPropagation();
-    const card = btn.closest('.hot-card, .versus-issue');
+    const card = btn.closest('.hot-card, .versus-issue, .feed-card');
     const list = card && card.querySelector('.dup-list');
     if (!list) return;
     list.classList.toggle('open');
