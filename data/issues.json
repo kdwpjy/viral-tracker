@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T19:39:22.808592+09:00",
+  "updated_at": "2026-10-12T02:10:05.050020+09:00",
   "hot": [
     {
       "uid": "eaf6fbc7088a1cb3db0f039e867c322d",
@@ -14,14 +14,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 80.5,
-      "status": "Hot",
+      "viral_score": 69.4,
+      "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-11T16:55:02+09:00",
-      "processed_at": "2026-10-11T19:30:46.684299+09:00",
+      "processed_at": "2026-10-12T02:02:19.920238+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -43,34 +43,24 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 79.4,
-      "status": "Hot",
+      "viral_score": 67.3,
+      "status": "Rising",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T19:00:00+09:00",
-      "processed_at": "2026-10-11T19:33:19.605836+09:00",
+      "processed_at": "2026-10-12T02:04:17.594918+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 26,
+      "duplicate_count": 24,
       "duplicates": [
-        {
-          "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
-          "url": "https://www.viva100.com/article/20261011500874",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% 보상”",
           "url": "http://v.daum.net/v/20261011182215386",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하...새 창 열림",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101117464042025",
-          "channel": "네이버뉴스"
         },
         {
           "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하라\"",
@@ -80,11 +70,6 @@
         {
           "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"실질적 피해 보상안 마련해야\"새 창 열림",
           "url": "https://www.ajunews.com/view/20261011173046920",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "‘2시간 먹통’에 소상공인 “손실 보상” 요구…쿠팡이츠 “취소 주문...새 창 열림",
-          "url": "https://biz.heraldcorp.com/article/10898671?ref=naver",
           "channel": "네이버뉴스"
         },
         {
@@ -115,6 +100,16 @@
         {
           "title": "소상공인 5개 단체, 쿠팡이츠 장애에 “손실 산정하고 보상해야”",
           "url": "http://v.daum.net/v/20261011183011512",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
+          "url": "https://www.viva100.com/article/20261011500874",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취소 주문 100% 보상\"(종합)",
+          "url": "http://v.daum.net/v/20261011174157625",
           "channel": "다음뉴스"
         },
         {
@@ -153,14 +148,14 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠, 시스템 장애 피해 입점 점주에 ‘100% 보상’새 창 열림",
-          "url": "https://www.donga.com/news/Society/article/all/20261011/134821341/1",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "쿠팡이츠, 시스템 장애 피해 입점 점주에 ‘100% 보상’",
           "url": "http://v.daum.net/v/20261011175156864",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "쿠팡이츠, 시스템 장애 피해 입점 점주에 ‘100% 보상’새 창 열림",
+          "url": "https://www.donga.com/news/Society/article/all/20261011/134821341/1",
+          "channel": "네이버뉴스"
         },
         {
           "title": "'쿠팡 먹통'에 소상공인 뿔났다...쿠팡이츠 \"정산금 100% 보상\"",
@@ -173,18 +168,13 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취소 주문 100% 보상\"(종합)",
-          "url": "http://v.daum.net/v/20261011174157625",
-          "channel": "다음뉴스"
+          "title": "'전산 오류' 쿠팡이츠, 취소주문 100% 보상키로새 창 열림",
+          "url": "https://www.g-enews.com/view.php?ud=202610111955255587a6e8311f64_1",
+          "channel": "네이버뉴스"
         },
         {
           "title": "'쿠팡 먹통'에 소상공인 뿔났다...쿠팡이츠 \"정산금 100% 보상\"새 창 열림",
           "url": "https://www.mt.co.kr/living/2026/10/11/2026101114481526837",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"손실 산정하고 보상해야\"새 창 열림",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6857085_36932.html",
           "channel": "네이버뉴스"
         }
       ]
@@ -195,32 +185,74 @@
       "channel": "네이버뉴스",
       "url": "http://www.srtimes.kr/news/articleView.html?idxno=214407",
       "title": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림",
-      "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 소상공인연합회 등 배달 플랫폼 관련 5개 단체 입장문 소상공인 업계가 쿠팡과 쿠팡이츠에서 발생한 전산망 오류",
+      "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 앞서 지난 9일 0시께부터 2시간 넘게 발생한 시스템 오류로 쿠팡이츠를 통한 배달 주문이 멈췄다",
       "sentiment": "negative",
       "tags": [
         "#서비스·품질",
-        "#소비자반응"
+        "#소비자반응",
+        "#기업·정책"
       ],
-      "viral_score": 67.6,
+      "viral_score": 66.1,
       "status": "Rising",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "라이더"
       ],
       "published_at": "2026-10-11T18:19:18+09:00",
-      "processed_at": "2026-10-11T19:32:37.421770+09:00",
+      "processed_at": "2026-10-12T02:08:13.962145+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 3,
       "duplicates": [
+        {
+          "title": "\"쿠팡이츠 전산망 오류, 피해 보상안 마련하라\"새 창 열림",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561970",
+          "channel": "네이버뉴스"
+        },
         {
           "title": "소상공인 5개 단체 \"쿠팡이츠 먹통 사태, 피해 보상해야\"새 창 열림",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190077.html",
           "channel": "네이버뉴스"
+        },
+        {
+          "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"새 창 열림",
+          "url": "https://news.tf.co.kr/read/economy/2374847.htm",
+          "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "f35ea68b3578dee2b7b4536baef44cf1",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://view.asiae.co.kr/article/2026101117400942912",
+      "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취...새 창 열림",
+      "summary": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취 주문을 수락한 뒤 전산 장애가 발생해 조리 완료 버튼이 눌리지 않거나, 라이더가 매장에 도착했지만 고객 주소",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 54.7,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-11T17:40:08+09:00",
+      "processed_at": "2026-10-12T02:08:37.816334+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "252f9653d3d520b067e68ab3b8c192cd",
@@ -235,14 +267,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 65.4,
+      "viral_score": 54.2,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-11T17:19:00+09:00",
-      "processed_at": "2026-10-11T19:38:05.522180+09:00",
+      "processed_at": "2026-10-12T02:09:06.503989+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -264,13 +296,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 63.9,
+      "viral_score": 53.1,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-11T16:26:07+09:00",
-      "processed_at": "2026-10-11T19:30:54.230273+09:00",
+      "processed_at": "2026-10-12T02:02:26.780319+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -292,14 +324,14 @@
         "#점주·자영업",
         "#감동·긍정"
       ],
-      "viral_score": 60.7,
+      "viral_score": 51.5,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-11T18:45:46+09:00",
-      "processed_at": "2026-10-11T19:32:15.393450+09:00",
+      "processed_at": "2026-10-12T02:03:59.270074+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -308,11 +340,40 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "쿠팡이츠, 먹통 사태에 정산금 100% 보상…16일까지 일괄 지급",
-          "url": "http://v.daum.net/v/20261011171612092",
-          "channel": "다음뉴스"
+          "title": "쿠팡이츠, 2시간 장애에 ‘100% 보상’…점주 신청 없이 16일까지 지급새 창 열림",
+          "url": "https://www.ddaily.co.kr/page/view/2026101119014129025",
+          "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "62e9b021c95d6bd580818736986f395a",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261011201555103",
+      "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"",
+      "summary": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\" 16일까지 정산금 100% 일괄 지급 소상공인 5개 단체 \"피해 보상·재발 방지책 마련해야\" 쿠팡이츠가 지난",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 49.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-11T20:15:00+09:00",
+      "processed_at": "2026-10-12T02:04:11.870848+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "23d1d8bbb297b644ac19c95c39d6f539",
@@ -327,13 +388,13 @@
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 56.3,
-      "status": "Rising",
+      "viral_score": 47.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T18:30:00+09:00",
-      "processed_at": "2026-10-11T19:34:11.471416+09:00",
+      "processed_at": "2026-10-12T02:05:04.221130+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -361,25 +422,25 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 55.6,
-      "status": "Rising",
+      "viral_score": 45.4,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-11T14:44:00+09:00",
-      "processed_at": "2026-10-11T19:31:40.492168+09:00",
+      "processed_at": "2026-10-12T02:03:08.721135+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "[이슈국감] '별점 전쟁’만 있는 게 아니다…배달앱 소비자상담 9430건",
-          "url": "http://v.daum.net/v/20261011121520384",
-          "channel": "다음뉴스"
+          "title": "[이슈국감] '별점 전쟁'만 있는 게 아니다…배달앱 소비자상담 9430건새 창 열림",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871592",
+          "channel": "네이버뉴스"
         },
         {
           "title": "\"배달앱 이용 늘자 불만도 쌓였다\"…소비자상담 5년간 9천430건",
@@ -390,34 +451,32 @@
           "title": "\"배달앱 이용 늘자 불만도 쌓였다\"…소비자상담 5년간 9천430건새 창 열림",
           "url": "https://www.namdonews.com/news/articleView.html?idxno=925742",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "[이슈국감] '별점 전쟁'만 있는 게 아니다…배달앱 소비자상담 9430건새 창 열림",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871592",
-          "channel": "네이버뉴스"
         }
       ]
-    },
+    }
+  ],
+  "feed": [
     {
-      "uid": "9589f949f5ea5822e7965861c90ae75e",
+      "uid": "0affaeabe1c3e7fd5637f3c56a9e617c",
       "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261010091459993",
-      "title": "\"10만원어치 먹고 걸리면 벌금 2만원\"…쿠팡이츠 라이더들 '폐기' 인증 논란",
-      "summary": "\"10만원어치 먹고 걸리면 벌금 2만원\"…쿠팡이츠 라이더들 '폐기' 인증 논란 못한 음식을 먹어치워 버렸다는 조롱성 인증 사진이 잇따라 올라와 논란이다",
+      "channel": "네이버뉴스",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=214407",
+      "title": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림",
+      "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 앞서 지난 9일 0시께부터 2시간 넘게 발생한 시스템 오류로 쿠팡이츠를 통한 배달 주문이 멈췄다",
       "sentiment": "negative",
       "tags": [
         "#서비스·품질",
-        "#라이더",
-        "#소비자반응"
+        "#소비자반응",
+        "#기업·정책"
       ],
-      "viral_score": 46.2,
-      "status": "Stable",
+      "viral_score": 66.1,
+      "status": "Rising",
       "stakeholders": [
+        "소비자",
         "라이더"
       ],
-      "published_at": "2026-10-10T09:14:00+09:00",
-      "processed_at": "2026-10-11T19:37:40.356103+09:00",
+      "published_at": "2026-10-11T18:19:18+09:00",
+      "processed_at": "2026-10-12T02:08:13.962145+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -426,69 +485,74 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "“10만원어치 먹고 2만원 내면 그만?”…쿠팡이츠 라이더 ‘음식 먹방’...새 창 열림",
-          "url": "https://www.mk.co.kr/article/12172797",
+          "title": "\"쿠팡이츠 전산망 오류, 피해 보상안 마련하라\"새 창 열림",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561970",
           "channel": "네이버뉴스"
         },
         {
-          "title": "“10만원어치 먹고 2만원 내면 그만?”…쿠팡이츠 라이더 ‘음식 먹방’ 인증 논란",
-          "url": "http://v.daum.net/v/20261010223300810",
-          "channel": "다음뉴스"
+          "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"새 창 열림",
+          "url": "https://news.tf.co.kr/read/economy/2374847.htm",
+          "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "70bff576b9385b3309a74ee754ecaaa4",
+      "uid": "3c3242bcc0f6d5d4253719a8450ed7ad",
       "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261011093902190",
-      "title": "배달앱 수수료 상한제 입법 본격화하나…플랫폼 비용 전가 우려도",
-      "summary": "배달앱 수수료 상한제 입법 본격화하나…플랫폼 비용 전가 우려도 공동의장은 당시 토론회에서 \"중개수수료와 결제수수료, 점주 부담 배달비를 포함한 총비용에 합리적 상한을 마련",
-      "sentiment": "positive",
+      "channel": "네이버뉴스",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561931",
+      "title": "대구시, 내달 10일까지 공공 배달앱 운영사 모집새 창 열림",
+      "summary": "대구시, 내달 10일까지 공공 배달앱 운영사 모집새 창 열림 대구시는 내달 10일까지 공공 배달앱을 운영할 운영사를 공개 모집한다",
+      "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
+        "#서비스·품질",
+        "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 44.4,
+      "viral_score": 29.6,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
-        "점주"
+        "소비자"
       ],
-      "published_at": "2026-10-11T09:39:00+09:00",
-      "processed_at": "2026-10-11T19:39:16.659503+09:00",
+      "published_at": "2026-10-11T20:54:33+09:00",
+      "processed_at": "2026-10-12T02:04:57.606246+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "배달앱 수수료 상한제 입법 속도…TK 소상공인 부담 줄어들까새 창 열림",
-          "url": "https://www.kbmaeil.com/article/20261011500213",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 입법 속도…TK 소상공인 부담 줄어들까",
-          "url": "http://v.daum.net/v/20261011145405848",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 입법 되나새 창 열림",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364432",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 입법 본격화하나…플랫폼 비용 전가 우려도",
-          "url": "http://v.daum.net/v/20261011060202672",
-          "channel": "다음뉴스"
-        }
-      ]
-    }
-  ],
-  "feed": [
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "62e9b021c95d6bd580818736986f395a",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261011201555103",
+      "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"",
+      "summary": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\" 16일까지 정산금 100% 일괄 지급 소상공인 5개 단체 \"피해 보상·재발 방지책 마련해야\" 쿠팡이츠가 지난",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 49.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-11T20:15:00+09:00",
+      "processed_at": "2026-10-12T02:04:11.870848+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "d89cefc282b99a9de0b139d8a3cd65d6",
       "brand": "쿠팡이츠",
@@ -502,49 +566,29 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 79.4,
-      "status": "Hot",
+      "viral_score": 67.3,
+      "status": "Rising",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T19:00:00+09:00",
-      "processed_at": "2026-10-11T19:33:19.605836+09:00",
+      "processed_at": "2026-10-12T02:04:17.594918+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 26,
+      "duplicate_count": 21,
       "duplicates": [
-        {
-          "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
-          "url": "https://www.viva100.com/article/20261011500874",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% 보상”",
           "url": "http://v.daum.net/v/20261011182215386",
           "channel": "다음뉴스"
         },
         {
-          "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하...새 창 열림",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101117464042025",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하라\"",
           "url": "http://v.daum.net/v/20261011175304885",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"실질적 피해 보상안 마련해야\"새 창 열림",
-          "url": "https://www.ajunews.com/view/20261011173046920",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "‘2시간 먹통’에 소상공인 “손실 보상” 요구…쿠팡이츠 “취소 주문...새 창 열림",
-          "url": "https://biz.heraldcorp.com/article/10898671?ref=naver",
-          "channel": "네이버뉴스"
         },
         {
           "title": "소상공인, 쿠팡이츠 장애 \"손실보상\" 촉구…쿠팡이츠 \"취소주문 100% 보...새 창 열림",
@@ -572,9 +616,14 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 “손실 산정하고 보상해야”새 창 열림",
-          "url": "https://www.khan.co.kr/article/202610111829001",
+          "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
+          "url": "https://www.viva100.com/article/20261011500874",
           "channel": "네이버뉴스"
+        },
+        {
+          "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취소 주문 100% 보상\"(종합)",
+          "url": "http://v.daum.net/v/20261011174157625",
+          "channel": "다음뉴스"
         },
         {
           "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"실질적 피해 보상안 마련해야\"",
@@ -584,11 +633,6 @@
         {
           "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"손실 산정하고 보상해야\"",
           "url": "http://v.daum.net/v/20261011173109388",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "‘2시간 먹통’에 소상공인 “손실 보상” 요구…쿠팡이츠 “취소 주문 정산”",
-          "url": "http://v.daum.net/v/20261011172614298",
           "channel": "다음뉴스"
         },
         {
@@ -632,18 +676,13 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취소 주문 100% 보상\"(종합)",
-          "url": "http://v.daum.net/v/20261011174157625",
-          "channel": "다음뉴스"
+          "title": "'전산 오류' 쿠팡이츠, 취소주문 100% 보상키로새 창 열림",
+          "url": "https://www.g-enews.com/view.php?ud=202610111955255587a6e8311f64_1",
+          "channel": "네이버뉴스"
         },
         {
           "title": "'쿠팡 먹통'에 소상공인 뿔났다...쿠팡이츠 \"정산금 100% 보상\"새 창 열림",
           "url": "https://www.mt.co.kr/living/2026/10/11/2026101114481526837",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"손실 산정하고 보상해야\"새 창 열림",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6857085_36932.html",
           "channel": "네이버뉴스"
         }
       ]
@@ -661,14 +700,14 @@
         "#점주·자영업",
         "#감동·긍정"
       ],
-      "viral_score": 60.7,
+      "viral_score": 51.5,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-11T18:45:46+09:00",
-      "processed_at": "2026-10-11T19:32:15.393450+09:00",
+      "processed_at": "2026-10-12T02:03:59.270074+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -677,9 +716,9 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "쿠팡이츠, 먹통 사태에 정산금 100% 보상…16일까지 일괄 지급",
-          "url": "http://v.daum.net/v/20261011171612092",
-          "channel": "다음뉴스"
+          "title": "쿠팡이츠, 2시간 장애에 ‘100% 보상’…점주 신청 없이 16일까지 지급새 창 열림",
+          "url": "https://www.ddaily.co.kr/page/view/2026101119014129025",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -696,13 +735,13 @@
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 56.3,
-      "status": "Rising",
+      "viral_score": 47.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T18:30:00+09:00",
-      "processed_at": "2026-10-11T19:34:11.471416+09:00",
+      "processed_at": "2026-10-12T02:05:04.221130+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -718,31 +757,49 @@
       ]
     },
     {
-      "uid": "0affaeabe1c3e7fd5637f3c56a9e617c",
-      "brand": "쿠팡이츠",
+      "uid": "27fcfd354b9d7bf410617d445625016a",
+      "brand": "배달앱 일반",
       "channel": "네이버뉴스",
-      "url": "http://www.srtimes.kr/news/articleView.html?idxno=214407",
-      "title": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림",
-      "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 소상공인연합회 등 배달 플랫폼 관련 5개 단체 입장문 소상공인 업계가 쿠팡과 쿠팡이츠에서 발생한 전산망 오류",
+      "url": "https://news.mtn.co.kr/news-detail/2026091716243370966",
+      "title": "\"수수료 낮춰달라\"…소상공인 5개 단체, 배달앱과 직접 협상새 창 열림",
+      "summary": "\"수수료 낮춰달라\"…소상공인 5개 단체, 배달앱과 직접 협상새 창 열림 남궁영진 기자가 보도합니다",
       "sentiment": "negative",
       "tags": [
-        "#서비스·품질",
+        "#가격·수수료",
+        "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 67.6,
+      "viral_score": 69.1,
       "status": "Rising",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "점주"
       ],
-      "published_at": "2026-10-11T18:19:18+09:00",
-      "processed_at": "2026-10-11T19:32:37.421770+09:00",
+      "published_at": "2026-09-17T17:38:49+09:00",
+      "processed_at": "2026-09-17T18:10:49.954925+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "쿠팡이츠"
+        "배달앱"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"실질적 피해 보상안 마련해야\"새 창 열림",
+          "url": "https://www.ajunews.com/view/20261011173046920",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "소상공인 5개 단체 \"쿠팡이츠 먹통 사태, 피해 보상해야\"새 창 열림",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190077.html",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "소상공인 5개 단체, 쿠팡이츠 장애에 “손실 산정하고 보상해야”새 창 열림",
+          "url": "https://www.khan.co.kr/article/202610111829001",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "e41606d924996432c6d1928f292000e8",
@@ -778,60 +835,27 @@
       ]
     },
     {
-      "uid": "27fcfd354b9d7bf410617d445625016a",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://news.mtn.co.kr/news-detail/2026091716243370966",
-      "title": "\"수수료 낮춰달라\"…소상공인 5개 단체, 배달앱과 직접 협상새 창 열림",
-      "summary": "\"수수료 낮춰달라\"…소상공인 5개 단체, 배달앱과 직접 협상새 창 열림 남궁영진 기자가 보도합니다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 69.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-09-17T17:38:49+09:00",
-      "processed_at": "2026-09-17T18:10:49.954925+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "소상공인 5개 단체 \"쿠팡이츠 먹통 사태, 피해 보상해야\"새 창 열림",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190077.html",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "f35ea68b3578dee2b7b4536baef44cf1",
       "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
       "url": "https://view.asiae.co.kr/article/2026101117400942912",
       "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취...새 창 열림",
-      "summary": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취 소상공인연합회 등 배달 플랫폼 관련 5개 단체가 지난 9일 발생한 쿠팡·쿠팡이츠 전산 장애와 관련해 피해 보",
-      "sentiment": "neutral",
+      "summary": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취 주문을 수락한 뒤 전산 장애가 발생해 조리 완료 버튼이 눌리지 않거나, 라이더가 매장에 도착했지만 고객 주소",
+      "sentiment": "negative",
       "tags": [
         "#서비스·품질",
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 38.5,
-      "status": "Stable",
+      "viral_score": 54.7,
+      "status": "Rising",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "점주",
+        "라이더"
       ],
       "published_at": "2026-10-11T17:40:08+09:00",
-      "processed_at": "2026-10-11T19:33:13.174119+09:00",
+      "processed_at": "2026-10-12T02:08:37.816334+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -853,13 +877,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.9,
+      "viral_score": 26.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T17:39:00+09:00",
-      "processed_at": "2026-10-11T19:31:21.575491+09:00",
+      "processed_at": "2026-10-12T02:02:51.589555+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -871,6 +895,42 @@
           "title": "배달앱서 화장품, 패션앱서 먹거리 주문새 창 열림",
           "url": "https://www.mk.co.kr/article/12173140",
           "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "5d8e6117e110a315a1c544555e2ef42d",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261009062540219",
+      "title": "쿠팡·쿠팡이츠 2시간 먹통…현재 정상화",
+      "summary": "쿠팡·쿠팡이츠 2시간 먹통…현재 정상화 상품을 선택하거나 결제를 진행하는 과정에서 오류를 겪었다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 67.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-09T06:25:00+09:00",
+      "processed_at": "2026-10-09T07:46:15.632513+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "‘2시간 먹통’에 소상공인 “손실 보상” 요구…쿠팡이츠 “취소 주문 정산”",
+          "url": "http://v.daum.net/v/20261011172614298",
+          "channel": "다음뉴스"
         }
       ]
     },
@@ -887,14 +947,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 65.4,
+      "viral_score": 54.2,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-11T17:19:00+09:00",
-      "processed_at": "2026-10-11T19:38:05.522180+09:00",
+      "processed_at": "2026-10-12T02:09:06.503989+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -916,14 +976,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 80.5,
-      "status": "Hot",
+      "viral_score": 69.4,
+      "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-11T16:55:02+09:00",
-      "processed_at": "2026-10-11T19:30:46.684299+09:00",
+      "processed_at": "2026-10-12T02:02:19.920238+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -965,11 +1025,6 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달의민족 1370곳 원산지 위반…'정정 요청' 이후 관리는? 아무도 몰라...새 창 열림",
-          "url": "https://www.the-today.com/news/articleView.html?idxno=91511",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "［2026년 국감］ 배달앱·이커머스 원산지 위반 1,858곳 적발…배달의민...새 창 열림",
           "url": "https://www.eroun.net/news/articleView.html?idxno=92019",
           "channel": "네이버뉴스"
@@ -977,6 +1032,11 @@
         {
           "title": "[이슈국감] 배달의민족, 농축산물 원산지 표시 위반 1위새 창 열림",
           "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871430",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달의민족 1370곳 원산지 위반…'정정 요청' 이후 관리는? 아무도 몰라...새 창 열림",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=91511",
           "channel": "네이버뉴스"
         },
         {
@@ -1004,26 +1064,21 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 55.6,
-      "status": "Rising",
+      "viral_score": 45.4,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-11T14:44:00+09:00",
-      "processed_at": "2026-10-11T19:31:40.492168+09:00",
+      "processed_at": "2026-10-12T02:03:08.721135+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
-        {
-          "title": "[이슈국감] '별점 전쟁’만 있는 게 아니다…배달앱 소비자상담 9430건",
-          "url": "http://v.daum.net/v/20261011121520384",
-          "channel": "다음뉴스"
-        },
         {
           "title": "\"배달앱 이용 늘자 불만도 쌓였다\"…소비자상담 5년간 9천430건",
           "url": "http://v.daum.net/v/20261011155028279",
@@ -1059,13 +1114,13 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "\"배달앱 이용 늘자 불만도 쌓였다\"…소비자상담 5년간 9천430건새 창 열림",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=925742",
+          "title": "[이슈국감] '별점 전쟁'만 있는 게 아니다…배달앱 소비자상담 9430건새 창 열림",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871592",
           "channel": "네이버뉴스"
         },
         {
-          "title": "[이슈국감] '별점 전쟁'만 있는 게 아니다…배달앱 소비자상담 9430건새 창 열림",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871592",
+          "title": "\"배달앱 이용 늘자 불만도 쌓였다\"…소비자상담 5년간 9천430건새 창 열림",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=925742",
           "channel": "네이버뉴스"
         }
       ]
@@ -1118,13 +1173,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 38.9,
+      "viral_score": 33.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-11T15:17:00+09:00",
-      "processed_at": "2026-10-11T19:31:34.475077+09:00",
+      "processed_at": "2026-10-12T02:03:03.270561+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1183,14 +1238,14 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달앱 수수료 상한제 입법 되나새 창 열림",
-          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364432",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "배달앱 수수료 상한제 입법 본격화하나…플랫폼 비용 전가 우려도",
           "url": "http://v.daum.net/v/20261011060202672",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제 입법 되나새 창 열림",
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364432",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1207,14 +1262,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 31.6,
+      "viral_score": 26.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-11T13:29:00+09:00",
-      "processed_at": "2026-10-11T19:31:47.047035+09:00",
+      "processed_at": "2026-10-12T02:03:14.629423+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1358,13 +1413,13 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 46.2,
+      "viral_score": 43.3,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-10T09:14:00+09:00",
-      "processed_at": "2026-10-11T19:37:40.356103+09:00",
+      "processed_at": "2026-10-12T02:08:01.751625+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1816,71 +1871,6 @@
       "duplicates": []
     },
     {
-      "uid": "0c45c1b41497bb0168fce6ba5cfb3d33",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261007093257503",
-      "title": "배민 \"할인 화장품도 주문 즉시 배달\"",
-      "summary": "배민 \"할인 화장품도 주문 즉시 배달\" 배달의민족이 도심형 뷰티 아웃렛 '오프뷰티'와 손잡고 합리적인 가격의 뷰티 상품을 주문 즉시 고객에게 배달한",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 52.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-07T09:32:00+09:00",
-      "processed_at": "2026-10-07T10:25:04.118805+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민 VS 쿠팡, 화장품도 ‘즉시배송’ 대결 점화…“배달 넘어 뷰티 브...새 창 열림",
-          "url": "https://www.ceoscoredaily.com/page/view/2026100815590997224",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "5d8e6117e110a315a1c544555e2ef42d",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261009062540219",
-      "title": "쿠팡·쿠팡이츠 2시간 먹통…현재 정상화",
-      "summary": "쿠팡·쿠팡이츠 2시간 먹통…현재 정상화 상품을 선택하거나 결제를 진행하는 과정에서 오류를 겪었다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#점주·자영업"
-      ],
-      "viral_score": 67.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-09T06:25:00+09:00",
-      "processed_at": "2026-10-09T07:46:15.632513+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "d046d3828dce31e03cffc8992f6d098d",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -2047,13 +2037,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 11.1,
+      "viral_score": 10.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-08T17:22:07+09:00",
-      "processed_at": "2026-10-11T19:35:09.745257+09:00",
+      "processed_at": "2026-10-12T02:05:51.516135+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2105,14 +2095,14 @@
         "#라이더",
         "#마케팅·광고"
       ],
-      "viral_score": 11.1,
+      "viral_score": 10.8,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-08T17:18:24+09:00",
-      "processed_at": "2026-10-11T19:35:37.592125+09:00",
+      "processed_at": "2026-10-12T02:06:09.903410+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2234,13 +2224,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.6,
+      "viral_score": 25.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-08T15:27:00+09:00",
-      "processed_at": "2026-10-11T19:35:51.562874+09:00",
+      "processed_at": "2026-10-12T02:06:22.680577+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2436,13 +2426,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 25.0,
+      "viral_score": 24.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-08T07:32:00+09:00",
-      "processed_at": "2026-10-11T19:35:58.737321+09:00",
+      "processed_at": "2026-10-12T02:06:29.248375+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2716,6 +2706,35 @@
       "duplicates": []
     },
     {
+      "uid": "0c45c1b41497bb0168fce6ba5cfb3d33",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261007093257503",
+      "title": "배민 \"할인 화장품도 주문 즉시 배달\"",
+      "summary": "배민 \"할인 화장품도 주문 즉시 배달\" 배달의민족이 도심형 뷰티 아웃렛 '오프뷰티'와 손잡고 합리적인 가격의 뷰티 상품을 주문 즉시 고객에게 배달한",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 52.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-07T09:32:00+09:00",
+      "processed_at": "2026-10-07T10:25:04.118805+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "cdeb5fc7ced0f424bbdeb3663293b153",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -2797,7 +2816,7 @@
         "소비자"
       ],
       "published_at": "2026-10-06T18:58:00+09:00",
-      "processed_at": "2026-10-11T19:35:22.936711+09:00",
+      "processed_at": "2026-10-12T02:06:03.436222+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3018,7 +3037,7 @@
         "라이더"
       ],
       "published_at": "2026-10-06T11:35:00+09:00",
-      "processed_at": "2026-10-11T19:36:40.063490+09:00",
+      "processed_at": "2026-10-12T02:07:06.856106+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3145,7 +3164,7 @@
         "점주"
       ],
       "published_at": "2026-10-06T11:05:44+09:00",
-      "processed_at": "2026-10-11T19:36:13.200003+09:00",
+      "processed_at": "2026-10-12T02:06:42.400266+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3312,7 +3331,7 @@
         "라이더"
       ],
       "published_at": "2026-10-06T10:00:48+09:00",
-      "processed_at": "2026-10-11T19:36:26.910646+09:00",
+      "processed_at": "2026-10-12T02:06:54.905071+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9388,63 +9407,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "9d0942ddcda9f7d1d24760e1965577d6",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7184797",
-      "title": "네이버, 배달의민족 인수 철회…최종 공시새 창 열림",
-      "summary": "네이버, 배달의민족 인수 철회…최종 공시새 창 열림 앞서 네이버는 우버와 컨소시엄을 구성해 배민의 최대 주주인 독일 딜리버리히어로(DH) 측에 인수 의향을 밝힌",
-      "sentiment": "negative",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 63.2,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-09-17T17:16:51+09:00",
-      "processed_at": "2026-09-17T18:07:05.149982+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "1ce95a23238ae3e4e323ff17fc2962bd",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267958&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "title": "배달 기사들이 공공배달앱 외면하는 까닭? '1200억 쿠폰'은 해법 아냐새 창 열림",
-      "summary": "배달 기사들이 공공배달앱 외면하는 까닭 '1200억 쿠폰'은 해법 아냐새 창 열림",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#점주·자영업"
-      ],
-      "viral_score": 56.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-09-17T10:47:00+09:00",
-      "processed_at": "2026-09-17T18:13:53.248303+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9463,14 +9425,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 80.5,
-          "status": "Hot",
+          "viral_score": 69.4,
+          "status": "Rising",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-11T16:55:02+09:00",
-          "processed_at": "2026-10-11T19:30:46.684299+09:00",
+          "processed_at": "2026-10-12T02:02:19.920238+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9492,13 +9454,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 63.9,
+          "viral_score": 53.1,
           "status": "Rising",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-11T16:26:07+09:00",
-          "processed_at": "2026-10-11T19:30:54.230273+09:00",
+          "processed_at": "2026-10-12T02:02:26.780319+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9520,14 +9482,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 43.6,
+          "viral_score": 35.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-11T15:20:00+09:00",
-          "processed_at": "2026-10-11T19:31:01.258313+09:00",
+          "processed_at": "2026-10-12T02:02:33.163264+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9549,13 +9511,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 38.9,
+          "viral_score": 33.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-11T15:17:00+09:00",
-          "processed_at": "2026-10-11T19:31:34.475077+09:00",
+          "processed_at": "2026-10-12T02:03:03.270561+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9577,13 +9539,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 20.5,
+          "viral_score": 18.0,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-10T11:33:29+09:00",
-          "processed_at": "2026-10-11T19:37:00.655838+09:00",
+          "processed_at": "2026-10-12T02:07:25.597896+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9605,7 +9567,7 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 18.2,
+          "viral_score": 16.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9613,7 +9575,7 @@
             "라이더"
           ],
           "published_at": "2026-10-10T05:00:00+09:00",
-          "processed_at": "2026-10-11T19:34:56.454307+09:00",
+          "processed_at": "2026-10-12T02:05:39.526542+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9624,7 +9586,7 @@
         }
       ],
       "total": 6,
-      "avg_score": 44.3,
+      "avg_score": 37.7,
       "ratio": {
         "negative": 33,
         "positive": 33,
@@ -9634,6 +9596,80 @@
     },
     "coupang": {
       "issues": [
+        {
+          "uid": "0affaeabe1c3e7fd5637f3c56a9e617c",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=214407",
+          "title": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림",
+          "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 앞서 지난 9일 0시께부터 2시간 넘게 발생한 시스템 오류로 쿠팡이츠를 통한 배달 주문이 멈췄다",
+          "sentiment": "negative",
+          "tags": [
+            "#서비스·품질",
+            "#소비자반응",
+            "#기업·정책"
+          ],
+          "viral_score": 66.1,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자",
+            "라이더"
+          ],
+          "published_at": "2026-10-11T18:19:18+09:00",
+          "processed_at": "2026-10-12T02:08:13.962145+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "쿠팡이츠"
+          ],
+          "duplicate_count": 3,
+          "duplicates": [
+            {
+              "title": "\"쿠팡이츠 전산망 오류, 피해 보상안 마련하라\"새 창 열림",
+              "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561970",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "소상공인 5개 단체 \"쿠팡이츠 먹통 사태, 피해 보상해야\"새 창 열림",
+              "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190077.html",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"새 창 열림",
+              "url": "https://news.tf.co.kr/read/economy/2374847.htm",
+              "channel": "네이버뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "62e9b021c95d6bd580818736986f395a",
+          "brand": "쿠팡이츠",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261011201555103",
+          "title": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\"",
+          "summary": "'전산 장애' 쿠팡이츠 \"전산 먹통 피해 전액 보상\" 16일까지 정산금 100% 일괄 지급 소상공인 5개 단체 \"피해 보상·재발 방지책 마련해야\" 쿠팡이츠가 지난",
+          "sentiment": "positive",
+          "tags": [
+            "#가격·수수료",
+            "#서비스·품질",
+            "#점주·자영업"
+          ],
+          "viral_score": 49.4,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-10-11T20:15:00+09:00",
+          "processed_at": "2026-10-12T02:04:11.870848+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "쿠팡이츠"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
         {
           "uid": "d89cefc282b99a9de0b139d8a3cd65d6",
           "brand": "쿠팡이츠",
@@ -9647,44 +9683,29 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 79.4,
-          "status": "Hot",
+          "viral_score": 67.3,
+          "status": "Rising",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-11T19:00:00+09:00",
-          "processed_at": "2026-10-11T19:33:19.605836+09:00",
+          "processed_at": "2026-10-12T02:04:17.594918+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "쿠팡이츠"
           ],
-          "duplicate_count": 14,
+          "duplicate_count": 12,
           "duplicates": [
-            {
-              "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
-              "url": "https://www.viva100.com/article/20261011500874",
-              "channel": "네이버뉴스"
-            },
             {
               "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% 보상”",
               "url": "http://v.daum.net/v/20261011182215386",
               "channel": "다음뉴스"
             },
             {
-              "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하...새 창 열림",
-              "url": "https://www.newsway.co.kr/news/view?ud=2026101117464042025",
-              "channel": "네이버뉴스"
-            },
-            {
               "title": "쿠팡이츠, 취소 주문 100% 보상 발표에도…소상공인 \"실질 피해 보상하라\"",
               "url": "http://v.daum.net/v/20261011175304885",
               "channel": "다음뉴스"
-            },
-            {
-              "title": "소상공인 5개 단체, 쿠팡이츠 장애에 \"실질적 피해 보상안 마련해야\"새 창 열림",
-              "url": "https://www.ajunews.com/view/20261011173046920",
-              "channel": "네이버뉴스"
             },
             {
               "title": "소상공인, 쿠팡이츠 장애 \"손실보상\" 촉구…쿠팡이츠 \"취소주문 100% 보...새 창 열림",
@@ -9699,6 +9720,11 @@
             {
               "title": "소상공인 5개 단체, 쿠팡이츠 장애에 “손실 산정하고 보상해야”새 창 열림",
               "url": "https://www.khan.co.kr/article/202610111829001",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "소상공인들 “접속 장애 손실 보상해야”… 쿠팡이츠 “취소 주문 100% ...새 창 열림",
+              "url": "https://www.viva100.com/article/20261011500874",
               "channel": "네이버뉴스"
             },
             {
@@ -9727,9 +9753,9 @@
               "channel": "네이버뉴스"
             },
             {
-              "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취소 주문 100% 보상\"(종합)",
-              "url": "http://v.daum.net/v/20261011174157625",
-              "channel": "다음뉴스"
+              "title": "'전산 오류' 쿠팡이츠, 취소주문 100% 보상키로새 창 열림",
+              "url": "https://www.g-enews.com/view.php?ud=202610111955255587a6e8311f64_1",
+              "channel": "네이버뉴스"
             }
           ]
         },
@@ -9746,41 +9772,14 @@
             "#점주·자영업",
             "#감동·긍정"
           ],
-          "viral_score": 60.7,
+          "viral_score": 51.5,
           "status": "Rising",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-11T18:45:46+09:00",
-          "processed_at": "2026-10-11T19:32:15.393450+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "0affaeabe1c3e7fd5637f3c56a9e617c",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=214407",
-          "title": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림",
-          "summary": "소상공인 \"쿠팡이츠 전산망 오류 사태 피해 보상안 마련해야\"새 창 열림 소상공인연합회 등 배달 플랫폼 관련 5개 단체 입장문 소상공인 업계가 쿠팡과 쿠팡이츠에서 발생한 전산망 오류",
-          "sentiment": "negative",
-          "tags": [
-            "#서비스·품질",
-            "#소비자반응"
-          ],
-          "viral_score": 67.6,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-11T18:19:18+09:00",
-          "processed_at": "2026-10-11T19:32:37.421770+09:00",
+          "processed_at": "2026-10-12T02:03:59.270074+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9789,49 +9788,21 @@
           "duplicate_count": 1,
           "duplicates": [
             {
-              "title": "소상공인 5개 단체 \"쿠팡이츠 먹통 사태, 피해 보상해야\"새 창 열림",
-              "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190077.html",
+              "title": "쿠팡이츠, 2시간 장애에 ‘100% 보상’…점주 신청 없이 16일까지 지급새 창 열림",
+              "url": "https://www.ddaily.co.kr/page/view/2026101119014129025",
               "channel": "네이버뉴스"
             }
           ]
-        },
-        {
-          "uid": "f35ea68b3578dee2b7b4536baef44cf1",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://view.asiae.co.kr/article/2026101117400942912",
-          "title": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취...새 창 열림",
-          "summary": "\"배달 절대적인데 새벽 장사 망쳤다\" 전산 장애에 '발칵'…쿠팡이츠 \"취 소상공인연합회 등 배달 플랫폼 관련 5개 단체가 지난 9일 발생한 쿠팡·쿠팡이츠 전산 장애와 관련해 피해 보",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#소비자반응",
-            "#기업·정책"
-          ],
-          "viral_score": 38.5,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-11T17:40:08+09:00",
-          "processed_at": "2026-10-11T19:33:13.174119+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
         }
       ],
       "total": 4,
-      "avg_score": 61.6,
+      "avg_score": 58.6,
       "ratio": {
         "negative": 50,
-        "positive": 25,
-        "neutral": 25
+        "positive": 50,
+        "neutral": 0
       },
-      "mentions": 40
+      "mentions": 41
     }
   }
 }
