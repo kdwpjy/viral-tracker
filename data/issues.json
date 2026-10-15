@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:41:09.742422+09:00",
+  "updated_at": "2026-10-16T04:42:49.983221+09:00",
   "hot": [
     {
       "uid": "76a2a515453f27b663d8f6dca1f9099a",
@@ -14,13 +14,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 59.9,
+      "viral_score": 54.0,
       "status": "Rising",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T11:28:00+09:00",
-      "processed_at": "2026-10-15T23:38:24.913116+09:00",
+      "processed_at": "2026-10-16T04:39:33.685589+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -52,14 +52,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 52.1,
-      "status": "Rising",
+      "viral_score": 45.7,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-15T13:24:00+09:00",
-      "processed_at": "2026-10-15T23:40:14.093894+09:00",
+      "processed_at": "2026-10-16T04:41:43.618506+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -92,21 +92,27 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.2,
+      "viral_score": 35.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:39:00+09:00",
-      "processed_at": "2026-10-15T23:37:39.416181+09:00",
+      "processed_at": "2026-10-16T04:38:16.068585+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
+          "url": "https://www.mk.co.kr/article/12177046",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
@@ -121,21 +127,27 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.0,
+      "viral_score": 35.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:33:00+09:00",
-      "processed_at": "2026-10-15T23:37:48.349762+09:00",
+      "processed_at": "2026-10-16T04:38:26.690235+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스...새 창 열림",
+          "url": "https://www.mk.co.kr/article/12177007",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "a1fd31da7d864384f360968185904fce",
@@ -150,13 +162,13 @@
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 35.9,
+      "viral_score": 31.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-15T13:16:00+09:00",
-      "processed_at": "2026-10-15T23:40:45.336853+09:00",
+      "processed_at": "2026-10-16T04:42:20.860761+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -172,64 +184,6 @@
       ]
     },
     {
-      "uid": "abfffbe5fbfca5cd479ee1eaf5174085",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261015172659940",
-      "title": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장",
-      "summary": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장 이커머스 플랫폼 퀵커머스 경쟁이 치열해지고있다(사진=클립아트코리아) 신발부터 화장품까지…배달 플랫폼 상품군 ",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 28.6,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-15T17:26:00+09:00",
-      "processed_at": "2026-10-15T23:37:56.659276+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261015170207645",
-      "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
-      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 자주 대응해야 하는지 예측하기 어려울 수 있다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 28.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-15T23:39:29.415279+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "425749aa068dfa58b0b89d6872919e4e",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -242,18 +196,47 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 27.9,
+      "viral_score": 26.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-15T23:39:37.048851+09:00",
+      "processed_at": "2026-10-16T04:40:59.374357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "abfffbe5fbfca5cd479ee1eaf5174085",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261015172659940",
+      "title": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장",
+      "summary": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장 이커머스 플랫폼 퀵커머스 경쟁이 치열해지고있다(사진=클립아트코리아) 신발부터 화장품까지…배달 플랫폼 상품군 ",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 24.5,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-15T17:26:00+09:00",
+      "processed_at": "2026-10-16T04:38:36.666407+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -271,18 +254,47 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.7,
+      "viral_score": 24.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T20:02:00+09:00",
-      "processed_at": "2026-10-15T23:39:05.113230+09:00",
+      "processed_at": "2026-10-16T04:40:21.469471+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261015170207645",
+      "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
+      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 자주 대응해야 하는지 예측하기 어려울 수 있다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 24.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-15T17:02:00+09:00",
+      "processed_at": "2026-10-16T04:40:50.306280+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -300,13 +312,13 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 13.2,
+      "viral_score": 12.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-14T11:20:00+09:00",
-      "processed_at": "2026-10-15T23:39:44.381897+09:00",
+      "processed_at": "2026-10-16T04:41:08.093889+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -330,21 +342,27 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.2,
+      "viral_score": 35.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:39:00+09:00",
-      "processed_at": "2026-10-15T23:37:39.416181+09:00",
+      "processed_at": "2026-10-16T04:38:16.068585+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
+          "url": "https://www.mk.co.kr/article/12177046",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
@@ -359,21 +377,27 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.0,
+      "viral_score": 35.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:33:00+09:00",
-      "processed_at": "2026-10-15T23:37:48.349762+09:00",
+      "processed_at": "2026-10-16T04:38:26.690235+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스...새 창 열림",
+          "url": "https://www.mk.co.kr/article/12177007",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "a62f2cad6d1257338c412eedc45acfe6",
@@ -423,14 +447,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 28.2,
+      "viral_score": 24.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-15T23:39:29.415279+09:00",
+      "processed_at": "2026-10-16T04:40:50.306280+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -760,14 +784,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.7,
+      "viral_score": 24.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T20:02:00+09:00",
-      "processed_at": "2026-10-15T23:39:05.113230+09:00",
+      "processed_at": "2026-10-16T04:40:21.469471+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -976,14 +1000,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 27.9,
+      "viral_score": 26.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-15T23:39:37.048851+09:00",
+      "processed_at": "2026-10-16T04:40:59.374357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1163,13 +1187,13 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 30.5,
+      "viral_score": 29.3,
       "status": "Stable",
       "stakeholders": [
         "직원"
       ],
       "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-15T23:38:09.518007+09:00",
+      "processed_at": "2026-10-16T04:39:15.319585+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1247,13 +1271,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 13.3,
+      "viral_score": 12.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-13T18:20:08+09:00",
-      "processed_at": "2026-10-15T23:38:03.233507+09:00",
+      "processed_at": "2026-10-16T04:38:44.492745+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1274,13 +1298,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 28.9,
+      "viral_score": 27.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-13T17:50:00+09:00",
-      "processed_at": "2026-10-15T23:38:32.928344+09:00",
+      "processed_at": "2026-10-16T04:39:43.265583+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1762,13 +1786,13 @@
         "#소비자반응",
         "#감동·긍정"
       ],
-      "viral_score": 27.4,
+      "viral_score": 26.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-13T10:02:00+09:00",
-      "processed_at": "2026-10-15T23:39:59.972783+09:00",
+      "processed_at": "2026-10-16T04:41:26.653677+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2063,13 +2087,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.7,
+      "viral_score": 20.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T23:10:00+09:00",
-      "processed_at": "2026-10-15T23:39:21.927154+09:00",
+      "processed_at": "2026-10-16T04:40:41.412964+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2140,13 +2164,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 36.3,
+      "viral_score": 35.8,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T22:40:00+09:00",
-      "processed_at": "2026-10-15T23:38:56.841852+09:00",
+      "processed_at": "2026-10-16T04:40:11.682136+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2492,13 +2516,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.9,
+      "viral_score": 10.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-12T17:52:00+09:00",
-      "processed_at": "2026-10-15T23:41:09.739152+09:00",
+      "processed_at": "2026-10-16T04:42:49.977610+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9220,21 +9244,27 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 41.2,
+          "viral_score": 35.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:39:00+09:00",
-          "processed_at": "2026-10-15T23:37:39.416181+09:00",
+          "processed_at": "2026-10-16T04:38:16.068585+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
+              "url": "https://www.mk.co.kr/article/12177046",
+              "channel": "네이버뉴스"
+            }
+          ]
         },
         {
           "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
@@ -9249,21 +9279,27 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 41.0,
+          "viral_score": 35.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:33:00+09:00",
-          "processed_at": "2026-10-15T23:37:48.349762+09:00",
+          "processed_at": "2026-10-16T04:38:26.690235+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스...새 창 열림",
+              "url": "https://www.mk.co.kr/article/12177007",
+              "channel": "네이버뉴스"
+            }
+          ]
         },
         {
           "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
@@ -9278,14 +9314,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 28.2,
+          "viral_score": 24.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:02:00+09:00",
-          "processed_at": "2026-10-15T23:39:29.415279+09:00",
+          "processed_at": "2026-10-16T04:40:50.306280+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9306,14 +9342,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 52.1,
-          "status": "Rising",
+          "viral_score": 45.7,
+          "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-15T13:24:00+09:00",
-          "processed_at": "2026-10-15T23:40:14.093894+09:00",
+          "processed_at": "2026-10-16T04:41:43.618506+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9346,13 +9382,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 59.9,
+          "viral_score": 54.0,
           "status": "Rising",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T11:28:00+09:00",
-          "processed_at": "2026-10-15T23:38:24.913116+09:00",
+          "processed_at": "2026-10-16T04:39:33.685589+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9385,13 +9421,13 @@
             "#마케팅·광고",
             "#감동·긍정"
           ],
-          "viral_score": 35.9,
+          "viral_score": 31.0,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-15T13:16:00+09:00",
-          "processed_at": "2026-10-15T23:40:45.336853+09:00",
+          "processed_at": "2026-10-16T04:42:20.860761+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9419,14 +9455,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 26.7,
+          "viral_score": 24.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-14T20:02:00+09:00",
-          "processed_at": "2026-10-15T23:39:05.113230+09:00",
+          "processed_at": "2026-10-16T04:40:21.469471+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9448,14 +9484,14 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 27.9,
+          "viral_score": 26.1,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-14T14:13:00+09:00",
-          "processed_at": "2026-10-15T23:39:37.048851+09:00",
+          "processed_at": "2026-10-16T04:40:59.374357+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9477,13 +9513,13 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 13.2,
+          "viral_score": 12.0,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-14T11:20:00+09:00",
-          "processed_at": "2026-10-15T23:39:44.381897+09:00",
+          "processed_at": "2026-10-16T04:41:08.093889+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9494,13 +9530,13 @@
         }
       ],
       "total": 9,
-      "avg_score": 36.2,
+      "avg_score": 32.0,
       "ratio": {
         "negative": 22,
         "positive": 56,
         "neutral": 22
       },
-      "mentions": 14
+      "mentions": 16
     },
     "coupang": {
       "issues": [],
