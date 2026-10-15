@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T17:50:31.783424+09:00",
+  "updated_at": "2026-10-15T23:41:09.742422+09:00",
   "hot": [
     {
       "uid": "76a2a515453f27b663d8f6dca1f9099a",
@@ -14,13 +14,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 68.6,
+      "viral_score": 59.9,
       "status": "Rising",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T11:28:00+09:00",
-      "processed_at": "2026-10-15T17:47:21.034335+09:00",
+      "processed_at": "2026-10-15T23:38:24.913116+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -41,54 +41,25 @@
       ]
     },
     {
-      "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261015170207645",
-      "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
-      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 취지지만 실제 영업 여부와 관계없이 주문이 차단될 수 있어 점주 부담이 커질 수 있다는 우려가 나온다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 63.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-15T17:45:57.027320+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "e80afe4ae2e8d13958dca050984c50cb",
       "brand": "배달의민족",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015132435047",
       "title": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\"",
-      "summary": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\" 저장된 경로에 적절한 접근 제한이 설정되지 않았을 가능성이 제기된다",
+      "summary": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\" 해당 사이트는 폐쇄됐다",
       "sentiment": "negative",
       "tags": [
-        "#라이더",
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 61.5,
+      "viral_score": 52.1,
       "status": "Rising",
       "stakeholders": [
+        "소비자",
         "라이더"
       ],
       "published_at": "2026-10-15T13:24:00+09:00",
-      "processed_at": "2026-10-15T17:46:14.150500+09:00",
+      "processed_at": "2026-10-15T23:40:14.093894+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -113,57 +84,79 @@
       "brand": "배달의민족",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015173901498",
-      "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
-      "summary": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
+      "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
+      "summary": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.8,
+      "viral_score": 41.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:39:00+09:00",
-      "processed_at": "2026-10-15T17:45:27.527353+09:00",
+      "processed_at": "2026-10-15T23:37:39.416181+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
-          "url": "https://www.mk.co.kr/article/12177046",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
       "brand": "배달의민족",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015173301224",
-      "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대",
-      "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
+      "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대",
+      "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.6,
+      "viral_score": 41.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:33:00+09:00",
-      "processed_at": "2026-10-15T17:45:37.941268+09:00",
+      "processed_at": "2026-10-15T23:37:48.349762+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "a1fd31da7d864384f360968185904fce",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261015131631807",
+      "title": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여",
+      "summary": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여 ⓒ우아한형제들 배달의민족(이하 배민) 운영사 우아한형제들이 ‘2026 서울발레페스티벌’에서 관람객에게 풍선을",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 35.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-15T13:16:00+09:00",
+      "processed_at": "2026-10-15T23:40:45.336853+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -172,83 +165,11 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대새 창 열림",
-          "url": "https://www.mk.co.kr/article/12177007",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "42ab873c44353400db6449b0ce45197b",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261015090412794",
-      "title": "배민, '서울발레페스티벌' 참여…수제버거·3000원 할인쿠폰 선봬",
-      "summary": "배민, '서울발레페스티벌' 참여…수제버거·3000원 할인쿠폰 선봬 '2026 서울발레페스티벌'(배달의민족) (서울=뉴스1) 최소망 기자 = 배달의민족이 서울 송파구 석촌호수에",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 45.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-15T09:04:00+09:00",
-      "processed_at": "2026-10-15T17:50:02.540589+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여",
-          "url": "http://v.daum.net/v/20261015131631807",
-          "channel": "다음뉴스"
-        },
-        {
           "title": "배민, 서울발레페스티벌 참여…풍선 나눔·수제버거 판매",
           "url": "http://v.daum.net/v/20261015115043144",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, '2026 서울발레페스티벌' 맛집 부스 운영",
-          "url": "http://v.daum.net/v/20261015090213658",
-          "channel": "다음뉴스"
         }
       ]
-    },
-    {
-      "uid": "e6aaf0f667c27961dda8906c8da23901",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.kpinews.kr/newsView/1065593887338670",
-      "title": "배달앱 '타임세일' 경쟁 격화…점주들, 할인 부담에 '분통'새 창 열림",
-      "summary": "배달앱 '타임세일' 경쟁 격화…점주들, 할인 부담에 '분통'새 창 열림 배달앱 업계 관계자는 \"타임세일 제도는 신규 업체들이 소비자에게 홍보할 수 있는 채널을 마련한 것과 같다\"며",
-      "sentiment": "neutral",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 36.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-15T16:45:08+09:00",
-      "processed_at": "2026-10-15T17:46:55.074731+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "abfffbe5fbfca5cd479ee1eaf5174085",
@@ -263,13 +184,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 34.6,
+      "viral_score": 28.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-15T17:26:00+09:00",
-      "processed_at": "2026-10-15T17:45:47.875647+09:00",
+      "processed_at": "2026-10-15T23:37:56.659276+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -280,29 +201,30 @@
       "duplicates": []
     },
     {
-      "uid": "b07c462808a1f7e77d6be131e899428d",
-      "brand": "배달앱 일반",
-      "channel": "클리앙",
-      "url": "https://www.clien.net/service/board/park/19277093",
-      "title": "배달앱 프차 할인율 높은 곳 보면...",
-      "summary": "배달앱 프차 할인율 높은 곳 보면 보통 본사나 회장이 최근에 사고 친 곳이네요",
-      "sentiment": "negative",
+      "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261015170207645",
+      "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
+      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 자주 대응해야 하는지 예측하기 어려울 수 있다",
+      "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
-        "#소비자반응"
+        "#점주·자영업",
+        "#기업·정책"
       ],
-      "viral_score": 32.2,
+      "viral_score": 28.2,
       "status": "Stable",
       "stakeholders": [
-        "직원"
+        "소비자",
+        "점주"
       ],
-      "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-15T17:47:02.550757+09:00",
+      "published_at": "2026-10-15T17:02:00+09:00",
+      "processed_at": "2026-10-15T23:39:29.415279+09:00",
       "views": 0,
-      "comments": 2,
+      "comments": 0,
       "matched_keywords": [
-        "배달앱"
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -320,18 +242,75 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 30.7,
+      "viral_score": 27.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-15T17:48:38.318833+09:00",
+      "processed_at": "2026-10-15T23:39:37.048851+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "61baa461fc015bd64f4255c4606f6693",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261014200244656",
+      "title": "신발·화장품도 속속 입점…왜 배달앱으로 몰리나 [권용훈의 트렌드워치]",
+      "summary": "신발·화장품도 속속 입점…왜 배달앱으로 몰리나 [권용훈의 트렌드워치] 배민은 올해 스포츠 브랜드 휠라와 여성 패션 브랜드 시야쥬를 입점시키며 패션 상품군을 넓혔다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 26.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-14T20:02:00+09:00",
+      "processed_at": "2026-10-15T23:39:05.113230+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "b0cd0f5e3d47aee9069c94537395918a",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261014112032613",
+      "title": "[단독] 배민, 점주 노무상담 기록 정리…전문가 Q&A 연내 종료",
+      "summary": "[단독] 배민, 점주 노무상담 기록 정리…전문가 Q&A 연내 종료 전문가 답변뿐 아니라 점주들이 직접 작성한 질문도 삭제 대상에 포함됐다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 13.2,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-14T11:20:00+09:00",
+      "processed_at": "2026-10-15T23:39:44.381897+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -343,91 +322,79 @@
       "brand": "배달의민족",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015173901498",
-      "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
-      "summary": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
+      "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
+      "summary": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.8,
+      "viral_score": 41.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:39:00+09:00",
-      "processed_at": "2026-10-15T17:45:27.527353+09:00",
+      "processed_at": "2026-10-15T23:37:39.416181+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
-          "url": "https://www.mk.co.kr/article/12177046",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
       "brand": "배달의민족",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015173301224",
-      "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대",
-      "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
+      "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대",
+      "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.6,
+      "viral_score": 41.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:33:00+09:00",
-      "processed_at": "2026-10-15T17:45:37.941268+09:00",
+      "processed_at": "2026-10-15T23:37:48.349762+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대새 창 열림",
-          "url": "https://www.mk.co.kr/article/12177007",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
-      "uid": "abfffbe5fbfca5cd479ee1eaf5174085",
+      "uid": "a62f2cad6d1257338c412eedc45acfe6",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261015172659940",
-      "title": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장",
-      "summary": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장 이커머스 플랫폼 퀵커머스 경쟁이 치열해지고있다(사진=클립아트코리아) 신발부터 화장품까지…배달 플랫폼 상품군 ",
+      "url": "http://v.daum.net/v/20260929150652279",
+      "title": "배민·쿠팡이츠, '음식 배달' 넘어 '외부 유통망' 확장 경쟁",
+      "summary": "배민·쿠팡이츠, '음식 배달' 넘어 '외부 유통망' 확장 경쟁 직접 판매하는 방식과 기존 유통업체의 점포를 플랫폼에 연결하는 입점형 사업모델을 병행하며 사업 영역을 넓히고",
       "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 34.6,
+      "viral_score": 33.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-10-15T17:26:00+09:00",
-      "processed_at": "2026-10-15T17:45:47.875647+09:00",
+      "published_at": "2026-09-29T15:06:00+09:00",
+      "processed_at": "2026-09-29T16:46:46.372762+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -437,8 +404,8 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "배민·쿠팡이츠, '음식 배달' 넘어 '외부 유통망' 확장 경쟁",
-          "url": "http://v.daum.net/v/20260929150652279",
+          "title": "\"음식 배달만으론 배고파\"…배민·쿠팡이츠·컬리, '퀵커머스' 영토 확장",
+          "url": "http://v.daum.net/v/20261015172659940",
           "channel": "다음뉴스"
         }
       ]
@@ -449,21 +416,21 @@
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261015170207645",
       "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
-      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 취지지만 실제 영업 여부와 관계없이 주문이 차단될 수 있어 점주 부담이 커질 수 있다는 우려가 나온다",
-      "sentiment": "negative",
+      "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 자주 대응해야 하는지 예측하기 어려울 수 있다",
+      "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 63.4,
-      "status": "Rising",
+      "viral_score": 28.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-15T17:45:57.027320+09:00",
+      "processed_at": "2026-10-15T23:39:29.415279+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -623,16 +590,11 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "배민, 서울발레페스티벌 참여…풍선 나눔·수제버거 판매",
           "url": "http://v.daum.net/v/20261015115043144",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, '2026 서울발레페스티벌' 맛집 부스 운영",
-          "url": "http://v.daum.net/v/20261015090213658",
           "channel": "다음뉴스"
         }
       ]
@@ -798,14 +760,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 30.1,
+      "viral_score": 26.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T20:02:00+09:00",
-      "processed_at": "2026-10-15T17:48:09.161747+09:00",
+      "processed_at": "2026-10-15T23:39:05.113230+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1014,14 +976,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 30.7,
+      "viral_score": 27.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-15T17:48:38.318833+09:00",
+      "processed_at": "2026-10-15T23:39:37.048851+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1201,13 +1163,13 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 32.2,
+      "viral_score": 30.5,
       "status": "Stable",
       "stakeholders": [
         "직원"
       ],
       "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-15T17:47:02.550757+09:00",
+      "processed_at": "2026-10-15T23:38:09.518007+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1285,13 +1247,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 14.1,
+      "viral_score": 13.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-13T18:20:08+09:00",
-      "processed_at": "2026-10-15T17:46:21.969547+09:00",
+      "processed_at": "2026-10-15T23:38:03.233507+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1312,13 +1274,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 30.4,
+      "viral_score": 28.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-13T17:50:00+09:00",
-      "processed_at": "2026-10-15T17:47:30.631858+09:00",
+      "processed_at": "2026-10-15T23:38:32.928344+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1800,13 +1762,13 @@
         "#소비자반응",
         "#감동·긍정"
       ],
-      "viral_score": 28.5,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-13T10:02:00+09:00",
-      "processed_at": "2026-10-15T17:49:05.883506+09:00",
+      "processed_at": "2026-10-15T23:39:59.972783+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2101,13 +2063,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 21.4,
+      "viral_score": 20.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T23:10:00+09:00",
-      "processed_at": "2026-10-15T17:48:29.164661+09:00",
+      "processed_at": "2026-10-15T23:39:21.927154+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2178,13 +2140,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 37.0,
+      "viral_score": 36.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T22:40:00+09:00",
-      "processed_at": "2026-10-15T17:47:59.249013+09:00",
+      "processed_at": "2026-10-15T23:38:56.841852+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2530,13 +2492,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.2,
+      "viral_score": 10.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-12T17:52:00+09:00",
-      "processed_at": "2026-10-15T17:50:31.778703+09:00",
+      "processed_at": "2026-10-15T23:41:09.739152+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9250,70 +9212,58 @@
           "brand": "배달의민족",
           "channel": "다음뉴스",
           "url": "http://v.daum.net/v/20261015173901498",
-          "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
-          "summary": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
+          "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
+          "summary": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~ 배달의민족이 '동네마트(중소형 마트)'로 퀵커머스 서비스(주문 후 1~2시간 내 배달)를 확대한다",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 49.8,
+          "viral_score": 41.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:39:00+09:00",
-          "processed_at": "2026-10-15T17:45:27.527353+09:00",
+          "processed_at": "2026-10-15T23:37:39.416181+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "동네마트 2천곳과 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~새 창 열림",
-              "url": "https://www.mk.co.kr/article/12177046",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
           "uid": "2e4ef4ce6c6d7eae4853547bb7beb1f6",
           "brand": "배달의민족",
           "channel": "다음뉴스",
           "url": "http://v.daum.net/v/20261015173301224",
-          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대",
-          "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
+          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대",
+          "summary": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대 배달의민족 배달의민족(배민)이 ‘동네마트(중소형마트)’로 퀵커머스 서비스(주문 후 1~2시간내 배달)를 확대",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 49.6,
+          "viral_score": 41.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:33:00+09:00",
-          "processed_at": "2026-10-15T17:45:37.941268+09:00",
+          "processed_at": "2026-10-15T23:37:48.349762+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "[단독] “이젠 동네마트도 빠른 배달”…배민 2천개 마트로 퀵배송 확대새 창 열림",
-              "url": "https://www.mk.co.kr/article/12177007",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
           "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
@@ -9321,21 +9271,21 @@
           "channel": "다음뉴스",
           "url": "http://v.daum.net/v/20261015170207645",
           "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화",
-          "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 취지지만 실제 영업 여부와 관계없이 주문이 차단될 수 있어 점주 부담이 커질 수 있다는 우려가 나온다",
-          "sentiment": "negative",
+          "summary": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화 자주 대응해야 하는지 예측하기 어려울 수 있다",
+          "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 63.4,
-          "status": "Rising",
+          "viral_score": 28.2,
+          "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:02:00+09:00",
-          "processed_at": "2026-10-15T17:45:57.027320+09:00",
+          "processed_at": "2026-10-15T23:39:29.415279+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9350,20 +9300,20 @@
           "channel": "다음뉴스",
           "url": "http://v.daum.net/v/20261015132435047",
           "title": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\"",
-          "summary": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\" 저장된 경로에 적절한 접근 제한이 설정되지 않았을 가능성이 제기된다",
+          "summary": "배달 라이더 201명 개인정보 '무방비'…배민 \"우리 서비스 아냐\" 해당 사이트는 폐쇄됐다",
           "sentiment": "negative",
           "tags": [
-            "#라이더",
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 61.5,
+          "viral_score": 52.1,
           "status": "Rising",
           "stakeholders": [
+            "소비자",
             "라이더"
           ],
           "published_at": "2026-10-15T13:24:00+09:00",
-          "processed_at": "2026-10-15T17:46:14.150500+09:00",
+          "processed_at": "2026-10-15T23:40:14.093894+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9396,13 +9346,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 68.6,
+          "viral_score": 59.9,
           "status": "Rising",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T11:28:00+09:00",
-          "processed_at": "2026-10-15T17:47:21.034335+09:00",
+          "processed_at": "2026-10-15T23:38:24.913116+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9423,44 +9373,35 @@
           ]
         },
         {
-          "uid": "42ab873c44353400db6449b0ce45197b",
+          "uid": "a1fd31da7d864384f360968185904fce",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261015090412794",
-          "title": "배민, '서울발레페스티벌' 참여…수제버거·3000원 할인쿠폰 선봬",
-          "summary": "배민, '서울발레페스티벌' 참여…수제버거·3000원 할인쿠폰 선봬 '2026 서울발레페스티벌'(배달의민족) (서울=뉴스1) 최소망 기자 = 배달의민족이 서울 송파구 석촌호수에",
+          "url": "http://v.daum.net/v/20261015131631807",
+          "title": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여",
+          "summary": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여 ⓒ우아한형제들 배달의민족(이하 배민) 운영사 우아한형제들이 ‘2026 서울발레페스티벌’에서 관람객에게 풍선을",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
-            "#마케팅·광고"
+            "#마케팅·광고",
+            "#감동·긍정"
           ],
-          "viral_score": 45.8,
+          "viral_score": 35.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-10-15T09:04:00+09:00",
-          "processed_at": "2026-10-15T17:50:02.540589+09:00",
+          "published_at": "2026-10-15T13:16:00+09:00",
+          "processed_at": "2026-10-15T23:40:45.336853+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 3,
+          "duplicate_count": 1,
           "duplicates": [
-            {
-              "title": "\"발레에 맛을 더하다\" 배민, 서울발레페스티벌 참여",
-              "url": "http://v.daum.net/v/20261015131631807",
-              "channel": "다음뉴스"
-            },
             {
               "title": "배민, 서울발레페스티벌 참여…풍선 나눔·수제버거 판매",
               "url": "http://v.daum.net/v/20261015115043144",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, '2026 서울발레페스티벌' 맛집 부스 운영",
-              "url": "http://v.daum.net/v/20261015090213658",
               "channel": "다음뉴스"
             }
           ]
@@ -9478,14 +9419,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 30.1,
+          "viral_score": 26.7,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-14T20:02:00+09:00",
-          "processed_at": "2026-10-15T17:48:09.161747+09:00",
+          "processed_at": "2026-10-15T23:39:05.113230+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9507,14 +9448,14 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 30.7,
+          "viral_score": 27.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-14T14:13:00+09:00",
-          "processed_at": "2026-10-15T17:48:38.318833+09:00",
+          "processed_at": "2026-10-15T23:39:37.048851+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9536,13 +9477,13 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 14.9,
+          "viral_score": 13.2,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-14T11:20:00+09:00",
-          "processed_at": "2026-10-15T17:48:47.158844+09:00",
+          "processed_at": "2026-10-15T23:39:44.381897+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9553,53 +9494,24 @@
         }
       ],
       "total": 9,
-      "avg_score": 46.0,
+      "avg_score": 36.2,
       "ratio": {
-        "negative": 33,
+        "negative": 22,
         "positive": 56,
-        "neutral": 11
+        "neutral": 22
       },
-      "mentions": 18
+      "mentions": 14
     },
     "coupang": {
-      "issues": [
-        {
-          "uid": "5cdaa415462f8b132802077c510b7c02",
-          "brand": "쿠팡이츠",
-          "channel": "클리앙",
-          "url": "https://www.clien.net/service/board/park/19277041",
-          "title": "서버 터져서 난리가 난 쿠팡 이츠 상황 모음.mp4",
-          "summary": "서버 터져서 난리가 난 쿠팡 이츠 상황 모음 마술사 겸 유튜버인 김준표가 쿠팡 이츠 서버가 터져서 발생한 황당한 배달 사고들과 배달 앱 리뷰란에서 벌어진",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#소비자반응",
-            "#마케팅·광고"
-          ],
-          "viral_score": 14.1,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-13T18:20:08+09:00",
-          "processed_at": "2026-10-15T17:46:21.969547+09:00",
-          "views": 0,
-          "comments": 2,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        }
-      ],
-      "total": 1,
-      "avg_score": 14.1,
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
       "ratio": {
         "negative": 0,
         "positive": 0,
-        "neutral": 100
+        "neutral": 0
       },
-      "mentions": 3
+      "mentions": 1
     }
   }
 }
