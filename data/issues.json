@@ -1,35 +1,6 @@
 {
-  "updated_at": "2026-10-16T21:57:20.269490+09:00",
+  "updated_at": "2026-10-17T02:52:23.869657+09:00",
   "hot": [
-    {
-      "uid": "91a8ce6b625d81c6d345294bcb16c957",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261016205354095",
-      "title": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집",
-      "summary": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집 제주자치도가 소상공인의 배달 수수료 부담을 줄이기 위해 제주형 공공배달앱을 운영할 민간사업자를 오는 22일까",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 52.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-16T20:53:00+09:00",
-      "processed_at": "2026-10-16T21:54:14.991537+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
     {
       "uid": "05ad71e2bc64cca4ef0d0497032551bd",
       "brand": "쿠팡이츠",
@@ -43,17 +14,46 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 52.2,
-      "status": "Rising",
+      "viral_score": 45.9,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T18:10:00+09:00",
-      "processed_at": "2026-10-16T21:53:49.346904+09:00",
+      "processed_at": "2026-10-17T02:50:07.127880+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "91a8ce6b625d81c6d345294bcb16c957",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261016205354095",
+      "title": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집",
+      "summary": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집 제주자치도가 소상공인의 배달 수수료 부담을 줄이기 위해 제주형 공공배달앱을 운영할 민간사업자를 오는 22일까",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 45.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-16T20:53:00+09:00",
+      "processed_at": "2026-10-17T02:50:23.573627+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -71,13 +71,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 41.0,
+      "viral_score": 38.7,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T11:28:00+09:00",
-      "processed_at": "2026-10-16T21:54:40.940115+09:00",
+      "processed_at": "2026-10-17T02:50:40.240461+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -105,13 +105,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 39.9,
+      "viral_score": 34.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T14:58:00+09:00",
-      "processed_at": "2026-10-16T21:56:50.669190+09:00",
+      "processed_at": "2026-10-17T02:52:04.119230+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -132,13 +132,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 31.6,
+      "viral_score": 29.1,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T13:25:00+09:00",
-      "processed_at": "2026-10-16T21:56:32.676448+09:00",
+      "processed_at": "2026-10-17T02:51:52.336756+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -166,13 +166,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 26.9,
+      "viral_score": 23.2,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-16T13:39:00+09:00",
-      "processed_at": "2026-10-16T21:53:39.656627+09:00",
+      "processed_at": "2026-10-17T02:50:00.909831+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -194,13 +194,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.1,
+      "viral_score": 21.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-16T21:53:58.371718+09:00",
+      "processed_at": "2026-10-17T02:50:12.920743+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -222,14 +222,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 15.4,
+      "viral_score": 13.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-16T21:55:27.891888+09:00",
+      "processed_at": "2026-10-17T02:51:10.606140+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -269,13 +269,13 @@
       "duplicate_count": 6,
       "duplicates": [
         {
-          "title": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집",
-          "url": "http://v.daum.net/v/20261016205354095",
+          "title": "김종익 포항시의원 “소상공인 배달앱 수수료 부담 완화 지원책 마련해야”",
+          "url": "http://v.daum.net/v/20261012152442130",
           "channel": "다음뉴스"
         },
         {
-          "title": "김종익 포항시의원 “소상공인 배달앱 수수료 부담 완화 지원책 마련해야”",
-          "url": "http://v.daum.net/v/20261012152442130",
+          "title": "소상공인 수수료 부담 낮출 공공배달앱 운영사 모집",
+          "url": "http://v.daum.net/v/20261016205354095",
           "channel": "다음뉴스"
         },
         {
@@ -301,36 +301,41 @@
       ]
     },
     {
-      "uid": "05ad71e2bc64cca4ef0d0497032551bd",
+      "uid": "30baa18a9aee9b4ae6b28dc4b932737f",
       "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261016181002964",
-      "title": "원할머니 보쌈족발, 쿠팡이츠 할인 행사…신규 회원 1만5000원 할인",
-      "summary": "원할머니 보쌈족발, 쿠팡이츠 할인 행사…신규 회원 1만5000원 할인 원앤원이 운영하는 원할머니 보쌈족발이 오는 18일까지 쿠팡이츠 할인 프로모션을 진행한다",
+      "channel": "네이버뉴스",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=772623",
+      "title": "원할머니 보쌈족발, '실비보쌈' 쿠팡이츠 프로모션 진행새 창 열림",
+      "summary": "원할머니 보쌈족발, '실비보쌈' 쿠팡이츠 프로모션 진행새 창 열림 원앤원이 운영하는 원할머니 보쌈족발이 '실비보쌈' 누적 판매 10만 개 돌파를 기념해 쿠팡이츠에서 고객 감사",
       "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
+        "#서비스·품질",
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 52.2,
+      "viral_score": 51.8,
       "status": "Rising",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-16T18:10:00+09:00",
-      "processed_at": "2026-10-16T21:53:49.346904+09:00",
+      "published_at": "2026-10-12T08:35:31+09:00",
+      "processed_at": "2026-10-12T09:58:07.761661+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "원할머니 보쌈족발, '실비보쌈' 쿠팡이츠 프로모션 진행새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=772623",
+          "title": "또봉이통닭, 10월 배달앱 할인 프로모션 진행새 창 열림",
+          "url": "https://www.mt.co.kr/industry/2026/10/02/2026100115370970594",
           "channel": "네이버뉴스"
+        },
+        {
+          "title": "원할머니 보쌈족발, 쿠팡이츠 할인 행사…신규 회원 1만5000원 할인",
+          "url": "http://v.daum.net/v/20261016181002964",
+          "channel": "다음뉴스"
         }
       ]
     },
@@ -415,13 +420,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.1,
+      "viral_score": 21.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-16T21:53:58.371718+09:00",
+      "processed_at": "2026-10-17T02:50:12.920743+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -882,14 +887,14 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 16.1,
+      "viral_score": 15.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T20:02:00+09:00",
-      "processed_at": "2026-10-16T21:57:00.444630+09:00",
+      "processed_at": "2026-10-17T02:52:10.654959+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1098,14 +1103,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 21.9,
+      "viral_score": 21.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-16T21:55:36.967961+09:00",
+      "processed_at": "2026-10-17T02:51:16.413328+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1252,13 +1257,13 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 26.7,
+      "viral_score": 26.2,
       "status": "Stable",
       "stakeholders": [
         "직원"
       ],
       "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-16T21:54:22.478047+09:00",
+      "processed_at": "2026-10-17T02:50:28.349185+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1336,13 +1341,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 11.4,
+      "viral_score": 11.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-13T18:20:08+09:00",
-      "processed_at": "2026-10-16T21:54:06.231451+09:00",
+      "processed_at": "2026-10-17T02:50:17.943173+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1363,13 +1368,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.6,
+      "viral_score": 25.2,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-13T17:50:00+09:00",
-      "processed_at": "2026-10-16T21:54:50.478478+09:00",
+      "processed_at": "2026-10-17T02:50:46.424150+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1841,13 +1846,13 @@
         "#소비자반응",
         "#감동·긍정"
       ],
-      "viral_score": 25.0,
+      "viral_score": 24.7,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-13T10:02:00+09:00",
-      "processed_at": "2026-10-16T21:56:13.922058+09:00",
+      "processed_at": "2026-10-17T02:51:40.090630+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2219,13 +2224,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 34.8,
+      "viral_score": 34.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T22:40:00+09:00",
-      "processed_at": "2026-10-16T21:55:18.963645+09:00",
+      "processed_at": "2026-10-17T02:51:04.862006+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2571,13 +2576,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.2,
+      "viral_score": 10.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-12T17:52:00+09:00",
-      "processed_at": "2026-10-16T21:57:20.265930+09:00",
+      "processed_at": "2026-10-17T02:52:23.866333+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -6056,34 +6061,6 @@
       "duplicates": []
     },
     {
-      "uid": "4e293401d4e2acafc86627badb5bc3fd",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/industry/2026/10/02/2026100115370970594",
-      "title": "또봉이통닭, 10월 배달앱 할인 프로모션 진행새 창 열림",
-      "summary": "또봉이통닭, 10월 배달앱 할인 프로모션 진행새 창 열림 이어 '배달의민족'에서는 10월 12일부터 18일까지 7일간 3,000원 할인 혜택을 제공한다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 49.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-02T19:56:00+09:00",
-      "processed_at": "2026-10-03T05:24:28.593101+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "a4679e0d9d767e7e4e4b060eb8f0fb8e",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -9117,6 +9094,34 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "147fcc259f9633c60f9039dd3f16fcc0",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260923110440187",
+      "title": "배민, 강원도·강원상인연합회와 전통시장 활성화 업무협약",
+      "summary": "배민, 강원도·강원상인연합회와 전통시장 활성화 업무협약 ⓒ우아한형제들 배달의민족(이하 배민) 운영사 우아한형제들이 강원특별자치도(이하 강원도), 강원상인연합회와 '",
+      "sentiment": "positive",
+      "tags": [
+        "#점주·자영업",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 49.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-09-23T11:04:00+09:00",
+      "processed_at": "2026-09-23T11:20:16.574820+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     }
   ],
   "versus": {
@@ -9135,13 +9140,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 26.9,
+          "viral_score": 23.2,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-16T13:39:00+09:00",
-          "processed_at": "2026-10-16T21:53:39.656627+09:00",
+          "processed_at": "2026-10-17T02:50:00.909831+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9163,14 +9168,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 15.4,
+          "viral_score": 13.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:02:00+09:00",
-          "processed_at": "2026-10-16T21:55:27.891888+09:00",
+          "processed_at": "2026-10-17T02:51:10.606140+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9191,13 +9196,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 31.6,
+          "viral_score": 29.1,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T13:25:00+09:00",
-          "processed_at": "2026-10-16T21:56:32.676448+09:00",
+          "processed_at": "2026-10-17T02:51:52.336756+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9225,13 +9230,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 41.0,
+          "viral_score": 38.7,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T11:28:00+09:00",
-          "processed_at": "2026-10-16T21:54:40.940115+09:00",
+          "processed_at": "2026-10-17T02:50:40.240461+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9248,7 +9253,7 @@
         }
       ],
       "total": 4,
-      "avg_score": 28.7,
+      "avg_score": 26.2,
       "ratio": {
         "negative": 50,
         "positive": 0,
@@ -9271,13 +9276,13 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 52.2,
-          "status": "Rising",
+          "viral_score": 45.9,
+          "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-16T18:10:00+09:00",
-          "processed_at": "2026-10-16T21:53:49.346904+09:00",
+          "processed_at": "2026-10-17T02:50:07.127880+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9288,7 +9293,7 @@
         }
       ],
       "total": 1,
-      "avg_score": 52.2,
+      "avg_score": 45.9,
       "ratio": {
         "negative": 0,
         "positive": 100,
