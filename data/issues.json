@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-10-18T05:28:51.996268+09:00",
+  "updated_at": "2026-10-18T08:44:53.066914+09:00",
   "hot": [
+    {
+      "uid": "8da5076e3ad95ff9a3893c524b00752d",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261018060147815",
+      "title": "공공배달플랫폼 가맹 서산 소상공인에게 배달비 등 지원 추진",
+      "summary": "공공배달플랫폼 가맹 서산 소상공인에게 배달비 등 지원 추진 분담으로 마련되며, 소비자 할인 쿠폰과 앱 전용 할인 쿠폰 발행 비용은 전액 시비가 투입된다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 53.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-18T06:01:00+09:00",
+      "processed_at": "2026-10-18T08:42:12.391129+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "6537d1516fbb38e41f82ba8649caaf11",
       "brand": "배달앱 일반",
@@ -14,13 +43,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 44.4,
+      "viral_score": 41.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-17T15:33:00+09:00",
-      "processed_at": "2026-10-18T05:25:28.680980+09:00",
+      "processed_at": "2026-10-18T08:42:21.631507+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -42,14 +71,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 36.1,
+      "viral_score": 33.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-17T15:10:00+09:00",
-      "processed_at": "2026-10-18T05:24:52.375567+09:00",
+      "processed_at": "2026-10-18T08:41:39.575019+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -72,13 +101,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 27.2,
+      "viral_score": 26.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T18:10:00+09:00",
-      "processed_at": "2026-10-18T05:25:01.960813+09:00",
+      "processed_at": "2026-10-18T08:41:48.299570+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -100,13 +129,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 18.0,
+      "viral_score": 17.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T14:58:00+09:00",
-      "processed_at": "2026-10-18T05:28:32.321524+09:00",
+      "processed_at": "2026-10-18T08:44:35.000754+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -128,13 +157,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.9,
+      "viral_score": 11.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-18T05:25:10.925861+09:00",
+      "processed_at": "2026-10-18T08:41:56.630281+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -145,6 +174,35 @@
     }
   ],
   "feed": [
+    {
+      "uid": "8da5076e3ad95ff9a3893c524b00752d",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261018060147815",
+      "title": "공공배달플랫폼 가맹 서산 소상공인에게 배달비 등 지원 추진",
+      "summary": "공공배달플랫폼 가맹 서산 소상공인에게 배달비 등 지원 추진 분담으로 마련되며, 소비자 할인 쿠폰과 앱 전용 할인 쿠폰 발행 비용은 전액 시비가 투입된다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 53.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-18T06:01:00+09:00",
+      "processed_at": "2026-10-18T08:42:12.391129+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "e5284cda821641ce03419e11510dad56",
       "brand": "배달앱 일반",
@@ -401,13 +459,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.9,
+      "viral_score": 11.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-18T05:25:10.925861+09:00",
+      "processed_at": "2026-10-18T08:41:56.630281+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -623,7 +681,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 9,
+      "duplicate_count": 5,
       "duplicates": [
         {
           "title": "상담사가 배민 고객정보 무단 조회·유출…개보위, 우아한형제들 '개선...새 창 열림",
@@ -631,24 +689,9 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "라이더 개인정보 노출 논란···배민 \"위수탁 관계 없어\"새 창 열림",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480471",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "우아한형제들 \"라이더 정보 노출, 배민과 관계없는 배달대행사 사이트에서 발생\"",
           "url": "http://v.daum.net/v/20261015112831926",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "우아한형제들 \"라이더 정보 노출, 배민과 관계없는 배달대행사 사이트에...새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026101511255190784",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민협력사 201명 개인정보 노출 논란…배민 \"별도 사업자 관리 관계 없...새 창 열림",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2006275",
-          "channel": "네이버뉴스"
         },
         {
           "title": "라이더 201명 개인정보 유출…배민 \"정보 제공한 적 없다\"",
@@ -664,11 +707,6 @@
           "title": "라이더 개인정보 노출 논란에 배민 “대행사 자체 사이트…당사와 무관”",
           "url": "http://v.daum.net/v/20261015132102955",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "라이더 개인정보 노출 논란에 배민 “대행사 자체 사이트…당사와 무관...새 창 열림",
-          "url": "https://www.etoday.co.kr/news/view/2636174",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1104,14 +1142,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 19.1,
+      "viral_score": 18.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-18T05:27:19.166452+09:00",
+      "processed_at": "2026-10-18T08:43:27.954747+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1264,7 +1302,7 @@
         "직원"
       ],
       "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-18T05:25:36.098860+09:00",
+      "processed_at": "2026-10-18T08:42:28.478769+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1348,7 +1386,7 @@
         "소비자"
       ],
       "published_at": "2026-10-13T18:20:08+09:00",
-      "processed_at": "2026-10-18T05:25:18.680441+09:00",
+      "processed_at": "2026-10-18T08:42:03.913119+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1369,13 +1407,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.0,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-13T17:50:00+09:00",
-      "processed_at": "2026-10-18T05:26:42.432012+09:00",
+      "processed_at": "2026-10-18T08:42:53.944848+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1853,7 +1891,7 @@
         "라이더"
       ],
       "published_at": "2026-10-13T10:02:00+09:00",
-      "processed_at": "2026-10-18T05:27:55.808121+09:00",
+      "processed_at": "2026-10-18T08:44:01.539150+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2583,7 +2621,7 @@
         "소비자"
       ],
       "published_at": "2026-10-12T17:52:00+09:00",
-      "processed_at": "2026-10-18T05:28:51.991555+09:00",
+      "processed_at": "2026-10-18T08:44:53.062897+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3695,29 +3733,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "배달의민족, 도심형 뷰티 아울렛 ‘오프뷰티’ 입점새 창 열림",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=92773",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "［2026년 국감］ 배달앱·이커머스 원산지 위반 1,858곳 적발…배달의민...새 창 열림",
-          "url": "https://www.eroun.net/news/articleView.html?idxno=92019",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족 입점업체 원산지 위반 적발 1위···관리 도마",
-          "url": "http://v.daum.net/v/20261010162403262",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "윤준병 \"배달의민족, 배달앱 농축산물 원산지 표시 위반 압도적 1위\"새 창 열림",
-          "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20135",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "ca4a9e4bd52fdc4bd8d921e776bb1498",
@@ -9017,34 +9034,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "147fcc259f9633c60f9039dd3f16fcc0",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260923110440187",
-      "title": "배민, 강원도·강원상인연합회와 전통시장 활성화 업무협약",
-      "summary": "배민, 강원도·강원상인연합회와 전통시장 활성화 업무협약 ⓒ우아한형제들 배달의민족(이하 배민) 운영사 우아한형제들이 강원특별자치도(이하 강원도), 강원상인연합회와 '",
-      "sentiment": "positive",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 49.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-09-23T11:04:00+09:00",
-      "processed_at": "2026-09-23T11:20:16.574820+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9063,14 +9052,14 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 36.1,
+          "viral_score": 33.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-17T15:10:00+09:00",
-          "processed_at": "2026-10-18T05:24:52.375567+09:00",
+          "processed_at": "2026-10-18T08:41:39.575019+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9082,7 +9071,7 @@
         }
       ],
       "total": 1,
-      "avg_score": 36.1,
+      "avg_score": 33.3,
       "ratio": {
         "negative": 0,
         "positive": 100,
@@ -9105,13 +9094,13 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 27.2,
+          "viral_score": 26.0,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-16T18:10:00+09:00",
-          "processed_at": "2026-10-18T05:25:01.960813+09:00",
+          "processed_at": "2026-10-18T08:41:48.299570+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9122,7 +9111,7 @@
         }
       ],
       "total": 1,
-      "avg_score": 27.2,
+      "avg_score": 26.0,
       "ratio": {
         "negative": 0,
         "positive": 100,
