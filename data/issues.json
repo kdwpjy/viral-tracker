@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T05:21:10.854045+09:00",
+  "updated_at": "2026-10-17T09:11:00.894973+09:00",
   "hot": [
     {
       "uid": "05ad71e2bc64cca4ef0d0497032551bd",
@@ -14,13 +14,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 43.2,
+      "viral_score": 39.5,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T18:10:00+09:00",
-      "processed_at": "2026-10-17T05:17:38.470384+09:00",
+      "processed_at": "2026-10-17T09:07:31.971382+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -42,14 +42,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 42.2,
+      "viral_score": 38.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-16T20:53:00+09:00",
-      "processed_at": "2026-10-17T05:18:04.229787+09:00",
+      "processed_at": "2026-10-17T09:07:57.260708+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -71,13 +71,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 37.7,
+      "viral_score": 36.3,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T11:28:00+09:00",
-      "processed_at": "2026-10-17T05:18:30.301646+09:00",
+      "processed_at": "2026-10-17T09:08:22.905078+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -105,13 +105,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.0,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T14:58:00+09:00",
-      "processed_at": "2026-10-17T05:20:41.043480+09:00",
+      "processed_at": "2026-10-17T09:10:31.630270+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -132,13 +132,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 28.1,
+      "viral_score": 26.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-15T13:25:00+09:00",
-      "processed_at": "2026-10-17T05:20:22.859042+09:00",
+      "processed_at": "2026-10-17T09:10:13.796577+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -154,34 +154,6 @@
       ]
     },
     {
-      "uid": "fa25d45dcce1078919ab1a35a52d2c91",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261016133902691",
-      "title": "면사랑, 배민아카데미서 외식업 자영업자 대상 소스 활용 교육",
-      "summary": "면사랑, 배민아카데미서 외식업 자영업자 대상 소스 활용 교육 개발·조리 효율화 전략 공유 소스·육수 활용한 차별화 메뉴 개발 및 주방 운영 노하우 소개 강근석 면사랑 연",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 21.6,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-16T13:39:00+09:00",
-      "processed_at": "2026-10-17T05:17:28.769060+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "515bb1dc4b3029bdde65a97203a25b41",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -194,13 +166,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.3,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-17T05:17:47.544808+09:00",
+      "processed_at": "2026-10-17T09:07:40.894503+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -222,14 +194,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 13.2,
+      "viral_score": 12.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-15T17:02:00+09:00",
-      "processed_at": "2026-10-17T05:19:17.654971+09:00",
+      "processed_at": "2026-10-17T09:09:09.597197+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -374,40 +346,6 @@
       ]
     },
     {
-      "uid": "d34e5719ba05e7df958a3dfe79d1a2ec",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006090232159",
-      "title": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원",
-      "summary": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원 배달의민족 운영사 우아한형제들은 '찾아가는 배민아카데미 전북특별자치도편' 참가자를 모집한다고 6일 밝혔다",
-      "sentiment": "positive",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 44.1,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-06T09:02:00+09:00",
-      "processed_at": "2026-10-06T12:50:03.044043+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "면사랑, 배민아카데미서 외식업 자영업자 대상 소스 활용 교육",
-          "url": "http://v.daum.net/v/20261016133902691",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "515bb1dc4b3029bdde65a97203a25b41",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -420,13 +358,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.3,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-16T11:23:00+09:00",
-      "processed_at": "2026-10-17T05:17:47.544808+09:00",
+      "processed_at": "2026-10-17T09:07:40.894503+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -887,14 +825,14 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 15.2,
+      "viral_score": 14.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T20:02:00+09:00",
-      "processed_at": "2026-10-17T05:20:50.882030+09:00",
+      "processed_at": "2026-10-17T09:10:41.277054+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1103,14 +1041,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 20.9,
+      "viral_score": 20.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-14T14:13:00+09:00",
-      "processed_at": "2026-10-17T05:19:26.799712+09:00",
+      "processed_at": "2026-10-17T09:09:18.634084+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1257,13 +1195,13 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 26.0,
+      "viral_score": 25.7,
       "status": "Stable",
       "stakeholders": [
         "직원"
       ],
       "published_at": "2026-10-13T21:04:54+09:00",
-      "processed_at": "2026-10-17T05:18:11.750966+09:00",
+      "processed_at": "2026-10-17T09:08:04.641194+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1341,13 +1279,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 11.1,
+      "viral_score": 11.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-13T18:20:08+09:00",
-      "processed_at": "2026-10-17T05:17:55.390193+09:00",
+      "processed_at": "2026-10-17T09:07:48.618907+09:00",
       "views": 0,
       "comments": 2,
       "matched_keywords": [
@@ -1368,13 +1306,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.0,
+      "viral_score": 24.8,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-13T17:50:00+09:00",
-      "processed_at": "2026-10-17T05:18:39.938913+09:00",
+      "processed_at": "2026-10-17T09:08:32.426031+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1846,13 +1784,13 @@
         "#소비자반응",
         "#감동·긍정"
       ],
-      "viral_score": 24.6,
+      "viral_score": 24.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-13T10:02:00+09:00",
-      "processed_at": "2026-10-17T05:20:03.916972+09:00",
+      "processed_at": "2026-10-17T09:09:55.247150+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2224,13 +2162,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 34.5,
+      "viral_score": 34.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-12T22:40:00+09:00",
-      "processed_at": "2026-10-17T05:19:08.582350+09:00",
+      "processed_at": "2026-10-17T09:09:00.584406+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2582,7 +2520,7 @@
         "소비자"
       ],
       "published_at": "2026-10-12T17:52:00+09:00",
-      "processed_at": "2026-10-17T05:21:10.850498+09:00",
+      "processed_at": "2026-10-17T09:11:00.891349+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2648,14 +2586,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "유통·식품 수장 줄줄이 국감장…쿠팡·배민·홈플러스 정조준하나새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261005_0003814183",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "fe42daa5d3d8850924cfa8be1202ae20",
@@ -5513,6 +5445,34 @@
       ],
       "published_at": "2026-10-06T09:50:00+09:00",
       "processed_at": "2026-10-06T12:47:43.380281+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "d34e5719ba05e7df958a3dfe79d1a2ec",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261006090232159",
+      "title": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원",
+      "summary": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원 배달의민족 운영사 우아한형제들은 '찾아가는 배민아카데미 전북특별자치도편' 참가자를 모집한다고 6일 밝혔다",
+      "sentiment": "positive",
+      "tags": [
+        "#점주·자영업",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 44.1,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-06T09:02:00+09:00",
+      "processed_at": "2026-10-06T12:50:03.044043+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9128,34 +9088,6 @@
     "baemin": {
       "issues": [
         {
-          "uid": "fa25d45dcce1078919ab1a35a52d2c91",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261016133902691",
-          "title": "면사랑, 배민아카데미서 외식업 자영업자 대상 소스 활용 교육",
-          "summary": "면사랑, 배민아카데미서 외식업 자영업자 대상 소스 활용 교육 개발·조리 효율화 전략 공유 소스·육수 활용한 차별화 메뉴 개발 및 주방 운영 노하우 소개 강근석 면사랑 연",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 21.6,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-10-16T13:39:00+09:00",
-          "processed_at": "2026-10-17T05:17:28.769060+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
           "uid": "21295fb457d6a4e39f70af6e4b56e2c0",
           "brand": "배달의민족",
           "channel": "다음뉴스",
@@ -9168,14 +9100,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 13.2,
+          "viral_score": 12.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-15T17:02:00+09:00",
-          "processed_at": "2026-10-17T05:19:17.654971+09:00",
+          "processed_at": "2026-10-17T09:09:09.597197+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9196,13 +9128,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 28.1,
+          "viral_score": 26.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T13:25:00+09:00",
-          "processed_at": "2026-10-17T05:20:22.859042+09:00",
+          "processed_at": "2026-10-17T09:10:13.796577+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9230,13 +9162,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 37.7,
+          "viral_score": 36.3,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-15T11:28:00+09:00",
-          "processed_at": "2026-10-17T05:18:30.301646+09:00",
+          "processed_at": "2026-10-17T09:08:22.905078+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9252,14 +9184,14 @@
           ]
         }
       ],
-      "total": 4,
+      "total": 3,
       "avg_score": 25.1,
       "ratio": {
-        "negative": 50,
+        "negative": 67,
         "positive": 0,
-        "neutral": 50
+        "neutral": 33
       },
-      "mentions": 6
+      "mentions": 5
     },
     "coupang": {
       "issues": [
@@ -9276,13 +9208,13 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 43.2,
+          "viral_score": 39.5,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-16T18:10:00+09:00",
-          "processed_at": "2026-10-17T05:17:38.470384+09:00",
+          "processed_at": "2026-10-17T09:07:31.971382+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9293,7 +9225,7 @@
         }
       ],
       "total": 1,
-      "avg_score": 43.2,
+      "avg_score": 39.5,
       "ratio": {
         "negative": 0,
         "positive": 100,
