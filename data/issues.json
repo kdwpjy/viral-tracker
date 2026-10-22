@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-10-22T18:13:25.643782+09:00",
+  "updated_at": "2026-10-22T23:59:09.596226+09:00",
   "hot": [
-    {
-      "uid": "9d2d9b1f29fb577a6deb10a05a1683f4",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=156419",
-      "title": "[국감 26] 배민, DH에 1조원대 자금 이전 논란...국감서 '세금 회피' 의혹...새 창 열림",
-      "summary": "[국감 26] 배민, DH에 1조원대 자금 이전 논란 국감서 '세금 회피' 의혹",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 77.8,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-22T18:07:34.902122+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[2026국감] 배민, 독일 모회사에 1조원대 자금 이전…\"세무조사 성실히...새 창 열림",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215587",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "6cc3f4b785eb4586df75e3e19d1a8ff0",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.the-today.com/news/articleView.html?idxno=92188",
-      "title": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림",
-      "summary": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림 배달의민족의 전통시장 '중개수수료 0%' 논란은 상생 홍보와 상인의 실제 부담 사이에 벌어진 간극을 드러낸다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 75.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-22T09:34:06+09:00",
-      "processed_at": "2026-10-22T18:09:46.988858+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
     {
       "uid": "35266bd954b7e895a22f49a6c9f02011",
       "brand": "배달의민족",
@@ -82,49 +14,61 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 73.9,
+      "viral_score": 63.1,
       "status": "Rising",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-22T18:07:06.268691+09:00",
+      "processed_at": "2026-10-22T23:53:18.823880+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
-      "uid": "3d4c27d5b0098a035de0de489b5385ac",
+      "uid": "9d2d9b1f29fb577a6deb10a05a1683f4",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022162522231",
-      "title": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\"",
-      "summary": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\" (지디넷코리아=류승현 기자)배달의민족 운영사 우아한형제들이 자사주 매입·소각을 통해 독일 모회사 딜리버리히어",
+      "channel": "네이버뉴스",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156419",
+      "title": "[국감 26] 배민, DH에 1조원대 자금 이전 논란...국감서 '세금 회피' 의혹...새 창 열림",
+      "summary": "[국감 26] 배민, DH에 1조원대 자금 이전 논란 국감서 '세금 회피' 의혹",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 71.8,
+      "viral_score": 62.1,
       "status": "Rising",
       "stakeholders": [
-        "직원"
+        "소비자"
       ],
-      "published_at": "2026-10-22T16:25:00+09:00",
-      "processed_at": "2026-10-22T18:08:10.652178+09:00",
+      "published_at": "2026-10-22T16:48:46+09:00",
+      "processed_at": "2026-10-22T23:54:36.813266+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[2026국감] 배민, 독일 모회사에 1조원대 자금 이전…\"세무조사 성실히...새 창 열림",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215587",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "5a518795ab423d799818b6a0ce9fde60",
@@ -139,20 +83,20 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 66.2,
+      "viral_score": 58.2,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T10:24:29+09:00",
-      "processed_at": "2026-10-22T18:09:28.309143+09:00",
+      "processed_at": "2026-10-22T23:55:06.859828+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 7,
       "duplicates": [
         {
           "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
@@ -160,13 +104,18 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지새 창 열림",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
+          "url": "http://v.daum.net/v/20261022132558237",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
+          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
           "channel": "네이버뉴스"
         },
         {
@@ -187,25 +136,26 @@
       ]
     },
     {
-      "uid": "fc25922b41bf9571e38370277fc8e1aa",
+      "uid": "6cc3f4b785eb4586df75e3e19d1a8ff0",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022132558237",
-      "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지",
-      "summary": "배민, 전통시장에 수수료 폭탄 ···0% 외쳤지만, 많게는 30%까지",
+      "channel": "네이버뉴스",
+      "url": "https://www.the-today.com/news/articleView.html?idxno=92188",
+      "title": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림",
+      "summary": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림 이를 관통하는 문제는 상생을 설명하는 수치와 점주가 실제 부담하는 총비용이 일치하지 않는다는 점이다",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
+        "#점주·자영업",
+        "#소비자반응"
       ],
-      "viral_score": 60.9,
+      "viral_score": 57.2,
       "status": "Rising",
       "stakeholders": [
+        "소비자",
         "점주"
       ],
-      "published_at": "2026-10-22T13:25:00+09:00",
-      "processed_at": "2026-10-22T18:10:31.389027+09:00",
+      "published_at": "2026-10-22T09:34:06+09:00",
+      "processed_at": "2026-10-22T23:56:24.869627+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -215,43 +165,41 @@
       "duplicates": []
     },
     {
-      "uid": "5df639404778567e3502c4adb8fafd1c",
+      "uid": "23d85e900e4731118ae456365bb7538e",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20261022500247",
-      "title": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림",
-      "summary": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림 고객과 입점 사장님, 라이더의 의견을 정기적으로 듣고 구성원들이 직접 사용자를 만나는 과정을 통해 수치만으로",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618820734601",
+      "title": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림",
+      "summary": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림 [사진=우아한형제들] 링크드인 측의 제안으로 마련된 이번 행사에서 백인범 우아한형제들 CPO와 고명석 최고기",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 53.8,
+      "viral_score": 51.3,
       "status": "Rising",
       "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-10-22T18:05:00+09:00",
-      "processed_at": "2026-10-22T18:11:49.739557+09:00",
+      "published_at": "2026-10-22T22:13:01+09:00",
+      "processed_at": "2026-10-22T23:52:32.409631+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 12,
+      "duplicate_count": 8,
       "duplicates": [
         {
-          "title": "링크드인 경영진, 배민 방문…AI 및 플랫폼 혁신 노하우 공유새 창 열림",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88045",
+          "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
           "channel": "네이버뉴스"
         },
         {
-          "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유새 창 열림",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146413",
-          "channel": "네이버뉴스"
+          "title": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유",
+          "url": "http://v.daum.net/v/20261022144820100",
+          "channel": "다음뉴스"
         },
         {
           "title": "링크드인 경영진, 배민 방문…AIㆍ플랫폼 운영 노하우 공유",
@@ -269,18 +217,8 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
-          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "링크드인 경영진, 배민 방문…AI·플랫폼 운영 기술 교류새 창 열림",
           "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666812",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
           "channel": "네이버뉴스"
         },
         {
@@ -289,70 +227,32 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "링크드인 경영진, 배민 찾았다…'지능형 커머스' 대담새 창 열림",
-          "url": "https://www.etnews.com/20261022000421",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유",
           "url": "http://v.daum.net/v/20261022161347615",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "\"예상시간·배달비도 AI가 산출\"…배달플랫폼, 운영 효율 높인다새 창 열림",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1416217",
-          "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "237f8eee9272d2abfff94737e0f5fb3a",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022151329638",
-      "title": "신한은행, ‘땡겨요’서 아동급식카드 결제 지원…月 6000원 배달비 혜택",
-      "summary": "신한은행, ‘땡겨요’서 아동급식카드 결제 지원…月 6000원 배달비 혜택 신한은행이 서울시, 초록우산과 손잡고 공공배달앱 ‘서울배달+ 땡겨요’에 아동급식카드 결제 기능을 도입하고 배",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 49.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-22T15:13:00+09:00",
-      "processed_at": "2026-10-22T18:13:00.753663+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f6c2f51bdfda5bff9ab14deb6a21abe4",
+      "uid": "6a5779790097f50b0bfb9621bb7ba655",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022144820100",
-      "title": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유",
-      "summary": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유 세계 최대 인재 플랫폼인 미국 링크드인(LinkedIn) 경영진이 배달의민족(배민)을 방문해 플랫폼 서비스 ",
+      "channel": "네이버뉴스",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
+      "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
+      "summary": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림 배달의민족 운영사 우아한형제들은 21일 하리 스리니바산 링크드인 최고제품책임자(CPO) 등 주요 임직원 20",
       "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
         "#마케팅·광고",
-        "#기업·정책"
+        "#기업·정책",
+        "#감동·긍정"
       ],
-      "viral_score": 48.8,
+      "viral_score": 47.9,
       "status": "Stable",
       "stakeholders": [
         "직원"
       ],
-      "published_at": "2026-10-22T14:48:00+09:00",
-      "processed_at": "2026-10-22T18:08:27.915458+09:00",
+      "published_at": "2026-10-22T17:00:00+09:00",
+      "processed_at": "2026-10-22T23:59:09.590308+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -360,6 +260,45 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "a144ff9ad7539bc59a8b3328c3747044",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://zdnet.co.kr/view/?no=20261022182116",
+      "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림",
+      "summary": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림 실적에 따라 한도를 확대하고 부업 라이더와 중·저신용자도 심사를 거쳐 이용할 수 있는 구조를 제안했다",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 45.9,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-10-22T18:26:20+09:00",
+      "processed_at": "2026-10-22T23:52:51.154046+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"",
+          "url": "http://v.daum.net/v/20261022182828346",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달의민족, 배달라이더 은행 대출 지원 검토…소득증빙 개선 추진새 창 열림",
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=120644",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "49ab03d2e2f04efbb497576357bc9868",
@@ -374,18 +313,74 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 46.7,
+      "viral_score": 43.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-21T08:40:23+09:00",
-      "processed_at": "2026-10-22T18:11:14.020680+09:00",
+      "processed_at": "2026-10-22T23:56:34.737193+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "237f8eee9272d2abfff94737e0f5fb3a",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261022151329638",
+      "title": "신한은행, ‘땡겨요’서 아동급식카드 결제 지원…月 6000원 배달비 혜택",
+      "summary": "신한은행, ‘땡겨요’서 아동급식카드 결제 지원…月 6000원 배달비 혜택 신한은행이 서울시, 초록우산과 손잡고 공공배달앱 ‘서울배달+ 땡겨요’에 아동급식카드 결제 기능을 도입하고 배",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 41.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-22T15:13:00+09:00",
+      "processed_at": "2026-10-22T23:58:34.027667+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "f39d225e1968fd97bf15826deb5dd9e1",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261022142347669",
+      "title": "서울 아동급식카드, 11월부터 배달앱 결제 가능…하루 한도 5만원",
+      "summary": "서울 아동급식카드, 11월부터 배달앱 결제 가능…하루 한도 5만원 서울시 아동급식카드인 ‘꿈나무카드’를 이용하는 아동은 오는 11월부터 배달앱으로 음식을 주문하고 결제할 수 ",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 36.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-22T14:23:00+09:00",
+      "processed_at": "2026-10-22T23:58:42.549321+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -419,16 +414,21 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 12,
+      "duplicate_count": 10,
       "duplicates": [
         {
-          "title": "링크드인 경영진, 배민 방문…AI 및 플랫폼 혁신 노하우 공유새 창 열림",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88045",
+          "title": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618820734601",
           "channel": "네이버뉴스"
         },
         {
-          "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유새 창 열림",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146413",
+          "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
           "channel": "네이버뉴스"
         },
         {
@@ -447,29 +447,14 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
-          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "링크드인 경영진, 배민 방문…AI·플랫폼 운영 기술 교류새 창 열림",
           "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666812",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
           "channel": "네이버뉴스"
         },
         {
           "title": "링크드인 경영진, 배민 찾았다…'지능형 커머스' 대담",
           "url": "http://v.daum.net/v/20261022164717301",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "링크드인 경영진, 배민 찾았다…'지능형 커머스' 대담새 창 열림",
-          "url": "https://www.etnews.com/20261022000421",
-          "channel": "네이버뉴스"
         },
         {
           "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유",
@@ -484,72 +469,48 @@
       ]
     },
     {
-      "uid": "9d2d9b1f29fb577a6deb10a05a1683f4",
+      "uid": "a144ff9ad7539bc59a8b3328c3747044",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=156419",
-      "title": "[국감 26] 배민, DH에 1조원대 자금 이전 논란...국감서 '세금 회피' 의혹...새 창 열림",
-      "summary": "[국감 26] 배민, DH에 1조원대 자금 이전 논란 국감서 '세금 회피' 의혹",
-      "sentiment": "negative",
+      "url": "https://zdnet.co.kr/view/?no=20261022182116",
+      "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림",
+      "summary": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림 실적에 따라 한도를 확대하고 부업 라이더와 중·저신용자도 심사를 거쳐 이용할 수 있는 구조를 제안했다",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
+        "#라이더",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 77.8,
-      "status": "Hot",
+      "viral_score": 45.9,
+      "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "라이더"
       ],
-      "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-22T18:07:34.902122+09:00",
+      "published_at": "2026-10-22T18:26:20+09:00",
+      "processed_at": "2026-10-22T23:52:51.154046+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
+          "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"",
+          "url": "http://v.daum.net/v/20261022182828346",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달의민족, 배달라이더 은행 대출 지원 검토…소득증빙 개선 추진새 창 열림",
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=120644",
           "channel": "네이버뉴스"
         },
         {
-          "title": "[2026국감] 배민, 독일 모회사에 1조원대 자금 이전…\"세무조사 성실히...새 창 열림",
-          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215587",
+          "title": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666327",
           "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "35266bd954b7e895a22f49a6c9f02011",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026102216581265222",
-      "title": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아...새 창 열림",
-      "summary": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아 안 의원은 해외 자금 이전 의혹과 별개로 배민의 국내 생태계 책임도 지적했다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 73.9,
-      "status": "Rising",
-      "stakeholders": [
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-22T18:07:06.268691+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "3d4c27d5b0098a035de0de489b5385ac",
@@ -571,6 +532,75 @@
       ],
       "published_at": "2026-10-22T16:25:00+09:00",
       "processed_at": "2026-10-22T18:08:10.652178+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[2026국감] 배민, 독일 모회사에 1조원대 자금 이전…\"세무조사 성실히...새 창 열림",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=215587",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "35266bd954b7e895a22f49a6c9f02011",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ceoscoredaily.com/page/view/2026102216581265222",
+      "title": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아...새 창 열림",
+      "summary": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아 안 의원은 해외 자금 이전 의혹과 별개로 배민의 국내 생태계 책임도 지적했다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 63.1,
+      "status": "Rising",
+      "stakeholders": [
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-22T17:26:11+09:00",
+      "processed_at": "2026-10-22T23:53:18.823880+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "9d2d9b1f29fb577a6deb10a05a1683f4",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=156419",
+      "title": "[국감 26] 배민, DH에 1조원대 자금 이전 논란...국감서 '세금 회피' 의혹...새 창 열림",
+      "summary": "[국감 26] 배민, DH에 1조원대 자금 이전 논란 국감서 '세금 회피' 의혹",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 62.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-22T16:48:46+09:00",
+      "processed_at": "2026-10-22T23:54:36.813266+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -619,20 +649,22 @@
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261022144820100",
       "title": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유",
-      "summary": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유 세계 최대 인재 플랫폼인 미국 링크드인(LinkedIn) 경영진이 배달의민족(배민)을 방문해 플랫폼 서비스 ",
+      "summary": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유 추천 및 배차 시스템에 적용된 AI 기술과 퀵커머스 서비스인 B마트, 로봇 배달 운영 경험과 노하우 등을 공",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.8,
+      "viral_score": 41.3,
       "status": "Stable",
       "stakeholders": [
-        "직원"
+        "소비자",
+        "점주",
+        "라이더"
       ],
       "published_at": "2026-10-22T14:48:00+09:00",
-      "processed_at": "2026-10-22T18:08:27.915458+09:00",
+      "processed_at": "2026-10-22T23:57:28.757729+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -654,13 +686,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 33.9,
+      "viral_score": 28.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T14:35:00+09:00",
-      "processed_at": "2026-10-22T18:08:49.960445+09:00",
+      "processed_at": "2026-10-22T23:53:58.891637+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -670,25 +702,25 @@
       "duplicates": []
     },
     {
-      "uid": "f39d225e1968fd97bf15826deb5dd9e1",
+      "uid": "8d0eed879a4e3b846582b4496c2cc4cd",
       "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022142347669",
-      "title": "서울 아동급식카드, 11월부터 배달앱 결제 가능…하루 한도 5만원",
-      "summary": "서울 아동급식카드, 11월부터 배달앱 결제 가능…하루 한도 5만원 서울시 아동급식카드인 ‘꿈나무카드’를 이용하는 아동은 오는 11월부터 배달앱으로 음식을 주문하고 결제할 수 ",
+      "channel": "네이버뉴스",
+      "url": "https://www.imaeil.com/page/view/2026102111383745785",
+      "title": "서울시 꿈나무카드, 11월 16일부터 배달앱 '땡겨요'서 결제새 창 열림",
+      "summary": "서울시 꿈나무카드, 11월 16일부터 배달앱 '땡겨요'서 결제새 창 열림 서울시는 22일 신한은행, 초록우산과 아동급식카드 배달앱 연계 및 배달비 지원을 위한 업무협약을 체결한다",
       "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
-        "#마케팅·광고"
+        "#기업·정책",
+        "#감동·긍정"
       ],
-      "viral_score": 44.1,
+      "viral_score": 40.5,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-22T14:23:00+09:00",
-      "processed_at": "2026-10-22T18:13:08.915314+09:00",
+      "published_at": "2026-10-21T11:40:20+09:00",
+      "processed_at": "2026-10-21T18:13:00.379130+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -697,9 +729,9 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "서울시 꿈나무카드, 11월 16일부터 배달앱 '땡겨요'서 결제새 창 열림",
-          "url": "https://www.imaeil.com/page/view/2026102111383745785",
-          "channel": "네이버뉴스"
+          "title": "서울 아동급식카드, 11월부터 배달앱 결제 가능…하루 한도 5만원",
+          "url": "http://v.daum.net/v/20261022142347669",
+          "channel": "다음뉴스"
         }
       ]
     },
@@ -716,13 +748,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 32.8,
+      "viral_score": 27.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T13:31:00+09:00",
-      "processed_at": "2026-10-22T18:13:16.963718+09:00",
+      "processed_at": "2026-10-22T23:58:51.013319+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -744,20 +776,20 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 66.2,
+      "viral_score": 58.2,
       "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T10:24:29+09:00",
-      "processed_at": "2026-10-22T18:09:28.309143+09:00",
+      "processed_at": "2026-10-22T23:55:06.859828+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 7,
       "duplicates": [
         {
           "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
@@ -765,13 +797,18 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지새 창 열림",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
+          "url": "http://v.daum.net/v/20261022132558237",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
+          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
           "channel": "네이버뉴스"
         },
         {
@@ -792,34 +829,6 @@
       ]
     },
     {
-      "uid": "fc25922b41bf9571e38370277fc8e1aa",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022132558237",
-      "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지",
-      "summary": "배민, 전통시장에 수수료 폭탄 ···0% 외쳤지만, 많게는 30%까지",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 60.9,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-22T13:25:00+09:00",
-      "processed_at": "2026-10-22T18:10:31.389027+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "8411a39ce401be2e3a3ff98de9097c0d",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -832,13 +841,13 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 40.4,
+      "viral_score": 33.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T11:40:00+09:00",
-      "processed_at": "2026-10-22T18:13:25.639599+09:00",
+      "processed_at": "2026-10-22T23:58:59.785924+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -881,21 +890,21 @@
       "channel": "네이버뉴스",
       "url": "https://www.the-today.com/news/articleView.html?idxno=92188",
       "title": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림",
-      "summary": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림 배달의민족의 전통시장 '중개수수료 0%' 논란은 상생 홍보와 상인의 실제 부담 사이에 벌어진 간극을 드러낸다",
+      "summary": "수수료 올리고 무료 혜택 줄이고…배민 '상생'의 빈틈(2부)새 창 열림 이를 관통하는 문제는 상생을 설명하는 수치와 점주가 실제 부담하는 총비용이 일치하지 않는다는 점이다",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 75.3,
-      "status": "Hot",
+      "viral_score": 57.2,
+      "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T09:34:06+09:00",
-      "processed_at": "2026-10-22T18:09:46.988858+09:00",
+      "processed_at": "2026-10-22T23:56:24.869627+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1051,13 +1060,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 28.6,
+      "viral_score": 25.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-21T17:56:00+09:00",
-      "processed_at": "2026-10-22T18:10:48.494007+09:00",
+      "processed_at": "2026-10-22T23:55:58.787230+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1457,14 +1466,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 24.1,
+      "viral_score": 21.7,
       "status": "Stable",
       "stakeholders": [
         "라이더",
         "직원"
       ],
       "published_at": "2026-10-21T05:02:00+09:00",
-      "processed_at": "2026-10-22T18:12:43.364339+09:00",
+      "processed_at": "2026-10-22T23:58:15.888021+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1560,7 +1569,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 3,
       "duplicates": [
         {
           "title": "동네 중소형마트도 배민 인프라 활용해 '퀵커머스'",
@@ -1571,6 +1580,11 @@
           "title": "배민, 투게더스와 동네마트 POS 연동…5000곳 퀵커머스 길 열린다",
           "url": "http://v.daum.net/v/20261018100341608",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 투게더스와 동네마트 POS 연동…5000곳 퀵커머스 길 열린다새 창 열림",
+          "url": "https://www.etnews.com/20261018000027",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1953,7 +1967,7 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 15.6,
+      "viral_score": 15.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1961,7 +1975,7 @@
         "라이더"
       ],
       "published_at": "2026-10-19T13:32:33+09:00",
-      "processed_at": "2026-10-22T18:12:52.115236+09:00",
+      "processed_at": "2026-10-22T23:58:25.045082+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2439,14 +2453,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 44.9,
+      "viral_score": 44.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-18T12:00:00+09:00",
-      "processed_at": "2026-10-22T18:12:16.442866+09:00",
+      "processed_at": "2026-10-22T23:57:47.821007+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2733,33 +2747,6 @@
           "channel": "다음뉴스"
         }
       ]
-    },
-    {
-      "uid": "75833e718d526b21598761b8906386be",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666327",
-      "title": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림",
-      "summary": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림 한편 우아한형제들에 따르면 문제의 사이트는 배민이 구축하거나 운영한 시스템이 아니며 해당 업체에 라이더 개인",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책"
-      ],
-      "viral_score": 18.7,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-15T18:01:56+09:00",
-      "processed_at": "2026-10-17T21:01:37.532216+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "abfffbe5fbfca5cd479ee1eaf5174085",
@@ -9273,49 +9260,75 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "79777c4a181284ed6c56802de9d38d67",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20260928181556109",
+      "title": "재경위, 배민 대표 등 국감 증인 채택…김용범은 여야 이견(종합)",
+      "summary": "재경위, 배민 대표 등 국감 증인 채택…김용범은 여야 이견(종합) 28일 배달의민족 운영사인 우아한형제들의 김범석 대표이사를 국정감사 증인으로 채택했다",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 10.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-09-28T18:15:00+09:00",
+      "processed_at": "2026-10-02T10:25:33.383302+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "5df639404778567e3502c4adb8fafd1c",
+          "uid": "23d85e900e4731118ae456365bb7538e",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.news2day.co.kr/article/20261022500247",
-          "title": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림",
-          "summary": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림 고객과 입점 사장님, 라이더의 의견을 정기적으로 듣고 구성원들이 직접 사용자를 만나는 과정을 통해 수치만으로",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618820734601",
+          "title": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림",
+          "summary": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림 [사진=우아한형제들] 링크드인 측의 제안으로 마련된 이번 행사에서 백인범 우아한형제들 CPO와 고명석 최고기",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 53.8,
+          "viral_score": 51.3,
           "status": "Rising",
           "stakeholders": [
-            "소비자",
-            "점주",
-            "라이더"
+            "소비자"
           ],
-          "published_at": "2026-10-22T18:05:00+09:00",
-          "processed_at": "2026-10-22T18:11:49.739557+09:00",
+          "published_at": "2026-10-22T22:13:01+09:00",
+          "processed_at": "2026-10-22T23:52:32.409631+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 11,
+          "duplicate_count": 8,
           "duplicates": [
             {
-              "title": "링크드인 경영진, 배민 방문…AI 및 플랫폼 혁신 노하우 공유새 창 열림",
-              "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88045",
+              "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
+              "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
               "channel": "네이버뉴스"
             },
             {
-              "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유새 창 열림",
-              "url": "https://www.tournews21.com/news/articleView.html?idxno=146413",
-              "channel": "네이버뉴스"
+              "title": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유",
+              "url": "http://v.daum.net/v/20261022144820100",
+              "channel": "다음뉴스"
             },
             {
               "title": "링크드인 경영진, 배민 방문…AIㆍ플랫폼 운영 노하우 공유",
@@ -9333,18 +9346,8 @@
               "channel": "네이버뉴스"
             },
             {
-              "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
-              "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
-              "channel": "네이버뉴스"
-            },
-            {
               "title": "링크드인 경영진, 배민 방문…AI·플랫폼 운영 기술 교류새 창 열림",
               "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666812",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
               "channel": "네이버뉴스"
             },
             {
@@ -9353,14 +9356,48 @@
               "channel": "다음뉴스"
             },
             {
-              "title": "링크드인 경영진, 배민 찾았다…'지능형 커머스' 대담새 창 열림",
-              "url": "https://www.etnews.com/20261022000421",
-              "channel": "네이버뉴스"
-            },
-            {
               "title": "링크드인, 배달의민족 방문…AI·플랫폼 운영 경험 공유",
               "url": "http://v.daum.net/v/20261022161347615",
               "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "a144ff9ad7539bc59a8b3328c3747044",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://zdnet.co.kr/view/?no=20261022182116",
+          "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림",
+          "summary": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림 실적에 따라 한도를 확대하고 부업 라이더와 중·저신용자도 심사를 거쳐 이용할 수 있는 구조를 제안했다",
+          "sentiment": "positive",
+          "tags": [
+            "#라이더",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 45.9,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-10-22T18:26:20+09:00",
+          "processed_at": "2026-10-22T23:52:51.154046+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 2,
+          "duplicates": [
+            {
+              "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"",
+              "url": "http://v.daum.net/v/20261022182828346",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배달의민족, 배달라이더 은행 대출 지원 검토…소득증빙 개선 추진새 창 열림",
+              "url": "http://www.newsdream.kr/news/articleView.html?idxno=120644",
+              "channel": "네이버뉴스"
             }
           ]
         },
@@ -9374,28 +9411,23 @@
           "sentiment": "negative",
           "tags": [
             "#가격·수수료",
-            "#마케팅·광고",
+            "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 77.8,
-          "status": "Hot",
+          "viral_score": 62.1,
+          "status": "Rising",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-22T16:48:46+09:00",
-          "processed_at": "2026-10-22T18:07:34.902122+09:00",
+          "processed_at": "2026-10-22T23:54:36.813266+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 2,
+          "duplicate_count": 1,
           "duplicates": [
-            {
-              "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
-              "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
-              "channel": "네이버뉴스"
-            },
             {
               "title": "[2026국감] 배민, 독일 모회사에 1조원대 자금 이전…\"세무조사 성실히...새 창 열림",
               "url": "http://www.srtimes.kr/news/articleView.html?idxno=215587",
@@ -9416,70 +9448,48 @@
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 73.9,
+          "viral_score": 63.1,
           "status": "Rising",
           "stakeholders": [
             "점주",
             "라이더"
           ],
           "published_at": "2026-10-22T17:26:11+09:00",
-          "processed_at": "2026-10-22T18:07:06.268691+09:00",
+          "processed_at": "2026-10-22T23:53:18.823880+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
+              "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
+              "channel": "네이버뉴스"
+            }
+          ]
         },
         {
-          "uid": "3d4c27d5b0098a035de0de489b5385ac",
+          "uid": "6a5779790097f50b0bfb9621bb7ba655",
           "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261022162522231",
-          "title": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\"",
-          "summary": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\" (지디넷코리아=류승현 기자)배달의민족 운영사 우아한형제들이 자사주 매입·소각을 통해 독일 모회사 딜리버리히어",
-          "sentiment": "negative",
-          "tags": [
-            "#가격·수수료",
-            "#소비자반응",
-            "#기업·정책"
-          ],
-          "viral_score": 71.8,
-          "status": "Rising",
-          "stakeholders": [
-            "직원"
-          ],
-          "published_at": "2026-10-22T16:25:00+09:00",
-          "processed_at": "2026-10-22T18:08:10.652178+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "f6c2f51bdfda5bff9ab14deb6a21abe4",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261022144820100",
-          "title": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유",
-          "summary": "배민 방문한 링크드인…AI·플랫폼 비즈니스 성공 사례 공유 세계 최대 인재 플랫폼인 미국 링크드인(LinkedIn) 경영진이 배달의민족(배민)을 방문해 플랫폼 서비스 ",
+          "channel": "네이버뉴스",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640758",
+          "title": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림",
+          "summary": "[유통브리핑] 배민, 링크드인에 AI·B마트·로봇 배달 노하우 공개 외새 창 열림 배달의민족 운영사 우아한형제들은 21일 하리 스리니바산 링크드인 최고제품책임자(CPO) 등 주요 임직원 20",
           "sentiment": "positive",
           "tags": [
-            "#서비스·품질",
             "#마케팅·광고",
-            "#기업·정책"
+            "#기업·정책",
+            "#감동·긍정"
           ],
-          "viral_score": 48.8,
+          "viral_score": 47.9,
           "status": "Stable",
           "stakeholders": [
             "직원"
           ],
-          "published_at": "2026-10-22T14:48:00+09:00",
-          "processed_at": "2026-10-22T18:08:27.915458+09:00",
+          "published_at": "2026-10-22T17:00:00+09:00",
+          "processed_at": "2026-10-22T23:59:09.590308+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9501,13 +9511,13 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 32.8,
+          "viral_score": 27.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-22T13:31:00+09:00",
-          "processed_at": "2026-10-22T18:13:16.963718+09:00",
+          "processed_at": "2026-10-22T23:58:51.013319+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9521,38 +9531,44 @@
           "brand": "배달의민족",
           "channel": "네이버뉴스",
           "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
-          "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지새 창 열림",
-          "summary": "배민, 전통시장에 수수료 폭탄 ···0% 외쳤지만, 많게는 30%까지새 창 열림",
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
+          "summary": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림 배달업계 1위 배달의민족(배민)이 전통시장과 상생하겠다며 수수료 0%를 약속했지만, 실제로는 15%대의 고액",
           "sentiment": "negative",
           "tags": [
             "#가격·수수료",
-            "#점주·자영업",
-            "#소비자반응"
+            "#서비스·품질",
+            "#점주·자영업"
           ],
-          "viral_score": 60.9,
+          "viral_score": 57.0,
           "status": "Rising",
           "stakeholders": [
             "점주"
           ],
-          "published_at": "2026-10-22T13:25:57+09:00",
-          "processed_at": "2026-10-22T18:10:13.261790+09:00",
+          "published_at": "2026-10-22T13:25:00+09:00",
+          "processed_at": "2026-10-22T23:52:42.307491+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
+              "url": "http://v.daum.net/v/20261022132558237",
+              "channel": "다음뉴스"
+            }
+          ]
         }
       ],
       "total": 7,
-      "avg_score": 60.0,
+      "avg_score": 50.7,
       "ratio": {
-        "negative": 57,
-        "positive": 29,
+        "negative": 43,
+        "positive": 43,
         "neutral": 14
       },
-      "mentions": 34
+      "mentions": 32
     },
     "coupang": {
       "issues": [
@@ -9569,13 +9585,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 33.9,
+          "viral_score": 28.8,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-22T14:35:00+09:00",
-          "processed_at": "2026-10-22T18:08:49.960445+09:00",
+          "processed_at": "2026-10-22T23:53:58.891637+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9597,14 +9613,14 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 32.7,
+          "viral_score": 29.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-21T18:10:00+09:00",
-          "processed_at": "2026-10-22T18:08:59.142515+09:00",
+          "processed_at": "2026-10-22T23:54:08.156148+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9626,14 +9642,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 18.9,
+          "viral_score": 17.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-21T06:00:00+09:00",
-          "processed_at": "2026-10-22T18:12:33.721315+09:00",
+          "processed_at": "2026-10-22T23:58:05.991023+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9644,7 +9660,7 @@
         }
       ],
       "total": 3,
-      "avg_score": 28.5,
+      "avg_score": 25.1,
       "ratio": {
         "negative": 0,
         "positive": 67,
