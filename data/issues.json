@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:04:06.462744+09:00",
+  "updated_at": "2026-10-25T23:16:58.700433+09:00",
   "hot": [
     {
       "uid": "cc6d66faf7691e4b7cc0d19f98509920",
@@ -14,20 +14,20 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 64.6,
+      "viral_score": 55.6,
       "status": "Rising",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T15:14:00+09:00",
-      "processed_at": "2026-10-25T17:56:27.526288+09:00",
+      "processed_at": "2026-10-25T23:09:08.698870+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 3,
       "duplicates": [
         {
           "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려새 창 열림",
@@ -43,11 +43,6 @@
           "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
           "url": "http://v.daum.net/v/20261024101230252",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공...새 창 열림",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/24/M2DJDD7XCFHTNJWHKOQRZCNRF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -64,13 +59,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 56.8,
-      "status": "Rising",
+      "viral_score": 49.2,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-25T17:55:29.125754+09:00",
+      "processed_at": "2026-10-25T23:08:20.203612+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -86,6 +81,36 @@
       ]
     },
     {
+      "uid": "6a1ab2ec00937b45d6c8a5abdf64dd71",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434780",
+      "title": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상...새 창 열림",
+      "summary": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상 배달비 체계 개편 역시 새로운 논란으로 지목됐다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#소비자반응"
+      ],
+      "viral_score": 35.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-23T23:52:14+09:00",
+      "processed_at": "2026-10-25T23:13:49.164346+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠",
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "f511bb09e16f851379ee1be31c34157c",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -98,13 +123,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 41.9,
+      "viral_score": 35.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-25T17:54:20.371733+09:00",
+      "processed_at": "2026-10-25T23:07:11.463025+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -126,13 +151,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 40.5,
+      "viral_score": 34.5,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T11:23:00+09:00",
-      "processed_at": "2026-10-25T17:54:31.751126+09:00",
+      "processed_at": "2026-10-25T23:07:22.787486+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -158,36 +183,6 @@
       ]
     },
     {
-      "uid": "6a1ab2ec00937b45d6c8a5abdf64dd71",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434780",
-      "title": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상...새 창 열림",
-      "summary": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상 배달비 체계 개편 역시 새로운 논란으로 지목됐다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#소비자반응"
-      ],
-      "viral_score": 37.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-25T18:01:07.271550+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠",
-        "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "1c48b6f65d29f6bb3b552395dee333b1",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
@@ -200,105 +195,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.6,
+      "viral_score": 27.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-25T17:55:19.312134+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "7913ebf992ef9c18b0245a68032b3569",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.newsis.com/view/NISX20261023_0003839162",
-      "title": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)새 창 열림",
-      "summary": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)새 창 열림 관련 논란이 있을 수 있지만, 특정한 협상력을 가진 영역에선 화이트칼라 이그젬션을 도입할 수 있다\"고 언급했",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 25.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-23T18:44:12+09:00",
-      "processed_at": "2026-10-25T18:01:17.734131+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)",
-          "url": "http://v.daum.net/v/20261023184629541",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "de166c8e33e44a0d9a0db8c308f08903",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://sateconomy.co.kr/news/view/1065604235001403",
-      "title": "[국감] 쿠팡이츠, 점주 할인액에도 중개수수료…“산정방식 고지” 반론새 창 열림",
-      "summary": "[국감] 쿠팡이츠, 점주 할인액에도 중개수수료…“산정방식 고지” 반론새 창 열림 고객이 부담하던 배달비를 회사가 떠안고 있으며 점주에게 받는 배달비와 라이더에게 지급하는 금액의 차액을 쿠팡",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 16.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-23T19:07:35+09:00",
-      "processed_at": "2026-10-25T18:01:58.715744+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ade22dd299322f766d39ad501cb67994",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "http://www.fsnews.co.kr/news/articleView.html?idxno=62481",
-      "title": "서울시 아동급식카드, 배달앱으로 확대새 창 열림",
-      "summary": "서울시 아동급식카드, 배달앱으로 확대새 창 열림 배달비 지원과 함께 하루 이용한도도 기존 3만 원에서 5만 원으로 늘어나 아동들의 급식 선택권과 이용 편의가",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 15.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-23T20:15:28+09:00",
-      "processed_at": "2026-10-25T18:03:55.663845+09:00",
+      "processed_at": "2026-10-25T23:08:10.414111+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -322,13 +225,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.6,
+      "viral_score": 27.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-25T17:55:19.312134+09:00",
+      "processed_at": "2026-10-25T23:08:10.414111+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -407,14 +310,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 60.0,
+      "viral_score": 51.8,
       "status": "Rising",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T12:42:00+09:00",
-      "processed_at": "2026-10-25T17:56:36.941949+09:00",
+      "processed_at": "2026-10-25T23:09:18.114838+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -442,13 +345,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 41.9,
+      "viral_score": 35.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-25T17:54:20.371733+09:00",
+      "processed_at": "2026-10-25T23:07:11.463025+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -490,13 +393,13 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 한국외식업중앙회와 'K-장 웰니스 요리대회' 개최…'한국의 장 문...새 창 열림",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=149844",
+          "title": "배민, ‘한국의 장’으로 외식업주 요리대회…수상 레시피 전국 보급새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616846740625",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, ‘한국의 장’으로 외식업주 요리대회…수상 레시피 전국 보급새 창 열림",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616846740625",
+          "title": "배민, 한국외식업중앙회와 'K-장 웰니스 요리대회' 개최…'한국의 장 문...새 창 열림",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=149844",
           "channel": "네이버뉴스"
         },
         {
@@ -529,13 +432,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 56.8,
-      "status": "Rising",
+      "viral_score": 49.2,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-25T17:55:29.125754+09:00",
+      "processed_at": "2026-10-25T23:08:20.203612+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -563,14 +466,14 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 37.6,
+      "viral_score": 35.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-25T18:01:07.271550+09:00",
+      "processed_at": "2026-10-25T23:13:49.164346+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -648,7 +551,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 16.6,
+      "viral_score": 15.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -656,7 +559,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T19:07:35+09:00",
-      "processed_at": "2026-10-25T18:01:58.715744+09:00",
+      "processed_at": "2026-10-25T23:14:50.738193+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -678,13 +581,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 20.3,
+      "viral_score": 18.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-25T17:55:47.803513+09:00",
+      "processed_at": "2026-10-25T23:08:38.900483+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -741,14 +644,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 40.5,
+      "viral_score": 39.2,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-23T17:01:00+09:00",
-      "processed_at": "2026-10-25T18:02:47.664963+09:00",
+      "processed_at": "2026-10-25T23:15:39.673112+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -786,13 +689,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 51.2,
-      "status": "Rising",
+      "viral_score": 49.8,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-25T17:55:57.605676+09:00",
+      "processed_at": "2026-10-25T23:08:48.732361+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -826,13 +729,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 46.0,
+      "viral_score": 44.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-25T17:56:07.724006+09:00",
+      "processed_at": "2026-10-25T23:14:31.215809+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -927,13 +830,13 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 35.4,
+      "viral_score": 34.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:16:45+09:00",
-      "processed_at": "2026-10-25T18:03:37.012330+09:00",
+      "processed_at": "2026-10-25T23:16:29.113636+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -999,7 +902,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 19.0,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1007,7 +910,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-25T18:02:57.031760+09:00",
+      "processed_at": "2026-10-25T23:15:49.042403+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1120,14 +1023,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 18.9,
+      "viral_score": 18.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T16:08:58+09:00",
-      "processed_at": "2026-10-25T17:58:59.580328+09:00",
+      "processed_at": "2026-10-25T23:11:41.354781+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1149,7 +1052,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 29.8,
+      "viral_score": 28.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1157,7 +1060,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T15:57:49+09:00",
-      "processed_at": "2026-10-25T18:02:28.550922+09:00",
+      "processed_at": "2026-10-25T23:15:20.648054+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1353,13 +1256,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.2,
+      "viral_score": 10.9,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-22T18:28:00+09:00",
-      "processed_at": "2026-10-25T18:00:24.684708+09:00",
+      "processed_at": "2026-10-25T23:13:06.541737+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1448,14 +1351,14 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 25.9,
+      "viral_score": 25.4,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-25T17:56:57.793607+09:00",
+      "processed_at": "2026-10-25T23:09:39.129324+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1483,13 +1386,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 25.9,
+      "viral_score": 25.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-25T17:57:19.631016+09:00",
+      "processed_at": "2026-10-25T23:10:01.085242+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1603,14 +1506,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 30.5,
+      "viral_score": 30.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T10:24:29+09:00",
-      "processed_at": "2026-10-25T17:58:02.544612+09:00",
+      "processed_at": "2026-10-25T23:10:44.125126+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1782,14 +1685,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 30.4,
+      "viral_score": 30.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T09:34:06+09:00",
-      "processed_at": "2026-10-25T17:59:18.570340+09:00",
+      "processed_at": "2026-10-25T23:12:00.338448+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9287,13 +9190,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 41.9,
+          "viral_score": 35.7,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T12:30:06+09:00",
-          "processed_at": "2026-10-25T17:54:20.371733+09:00",
+          "processed_at": "2026-10-25T23:07:11.463025+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9315,13 +9218,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 40.5,
+          "viral_score": 34.5,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T11:23:00+09:00",
-          "processed_at": "2026-10-25T17:54:31.751126+09:00",
+          "processed_at": "2026-10-25T23:07:22.787486+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9359,13 +9262,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 56.8,
-          "status": "Rising",
+          "viral_score": 49.2,
+          "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-25T10:45:00+09:00",
-          "processed_at": "2026-10-25T17:55:29.125754+09:00",
+          "processed_at": "2026-10-25T23:08:20.203612+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9382,7 +9285,7 @@
         }
       ],
       "total": 3,
-      "avg_score": 46.4,
+      "avg_score": 39.8,
       "ratio": {
         "negative": 33,
         "positive": 67,
@@ -9405,14 +9308,14 @@
             "#서비스·품질",
             "#소비자반응"
           ],
-          "viral_score": 37.6,
+          "viral_score": 35.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-23T23:52:14+09:00",
-          "processed_at": "2026-10-25T18:01:07.271550+09:00",
+          "processed_at": "2026-10-25T23:13:49.164346+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9421,80 +9324,16 @@
           ],
           "duplicate_count": 0,
           "duplicates": []
-        },
-        {
-          "uid": "de166c8e33e44a0d9a0db8c308f08903",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://sateconomy.co.kr/news/view/1065604235001403",
-          "title": "[국감] 쿠팡이츠, 점주 할인액에도 중개수수료…“산정방식 고지” 반론새 창 열림",
-          "summary": "[국감] 쿠팡이츠, 점주 할인액에도 중개수수료…“산정방식 고지” 반론새 창 열림 고객이 부담하던 배달비를 회사가 떠안고 있으며 점주에게 받는 배달비와 라이더에게 지급하는 금액의 차액을 쿠팡",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#점주·자영업"
-          ],
-          "viral_score": 16.6,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주",
-            "라이더"
-          ],
-          "published_at": "2026-10-23T19:07:35+09:00",
-          "processed_at": "2026-10-25T18:01:58.715744+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "7913ebf992ef9c18b0245a68032b3569",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://www.newsis.com/view/NISX20261023_0003839162",
-          "title": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)새 창 열림",
-          "summary": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)새 창 열림 관련 논란이 있을 수 있지만, 특정한 협상력을 가진 영역에선 화이트칼라 이그젬션을 도입할 수 있다\"고 언급했",
-          "sentiment": "negative",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#기업·정책"
-          ],
-          "viral_score": 25.5,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-23T18:44:12+09:00",
-          "processed_at": "2026-10-25T18:01:17.734131+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달앱"
-          ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "\"기술탈취·상속·배달앱\"…중기 국감서 집중 포화(종합)",
-              "url": "http://v.daum.net/v/20261023184629541",
-              "channel": "다음뉴스"
-            }
-          ]
         }
       ],
-      "total": 3,
-      "avg_score": 26.6,
+      "total": 1,
+      "avg_score": 35.8,
       "ratio": {
-        "negative": 67,
+        "negative": 100,
         "positive": 0,
-        "neutral": 33
+        "neutral": 0
       },
-      "mentions": 3
+      "mentions": 2
     }
   }
 }
