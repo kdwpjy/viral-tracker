@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:15:06.330514+09:00",
+  "updated_at": "2026-10-25T11:13:19.955758+09:00",
   "hot": [
     {
       "uid": "015a8b96eefe840ac56bbbae670b0f95",
@@ -14,13 +14,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 55.2,
+      "viral_score": 53.5,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-25T07:11:41.902304+09:00",
+      "processed_at": "2026-10-25T11:11:08.732388+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -37,6 +37,34 @@
       ]
     },
     {
+      "uid": "3fcf4faffb7d29f7d42e0d2fea2b3606",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261025104506537",
+      "title": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까",
+      "summary": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까 배민 장보기쇼핑 카테고리에 신발 멀티숍 슈마커가 입점한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 49.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-25T10:45:00+09:00",
+      "processed_at": "2026-10-25T11:10:45.660097+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "fc6787a69dda6e90b2ecc1c1fd31ef3e",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -49,13 +77,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.9,
+      "viral_score": 48.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-25T07:11:51.977609+09:00",
+      "processed_at": "2026-10-25T11:11:15.479895+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -77,13 +105,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 44.6,
+      "viral_score": 43.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-25T07:12:01.625550+09:00",
+      "processed_at": "2026-10-25T11:11:21.881976+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -95,41 +123,6 @@
           "title": "할인은 점주 몫, 수수료는 정가로…쿠팡이츠, 국감서 뭇매 [2026 국감]",
           "url": "http://v.daum.net/v/20261023170121659",
           "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "2044a4096c3429982646695eb3a148d2",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261024101230252",
-      "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
-      "summary": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\" 상한 설정에 반대하는 성명을 내고, 입법 과정에서 라이더들의 의견을 충분히 반영해야 한다고 주장했다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 39.9,
-      "status": "Stable",
-      "stakeholders": [
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-24T10:12:00+09:00",
-      "processed_at": "2026-10-25T07:11:16.718861+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공...새 창 열림",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/24/M2DJDD7XCFHTNJWHKOQRZCNRF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -146,7 +139,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 39.1,
+      "viral_score": 37.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -154,7 +147,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-25T07:14:48.247198+09:00",
+      "processed_at": "2026-10-25T11:13:01.158311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -176,17 +169,46 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 38.9,
+      "viral_score": 37.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T16:21:00+09:00",
-      "processed_at": "2026-10-25T07:15:06.326382+09:00",
+      "processed_at": "2026-10-25T11:13:12.823993+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "2044a4096c3429982646695eb3a148d2",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261024101230252",
+      "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
+      "summary": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\" 반대하는 성명을 내고, 입법 과정에서 라이더들의 의견을 충분히 반영해야 한다고 주장했다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 36.6,
+      "status": "Stable",
+      "stakeholders": [
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-24T10:12:00+09:00",
+      "processed_at": "2026-10-25T11:10:55.929189+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -197,20 +219,20 @@
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261024101639299",
       "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
-      "summary": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위 단체사진 [투어코리아=김현진 기자] 배달의민족 운영사 우아한형제들은 사단법인 한국외식업중앙회와 함께 22일 ",
+      "summary": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위 2등인 배달의민족상은 세 팀이 공동으로 받았다",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#점주·자영업",
+        "#마케팅·광고"
       ],
-      "viral_score": 26.7,
+      "viral_score": 24.1,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "점주"
       ],
       "published_at": "2026-10-24T10:16:00+09:00",
-      "processed_at": "2026-10-25T07:11:07.513238+09:00",
+      "processed_at": "2026-10-25T11:13:19.952506+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -218,40 +240,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "5f0f60c536a60319bf7f686a29f03427",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2009525",
-      "title": "[2026 국감] 배달앱 종속에 소상공인 부담 가중… 이소영 \"공공배달앱 선...새 창 열림",
-      "summary": "[2026 국감] 배달앱 종속에 소상공인 부담 가중… 이소영 \"공공배달앱 선 조지연 국민의힘 의원은 배달의민족과 쿠팡이츠 등이 지난해 중개수수료를 기존 9",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 26.5,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-23T11:18:59+09:00",
-      "processed_at": "2026-10-25T07:13:48.458690+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[2026 국감] 배달앱 비용 매출의 26.2%… 중기부 \"공공앱 지원 개편\"새 창 열림",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97653",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "16a9d07abfe48cc15a708180f5e5ac82",
@@ -266,13 +254,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 24.4,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-25T07:11:32.112172+09:00",
+      "processed_at": "2026-10-25T11:11:02.137311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -294,7 +282,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 21.1,
+      "viral_score": 20.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -302,7 +290,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-25T07:14:38.887879+09:00",
+      "processed_at": "2026-10-25T11:12:55.062540+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -313,6 +301,34 @@
     }
   ],
   "feed": [
+    {
+      "uid": "3fcf4faffb7d29f7d42e0d2fea2b3606",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261025104506537",
+      "title": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까",
+      "summary": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까 배민 장보기쇼핑 카테고리에 신발 멀티숍 슈마커가 입점한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 49.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-25T10:45:00+09:00",
+      "processed_at": "2026-10-25T11:10:45.660097+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "7e952661aa2cbc3f50422d57191debb1",
       "brand": "배달의민족",
@@ -363,21 +379,21 @@
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261024101230252",
       "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
-      "summary": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\" 상한 설정에 반대하는 성명을 내고, 입법 과정에서 라이더들의 의견을 충분히 반영해야 한다고 주장했다",
+      "summary": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\" 반대하는 성명을 내고, 입법 과정에서 라이더들의 의견을 충분히 반영해야 한다고 주장했다",
       "sentiment": "negative",
       "tags": [
         "#서비스·품질",
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 39.9,
+      "viral_score": 36.6,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-24T10:12:00+09:00",
-      "processed_at": "2026-10-25T07:11:16.718861+09:00",
+      "processed_at": "2026-10-25T11:10:55.929189+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -418,42 +434,6 @@
         {
           "title": "“이번엔 나올까” MBK 김병주 재소환…쿠팡이츠 수수료도 국감 도마[20...새 창 열림",
           "url": "https://www.ddaily.co.kr/page/view/2026101314553286575",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "a8b7d9728a9777b56bd43b60c00da489",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
-      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
-      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 84.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-09-16T17:22:18+09:00",
-      "processed_at": "2026-09-16T18:05:28.339759+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공...새 창 열림",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/24/M2DJDD7XCFHTNJWHKOQRZCNRF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "channel": "네이버뉴스"
         }
       ]
@@ -500,13 +480,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 24.4,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-25T07:11:32.112172+09:00",
+      "processed_at": "2026-10-25T11:11:02.137311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -562,13 +542,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 55.2,
+      "viral_score": 53.5,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-25T07:11:41.902304+09:00",
+      "processed_at": "2026-10-25T11:11:08.732388+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -597,13 +577,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.9,
+      "viral_score": 48.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-25T07:11:51.977609+09:00",
+      "processed_at": "2026-10-25T11:11:15.479895+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -653,13 +633,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 44.6,
+      "viral_score": 43.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-25T07:12:01.625550+09:00",
+      "processed_at": "2026-10-25T11:11:21.881976+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -698,50 +678,6 @@
       "duplicates": []
     },
     {
-      "uid": "2ebb91d286f3faa451a385fb1919de29",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=135104",
-      "title": "[2026 국감] 배달앱 'AI 배차' 기준 깜깜이...투명성 도마 위에새 창 열림",
-      "summary": "[2026 국감] 배달앱 'AI 배차' 기준 깜깜이 투명성 도마 위에새 창 열림",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 53.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-06T17:43:32+09:00",
-      "processed_at": "2026-10-07T07:09:41.987176+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "[2026 국감] 배달앱 종속에 소상공인 부담 가중… 이소영 \"공공배달앱 선...새 창 열림",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2009525",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[2026 국감] 국감 지적 20건 중 15건 악화…배달앱 비용 떠넘기기 여전새 창 열림",
-          "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35142",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[2026 국감] 배달앱 비용 매출의 26.2%… 중기부 \"공공앱 지원 개편\"새 창 열림",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97653",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "8ef1fdba292ca6c1e0fc2bcaddd2d283",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -754,7 +690,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 21.1,
+      "viral_score": 20.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -762,7 +698,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-25T07:14:38.887879+09:00",
+      "processed_at": "2026-10-25T11:12:55.062540+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -784,7 +720,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 39.1,
+      "viral_score": 37.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -792,7 +728,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-25T07:14:48.247198+09:00",
+      "processed_at": "2026-10-25T11:13:01.158311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1037,6 +973,45 @@
       "duplicates": []
     },
     {
+      "uid": "5f0f60c536a60319bf7f686a29f03427",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2009525",
+      "title": "[2026 국감] 배달앱 종속에 소상공인 부담 가중… 이소영 \"공공배달앱 선...새 창 열림",
+      "summary": "[2026 국감] 배달앱 종속에 소상공인 부담 가중… 이소영 \"공공배달앱 선 조지연 국민의힘 의원은 배달의민족과 쿠팡이츠 등이 지난해 중개수수료를 기존 9",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 57.2,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-23T11:18:59+09:00",
+      "processed_at": "2026-10-23T18:12:57.632049+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "[2026 국감] 배달앱 'AI 배차' 기준 깜깜이...투명성 도마 위에새 창 열림",
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=135104",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[2026 국감] \"말로만 상생, 부담은 소상공인 몫\"…배민에 쏟아진 질문 세...새 창 열림",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318914",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
       "uid": "662c589408cf509ca19923cadec38da2",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -1128,45 +1103,6 @@
       "duplicates": []
     },
     {
-      "uid": "a144ff9ad7539bc59a8b3328c3747044",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://zdnet.co.kr/view/?no=20261022182116",
-      "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림",
-      "summary": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림 실적에 따라 한도를 확대하고 부업 라이더와 중·저신용자도 심사를 거쳐 이용할 수 있는 구조를 제안했다",
-      "sentiment": "positive",
-      "tags": [
-        "#라이더",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 36.8,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-22T18:26:20+09:00",
-      "processed_at": "2026-10-23T07:57:47.472859+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666327",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"",
-          "url": "http://v.daum.net/v/20261022182828346",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "5df639404778567e3502c4adb8fafd1c",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1193,7 +1129,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 5,
       "duplicates": [
         {
           "title": "\"예상시간·배달비도 AI가 산출\"…배달플랫폼, 운영 효율 높인다새 창 열림",
@@ -1201,9 +1137,85 @@
           "channel": "네이버뉴스"
         },
         {
+          "title": "링크드인 경영진, 배민 방문…AI·플랫폼 운영 기술 교류새 창 열림",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666812",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "링크드인 경영진이 배민 찾은 이유…AI 추천·로봇 배달 노하우 공유새 창 열림",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113042",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "링크드인 경영진, 배민 방문…AIㆍ플랫폼 운영 노하우 공유",
           "url": "http://v.daum.net/v/20261022142015517",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "링크드인 경영진, 배민 찾았다…AI·플랫폼 성장 전략 공유새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618820734601",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "8493d416bf0255598e9dba0ec4756f22",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261022182828346",
+      "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"",
+      "summary": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\" 안 의원은 이날 국회 재정경제기획위원회 종합국정감사에서 배달플랫폼과 보증기관, 은행이 함께 참여하는 배달라이",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 11.7,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-10-22T18:28:00+09:00",
+      "processed_at": "2026-10-25T11:12:36.717823+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "75833e718d526b21598761b8906386be",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666327",
+      "title": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림",
+      "summary": "배민 \"배달 라이더 노출 사이트, 당사 관리 아냐\"새 창 열림 한편 우아한형제들에 따르면 문제의 사이트는 배민이 구축하거나 운영한 시스템이 아니며 해당 업체에 라이더 개인",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책"
+      ],
+      "viral_score": 18.7,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-10-15T18:01:56+09:00",
+      "processed_at": "2026-10-17T21:01:37.532216+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배달라이더 소득증빙 개선 추진에…배민 \"적극 검토\"새 창 열림",
+          "url": "https://zdnet.co.kr/view/?no=20261022182116",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1247,21 +1259,21 @@
       "channel": "네이버뉴스",
       "url": "https://www.ceoscoredaily.com/page/view/2026102216581265222",
       "title": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아...새 창 열림",
-      "summary": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아 배달의민족 운영사 우아한형제들이 최근 3년간 독일 모회사 딜리버리히어로(DH)에 약 1조원이 넘는 자금을 이",
+      "summary": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아 그는 “배민이 하나의 생태계를 이루고 있는데, 가맹점 수수료와 라이더 보수 문제가 반복 제기되는 만큼 사회적",
       "sentiment": "negative",
       "tags": [
         "#서비스·품질",
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 27.4,
+      "viral_score": 26.8,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-25T07:14:20.006582+09:00",
+      "processed_at": "2026-10-25T11:12:18.945253+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1295,8 +1307,14 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[국감] 명목은 자본거래, 실질은 배당···배민, 해외 자금 이전 논란새 창 열림",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640769",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "f6c2f51bdfda5bff9ab14deb6a21abe4",
@@ -1444,17 +1462,12 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
           "url": "http://v.daum.net/v/20261022132558237",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
-          "channel": "네이버뉴스"
         },
         {
           "title": "[단독] \"수수료 0%\" 홍보하고 15% 부과...배민, 대행사 탓만",
@@ -2992,6 +3005,35 @@
       "duplicates": []
     },
     {
+      "uid": "e43d42b98162ab56093bc4d8ffdc52a7",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35142",
+      "title": "[2026 국감] 국감 지적 20건 중 15건 악화…배달앱 비용 떠넘기기 여전새 창 열림",
+      "summary": "[2026 국감] 국감 지적 20건 중 15건 악화…배달앱 비용 떠넘기기 여전새 창 열림 현행 배달앱 상생요금제는 중개수수료와 점주 부담 배달비를 따로 정한다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 23.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-18T12:06:28+09:00",
+      "processed_at": "2026-10-23T18:11:22.459623+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "585d379a0f87efbe4f75bc8aeafbb1de",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
@@ -3045,40 +3087,28 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "동네마트 5천곳 손잡는 배민 … 식자재·생필품 주문 1시간만에 슝~",
-          "url": "http://v.daum.net/v/20261015173901498",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[단독] “이젠 동네마트도 빠른 배달”…배민, 5000개 마트로 퀵커머스 확대",
-          "url": "http://v.daum.net/v/20261015173301224",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
-      "uid": "86eb015f8eedc616f917fe8f168c57bd",
+      "uid": "a58837f4d1d59910875afcb113b67198",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ddaily.co.kr/page/view/2026101616200637409",
-      "title": "[DD 주간브리핑] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 ...새 창 열림",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261018100011454",
+      "title": "[DD 주간브리핑] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 주 국감 종합감사 '정조준'",
       "summary": "[DD 주간브리핑] 배민 1 4조 해외 유출·정유 44조 담합 재검증",
       "sentiment": "neutral",
       "tags": [
-        "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 16.4,
+      "viral_score": 32.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-18T10:00:00+09:00",
-      "processed_at": "2026-10-21T18:08:16.706634+09:00",
+      "processed_at": "2026-10-18T21:26:25.913597+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3087,9 +3117,9 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "[DD 주간브리핑] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 주 국감 종합감사 '정조준'",
-          "url": "http://v.daum.net/v/20261018100011454",
-          "channel": "다음뉴스"
+          "title": "[DD 주간브리핑] 배민 1.4조 해외 유출·정유 44조 담합 재검증... 이번 ...새 창 열림",
+          "url": "https://www.ddaily.co.kr/page/view/2026101616200637409",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -4709,34 +4739,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "abe7c4ed433ee7c53fb5dd6e4a7f52ae",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318914",
-      "title": "[2026 국감] \"말로만 상생, 부담은 소상공인 몫\"…배민에 쏟아진 질문 세...새 창 열림",
-      "summary": "[2026 국감] \"말로만 상생, 부담은 소상공인 몫\"…배민에 쏟아진 질문 세 우버가 배민을 인수하는 것 관련해서, 독과점 문제가 발생할 수 있다고 우려를 표했다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 17.9,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-12T21:52:10+09:00",
-      "processed_at": "2026-10-15T08:01:08.642431+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -9132,59 +9134,31 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "9a1f223fbac4cc29458ed30f3003bc3d",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202609301622285381de3f0aa1be_7",
-      "title": "브레이크·타이어부터 엔진오일까지…쿠팡이츠, 전국 19곳서 무상점검새 창 열림",
-      "summary": "브레이크·타이어부터 엔진오일까지…쿠팡이츠, 전국 19곳서 무상점검새 창 열림 쿠팡이츠서비스가 겨울철을 앞두고 전국 19개 지역을 돌며 배달파트너의 이륜차를 무상 점검한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 49.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-09-30T16:24:03+09:00",
-      "processed_at": "2026-09-30T16:46:27.311507+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "f5a6a860b769be59a2064f24bededf38",
+          "uid": "3fcf4faffb7d29f7d42e0d2fea2b3606",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261024101639299",
-          "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
-          "summary": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위 단체사진 [투어코리아=김현진 기자] 배달의민족 운영사 우아한형제들은 사단법인 한국외식업중앙회와 함께 22일 ",
+          "url": "http://v.daum.net/v/20261025104506537",
+          "title": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까",
+          "summary": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까 배민 장보기쇼핑 카테고리에 신발 멀티숍 슈마커가 입점한다",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 26.7,
+          "viral_score": 49.3,
           "status": "Stable",
           "stakeholders": [
-            "소비자"
+            "점주"
           ],
-          "published_at": "2026-10-24T10:16:00+09:00",
-          "processed_at": "2026-10-25T07:11:07.513238+09:00",
+          "published_at": "2026-10-25T10:45:00+09:00",
+          "processed_at": "2026-10-25T11:10:45.660097+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9194,41 +9168,40 @@
           "duplicates": []
         },
         {
-          "uid": "d39972d1a6fc2f1c43c203b97424c267",
+          "uid": "f5a6a860b769be59a2064f24bededf38",
           "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97653",
-          "title": "[2026 국감] 배달앱 비용 매출의 26.2%… 중기부 \"공공앱 지원 개편\"새 창 열림",
-          "summary": "[2026 국감] 배달앱 비용 매출의 26 2%… 중기부 \"공공앱 지원 개편\"새 창 열림",
-          "sentiment": "neutral",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261024101639299",
+          "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
+          "summary": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위 2등인 배달의민족상은 세 팀이 공동으로 받았다",
+          "sentiment": "positive",
           "tags": [
-            "#가격·수수료",
             "#서비스·품질",
-            "#점주·자영업"
+            "#점주·자영업",
+            "#마케팅·광고"
           ],
-          "viral_score": 15.5,
+          "viral_score": 24.1,
           "status": "Stable",
           "stakeholders": [
-            "소비자",
             "점주"
           ],
-          "published_at": "2026-10-23T16:58:48+09:00",
-          "processed_at": "2026-10-25T07:13:37.597984+09:00",
+          "published_at": "2026-10-24T10:16:00+09:00",
+          "processed_at": "2026-10-25T11:13:19.952506+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
-            "배달앱"
+            "배달의민족"
           ],
           "duplicate_count": 0,
           "duplicates": []
         }
       ],
       "total": 2,
-      "avg_score": 21.1,
+      "avg_score": 36.7,
       "ratio": {
         "negative": 0,
-        "positive": 50,
-        "neutral": 50
+        "positive": 100,
+        "neutral": 0
       },
       "mentions": 2
     },
@@ -9247,13 +9220,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 24.4,
+          "viral_score": 22.6,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-23T18:46:00+09:00",
-          "processed_at": "2026-10-25T07:11:32.112172+09:00",
+          "processed_at": "2026-10-25T11:11:02.137311+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9275,13 +9248,13 @@
             "#서비스·품질",
             "#점주·자영업"
           ],
-          "viral_score": 55.2,
+          "viral_score": 53.5,
           "status": "Rising",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-23T17:50:00+09:00",
-          "processed_at": "2026-10-25T07:11:41.902304+09:00",
+          "processed_at": "2026-10-25T11:11:08.732388+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9310,13 +9283,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 49.9,
+          "viral_score": 48.3,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-23T17:48:00+09:00",
-          "processed_at": "2026-10-25T07:11:51.977609+09:00",
+          "processed_at": "2026-10-25T11:11:15.479895+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9338,13 +9311,13 @@
             "#서비스·품질",
             "#기업·정책"
           ],
-          "viral_score": 44.6,
+          "viral_score": 43.0,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-23T17:35:00+09:00",
-          "processed_at": "2026-10-25T07:12:01.625550+09:00",
+          "processed_at": "2026-10-25T11:11:21.881976+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9372,7 +9345,7 @@
             "#라이더",
             "#점주·자영업"
           ],
-          "viral_score": 21.1,
+          "viral_score": 20.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9380,7 +9353,7 @@
             "라이더"
           ],
           "published_at": "2026-10-23T16:51:00+09:00",
-          "processed_at": "2026-10-25T07:14:38.887879+09:00",
+          "processed_at": "2026-10-25T11:12:55.062540+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9402,7 +9375,7 @@
             "#서비스·품질",
             "#기업·정책"
           ],
-          "viral_score": 39.1,
+          "viral_score": 37.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9410,7 +9383,7 @@
             "라이더"
           ],
           "published_at": "2026-10-23T16:47:00+09:00",
-          "processed_at": "2026-10-25T07:14:48.247198+09:00",
+          "processed_at": "2026-10-25T11:13:01.158311+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9432,13 +9405,13 @@
             "#서비스·품질",
             "#점주·자영업"
           ],
-          "viral_score": 38.9,
+          "viral_score": 37.3,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-23T16:21:00+09:00",
-          "processed_at": "2026-10-25T07:15:06.326382+09:00",
+          "processed_at": "2026-10-25T11:13:12.823993+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9449,13 +9422,13 @@
         }
       ],
       "total": 7,
-      "avg_score": 39.0,
+      "avg_score": 37.5,
       "ratio": {
         "negative": 86,
         "positive": 0,
         "neutral": 14
       },
-      "mentions": 9
+      "mentions": 8
     }
   }
 }
