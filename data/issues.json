@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-26T02:42:07.638081+09:00",
+  "updated_at": "2026-10-26T05:21:48.425440+09:00",
   "hot": [
+    {
+      "uid": "24c755ccb4f03bb4b99a620ba9d530cc",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongang.co.kr/article/25472698",
+      "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림",
+      "summary": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림 약국의 배민화 결사반대",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 64.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-26T05:00:00+09:00",
+      "processed_at": "2026-10-26T05:13:29.238296+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다",
+          "url": "http://v.daum.net/v/20261026050237969",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
     {
       "uid": "cc6d66faf7691e4b7cc0d19f98509920",
       "brand": "배달앱 일반",
@@ -14,14 +48,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 50.6,
-      "status": "Rising",
+      "viral_score": 47.2,
+      "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T15:14:00+09:00",
-      "processed_at": "2026-10-26T02:35:01.158061+09:00",
+      "processed_at": "2026-10-26T05:15:31.602183+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -30,53 +64,18 @@
       "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려",
-          "url": "http://v.daum.net/v/20261025124237084",
-          "channel": "다음뉴스"
-        },
-        {
           "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려새 창 열림",
           "url": "https://www.newsis.com/view/NISX20261025_0003839964",
           "channel": "네이버뉴스"
         },
         {
+          "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려",
+          "url": "http://v.daum.net/v/20261025124237084",
+          "channel": "다음뉴스"
+        },
+        {
           "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
           "url": "http://v.daum.net/v/20261024101230252",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "3b22aa0446cbd1263557260f2097da5b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.fntimes.com/html/view.php?ud=202610232213563405dd55077bc2_18",
-      "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림",
-      "summary": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림 이제 배민에서도 신발을 살 수 있기 때문이다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 46.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-26T00:00:00+09:00",
-      "processed_at": "2026-10-26T02:32:44.663085+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화",
-          "url": "http://v.daum.net/v/20261026000138326",
           "channel": "다음뉴스"
         }
       ]
@@ -94,13 +93,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 45.1,
+      "viral_score": 42.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-26T02:34:13.007311+09:00",
+      "processed_at": "2026-10-26T05:14:51.047797+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -112,6 +111,41 @@
           "title": "상품군 넓히는 배민…퀵커머스, 음식 배달 넘어설까새 창 열림",
           "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130307",
           "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "3b22aa0446cbd1263557260f2097da5b",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610232213563405dd55077bc2_18",
+      "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림",
+      "summary": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림 이제 배민에서도 신발을 살 수 있기 때문이다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 42.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-26T00:00:00+09:00",
+      "processed_at": "2026-10-26T05:13:37.728457+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화",
+          "url": "http://v.daum.net/v/20261026000138326",
+          "channel": "다음뉴스"
         }
       ]
     },
@@ -128,13 +162,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 32.3,
+      "viral_score": 29.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-26T02:32:55.255496+09:00",
+      "processed_at": "2026-10-26T05:13:46.707022+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -156,19 +190,19 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 31.3,
+      "viral_score": 29.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T11:23:00+09:00",
-      "processed_at": "2026-10-26T02:33:06.568158+09:00",
+      "processed_at": "2026-10-26T05:13:56.245499+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "배달의민족·한국외식업중앙회, 'K-장 웰니스 요리대회' 개최새 창 열림",
@@ -179,11 +213,6 @@
           "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
           "url": "http://v.daum.net/v/20261024101639299",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위새 창 열림",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146547",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -200,13 +229,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.8,
+      "viral_score": 23.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-26T02:34:03.312167+09:00",
+      "processed_at": "2026-10-26T05:14:42.849096+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -217,6 +246,40 @@
     }
   ],
   "feed": [
+    {
+      "uid": "24c755ccb4f03bb4b99a620ba9d530cc",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongang.co.kr/article/25472698",
+      "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림",
+      "summary": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림 약국의 배민화 결사반대",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 64.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-26T05:00:00+09:00",
+      "processed_at": "2026-10-26T05:13:29.238296+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다",
+          "url": "http://v.daum.net/v/20261026050237969",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
     {
       "uid": "043a99ef8b8731176e37b958a43690cd",
       "brand": "배달의민족",
@@ -230,14 +293,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 46.0,
+      "viral_score": 42.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-26T00:01:00+09:00",
-      "processed_at": "2026-10-26T02:33:47.940374+09:00",
+      "processed_at": "2026-10-26T05:14:29.833754+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -265,13 +328,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.8,
+      "viral_score": 23.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-26T02:34:03.312167+09:00",
+      "processed_at": "2026-10-26T05:14:42.849096+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -345,14 +408,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 47.4,
+      "viral_score": 44.3,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T12:42:00+09:00",
-      "processed_at": "2026-10-26T02:35:10.509361+09:00",
+      "processed_at": "2026-10-26T05:15:39.453283+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -380,13 +443,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 32.3,
+      "viral_score": 29.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-26T02:32:55.255496+09:00",
+      "processed_at": "2026-10-26T05:13:46.707022+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -420,7 +483,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 5,
       "duplicates": [
         {
           "title": "배달의민족-외식업중앙회, 22일 'K-장 웰니스 요리대회'새 창 열림",
@@ -446,11 +509,6 @@
           "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
           "url": "http://v.daum.net/v/20261024101639299",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위새 창 열림",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=146547",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -467,13 +525,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 45.1,
+      "viral_score": 42.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-26T02:34:13.007311+09:00",
+      "processed_at": "2026-10-26T05:14:51.047797+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -501,14 +559,14 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 34.9,
+      "viral_score": 34.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-26T02:39:08.916207+09:00",
+      "processed_at": "2026-10-26T05:19:09.377799+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -586,7 +644,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 15.4,
+      "viral_score": 15.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -594,7 +652,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T19:07:35+09:00",
-      "processed_at": "2026-10-26T02:40:10.225810+09:00",
+      "processed_at": "2026-10-26T05:20:01.041179+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -616,13 +674,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 18.1,
+      "viral_score": 17.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-26T02:34:31.514358+09:00",
+      "processed_at": "2026-10-26T05:15:06.683589+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -679,14 +737,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 38.5,
+      "viral_score": 38.0,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-23T17:01:00+09:00",
-      "processed_at": "2026-10-26T02:40:48.957343+09:00",
+      "processed_at": "2026-10-26T05:20:42.040909+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -724,13 +782,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 49.1,
+      "viral_score": 48.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-26T02:34:41.305942+09:00",
+      "processed_at": "2026-10-26T05:15:14.938717+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -764,13 +822,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 43.9,
+      "viral_score": 43.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-26T02:39:50.752570+09:00",
+      "processed_at": "2026-10-26T05:19:44.631048+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -865,13 +923,13 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 33.4,
+      "viral_score": 32.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:16:45+09:00",
-      "processed_at": "2026-10-26T02:41:38.238296+09:00",
+      "processed_at": "2026-10-26T05:21:23.509084+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -937,7 +995,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 17.9,
+      "viral_score": 17.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -945,7 +1003,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-26T02:40:58.433737+09:00",
+      "processed_at": "2026-10-26T05:20:49.900479+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1058,14 +1116,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 17.8,
+      "viral_score": 17.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T16:08:58+09:00",
-      "processed_at": "2026-10-26T02:37:11.678909+09:00",
+      "processed_at": "2026-10-26T05:17:30.681545+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1087,7 +1145,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 28.6,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1095,7 +1153,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T15:57:49+09:00",
-      "processed_at": "2026-10-25T23:15:20.648054+09:00",
+      "processed_at": "2026-10-26T05:20:26.077992+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1291,13 +1349,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.8,
+      "viral_score": 10.7,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-22T18:28:00+09:00",
-      "processed_at": "2026-10-26T02:38:36.643784+09:00",
+      "processed_at": "2026-10-26T05:18:42.320463+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1421,13 +1479,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 25.1,
+      "viral_score": 24.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-26T02:35:42.814247+09:00",
+      "processed_at": "2026-10-26T05:16:06.683971+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1529,6 +1587,66 @@
       ]
     },
     {
+      "uid": "5a518795ab423d799818b6a0ce9fde60",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.koit.co.kr/news/articleView.html?idxno=209610",
+      "title": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림",
+      "summary": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림 서비스 중단 과정도 논란이다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 29.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-22T10:24:29+09:00",
+      "processed_at": "2026-10-26T05:16:42.803405+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 6,
+      "duplicates": [
+        {
+          "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45716",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
+          "url": "http://v.daum.net/v/20261022132558237",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
+          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[단독] \"수수료 0%\" 홍보하고 15% 부과...배민, 대행사 탓만",
+          "url": "http://v.daum.net/v/20261022052208307",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민 ‘전통시장 장보기’ 수수료 지적…최수진 “0% 홍보와 실제 달라...새 창 열림",
+          "url": "https://www.ddaily.co.kr/page/view/2026102213425779491",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
       "uid": "845aa182b12206a126f19195cc1f159a",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -1555,61 +1673,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "5a518795ab423d799818b6a0ce9fde60",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.koit.co.kr/news/articleView.html?idxno=209610",
-      "title": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림",
-      "summary": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림 서비스 중단 과정도 논란이다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 29.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-22T10:24:29+09:00",
-      "processed_at": "2026-10-26T02:36:14.833169+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 5,
-      "duplicates": [
-        {
-          "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45716",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
-          "url": "http://v.daum.net/v/20261022132558237",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[단독] \"수수료 0%\" 홍보하고 15% 부과...배민, 대행사 탓만",
-          "url": "http://v.daum.net/v/20261022052208307",
-          "channel": "다음뉴스"
-        }
-      ]
     },
     {
       "uid": "8411a39ce401be2e3a3ff98de9097c0d",
@@ -1715,14 +1778,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 29.9,
+      "viral_score": 29.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T09:34:06+09:00",
-      "processed_at": "2026-10-26T02:37:30.656482+09:00",
+      "processed_at": "2026-10-26T05:17:46.666055+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9146,39 +9209,45 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "4204f56b8a31101d00afe729c31d2d0b",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20260930194552496",
-      "title": "[현장] 배달앱 수수료, 얼마가 적정한가…상한제 놓고 엇갈린 셈법",
-      "summary": "[현장] 배달앱 수수료, 얼마가 적정한가…상한제 놓고 엇갈린 셈법 2024년 배달플랫폼-입점업체 상생협의체가 구성된 이후 12차례 논의를 거친 끝에 배달의민족과 쿠팡이츠가 거",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 11.9,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-09-30T19:45:00+09:00",
-      "processed_at": "2026-10-03T10:02:46.108231+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "24c755ccb4f03bb4b99a620ba9d530cc",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.joongang.co.kr/article/25472698",
+          "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림",
+          "summary": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다새 창 열림 약국의 배민화 결사반대",
+          "sentiment": "negative",
+          "tags": [
+            "#소비자반응",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 64.5,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-26T05:00:00+09:00",
+          "processed_at": "2026-10-26T05:13:29.238296+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "“약 배송 확대” “배민 만드냐”…한성숙vs정은경도 엇갈렸다",
+              "url": "http://v.daum.net/v/20261026050237969",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
         {
           "uid": "043a99ef8b8731176e37b958a43690cd",
           "brand": "배달의민족",
@@ -9192,14 +9261,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 46.0,
+          "viral_score": 42.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-26T00:01:00+09:00",
-          "processed_at": "2026-10-26T02:33:47.940374+09:00",
+          "processed_at": "2026-10-26T05:14:29.833754+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9227,13 +9296,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 32.3,
+          "viral_score": 29.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T12:30:06+09:00",
-          "processed_at": "2026-10-26T02:32:55.255496+09:00",
+          "processed_at": "2026-10-26T05:13:46.707022+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9255,19 +9324,19 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 31.3,
+          "viral_score": 29.0,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T11:23:00+09:00",
-          "processed_at": "2026-10-26T02:33:06.568158+09:00",
+          "processed_at": "2026-10-26T05:13:56.245499+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 3,
+          "duplicate_count": 2,
           "duplicates": [
             {
               "title": "배달의민족·한국외식업중앙회, 'K-장 웰니스 요리대회' 개최새 창 열림",
@@ -9278,11 +9347,6 @@
               "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위",
               "url": "http://v.daum.net/v/20261024101639299",
               "channel": "다음뉴스"
-            },
-            {
-              "title": "배민·외식업중앙회 'K-장 웰니스 요리대회'…'대추고추장떡볶이' 1위새 창 열림",
-              "url": "https://www.tournews21.com/news/articleView.html?idxno=146547",
-              "channel": "네이버뉴스"
             }
           ]
         },
@@ -9299,13 +9363,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 45.1,
+          "viral_score": 42.3,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-25T10:45:00+09:00",
-          "processed_at": "2026-10-26T02:34:13.007311+09:00",
+          "processed_at": "2026-10-26T05:14:51.047797+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9321,14 +9385,14 @@
           ]
         }
       ],
-      "total": 4,
-      "avg_score": 38.7,
+      "total": 5,
+      "avg_score": 41.6,
       "ratio": {
-        "negative": 25,
-        "positive": 75,
+        "negative": 40,
+        "positive": 60,
         "neutral": 0
       },
-      "mentions": 10
+      "mentions": 11
     },
     "coupang": {
       "issues": [],
