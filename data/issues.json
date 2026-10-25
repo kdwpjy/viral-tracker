@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:16:58.700433+09:00",
+  "updated_at": "2026-10-26T02:42:07.638081+09:00",
   "hot": [
     {
       "uid": "cc6d66faf7691e4b7cc0d19f98509920",
@@ -14,14 +14,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 55.6,
+      "viral_score": 50.6,
       "status": "Rising",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T15:14:00+09:00",
-      "processed_at": "2026-10-25T23:09:08.698870+09:00",
+      "processed_at": "2026-10-26T02:35:01.158061+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -30,18 +30,53 @@
       "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261025_0003839964",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려",
           "url": "http://v.daum.net/v/20261025124237084",
           "channel": "다음뉴스"
         },
         {
+          "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261025_0003839964",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
           "url": "http://v.daum.net/v/20261024101230252",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "3b22aa0446cbd1263557260f2097da5b",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610232213563405dd55077bc2_18",
+      "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림",
+      "summary": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림 이제 배민에서도 신발을 살 수 있기 때문이다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 46.0,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-26T00:00:00+09:00",
+      "processed_at": "2026-10-26T02:32:44.663085+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화",
+          "url": "http://v.daum.net/v/20261026000138326",
           "channel": "다음뉴스"
         }
       ]
@@ -59,13 +94,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.2,
+      "viral_score": 45.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-25T23:08:20.203612+09:00",
+      "processed_at": "2026-10-26T02:34:13.007311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -81,36 +116,6 @@
       ]
     },
     {
-      "uid": "6a1ab2ec00937b45d6c8a5abdf64dd71",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434780",
-      "title": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상...새 창 열림",
-      "summary": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상 배달비 체계 개편 역시 새로운 논란으로 지목됐다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#소비자반응"
-      ],
-      "viral_score": 35.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-25T23:13:49.164346+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠",
-        "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "f511bb09e16f851379ee1be31c34157c",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -123,13 +128,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 35.7,
+      "viral_score": 32.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-25T23:07:11.463025+09:00",
+      "processed_at": "2026-10-26T02:32:55.255496+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -151,13 +156,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 34.5,
+      "viral_score": 31.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T11:23:00+09:00",
-      "processed_at": "2026-10-25T23:07:22.787486+09:00",
+      "processed_at": "2026-10-26T02:33:06.568158+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -195,13 +200,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 27.6,
+      "viral_score": 24.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-25T23:08:10.414111+09:00",
+      "processed_at": "2026-10-26T02:34:03.312167+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -212,6 +217,41 @@
     }
   ],
   "feed": [
+    {
+      "uid": "043a99ef8b8731176e37b958a43690cd",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261026000138326",
+      "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화",
+      "summary": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화 전날 빗속에서 달린 탓에 러닝화가 여전히 젖어 있었다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 46.0,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-26T00:01:00+09:00",
+      "processed_at": "2026-10-26T02:33:47.940374+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610232213563405dd55077bc2_18",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "1c48b6f65d29f6bb3b552395dee333b1",
       "brand": "배달의민족, 쿠팡이츠",
@@ -225,13 +265,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 27.6,
+      "viral_score": 24.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T15:44:37+09:00",
-      "processed_at": "2026-10-25T23:08:10.414111+09:00",
+      "processed_at": "2026-10-26T02:34:03.312167+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -278,7 +318,7 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "라이더들 \"배달앱 수수료 상한제, 결사 반대...생존권 위협\"",
@@ -288,11 +328,6 @@
         {
           "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려새 창 열림",
           "url": "https://www.newsis.com/view/NISX20261025_0003839964",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공...새 창 열림",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/10/24/M2DJDD7XCFHTNJWHKOQRZCNRF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "channel": "네이버뉴스"
         }
       ]
@@ -310,14 +345,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 51.8,
-      "status": "Rising",
+      "viral_score": 47.4,
+      "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-25T12:42:00+09:00",
-      "processed_at": "2026-10-25T23:09:18.114838+09:00",
+      "processed_at": "2026-10-26T02:35:10.509361+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -345,13 +380,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 35.7,
+      "viral_score": 32.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-25T12:30:06+09:00",
-      "processed_at": "2026-10-25T23:07:11.463025+09:00",
+      "processed_at": "2026-10-26T02:32:55.255496+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -432,13 +467,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 49.2,
+      "viral_score": 45.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-25T23:08:20.203612+09:00",
+      "processed_at": "2026-10-26T02:34:13.007311+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -466,14 +501,14 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 35.8,
+      "viral_score": 34.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-25T23:13:49.164346+09:00",
+      "processed_at": "2026-10-26T02:39:08.916207+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -551,7 +586,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 15.8,
+      "viral_score": 15.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -559,7 +594,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T19:07:35+09:00",
-      "processed_at": "2026-10-25T23:14:50.738193+09:00",
+      "processed_at": "2026-10-26T02:40:10.225810+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -581,13 +616,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 18.9,
+      "viral_score": 18.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-25T23:08:38.900483+09:00",
+      "processed_at": "2026-10-26T02:34:31.514358+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -644,14 +679,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 39.2,
+      "viral_score": 38.5,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-23T17:01:00+09:00",
-      "processed_at": "2026-10-25T23:15:39.673112+09:00",
+      "processed_at": "2026-10-26T02:40:48.957343+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -689,13 +724,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 49.8,
+      "viral_score": 49.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-25T23:08:48.732361+09:00",
+      "processed_at": "2026-10-26T02:34:41.305942+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -729,13 +764,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 44.6,
+      "viral_score": 43.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-25T23:14:31.215809+09:00",
+      "processed_at": "2026-10-26T02:39:50.752570+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -830,13 +865,13 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 34.1,
+      "viral_score": 33.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:16:45+09:00",
-      "processed_at": "2026-10-25T23:16:29.113636+09:00",
+      "processed_at": "2026-10-26T02:41:38.238296+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -902,7 +937,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 18.3,
+      "viral_score": 17.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -910,7 +945,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-25T23:15:49.042403+09:00",
+      "processed_at": "2026-10-26T02:40:58.433737+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1023,14 +1058,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 18.2,
+      "viral_score": 17.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-23T16:08:58+09:00",
-      "processed_at": "2026-10-25T23:11:41.354781+09:00",
+      "processed_at": "2026-10-26T02:37:11.678909+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1256,13 +1291,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.9,
+      "viral_score": 10.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-22T18:28:00+09:00",
-      "processed_at": "2026-10-25T23:13:06.541737+09:00",
+      "processed_at": "2026-10-26T02:38:36.643784+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1386,13 +1421,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 25.4,
+      "viral_score": 25.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-25T23:10:01.085242+09:00",
+      "processed_at": "2026-10-26T02:35:42.814247+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1494,66 +1529,6 @@
       ]
     },
     {
-      "uid": "5a518795ab423d799818b6a0ce9fde60",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.koit.co.kr/news/articleView.html?idxno=209610",
-      "title": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림",
-      "summary": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림 서비스 중단 과정도 논란이다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 30.1,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-22T10:24:29+09:00",
-      "processed_at": "2026-10-25T23:10:44.125126+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 6,
-      "duplicates": [
-        {
-          "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
-          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45716",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
-          "url": "http://v.daum.net/v/20261022132558237",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
-          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[단독] \"수수료 0%\" 홍보하고 15% 부과...배민, 대행사 탓만",
-          "url": "http://v.daum.net/v/20261022052208307",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민 ‘전통시장 장보기’ 수수료 지적…최수진 “0% 홍보와 실제 달라...새 창 열림",
-          "url": "https://www.ddaily.co.kr/page/view/2026102213425779491",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "845aa182b12206a126f19195cc1f159a",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -1580,6 +1555,61 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "5a518795ab423d799818b6a0ce9fde60",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.koit.co.kr/news/articleView.html?idxno=209610",
+      "title": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림",
+      "summary": "배민, '전통시장 수수료 0%' 홍보 뒤 15%대 수수료 논란새 창 열림 서비스 중단 과정도 논란이다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 29.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-22T10:24:29+09:00",
+      "processed_at": "2026-10-26T02:36:14.833169+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 5,
+      "duplicates": [
+        {
+          "title": "배민, '전통시장 수수료 0%' 대외 홍보 '눈 가리고 아옹'?새 창 열림",
+          "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45716",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란새 창 열림",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260092",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
+          "url": "http://v.daum.net/v/20261022132558237",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "수수료 0%’ 외치던 배민, 뒤로는 15% 뗐다… 일방 폐지에 멍든 전통시장새 창 열림",
+          "url": "https://www.dailyt.co.kr/newsView/dlt202610220029",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[단독] \"수수료 0%\" 홍보하고 15% 부과...배민, 대행사 탓만",
+          "url": "http://v.daum.net/v/20261022052208307",
+          "channel": "다음뉴스"
+        }
+      ]
     },
     {
       "uid": "8411a39ce401be2e3a3ff98de9097c0d",
@@ -1685,14 +1715,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 30.1,
+      "viral_score": 29.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-22T09:34:06+09:00",
-      "processed_at": "2026-10-25T23:12:00.338448+09:00",
+      "processed_at": "2026-10-26T02:37:30.656482+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9144,39 +9174,46 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "7da03335c08dfa4c363facf460d67971",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86781",
-      "title": "신한은행 땡겨요, 1000만 고객 달성…연말까지 배달비 전액 지원새 창 열림",
-      "summary": "신한은행 땡겨요, 1000만 고객 달성…연말까지 배달비 전액 지원새 창 열림 고객의 배달비를 전액 지원한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#감동·긍정"
-      ],
-      "viral_score": 57.6,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-09-30T16:39:58+09:00",
-      "processed_at": "2026-09-30T16:54:11.966919+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "043a99ef8b8731176e37b958a43690cd",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261026000138326",
+          "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화",
+          "summary": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화 전날 빗속에서 달린 탓에 러닝화가 여전히 젖어 있었다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 46.0,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-10-26T00:01:00+09:00",
+          "processed_at": "2026-10-26T02:33:47.940374+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "치킨 시켜 먹다 옷·신발 산다…배민, ‘쇼핑의 민족’으로 진화새 창 열림",
+              "url": "https://www.fntimes.com/html/view.php?ud=202610232213563405dd55077bc2_18",
+              "channel": "네이버뉴스"
+            }
+          ]
+        },
         {
           "uid": "f511bb09e16f851379ee1be31c34157c",
           "brand": "배달의민족",
@@ -9190,13 +9227,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 35.7,
+          "viral_score": 32.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T12:30:06+09:00",
-          "processed_at": "2026-10-25T23:07:11.463025+09:00",
+          "processed_at": "2026-10-26T02:32:55.255496+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9218,13 +9255,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 34.5,
+          "viral_score": 31.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-25T11:23:00+09:00",
-          "processed_at": "2026-10-25T23:07:22.787486+09:00",
+          "processed_at": "2026-10-26T02:33:06.568158+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9262,13 +9299,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 49.2,
+          "viral_score": 45.1,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-25T10:45:00+09:00",
-          "processed_at": "2026-10-25T23:08:20.203612+09:00",
+          "processed_at": "2026-10-26T02:34:13.007311+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9284,56 +9321,25 @@
           ]
         }
       ],
-      "total": 3,
-      "avg_score": 39.8,
+      "total": 4,
+      "avg_score": 38.7,
       "ratio": {
-        "negative": 33,
-        "positive": 67,
+        "negative": 25,
+        "positive": 75,
         "neutral": 0
       },
-      "mentions": 8
+      "mentions": 10
     },
     "coupang": {
-      "issues": [
-        {
-          "uid": "6a1ab2ec00937b45d6c8a5abdf64dd71",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434780",
-          "title": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상...새 창 열림",
-          "summary": "국감 도마 오른 쿠팡이츠…오세희 의원 \"수수료·배달비·악성리뷰, 소상 배달비 체계 개편 역시 새로운 논란으로 지목됐다",
-          "sentiment": "negative",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#소비자반응"
-          ],
-          "viral_score": 35.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주"
-          ],
-          "published_at": "2026-10-23T23:52:14+09:00",
-          "processed_at": "2026-10-25T23:13:49.164346+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠",
-            "배달비"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        }
-      ],
-      "total": 1,
-      "avg_score": 35.8,
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
       "ratio": {
-        "negative": 100,
+        "negative": 0,
         "positive": 0,
         "neutral": 0
       },
-      "mentions": 2
+      "mentions": 1
     }
   }
 }
