@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T18:36:54.083744+09:00",
+  "updated_at": "2026-10-27T01:42:05.715102+09:00",
   "hot": [
     {
       "uid": "27ace2f320612d82ecd4f3190cdc4d79",
@@ -14,14 +14,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 51.6,
-      "status": "Rising",
+      "viral_score": 43.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-26T08:01:00+09:00",
-      "processed_at": "2026-10-26T18:36:27.080888+09:00",
+      "processed_at": "2026-10-27T01:41:41.987357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -43,14 +43,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 48.3,
+      "viral_score": 40.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-26T05:28:00+09:00",
-      "processed_at": "2026-10-26T18:36:36.386455+09:00",
+      "processed_at": "2026-10-27T01:41:50.045164+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -72,13 +72,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 46.8,
+      "viral_score": 37.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T16:34:00+09:00",
-      "processed_at": "2026-10-26T18:33:09.055845+09:00",
+      "processed_at": "2026-10-27T01:38:54.707419+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -106,13 +106,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 46.1,
+      "viral_score": 36.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T16:05:00+09:00",
-      "processed_at": "2026-10-26T18:33:18.700220+09:00",
+      "processed_at": "2026-10-27T01:39:03.192281+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -133,45 +133,17 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 43.5,
+      "viral_score": 34.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T14:18:00+09:00",
-      "processed_at": "2026-10-26T18:33:28.392310+09:00",
+      "processed_at": "2026-10-27T01:39:11.847897+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "40fc46350832f786676c577a0a4974bc",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261026181002363",
-      "title": "백억커피, 10월 통신사·배달앱 제휴 할인 제공",
-      "summary": "백억커피, 10월 통신사·배달앱 제휴 할인 제공 백억커피가 10월달 프로모션을 진행하고 있다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 37.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-26T18:10:00+09:00",
-      "processed_at": "2026-10-26T18:32:59.788663+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -189,7 +161,7 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 34.8,
+      "viral_score": 30.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -197,7 +169,7 @@
         "라이더"
       ],
       "published_at": "2026-10-25T15:14:00+09:00",
-      "processed_at": "2026-10-26T18:36:45.067663+09:00",
+      "processed_at": "2026-10-27T01:41:57.727380+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -206,16 +178,44 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "배달앱 수수료 상한제, 수수료 낮추려다 배달 생태계 흔들리나",
-          "url": "http://v.daum.net/v/20261026121633649",
-          "channel": "다음뉴스"
-        },
-        {
           "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려",
           "url": "http://v.daum.net/v/20261025124237084",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제, 수수료 낮추려다 배달 생태계 흔들리나",
+          "url": "http://v.daum.net/v/20261026121633649",
+          "channel": "다음뉴스"
         }
       ]
+    },
+    {
+      "uid": "40fc46350832f786676c577a0a4974bc",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261026181002363",
+      "title": "백억커피, 10월 통신사·배달앱 제휴 할인 제공",
+      "summary": "백억커피, 10월 통신사·배달앱 제휴 할인 제공 백억커피가 10월달 프로모션을 진행하고 있다",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 30.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-26T18:10:00+09:00",
+      "processed_at": "2026-10-27T01:38:46.247066+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "8846089239c8c6be0104df97baff4e7a",
@@ -230,13 +230,13 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 31.4,
+      "viral_score": 26.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T09:00:00+09:00",
-      "processed_at": "2026-10-26T18:36:17.431843+09:00",
+      "processed_at": "2026-10-27T01:41:33.665414+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -259,13 +259,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.0,
+      "viral_score": 18.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-26T18:34:04.231952+09:00",
+      "processed_at": "2026-10-27T01:39:41.958569+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -289,13 +289,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 37.4,
+      "viral_score": 30.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T18:10:00+09:00",
-      "processed_at": "2026-10-26T18:32:59.788663+09:00",
+      "processed_at": "2026-10-27T01:38:46.247066+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -356,13 +356,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 46.1,
+      "viral_score": 36.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T16:05:00+09:00",
-      "processed_at": "2026-10-26T18:33:18.700220+09:00",
+      "processed_at": "2026-10-27T01:39:03.192281+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -389,13 +389,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 43.5,
+      "viral_score": 34.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-26T14:18:00+09:00",
-      "processed_at": "2026-10-26T18:33:28.392310+09:00",
+      "processed_at": "2026-10-27T01:39:11.847897+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -492,14 +492,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 51.6,
-      "status": "Rising",
+      "viral_score": 43.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-26T08:01:00+09:00",
-      "processed_at": "2026-10-26T18:36:27.080888+09:00",
+      "processed_at": "2026-10-27T01:41:41.987357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -521,14 +521,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 48.3,
+      "viral_score": 40.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-26T05:28:00+09:00",
-      "processed_at": "2026-10-26T18:36:36.386455+09:00",
+      "processed_at": "2026-10-27T01:41:50.045164+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -645,7 +645,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 33.1,
+      "viral_score": 29.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -653,7 +653,7 @@
         "라이더"
       ],
       "published_at": "2026-10-25T12:42:00+09:00",
-      "processed_at": "2026-10-26T18:36:54.079810+09:00",
+      "processed_at": "2026-10-27T01:42:05.711693+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -709,13 +709,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.0,
+      "viral_score": 18.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-25T10:45:00+09:00",
-      "processed_at": "2026-10-26T18:34:04.231952+09:00",
+      "processed_at": "2026-10-27T01:39:41.958569+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -797,13 +797,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.8,
+      "viral_score": 20.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-26T18:34:42.764424+09:00",
+      "processed_at": "2026-10-27T01:40:13.726062+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -864,13 +864,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 46.7,
+      "viral_score": 46.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-26T18:34:52.561280+09:00",
+      "processed_at": "2026-10-27T01:40:21.939547+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -899,13 +899,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.5,
+      "viral_score": 40.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-26T18:35:02.649563+09:00",
+      "processed_at": "2026-10-27T01:40:30.519026+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -955,7 +955,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 25.9,
+      "viral_score": 25.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -963,7 +963,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-26T18:35:21.458716+09:00",
+      "processed_at": "2026-10-27T01:40:46.373014+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1013,7 +1013,7 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 16.7,
+      "viral_score": 16.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1022,7 +1022,7 @@
         "직원"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-26T18:35:40.305573+09:00",
+      "processed_at": "2026-10-27T01:41:02.196367+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1044,14 +1044,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 25.8,
+      "viral_score": 25.2,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-26T18:35:49.432644+09:00",
+      "processed_at": "2026-10-27T01:41:09.861760+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9131,13 +9131,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 37.4,
+          "viral_score": 30.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-26T18:10:00+09:00",
-          "processed_at": "2026-10-26T18:32:59.788663+09:00",
+          "processed_at": "2026-10-27T01:38:46.247066+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9159,13 +9159,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 46.8,
+          "viral_score": 37.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-26T16:34:00+09:00",
-          "processed_at": "2026-10-26T18:33:09.055845+09:00",
+          "processed_at": "2026-10-27T01:38:54.707419+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9193,13 +9193,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 46.1,
+          "viral_score": 36.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-26T16:05:00+09:00",
-          "processed_at": "2026-10-26T18:33:18.700220+09:00",
+          "processed_at": "2026-10-27T01:39:03.192281+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9220,13 +9220,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 43.5,
+          "viral_score": 34.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-26T14:18:00+09:00",
-          "processed_at": "2026-10-26T18:33:28.392310+09:00",
+          "processed_at": "2026-10-27T01:39:11.847897+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9248,13 +9248,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 20.0,
+          "viral_score": 18.1,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-25T10:45:00+09:00",
-          "processed_at": "2026-10-26T18:34:04.231952+09:00",
+          "processed_at": "2026-10-27T01:39:41.958569+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9265,7 +9265,7 @@
         }
       ],
       "total": 5,
-      "avg_score": 38.8,
+      "avg_score": 31.5,
       "ratio": {
         "negative": 0,
         "positive": 60,
