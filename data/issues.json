@@ -1,52 +1,71 @@
 {
-  "updated_at": "2026-10-29T10:39:39.578051+09:00",
+  "updated_at": "2026-10-29T17:02:02.371924+09:00",
   "hot": [
     {
-      "uid": "ecdf4a76e96d9498899d532c7c56f959",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029093840123",
-      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
-      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
-      "sentiment": "negative",
+      "uid": "d09d09b23f27d4099d3cc74d06571dd0",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.news2day.co.kr/article/20261028500286",
+      "title": "배민, AI로 배달 ‘기다림’ 줄인다…주문 예측부터 배차 최적화까지새 창 열림",
+      "summary": "배민, AI로 배달 ‘기다림’ 줄인다…주문 예측부터 배차 최적화까지새 창 열림 기존에는 점주가 직접 입력한 조리시간을 주로 활용했지만, 메뉴별 주문량과 처리 속도 등을 반영해 예측 모델을",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
+        "#서비스·품질",
+        "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 68.3,
+      "viral_score": 53.8,
       "status": "Rising",
       "stakeholders": [
+        "소비자",
         "점주"
       ],
-      "published_at": "2026-10-29T09:38:00+09:00",
-      "processed_at": "2026-10-29T10:32:23.355960+09:00",
+      "published_at": "2026-10-29T16:51:00+09:00",
+      "processed_at": "2026-10-29T16:57:24.613937+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달앱"
+        "배달의민족"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "8e59fb5a59966399b841c898d1da9cb4",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "http://www.press9.kr/news/articleView.html?idxno=85195",
+      "title": "신한은행, '땡겨요' 이용자 반등…무료배달로 연말 승부새 창 열림",
+      "summary": "신한은행, '땡겨요' 이용자 반등…무료배달로 연말 승부새 창 열림 신한은행은 10월1일부터 12월31일까지 제휴배달 서비스 '땡배달' 이용 고객의 배달비를 전액 지원하고 있다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 52.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-29T13:26:39+09:00",
+      "processed_at": "2026-10-29T17:02:02.365394+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "무료배달"
+      ],
+      "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "경산시, 공공배달앱 '땡겨요' 추가 도입새 창 열림",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=726975",
+          "title": "경산시-신한은행, 공공배달앱 '땡겨요' 운영 업무협약새 창 열림",
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=558956",
           "channel": "네이버뉴스"
         },
         {
-          "title": "경산시, 공공배달앱 '땡겨요' 도입…소상공인 수수료 부담 낮춘다새 창 열림",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419482",
+          "title": "경산시, 신한은행과 공공배달앱 '땡겨요' 협약 체결새 창 열림",
+          "url": "http://news.lghellovision.net/news/articleView.html?idxno=560214",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약새 창 열림",
-          "url": "https://www.sidae.com/article/2026102909110644136",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "경산시, 공공배달앱 ‘땡겨요’ 추가 도입",
-          "url": "http://v.daum.net/v/20261029090743577",
-          "channel": "다음뉴스"
         }
       ]
     },
@@ -63,14 +82,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 55.2,
-      "status": "Rising",
+      "viral_score": 49.0,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-29T10:34:27.182627+09:00",
+      "processed_at": "2026-10-29T16:55:36.189609+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -86,32 +105,388 @@
       ]
     },
     {
-      "uid": "35e82abb42b9354e8a35a7baf4f7837a",
-      "brand": "배달앱 일반",
+      "uid": "5ba87b84c689f4ea057dc239776b7039",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.viva100.com/article/20261029500076",
-      "title": "공공배달앱으로 내수 살린다… 경기도주식회사, ‘코리아그랜드페스티...새 창 열림",
-      "summary": "공공배달앱으로 내수 살린다… 경기도주식회사, ‘코리아그랜드페스티 고물가와 소비 둔화로 어려움을 겪는 소상공인을 돕고 내수 시장에 활력을 불어넣기 위해 경기도 공공배달앱 ‘배",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077355",
+      "title": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림",
+      "summary": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림 배달의민족은 한국외식업중앙회와 지난 22일 경기 수원시 배민아카데미 경기센터에서 'K-장 웰니스 요리대회'를",
       "sentiment": "positive",
       "tags": [
+        "#서비스·품질",
         "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#마케팅·광고"
       ],
-      "viral_score": 54.6,
-      "status": "Rising",
+      "viral_score": 48.8,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-10-29T08:23:00+09:00",
-      "processed_at": "2026-10-29T10:32:13.812223+09:00",
+      "published_at": "2026-10-29T16:10:00+09:00",
+      "processed_at": "2026-10-29T16:52:54.082188+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달앱"
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
+          "url": "http://v.daum.net/v/20261029161002012",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "d82b42d573a9d45453d90ea83312856f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
+      "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
+      "summary": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림 배민주문접수PC 개편화면 예시",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 48.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T13:16:59+09:00",
+      "processed_at": "2026-10-29T16:58:37.810031+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 17,
+      "duplicates": [
+        {
+          "title": "배민, 주문접수부터 정산까지 한 화면에…입점업주 매장 운영 편의성 높...새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592402808523",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
+          "url": "http://v.daum.net/v/20261029104141990",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, '배민주문접수PC' 개편…업주 매장 운영 편의성 개선",
+          "url": "http://v.daum.net/v/20261029094359387",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
+          "url": "http://v.daum.net/v/20261029092703506",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
+          "url": "https://www.viva100.com/article/20261029500273",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
+          "url": "http://v.daum.net/v/20261029092745561",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
+          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 개편…주문부터 매장 관리·정산까지 한눈에새 창 열림",
+          "url": "https://www.ngetnews.com/news/articleView.html?idxno=555314",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "매출·비용 한눈에…배민, 주문부터 정산까지 한 화면에새 창 열림",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120712",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에새 창 열림",
+          "url": "https://www.dailian.co.kr/news/view/1707825/?sc=Naver",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
+          "url": "http://v.daum.net/v/20261029145523042",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리·정산 기능 강화새 창 열림",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212136",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
+          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
+          "url": "http://v.daum.net/v/20261029102032698",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
+          "url": "http://v.daum.net/v/20261029094720528",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
+          "url": "https://www.etnews.com/20261029000037",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "c1ce394bffc60ff09e44d3681cc4474b",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029095241820",
+      "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
+      "summary": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리 중지도 일괄 설정할 수 있으며 '고객센터' 메뉴를 통해서는 라이더 배차·픽업 현황 조회, 주문 취소 요청, ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 43.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T09:52:00+09:00",
+      "processed_at": "2026-10-29T16:59:15.236380+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "2deefc1559370222b09fbe37512e02e3",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.huffingtonpost.kr/article/261647",
+      "title": "배민 김범석 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀티 호...새 창 열림",
+      "summary": "배민 김범석 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀티 호 배달의민족은 AI로 조리와 배차의 엇박자를 줄이려 한다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 42.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-29T15:59:15+09:00",
+      "processed_at": "2026-10-29T16:53:04.755979+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "f9c5810516edb614073b4555cfae3586",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029091117759",
+      "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에",
+      "summary": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에 〈자료 우아한형제들〉 배달의민족이 입점업주의 PC 프로그램을 개선하고 주문 접수, 매장 관리, 정산 기능을 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 38.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-29T09:11:00+09:00",
+      "processed_at": "2026-10-29T16:57:52.516597+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "aa00270da99b6c0cc2773f3edad169c8",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://ditoday.com/%eb%88%88%eb%ac%bc%eb%82%9c%eb%8b%a4-%eb%b0%b0%eb%af%bc-%ec%98%81%ec%88%98%ec%a6%9d-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%a1%b0%ed%9a%8c%ec%88%98-530%eb%a7%8c/",
+      "title": "\"눈물난다\" 배민 '영수증 캠페인' 조회수 530만새 창 열림",
+      "summary": "\"눈물난다\" 배민 '영수증 캠페인' 조회수 530만새 창 열림 우아한형제들이 배달의민족(배민)의 신규 브랜드 캠페인 ‘배민영수증 프로젝트’ 영상이 공개 18일 만인 지난 ",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 32.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-29T14:38:17+09:00",
+      "processed_at": "2026-10-29T16:53:45.178251+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "041e1322739ce5c6abb213425be8e7b7",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210491",
+      "title": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림",
+      "summary": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림 라이더 배차·픽업 현황 조회와 주문 취소 요청, 손실금 환급 신청 등도 프로그램 내 고객센터 메뉴에서 처리할",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 31.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T10:28:53+09:00",
+      "processed_at": "2026-10-29T17:00:52.657301+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  ],
+  "feed": [
+    {
+      "uid": "d82b42d573a9d45453d90ea83312856f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
+      "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
+      "summary": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림 배민주문접수PC 개편화면 예시",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 48.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T13:16:59+09:00",
+      "processed_at": "2026-10-29T16:58:37.810031+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 11,
+      "duplicates": [
+        {
+          "title": "배민, 주문접수부터 정산까지 한 화면에…입점업주 매장 운영 편의성 높...새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592402808523",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
+          "url": "http://v.daum.net/v/20261029092703506",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
+          "url": "https://www.viva100.com/article/20261029500273",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
+          "url": "http://v.daum.net/v/20261029092745561",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
+          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "매출·비용 한눈에…배민, 주문부터 정산까지 한 화면에새 창 열림",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120712",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에새 창 열림",
+          "url": "https://www.dailian.co.kr/news/view/1707825/?sc=Naver",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리·정산 기능 강화새 창 열림",
+          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212136",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
+          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
+          "url": "https://www.etnews.com/20261029000037",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "d09d09b23f27d4099d3cc74d06571dd0",
@@ -132,8 +507,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-10-29T10:28:00+09:00",
-      "processed_at": "2026-10-29T10:35:45.831310+09:00",
+      "published_at": "2026-10-29T16:51:00+09:00",
+      "processed_at": "2026-10-29T16:57:24.613937+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -141,96 +516,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "03538091c1bab36fa525d0c2f1c674cb",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029092703506",
-      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
-      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 52.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T09:27:00+09:00",
-      "processed_at": "2026-10-29T10:37:08.461524+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 12,
-      "duplicates": [
-        {
-          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
-          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편...매장 운영·정산 관리 편의성 높인다새 창 열림",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=137849",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, '배민주문접수PC' 개편…업주 매장 운영 편의성 개선",
-          "url": "http://v.daum.net/v/20261029094359387",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-          "url": "https://www.viva100.com/article/20261029500273",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
-          "url": "http://v.daum.net/v/20261029092745561",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261029100431",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
-          "url": "http://v.daum.net/v/20261029102032698",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민 주문접수PC 개편… 매장 관리 기능 통합새 창 열림",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080570",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
-          "url": "http://v.daum.net/v/20261029095241820",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리새 창 열림",
-          "url": "https://www.yna.co.kr/view/AKR20261029059300030?input=1195m",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
-          "url": "http://v.daum.net/v/20261029094720528",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845962",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "13507aa3fb287213b821c30cae4fb370",
@@ -258,202 +543,12 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f9c5810516edb614073b4555cfae3586",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029091117759",
-      "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에",
-      "summary": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에 〈자료 우아한형제들〉 배달의민족이 입점업주의 PC 프로그램을 개선하고 주문 접수, 매장 관리, 정산 기능을 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 47.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-29T10:36:23.661853+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
+      "duplicate_count": 6,
       "duplicates": [
         {
-          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-          "url": "https://www.etnews.com/20261029000037",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "b70d89e690349efa93fcf188d34f005d",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028154824508",
-      "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
-      "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 36.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-28T15:48:00+09:00",
-      "processed_at": "2026-10-29T10:31:30.408218+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점",
-          "url": "http://v.daum.net/v/20261028170314649",
+          "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
+          "url": "http://v.daum.net/v/20261029104141990",
           "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "7ff9881d5fa5eb232c6d388157c3669a",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029102021682",
-      "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
-      "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 상세페이지·리뷰를 종합 정리하는 AI 어시스턴트 기능도 함께 선보인다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-29T10:20:00+09:00",
-      "processed_at": "2026-10-29T10:30:33.853251+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "070c219169a54c9b6f1dbeb9154019d5",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://byline.network/?p=9004111222625206",
-      "title": "배민이 라이더를 ‘명’이 아니라 ‘시간’으로 세는 이유새 창 열림",
-      "summary": "배민이 라이더를 ‘명’이 아니라 ‘시간’으로 세는 이유새 창 열림 그런데 배달의민족(배민)은 관점을 바꿨다",
-      "sentiment": "neutral",
-      "tags": [
-        "#라이더",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.4,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-29T10:00:26+09:00",
-      "processed_at": "2026-10-29T10:29:43.201954+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    }
-  ],
-  "feed": [
-    {
-      "uid": "d09d09b23f27d4099d3cc74d06571dd0",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20261028500286",
-      "title": "배민, AI로 배달 ‘기다림’ 줄인다…주문 예측부터 배차 최적화까지새 창 열림",
-      "summary": "배민, AI로 배달 ‘기다림’ 줄인다…주문 예측부터 배차 최적화까지새 창 열림 기존에는 점주가 직접 입력한 조리시간을 주로 활용했지만, 메뉴별 주문량과 처리 속도 등을 반영해 예측 모델을",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 53.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-29T10:28:00+09:00",
-      "processed_at": "2026-10-29T10:35:45.831310+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "03538091c1bab36fa525d0c2f1c674cb",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029092703506",
-      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
-      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 52.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T09:27:00+09:00",
-      "processed_at": "2026-10-29T10:37:08.461524+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 12,
-      "duplicates": [
-        {
-          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
-          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편...매장 운영·정산 관리 편의성 높인다새 창 열림",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=137849",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민, '배민주문접수PC' 개편…업주 매장 운영 편의성 개선",
@@ -461,13 +556,13 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-          "url": "https://www.viva100.com/article/20261029500273",
+          "title": "배민, 주문접수PC 개편…주문부터 매장 관리·정산까지 한눈에새 창 열림",
+          "url": "https://www.ngetnews.com/news/articleView.html?idxno=555314",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
-          "url": "http://v.daum.net/v/20261029092745561",
+          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
+          "url": "http://v.daum.net/v/20261029145523042",
           "channel": "다음뉴스"
         },
         {
@@ -476,36 +571,216 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261029100431",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민 주문접수PC 개편… 매장 관리 기능 통합새 창 열림",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080570",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
-          "url": "http://v.daum.net/v/20261029095241820",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리새 창 열림",
-          "url": "https://www.yna.co.kr/view/AKR20261029059300030?input=1195m",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
           "url": "http://v.daum.net/v/20261029094720528",
           "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "5ba87b84c689f4ea057dc239776b7039",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077355",
+      "title": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림",
+      "summary": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림 배달의민족은 한국외식업중앙회와 지난 22일 경기 수원시 배민아카데미 경기센터에서 'K-장 웰니스 요리대회'를",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 48.8,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-29T16:10:00+09:00",
+      "processed_at": "2026-10-29T16:52:54.082188+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
+          "url": "http://v.daum.net/v/20261029161002012",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "2deefc1559370222b09fbe37512e02e3",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.huffingtonpost.kr/article/261647",
+      "title": "배민 김범석 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀티 호...새 창 열림",
+      "summary": "배민 김범석 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀티 호 배달의민족은 AI로 조리와 배차의 엇박자를 줄이려 한다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 42.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-29T15:59:15+09:00",
+      "processed_at": "2026-10-29T16:53:04.755979+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "ecdf4a76e96d9498899d532c7c56f959",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029093840123",
+      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
+      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 68.3,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-29T09:38:00+09:00",
+      "processed_at": "2026-10-29T10:32:23.355960+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "경산시-신한은행, 공공배달앱 '땡겨요' 운영 업무협약새 창 열림",
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=558956",
+          "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845962",
+          "title": "경산시, 신한은행과 공공배달앱 '땡겨요' 협약 체결새 창 열림",
+          "url": "http://news.lghellovision.net/news/articleView.html?idxno=560214",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
+          "url": "http://v.daum.net/v/20261018161521333",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "8f74831e056d4f673dc86b125c01196f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=555169",
+      "title": "배민 '영수증' 캠페인 530만 조회수…주문 요청사항에 사연 담아새 창 열림",
+      "summary": "배민 '영수증' 캠페인 530만 조회수…주문 요청사항에 사연 담아새 창 열림 뉴스저널리즘 최대성 기자 = 배달의민족(배민)의 브랜드 캠페인이 온라인에서 높은 조회수를 기록했다",
+      "sentiment": "positive",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 52.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-27T17:51:36+09:00",
+      "processed_at": "2026-10-27T18:32:34.095644+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "\"눈물난다\" 배민 '영수증 캠페인' 조회수 530만새 창 열림",
+          "url": "https://ditoday.com/%eb%88%88%eb%ac%bc%eb%82%9c%eb%8b%a4-%eb%b0%b0%eb%af%bc-%ec%98%81%ec%88%98%ec%a6%9d-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%a1%b0%ed%9a%8c%ec%88%98-530%eb%a7%8c/",
           "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "7da03335c08dfa4c363facf460d67971",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86781",
+      "title": "신한은행 땡겨요, 1000만 고객 달성…연말까지 배달비 전액 지원새 창 열림",
+      "summary": "신한은행 땡겨요, 1000만 고객 달성…연말까지 배달비 전액 지원새 창 열림 고객의 배달비를 전액 지원한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 57.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-09-30T16:39:58+09:00",
+      "processed_at": "2026-09-30T16:54:11.966919+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "신한은행, '땡겨요' 이용자 반등…무료배달로 연말 승부새 창 열림",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=85195",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "041e1322739ce5c6abb213425be8e7b7",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210491",
+      "title": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림",
+      "summary": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림 라이더 배차·픽업 현황 조회와 주문 취소 요청, 손실금 환급 신청 등도 프로그램 내 고객센터 메뉴에서 처리할",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 31.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T10:28:53+09:00",
+      "processed_at": "2026-10-29T17:00:52.657301+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "8c3c47b292782d372408ddc83fe13090",
@@ -570,58 +845,34 @@
       "duplicates": []
     },
     {
-      "uid": "ecdf4a76e96d9498899d532c7c56f959",
-      "brand": "배달앱 일반",
+      "uid": "c1ce394bffc60ff09e44d3681cc4474b",
+      "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029093840123",
-      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
-      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
-      "sentiment": "negative",
+      "url": "http://v.daum.net/v/20261029095241820",
+      "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
+      "summary": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리 중지도 일괄 설정할 수 있으며 '고객센터' 메뉴를 통해서는 라이더 배차·픽업 현황 조회, 주문 취소 요청, ",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
+        "#서비스·품질",
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 68.3,
-      "status": "Rising",
+      "viral_score": 43.7,
+      "status": "Stable",
       "stakeholders": [
-        "점주"
+        "소비자",
+        "점주",
+        "라이더"
       ],
-      "published_at": "2026-10-29T09:38:00+09:00",
-      "processed_at": "2026-10-29T10:32:23.355960+09:00",
+      "published_at": "2026-10-29T09:52:00+09:00",
+      "processed_at": "2026-10-29T16:59:15.236380+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달앱"
+        "배달의민족"
       ],
-      "duplicate_count": 5,
-      "duplicates": [
-        {
-          "title": "경산시, 공공배달앱 '땡겨요' 추가 도입새 창 열림",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=726975",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "경산시, 공공배달앱 '땡겨요' 도입…소상공인 수수료 부담 낮춘다새 창 열림",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419482",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약새 창 열림",
-          "url": "https://www.sidae.com/article/2026102909110644136",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "경산시, 공공배달앱 ‘땡겨요’ 추가 도입",
-          "url": "http://v.daum.net/v/20261029090743577",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
-          "url": "http://v.daum.net/v/20261018161521333",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "f9c5810516edb614073b4555cfae3586",
@@ -636,49 +887,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 47.7,
+      "viral_score": 38.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-29T10:36:23.661853+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-          "url": "https://www.etnews.com/20261029000037",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "13507aa3fb287213b821c30cae4fb370",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029090356396",
-      "title": "배민, 매장 프로그램 개편…주문접수PC에서 운영지표 확인 가능",
-      "summary": "배민, 매장 프로그램 개편…주문접수PC에서 운영지표 확인 가능 일괄 설정할 수 있다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#라이더"
-      ],
-      "viral_score": 51.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T09:03:00+09:00",
-      "processed_at": "2026-10-29T10:37:17.727969+09:00",
+      "processed_at": "2026-10-29T16:57:52.516597+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -784,14 +1000,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 55.2,
-      "status": "Rising",
+      "viral_score": 49.0,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-29T10:34:27.182627+09:00",
+      "processed_at": "2026-10-29T16:55:36.189609+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -834,40 +1050,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "645b8de7aeae0fa8db1a9a56c673b5c2",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052316",
-      "title": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림",
-      "summary": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림 명륜진사갈비는 지난 9월 30일부터 배달 플랫폼 쿠팡이츠에 입점해 배달 판매를 시작했다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 30.2,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-21T13:37:45+09:00",
-      "processed_at": "2026-10-21T18:06:34.604409+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "명륜진사갈비, 쿠팡이츠 배달 매장 확대…1인 메뉴부터 세트까지",
-          "url": "http://v.daum.net/v/20261028181002833",
-          "channel": "다음뉴스"
-        }
-      ]
     },
     {
       "uid": "bd64a22d8964b173993a9608f1cfd6f7",
@@ -1002,14 +1184,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 33.4,
+      "viral_score": 24.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T17:00:32+09:00",
-      "processed_at": "2026-10-29T05:52:35.065365+09:00",
+      "processed_at": "2026-10-29T16:57:15.267972+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1247,14 +1429,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 27.9,
+      "viral_score": 23.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-29T10:36:32.631142+09:00",
+      "processed_at": "2026-10-29T16:58:01.427889+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1392,13 +1574,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 28.9,
+      "viral_score": 25.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-29T10:35:06.967772+09:00",
+      "processed_at": "2026-10-29T16:56:25.571764+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1431,13 +1613,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 30.3,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-27T10:07:08+09:00",
-      "processed_at": "2026-10-29T10:32:52.450472+09:00",
+      "processed_at": "2026-10-29T16:54:45.059578+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1525,26 +1707,26 @@
       ]
     },
     {
-      "uid": "a6113160e479f342c9d20aca605ab425",
+      "uid": "a4b067b1cc118666d54a493f28ea24bb",
       "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://zdnet.co.kr/view/?no=20261027171616",
-      "title": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까새 창 열림",
-      "summary": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까새 창 열림 소비자의 외식비 부담과 입점 점주의 수수료 부담을 덜면서 공공배달앱 이용을 확대하기 위한 조치였다",
-      "sentiment": "neutral",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261027181022222",
+      "title": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까",
+      "summary": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까 650억원의 예산을 마련했다",
+      "sentiment": "negative",
       "tags": [
         "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.8,
+      "viral_score": 25.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
-      "published_at": "2026-10-27T18:08:17+09:00",
-      "processed_at": "2026-10-29T10:38:50.195471+09:00",
+      "published_at": "2026-10-27T18:10:00+09:00",
+      "processed_at": "2026-10-29T16:58:27.949076+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1553,39 +1735,11 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까",
-          "url": "http://v.daum.net/v/20261027181022222",
-          "channel": "다음뉴스"
+          "title": "공공배달앱 650억 써도 고객 이탈…2배 추가 지원하면 통할까새 창 열림",
+          "url": "https://zdnet.co.kr/view/?no=20261027171616",
+          "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "8f74831e056d4f673dc86b125c01196f",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ngetnews.com/news/articleView.html?idxno=555169",
-      "title": "배민 '영수증' 캠페인 530만 조회수…주문 요청사항에 사연 담아새 창 열림",
-      "summary": "배민 '영수증' 캠페인 530만 조회수…주문 요청사항에 사연 담아새 창 열림 뉴스저널리즘 최대성 기자 = 배달의민족(배민)의 브랜드 캠페인이 온라인에서 높은 조회수를 기록했다",
-      "sentiment": "positive",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#감동·긍정"
-      ],
-      "viral_score": 52.9,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-27T17:51:36+09:00",
-      "processed_at": "2026-10-27T18:32:34.095644+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "7cc2f14f9a5480d31e96b06c2952aac7",
@@ -1746,14 +1900,14 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 24.8,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T10:30:13+09:00",
-      "processed_at": "2026-10-29T10:32:42.681141+09:00",
+      "processed_at": "2026-10-29T16:54:35.293859+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2309,7 +2463,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T23:52:14+09:00",
-      "processed_at": "2026-10-29T10:37:28.249907+09:00",
+      "processed_at": "2026-10-29T16:59:52.483040+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2362,13 +2516,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 18.4,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-29T10:38:10.204461+09:00",
+      "processed_at": "2026-10-29T17:00:12.639815+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2464,30 +2618,25 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 44.4,
+      "viral_score": 44.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-29T10:38:20.159847+09:00",
+      "processed_at": "2026-10-29T17:00:22.692889+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠",
         "무료배달"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "국감서 쿠팡이츠 수수료·배달비 부담 논란…김명규 대표 \"개선하겠다\"",
           "url": "http://v.daum.net/v/20261023164119962",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "국감서 쿠팡이츠 수수료·배달비 부담 논란…김명규 대표 \"개선하겠다\"새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261023160342",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -2504,26 +2653,20 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 39.2,
+      "viral_score": 39.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-29T10:38:30.390308+09:00",
+      "processed_at": "2026-10-29T17:00:32.931624+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "‘모두의 창업’ 선정 논란부터 배달앱 수수료까지…중기부 종감서 쟁점...새 창 열림",
-          "url": "https://www.etoday.co.kr/news/view/2639585",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "1d264aae9531cd8289b7b1fcb3483499",
@@ -2566,7 +2709,7 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 23.6,
+      "viral_score": 23.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -2574,7 +2717,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-29T10:39:11.266888+09:00",
+      "processed_at": "2026-10-29T17:01:23.777187+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2633,7 +2776,7 @@
         "직원"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-29T10:39:30.323370+09:00",
+      "processed_at": "2026-10-29T17:01:42.926002+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2655,14 +2798,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 23.6,
+      "viral_score": 23.5,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-29T10:39:39.572201+09:00",
+      "processed_at": "2026-10-29T17:01:52.191661+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3078,19 +3221,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "\"예상시간·배달비도 AI가 산출\"…배달플랫폼, 운영 효율 높인다새 창 열림",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1416217",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "링크드인 경영진, 배민 방문…AIㆍ플랫폼 운영 노하우 공유",
-          "url": "http://v.daum.net/v/20261022142015517",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "35266bd954b7e895a22f49a6c9f02011",
@@ -3112,7 +3244,7 @@
         "라이더"
       ],
       "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-29T05:50:28.644545+09:00",
+      "processed_at": "2026-10-29T16:54:55.534327+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3300,19 +3432,36 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민, 전통시장 장보기 서비스 종료···수수료 운영 현황 논란",
-          "url": "http://v.daum.net/v/20261022132558237",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민 ‘전통시장 장보기’ 수수료 지적…최수진 “0% 홍보와 실제 달라...새 창 열림",
-          "url": "https://www.ddaily.co.kr/page/view/2026102213425779491",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "fc25922b41bf9571e38370277fc8e1aa",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261022132558237",
+      "title": "배민, 전통시장에 수수료 폭탄?···0% 외쳤지만, 많게는 30%까지",
+      "summary": "배민, 전통시장에 수수료 폭탄 ···0% 외쳤지만, 많게는 30%까지",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 60.9,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-22T13:25:00+09:00",
+      "processed_at": "2026-10-22T18:10:31.389027+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "7e0e3c57d70d535838beb9eaa4e47579",
@@ -3369,41 +3518,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "7f3c5522708c69a47d182625c49c43a4",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090120.html",
-      "title": "배달의민족, 전국우수시장박람회 참가…전통시장 먹거리 알린다새 창 열림",
-      "summary": "배달의민족, 전국우수시장박람회 참가…전통시장 먹거리 알린다새 창 열림 배민은 ‘365일이 장날’을 콘셉트로 홍보부스를 운영하고 전통시장과 공동 개발한 밀키트와 선물세트, 앱 입점",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 50.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-10T20:51:02+09:00",
-      "processed_at": "2026-10-10T23:10:56.184387+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "'수수료 0%' 상생 외치던 배달의민족, 뒤로는 15% 폭리…전통시장·소비...새 창 열림",
-          "url": "https://www.imaeil.com/page/view/2026102210290924141",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "6c713294e0d14a4dca1ea927cbce1557",
@@ -3721,6 +3835,34 @@
       "duplicates": []
     },
     {
+      "uid": "645b8de7aeae0fa8db1a9a56c673b5c2",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052316",
+      "title": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림",
+      "summary": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림 명륜진사갈비는 지난 9월 30일부터 배달 플랫폼 쿠팡이츠에 입점해 배달 판매를 시작했다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 30.2,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-21T13:37:45+09:00",
+      "processed_at": "2026-10-21T18:06:34.604409+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "aac81d8001acd9e797eb898537686bb9",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -3745,19 +3887,8 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "서울시 아동급식카드, 이젠 배달앱에서도 쓴다",
-          "url": "http://v.daum.net/v/20261021060307911",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "\"급식카드로 집에서 주문\"…서울 꿈나무카드, 배달비 월 6000원 지원",
-          "url": "http://v.daum.net/v/20261021144941981",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "08a33c7d1c84d2aaea7fcc98a99896b2",
@@ -3929,19 +4060,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "쿠팡·배민·GS 줄줄이 도마에…유통업계 거래 관행 국감서 질타새 창 열림",
-          "url": "https://www.socialvalue.kr/news/view/1065595421449156",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "호통 끝에 칼 빼들까…쿠팡·배민·GS25 또 국감 달군다",
-          "url": "http://v.daum.net/v/20261021060521986",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "d3639e5be6576e31dbd3031eca486d9a",
@@ -4310,14 +4430,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "대형마트만 빠른 배달?…동네마트 5000곳도 배민 타고 출격",
-          "url": "http://v.daum.net/v/20261018121446792",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "4785d749a5ed53168a20ea6b0405ce92",
@@ -5106,14 +5220,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"3분 놓치면 4시간 셧다운\"…배민, 영업 확인 의무 강화새 창 열림",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026101516063716418",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "e6aaf0f667c27961dda8906c8da23901",
@@ -7558,6 +7666,35 @@
       "duplicates": []
     },
     {
+      "uid": "7f3c5522708c69a47d182625c49c43a4",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090120.html",
+      "title": "배달의민족, 전국우수시장박람회 참가…전통시장 먹거리 알린다새 창 열림",
+      "summary": "배달의민족, 전국우수시장박람회 참가…전통시장 먹거리 알린다새 창 열림 배민은 ‘365일이 장날’을 콘셉트로 홍보부스를 운영하고 전통시장과 공동 개발한 밀키트와 선물세트, 앱 입점",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 50.3,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-10T20:51:02+09:00",
+      "processed_at": "2026-10-10T23:10:56.184387+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "0c752dbda4addaa01ba240bfcfa00a9c",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -9152,184 +9289,97 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "8b7c65331758da13d78711c776df0734",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114910",
-      "title": "[뉴스브리핑] '우버 품에 안기는 배민'… 대형플랫폼 '몸집 키우기' 경쟁...새 창 열림",
-      "summary": "[뉴스브리핑] '우버 품에 안기는 배민'… 대형플랫폼 '몸집 키우기' 경쟁 세계적인 모빌리티 플랫폼 우버가 배민의 모회사인 독일 딜리버리히어로 인수를 추진하고 있다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 23.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-06T10:04:18+09:00",
-      "processed_at": "2026-10-07T02:46:32.588666+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "456cb9169e2218e41c3e79f4d471228a",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://thetracker.co.kr/View.aspx?No=4252659",
-      "title": "배달앱 커질수록 복잡해진 ‘돈 계산’…배민·쿠팡이츠 양강의 그늘새 창 열림",
-      "summary": "배달앱 커질수록 복잡해진 ‘돈 계산’…배민·쿠팡이츠 양강의 그늘새 창 열림 음식점주 입장에서는 중개수수료 외에도 배달비와 광고비, 할인 비용 등이 실제 수익성에 영향을 미친다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#라이더"
-      ],
-      "viral_score": 18.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-06T10:00:48+09:00",
-      "processed_at": "2026-10-12T06:24:11.479391+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠",
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f972661e4144ea11b6d13f6f2dd9ef50",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006095012645",
-      "title": "상권 분석·홍보 전략까지…'배민아카데미' 전북으로",
-      "summary": "상권 분석·홍보 전략까지…'배민아카데미' 전북으로 찾아가는 배민아카데미 전북특별자치도편 이미지",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 45.4,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-06T09:50:00+09:00",
-      "processed_at": "2026-10-06T12:47:43.380281+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "d34e5719ba05e7df958a3dfe79d1a2ec",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006090232159",
-      "title": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원",
-      "summary": "배민아카데미, 전북 외식업주 교육…로컬마케팅·푸드테크 지원 배달의민족 운영사 우아한형제들은 '찾아가는 배민아카데미 전북특별자치도편' 참가자를 모집한다고 6일 밝혔다",
-      "sentiment": "positive",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 44.1,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-06T09:02:00+09:00",
-      "processed_at": "2026-10-06T12:50:03.044043+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "a1b849550ebea5349b696ce1e4d05cf7",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006050218692",
-      "title": "유통·식품 수장 줄줄이 국감장…쿠팡·배민·홈플러스 정조준하나",
-      "summary": "유통·식품 수장 줄줄이 국감장…쿠팡·배민·홈플러스 정조준하나 정책을 비롯해 플랫폼 입점업체와의 관계, 이른바 최혜대우 요구 논란 등에 대한 질의가 나올 것으로 예상된다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 49.6,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-06T05:02:00+09:00",
-      "processed_at": "2026-10-07T02:44:36.515196+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f2f88590ffd2b671330a782cd30a8fd8",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068467",
-      "title": "배민클럽, 결제액 최대 5% 적립…월 3,990원 멤버십 개편새 창 열림",
-      "summary": "배민클럽, 결제액 최대 5% 적립…월 3,990원 멤버십 개편새 창 열림 배달의민족 운영사 우아한형제들이 결제 금액에 따라 포인트를 적립하는 '배민클럽 에디션2'를 출시했다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 55.0,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-05T15:10:00+09:00",
-      "processed_at": "2026-10-05T17:00:51.790952+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "d82b42d573a9d45453d90ea83312856f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
+          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
+          "summary": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림 배민주문접수PC 개편화면 예시",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#라이더",
+            "#점주·자영업"
+          ],
+          "viral_score": 48.3,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주",
+            "라이더"
+          ],
+          "published_at": "2026-10-29T13:16:59+09:00",
+          "processed_at": "2026-10-29T16:58:37.810031+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 11,
+          "duplicates": [
+            {
+              "title": "배민, 주문접수부터 정산까지 한 화면에…입점업주 매장 운영 편의성 높...새 창 열림",
+              "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592402808523",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
+              "url": "http://v.daum.net/v/20261029104141990",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
+              "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
+              "url": "https://theviewers.co.kr/View.aspx?No=4288101",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 주문접수PC 개편…주문부터 매장 관리·정산까지 한눈에새 창 열림",
+              "url": "https://www.ngetnews.com/news/articleView.html?idxno=555314",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "매출·비용 한눈에…배민, 주문부터 정산까지 한 화면에새 창 열림",
+              "url": "http://www.4th.kr/news/articleView.html?idxno=2120712",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
+              "url": "http://v.daum.net/v/20261029145523042",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에새 창 열림",
+              "url": "https://www.dailian.co.kr/news/view/1707825/?sc=Naver",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 주문접수PC 전면 개편…매장 관리·정산 기능 강화새 창 열림",
+              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212136",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
+              "url": "https://sateconomy.co.kr/news/view/1065579346532324",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
+              "url": "http://v.daum.net/v/20261029102032698",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
         {
           "uid": "d09d09b23f27d4099d3cc74d06571dd0",
           "brand": "배달의민족",
@@ -9349,8 +9399,8 @@
             "소비자",
             "점주"
           ],
-          "published_at": "2026-10-29T10:28:00+09:00",
-          "processed_at": "2026-10-29T10:35:45.831310+09:00",
+          "published_at": "2026-10-29T16:51:00+09:00",
+          "processed_at": "2026-10-29T16:57:24.613937+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9360,172 +9410,25 @@
           "duplicates": []
         },
         {
-          "uid": "03538091c1bab36fa525d0c2f1c674cb",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029092703506",
-          "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
-          "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 52.1,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자",
-            "라이더"
-          ],
-          "published_at": "2026-10-29T09:27:00+09:00",
-          "processed_at": "2026-10-29T10:37:08.461524+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 12,
-          "duplicates": [
-            {
-              "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
-              "url": "https://theviewers.co.kr/View.aspx?No=4288101",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 주문접수PC 개편...매장 운영·정산 관리 편의성 높인다새 창 열림",
-              "url": "http://www.popcornnews.net/news/articleView.html?idxno=137849",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, '배민주문접수PC' 개편…업주 매장 운영 편의성 개선",
-              "url": "http://v.daum.net/v/20261029094359387",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-              "url": "https://www.viva100.com/article/20261029500273",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
-              "url": "http://v.daum.net/v/20261029092745561",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
-              "url": "http://v.daum.net/v/20261029102032698",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인새 창 열림",
-              "url": "https://zdnet.co.kr/view/?no=20261029100431",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민 주문접수PC 개편… 매장 관리 기능 통합새 창 열림",
-              "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080570",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
-              "url": "http://v.daum.net/v/20261029095241820",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리새 창 열림",
-              "url": "https://www.yna.co.kr/view/AKR20261029059300030?input=1195m",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
-              "url": "http://v.daum.net/v/20261029094720528",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에새 창 열림",
-              "url": "https://www.newsis.com/view/NISX20261029_0003845962",
-              "channel": "네이버뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "7ff9881d5fa5eb232c6d388157c3669a",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029102021682",
-          "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
-          "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 상세페이지·리뷰를 종합 정리하는 AI 어시스턴트 기능도 함께 선보인다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 34.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-29T10:20:00+09:00",
-          "processed_at": "2026-10-29T10:30:33.853251+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "070c219169a54c9b6f1dbeb9154019d5",
+          "uid": "5ba87b84c689f4ea057dc239776b7039",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://byline.network/?p=9004111222625206",
-          "title": "배민이 라이더를 ‘명’이 아니라 ‘시간’으로 세는 이유새 창 열림",
-          "summary": "배민이 라이더를 ‘명’이 아니라 ‘시간’으로 세는 이유새 창 열림 그런데 배달의민족(배민)은 관점을 바꿨다",
-          "sentiment": "neutral",
-          "tags": [
-            "#라이더",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 34.4,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-10-29T10:00:26+09:00",
-          "processed_at": "2026-10-29T10:29:43.201954+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "f9c5810516edb614073b4555cfae3586",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029091117759",
-          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에",
-          "summary": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에 〈자료 우아한형제들〉 배달의민족이 입점업주의 PC 프로그램을 개선하고 주문 접수, 매장 관리, 정산 기능을 ",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077355",
+          "title": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림",
+          "summary": "김밥부터 장 소스 활용 요리까지…배민 'K-장 요리대회' 수상작 선정새 창 열림 배달의민족은 한국외식업중앙회와 지난 22일 경기 수원시 배민아카데미 경기센터에서 'K-장 웰니스 요리대회'를",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#점주·자영업",
-            "#기업·정책"
+            "#마케팅·광고"
           ],
-          "viral_score": 47.7,
+          "viral_score": 48.8,
           "status": "Stable",
           "stakeholders": [
-            "소비자",
             "점주"
           ],
-          "published_at": "2026-10-29T09:11:00+09:00",
-          "processed_at": "2026-10-29T10:36:23.661853+09:00",
+          "published_at": "2026-10-29T16:10:00+09:00",
+          "processed_at": "2026-10-29T16:52:54.082188+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9534,33 +9437,32 @@
           "duplicate_count": 1,
           "duplicates": [
             {
-              "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-              "url": "https://www.etnews.com/20261029000037",
-              "channel": "네이버뉴스"
+              "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
+              "url": "http://v.daum.net/v/20261029161002012",
+              "channel": "다음뉴스"
             }
           ]
         },
         {
-          "uid": "13507aa3fb287213b821c30cae4fb370",
+          "uid": "aa00270da99b6c0cc2773f3edad169c8",
           "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029090356396",
-          "title": "배민, 매장 프로그램 개편…주문접수PC에서 운영지표 확인 가능",
-          "summary": "배민, 매장 프로그램 개편…주문접수PC에서 운영지표 확인 가능 일괄 설정할 수 있다",
-          "sentiment": "positive",
+          "channel": "네이버뉴스",
+          "url": "https://ditoday.com/%eb%88%88%eb%ac%bc%eb%82%9c%eb%8b%a4-%eb%b0%b0%eb%af%bc-%ec%98%81%ec%88%98%ec%a6%9d-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%a1%b0%ed%9a%8c%ec%88%98-530%eb%a7%8c/",
+          "title": "\"눈물난다\" 배민 '영수증 캠페인' 조회수 530만새 창 열림",
+          "summary": "\"눈물난다\" 배민 '영수증 캠페인' 조회수 530만새 창 열림 우아한형제들이 배달의민족(배민)의 신규 브랜드 캠페인 ‘배민영수증 프로젝트’ 영상이 공개 18일 만인 지난 ",
+          "sentiment": "neutral",
           "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#라이더"
+            "#소비자반응",
+            "#마케팅·광고",
+            "#감동·긍정"
           ],
-          "viral_score": 51.5,
-          "status": "Rising",
+          "viral_score": 32.5,
+          "status": "Stable",
           "stakeholders": [
-            "소비자",
-            "라이더"
+            "소비자"
           ],
-          "published_at": "2026-10-29T09:03:00+09:00",
-          "processed_at": "2026-10-29T10:37:17.727969+09:00",
+          "published_at": "2026-10-29T14:38:17+09:00",
+          "processed_at": "2026-10-29T16:53:45.178251+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9570,26 +9472,86 @@
           "duplicates": []
         },
         {
-          "uid": "a6d0d1b274b0a8d90f063ed814502b86",
+          "uid": "041e1322739ce5c6abb213425be8e7b7",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.ajunews.com/view/20261028091543147",
-          "title": "[기자의 눈] 배민과 다이소의 영토 확장... 골목시장 한숨 외면해선 안...새 창 열림",
-          "summary": "[기자의 눈] 배민과 다이소의 영토 확장 골목시장 한숨 외면해선 안",
-          "sentiment": "negative",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210491",
+          "title": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림",
+          "summary": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림 라이더 배차·픽업 현황 조회와 주문 취소 요청, 손실금 환급 신청 등도 프로그램 내 고객센터 메뉴에서 처리할",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#서비스·품질",
+            "#점주·자영업"
+          ],
+          "viral_score": 31.1,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주",
+            "라이더"
+          ],
+          "published_at": "2026-10-29T10:28:53+09:00",
+          "processed_at": "2026-10-29T17:00:52.657301+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "7ff9881d5fa5eb232c6d388157c3669a",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261029102021682",
+          "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
+          "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 제공 ▲배민, 주문접수PC에 매장 관리 기능 통합…정산내역도 개편 우아한형제들은 배달의민족 파트너용 프로그램",
+          "sentiment": "neutral",
+          "tags": [
+            "#서비스·품질",
+            "#라이더",
+            "#마케팅·광고"
+          ],
+          "viral_score": 31.0,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "라이더"
+          ],
+          "published_at": "2026-10-29T10:20:00+09:00",
+          "processed_at": "2026-10-29T16:59:06.199687+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "c1ce394bffc60ff09e44d3681cc4474b",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261029095241820",
+          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
+          "summary": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리 중지도 일괄 설정할 수 있으며 '고객센터' 메뉴를 통해서는 라이더 배차·픽업 현황 조회, 주문 취소 요청, ",
+          "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 55.2,
-          "status": "Rising",
+          "viral_score": 43.7,
+          "status": "Stable",
           "stakeholders": [
             "소비자",
-            "점주"
+            "점주",
+            "라이더"
           ],
-          "published_at": "2026-10-28T18:30:00+09:00",
-          "processed_at": "2026-10-29T10:34:27.182627+09:00",
+          "published_at": "2026-10-29T09:52:00+09:00",
+          "processed_at": "2026-10-29T16:59:15.236380+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9600,85 +9562,22 @@
         }
       ],
       "total": 7,
-      "avg_score": 47.1,
+      "avg_score": 41.3,
       "ratio": {
-        "negative": 14,
+        "negative": 0,
         "positive": 57,
-        "neutral": 29
+        "neutral": 43
       },
-      "mentions": 30
+      "mentions": 38
     },
     "coupang": {
-      "issues": [
-        {
-          "uid": "091b457adbdfb255c67072914e2bf8d7",
-          "brand": "쿠팡이츠",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028181002833",
-          "title": "명륜진사갈비, 쿠팡이츠 배달 매장 확대…1인 메뉴부터 세트까지",
-          "summary": "명륜진사갈비, 쿠팡이츠 배달 매장 확대…1인 메뉴부터 세트까지 명륜진사갈비가 쿠팡이츠를 통한 배달서비스 참여매장을 확장하고 있다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 21.2,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-28T18:10:00+09:00",
-          "processed_at": "2026-10-29T10:31:11.593869+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "b70d89e690349efa93fcf188d34f005d",
-          "brand": "쿠팡이츠",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028154824508",
-          "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
-          "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
-          "sentiment": "negative",
-          "tags": [
-            "#소비자반응",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 36.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-28T15:48:00+09:00",
-          "processed_at": "2026-10-29T10:31:30.408218+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달앱"
-          ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점",
-              "url": "http://v.daum.net/v/20261028170314649",
-              "channel": "다음뉴스"
-            }
-          ]
-        }
-      ],
-      "total": 2,
-      "avg_score": 29.0,
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
       "ratio": {
-        "negative": 50,
+        "negative": 0,
         "positive": 0,
-        "neutral": 50
+        "neutral": 0
       },
       "mentions": 1
     }
