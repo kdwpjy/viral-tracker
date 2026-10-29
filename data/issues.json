@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:55:34.012177+09:00",
+  "updated_at": "2026-10-30T05:54:10.778290+09:00",
   "hot": [
     {
       "uid": "17aa3ff82224cb366fbdb07454fb2a8c",
@@ -14,15 +14,43 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 58.4,
-      "status": "Rising",
+      "viral_score": 49.5,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-10-29T17:45:00+09:00",
-      "processed_at": "2026-10-29T23:55:34.004563+09:00",
+      "processed_at": "2026-10-30T05:54:10.774199+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "6847a886d5574a4b18b23d1c6ad2077e",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030043328349",
+      "title": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급",
+      "summary": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급 울산시가 다음 달 1일부터 15일까지 울산페이 환급률을 기존 13%에서 18%로 높인다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 47.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T04:33:00+09:00",
+      "processed_at": "2026-10-30T05:50:39.451736+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -44,14 +72,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 39.9,
+      "viral_score": 33.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T16:50:00+09:00",
-      "processed_at": "2026-10-29T23:50:50.927552+09:00",
+      "processed_at": "2026-10-30T05:50:22.916474+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -73,13 +101,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 39.0,
+      "viral_score": 32.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-29T16:10:00+09:00",
-      "processed_at": "2026-10-29T23:51:00.917040+09:00",
+      "processed_at": "2026-10-30T05:50:31.306063+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -101,7 +129,7 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 37.1,
+      "viral_score": 32.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -109,7 +137,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:41:00+09:00",
-      "processed_at": "2026-10-29T23:52:50.169895+09:00",
+      "processed_at": "2026-10-30T05:52:19.801130+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -162,14 +190,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 33.5,
+      "viral_score": 30.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-29T23:51:19.375104+09:00",
+      "processed_at": "2026-10-30T05:50:54.978000+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -191,13 +219,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 33.2,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-29T22:17:00+09:00",
-      "processed_at": "2026-10-29T23:50:32.171739+09:00",
+      "processed_at": "2026-10-30T05:50:07.231414+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -219,14 +247,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 31.7,
+      "viral_score": 26.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-29T23:51:56.808339+09:00",
+      "processed_at": "2026-10-30T05:51:34.807530+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -248,13 +276,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.0,
+      "viral_score": 24.1,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-29T18:01:00+09:00",
-      "processed_at": "2026-10-29T23:50:41.629989+09:00",
+      "processed_at": "2026-10-30T05:50:15.045654+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -264,57 +292,26 @@
       "duplicates": []
     },
     {
-      "uid": "2deefc1559370222b09fbe37512e02e3",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.huffingtonpost.kr/article/261647",
-      "title": "김범석 배달의민족 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀...새 창 열림",
-      "summary": "김범석 배달의민족 '정밀 수요예측'으로 쿠팡이츠 맹추격 따돌릴까 : '멀 늘고 라이더 공급이 줄어들 것으로 예상되면 지역별 부족한 운행시간을 산출해 운영 담당자가 미리 대응하도록 하",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 27.1,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T15:59:15+09:00",
-      "processed_at": "2026-10-29T23:54:26.283845+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "041e1322739ce5c6abb213425be8e7b7",
+      "uid": "7ff9881d5fa5eb232c6d388157c3669a",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210491",
-      "title": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림",
-      "summary": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림 라이더 배차·픽업 현황 조회와 주문 취소 요청, 손실금 환급 신청 등도 프로그램 내 고객센터 메뉴에서 처리할",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029102021682",
+      "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
+      "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 제공 ▲배민, 주문접수PC에 매장 관리 기능 통합…정산내역도 개편 우아한형제들은 배달의민족 파트너용 프로그램",
       "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
-        "#점주·자영업"
+        "#라이더",
+        "#마케팅·광고"
       ],
-      "viral_score": 25.8,
+      "viral_score": 22.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
-        "점주",
         "라이더"
       ],
-      "published_at": "2026-10-29T10:28:53+09:00",
-      "processed_at": "2026-10-29T23:54:36.367842+09:00",
+      "published_at": "2026-10-29T10:20:00+09:00",
+      "processed_at": "2026-10-30T05:52:36.037882+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -325,6 +322,34 @@
     }
   ],
   "feed": [
+    {
+      "uid": "6847a886d5574a4b18b23d1c6ad2077e",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030043328349",
+      "title": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급",
+      "summary": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급 울산시가 다음 달 1일부터 15일까지 울산페이 환급률을 기존 13%에서 18%로 높인다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 47.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T04:33:00+09:00",
+      "processed_at": "2026-10-30T05:50:39.451736+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "49da49438e164f5051f1632a9409c76c",
       "brand": "배달의민족",
@@ -372,13 +397,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.0,
+      "viral_score": 24.1,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-29T18:01:00+09:00",
-      "processed_at": "2026-10-29T23:50:41.629989+09:00",
+      "processed_at": "2026-10-30T05:50:15.045654+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -731,14 +756,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 31.7,
+      "viral_score": 26.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-29T23:51:56.808339+09:00",
+      "processed_at": "2026-10-30T05:51:34.807530+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1011,6 +1036,40 @@
       "duplicates": []
     },
     {
+      "uid": "b70d89e690349efa93fcf188d34f005d",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261028154824508",
+      "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
+      "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 36.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-28T15:48:00+09:00",
+      "processed_at": "2026-10-29T10:31:30.408218+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점",
+          "url": "http://v.daum.net/v/20261028170314649",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
       "uid": "5a122f661fa2fefa67eca1b21ccfc770",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1222,34 +1281,6 @@
       "duplicates": []
     },
     {
-      "uid": "b70d89e690349efa93fcf188d34f005d",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028154824508",
-      "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
-      "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 36.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-28T15:48:00+09:00",
-      "processed_at": "2026-10-29T10:31:30.408218+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "527fe84469e667ab5b3a4575d6701425",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -1290,14 +1321,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 20.3,
+      "viral_score": 18.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-29T23:52:05.745053+09:00",
+      "processed_at": "2026-10-30T05:51:42.353415+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1435,13 +1466,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 22.6,
+      "viral_score": 20.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-29T23:51:38.867569+09:00",
+      "processed_at": "2026-10-30T05:51:19.700305+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1575,14 +1606,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 23.8,
+      "viral_score": 22.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-29T23:52:32.249755+09:00",
+      "processed_at": "2026-10-30T05:52:04.797964+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1772,27 +1803,26 @@
       "duplicates": []
     },
     {
-      "uid": "4498f97d9dc14386ba00cec5ebd200fb",
+      "uid": "0216c93ccd1c6312c579021e428387f7",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261012174411259",
-      "title": "[2026국감] \"중개수수료 막으면 다른 비용 인상\"⋯배달앱 규제 '풍선효과' 우려",
-      "summary": "[2026국감] \"중개수수료 막으면 다른 비용 인상\"⋯배달앱 규제 '풍선효과' 우려 풍선효과'가 나타날 수 있다는 지적이다",
-      "sentiment": "negative",
+      "channel": "네이버뉴스",
+      "url": "https://www.ddaily.co.kr/page/view/2026102710255078107",
+      "title": "“수수료 낮춰야” vs “풍선효과 우려”…배달앱 상생 해법은 [2026 유통...새 창 열림",
+      "summary": "“수수료 낮춰야” vs “풍선효과 우려”…배달앱 상생 해법은 [2026 유통 배달비 부담도 논란이 됐다",
+      "sentiment": "neutral",
       "tags": [
         "#가격·수수료",
         "#서비스·품질",
-        "#마케팅·광고"
+        "#기업·정책"
       ],
-      "viral_score": 22.1,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
-        "점주",
-        "라이더"
+        "점주"
       ],
-      "published_at": "2026-10-12T17:44:00+09:00",
-      "processed_at": "2026-10-15T08:03:05.365848+09:00",
+      "published_at": "2026-10-27T10:30:13+09:00",
+      "processed_at": "2026-10-29T16:54:35.293859+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1801,9 +1831,9 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "“수수료 낮춰야” vs “풍선효과 우려”…배달앱 상생 해법은 [2026 유통...새 창 열림",
-          "url": "https://www.ddaily.co.kr/page/view/2026102710255078107",
-          "channel": "네이버뉴스"
+          "title": "[2026국감] \"중개수수료 막으면 다른 비용 인상\"⋯배달앱 규제 '풍선효과' 우려",
+          "url": "http://v.daum.net/v/20261012174411259",
+          "channel": "다음뉴스"
         }
       ]
     },
@@ -2346,7 +2376,7 @@
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-29T23:53:46.374199+09:00",
+      "processed_at": "2026-10-30T05:53:06.795436+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2413,7 +2443,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-29T23:53:56.280901+09:00",
+      "processed_at": "2026-10-30T05:53:15.089267+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2448,7 +2478,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-29T23:54:06.557807+09:00",
+      "processed_at": "2026-10-30T05:53:23.656347+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2506,7 +2536,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-29T23:54:56.667201+09:00",
+      "processed_at": "2026-10-30T05:53:39.570780+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2565,7 +2595,7 @@
         "직원"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-29T23:55:15.704490+09:00",
+      "processed_at": "2026-10-30T05:53:55.468425+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2594,7 +2624,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-29T23:55:24.977164+09:00",
+      "processed_at": "2026-10-30T05:54:03.208374+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9100,34 +9130,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "4714fca1afb628ada110011d96a25a27",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006105916677",
-      "title": "iM뱅크 '펀드GO! 투자 마라톤 이벤트'…배민상품권 지급",
-      "summary": "투자 마라톤 이벤트'…배민상품권 지급 모바일 기프티콘을 추첨 증정하는 '펀드GO",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 35.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-06T10:59:00+09:00",
-      "processed_at": "2026-10-06T12:47:36.683411+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9146,13 +9148,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 33.2,
+          "viral_score": 27.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-29T22:17:00+09:00",
-          "processed_at": "2026-10-29T23:50:32.171739+09:00",
+          "processed_at": "2026-10-30T05:50:07.231414+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9174,13 +9176,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 29.0,
+          "viral_score": 24.1,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-29T18:01:00+09:00",
-          "processed_at": "2026-10-29T23:50:41.629989+09:00",
+          "processed_at": "2026-10-30T05:50:15.045654+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9202,14 +9204,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 39.9,
+          "viral_score": 33.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T16:50:00+09:00",
-          "processed_at": "2026-10-29T23:50:50.927552+09:00",
+          "processed_at": "2026-10-30T05:50:22.916474+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9231,13 +9233,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 39.0,
+          "viral_score": 32.6,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-29T16:10:00+09:00",
-          "processed_at": "2026-10-29T23:51:00.917040+09:00",
+          "processed_at": "2026-10-30T05:50:31.306063+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9259,7 +9261,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 37.1,
+          "viral_score": 32.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9267,7 +9269,7 @@
             "라이더"
           ],
           "published_at": "2026-10-29T10:41:00+09:00",
-          "processed_at": "2026-10-29T23:52:50.169895+09:00",
+          "processed_at": "2026-10-30T05:52:19.801130+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9308,36 +9310,6 @@
           ]
         },
         {
-          "uid": "041e1322739ce5c6abb213425be8e7b7",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210491",
-          "title": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림",
-          "summary": "배민, 업주용 주문 프로그램 손본다…정산 정보 표시도 변경새 창 열림 라이더 배차·픽업 현황 조회와 주문 취소 요청, 손실금 환급 신청 등도 프로그램 내 고객센터 메뉴에서 처리할",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#점주·자영업"
-          ],
-          "viral_score": 25.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주",
-            "라이더"
-          ],
-          "published_at": "2026-10-29T10:28:53+09:00",
-          "processed_at": "2026-10-29T23:54:36.367842+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
           "uid": "7ff9881d5fa5eb232c6d388157c3669a",
           "brand": "배달의민족",
           "channel": "다음뉴스",
@@ -9350,14 +9322,14 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 25.7,
+          "viral_score": 22.2,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T10:20:00+09:00",
-          "processed_at": "2026-10-29T23:53:09.552064+09:00",
+          "processed_at": "2026-10-30T05:52:36.037882+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9379,14 +9351,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 31.7,
+          "viral_score": 26.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-29T09:11:00+09:00",
-          "processed_at": "2026-10-29T23:51:56.808339+09:00",
+          "processed_at": "2026-10-30T05:51:34.807530+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9408,18 +9380,46 @@
             "#점주·자영업",
             "#소비자반응"
           ],
-          "viral_score": 33.5,
+          "viral_score": 30.1,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-28T18:30:00+09:00",
-          "processed_at": "2026-10-29T23:51:19.375104+09:00",
+          "processed_at": "2026-10-30T05:50:54.978000+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "eef56924b8367b006fb2fb969f0fd3a8",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261028170314649",
+          "title": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점",
+          "summary": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점 유승관 기자 주병기 \"배달앱 10% 이상 영업이익률\"…국감서도 수수료·선택권 지적 주병기 공정위원장은 지난 ",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#소비자반응",
+            "#기업·정책"
+          ],
+          "viral_score": 15.8,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-10-28T17:03:00+09:00",
+          "processed_at": "2026-10-30T05:51:03.330770+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
           ],
           "duplicate_count": 0,
           "duplicates": []
@@ -9437,14 +9437,14 @@
             "#기업·정책",
             "#감동·긍정"
           ],
-          "viral_score": 20.3,
+          "viral_score": 18.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-28T15:17:00+09:00",
-          "processed_at": "2026-10-29T23:52:05.745053+09:00",
+          "processed_at": "2026-10-30T05:51:42.353415+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9466,7 +9466,7 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 20.2,
+          "viral_score": 17.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9474,7 +9474,7 @@
             "라이더"
           ],
           "published_at": "2026-10-28T15:03:00+09:00",
-          "processed_at": "2026-10-29T23:52:14.690432+09:00",
+          "processed_at": "2026-10-30T05:51:49.921762+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9490,42 +9490,48 @@
           ]
         },
         {
-          "uid": "c69f95a7fb11352cb99b75e660e72876",
+          "uid": "f733d5c4f9b39f60b27c800c9e68f180",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028133111833",
-          "title": "김봉진 배달의민족 창업자, 중고명품 수선·위탁 판매 '패피스'에 투자",
-          "summary": "김봉진 배달의민족 창업자, 중고명품 수선·위탁 판매 '패피스'에 투자 가방과 시계가 진열돼 있다",
-          "sentiment": "neutral",
+          "url": "http://v.daum.net/v/20261028105407354",
+          "title": "배민 창업자 김봉진 의장, 중고명품 ‘고쳐팔기’ 패피스에 개인투자",
+          "summary": "배민 창업자 김봉진 의장, 중고명품 ‘고쳐팔기’ 패피스에 개인투자 수선·위탁 판매 플랫폼 패피스(운영사 엘알에이치알)가 배달의민족 창업자인 김봉진 그란데클립 의장으로부터 투자",
+          "sentiment": "positive",
           "tags": [
             "#가격·수수료",
             "#서비스·품질",
             "#기업·정책"
           ],
-          "viral_score": 16.5,
+          "viral_score": 20.7,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
-          "published_at": "2026-10-28T13:31:00+09:00",
-          "processed_at": "2026-10-29T23:51:29.156277+09:00",
+          "published_at": "2026-10-28T10:54:00+09:00",
+          "processed_at": "2026-10-30T05:51:19.700305+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "김봉진 배달의민족 창업자, 중고명품 수선·위탁 판매 '패피스'에 투자",
+              "url": "http://v.daum.net/v/20261028133111833",
+              "channel": "다음뉴스"
+            }
+          ]
         }
       ],
       "total": 12,
-      "avg_score": 29.3,
+      "avg_score": 25.1,
       "ratio": {
         "negative": 8,
-        "positive": 50,
-        "neutral": 42
+        "positive": 58,
+        "neutral": 33
       },
-      "mentions": 22
+      "mentions": 20
     },
     "coupang": {
       "issues": [],
@@ -9536,7 +9542,7 @@
         "positive": 0,
         "neutral": 0
       },
-      "mentions": 1
+      "mentions": 0
     }
   }
 }
