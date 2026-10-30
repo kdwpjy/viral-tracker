@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:51:41.521424+09:00",
+  "updated_at": "2026-10-31T05:24:24.964934+09:00",
   "hot": [
     {
       "uid": "a593c8dd60a034e579e5784fb85ea849",
@@ -14,14 +14,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 52.0,
-      "status": "Rising",
+      "viral_score": 44.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-30T22:34:00+09:00",
-      "processed_at": "2026-10-30T23:47:24.496830+09:00",
+      "processed_at": "2026-10-31T05:21:50.268177+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -49,13 +49,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 47.7,
+      "viral_score": 40.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T19:41:00+09:00",
-      "processed_at": "2026-10-30T23:47:15.251339+09:00",
+      "processed_at": "2026-10-31T05:21:42.555871+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -77,7 +77,7 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 33.0,
+      "viral_score": 30.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -85,7 +85,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T17:45:00+09:00",
-      "processed_at": "2026-10-30T23:51:41.518080+09:00",
+      "processed_at": "2026-10-31T05:24:24.960996+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -107,7 +107,7 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 22.5,
+      "viral_score": 20.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -115,23 +115,18 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:41:00+09:00",
-      "processed_at": "2026-10-30T23:50:45.350071+09:00",
+      "processed_at": "2026-10-31T05:23:38.158598+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 5,
       "duplicates": [
         {
           "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
           "url": "http://v.daum.net/v/20261029095241820",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-          "url": "https://www.viva100.com/article/20261029500273",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
@@ -168,14 +163,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 21.0,
+      "viral_score": 18.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T16:50:00+09:00",
-      "processed_at": "2026-10-30T23:50:27.265315+09:00",
+      "processed_at": "2026-10-31T05:23:23.137812+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -197,67 +192,21 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 18.0,
+      "viral_score": 16.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T23:49:42.313857+09:00",
+      "processed_at": "2026-10-31T05:22:45.665585+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-          "url": "https://www.etnews.com/20261029000037",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "6e650e53fd3ca9467cb29bc4790701b2",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
-      "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
-      "summary": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림 화면 상단에는 입금 금액과 주요 비용 항목을 요약해 배치하고, 할인 및 마케팅 비용도 배민 지원 금액과 업주",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 17.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-10-30T23:48:43.081438+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
-          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "7ff9881d5fa5eb232c6d388157c3669a",
@@ -272,14 +221,14 @@
         "#라이더",
         "#마케팅·광고"
       ],
-      "viral_score": 15.7,
+      "viral_score": 14.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T10:20:00+09:00",
-      "processed_at": "2026-10-30T23:51:04.740712+09:00",
+      "processed_at": "2026-10-31T05:23:54.367010+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -357,13 +306,13 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "[1.5℃ HOW] 고립·은둔 청소년 세상 노크…배민, “응원합니다”",
-          "url": "http://v.daum.net/v/20261030194116684",
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
+          "url": "http://v.daum.net/v/20261030113710380",
           "channel": "다음뉴스"
         },
         {
-          "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
-          "url": "http://v.daum.net/v/20261030113710380",
+          "title": "[1.5℃ HOW] 고립·은둔 청소년 세상 노크…배민, “응원합니다”",
+          "url": "http://v.daum.net/v/20261030194116684",
           "channel": "다음뉴스"
         }
       ]
@@ -493,81 +442,6 @@
       "duplicates": []
     },
     {
-      "uid": "03538091c1bab36fa525d0c2f1c674cb",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029092703506",
-      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
-      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 52.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T09:27:00+09:00",
-      "processed_at": "2026-10-29T10:37:08.461524+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 9,
-      "duplicates": [
-        {
-          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
-          "url": "http://v.daum.net/v/20261029104141990",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
-          "url": "http://v.daum.net/v/20261029095241820",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-          "url": "https://www.viva100.com/article/20261029500273",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
-          "url": "http://v.daum.net/v/20261029092745561",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
-          "url": "http://v.daum.net/v/20261029145523042",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
-          "url": "http://v.daum.net/v/20261029102032698",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
-          "url": "http://v.daum.net/v/20261029094720528",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "6e650e53fd3ca9467cb29bc4790701b2",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -593,14 +467,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
-          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "64e43b48b37beba17473bc28e0a6c0a9",
@@ -760,6 +628,71 @@
       "duplicates": []
     },
     {
+      "uid": "03538091c1bab36fa525d0c2f1c674cb",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029092703506",
+      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
+      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 52.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T09:27:00+09:00",
+      "processed_at": "2026-10-29T10:37:08.461524+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 7,
+      "duplicates": [
+        {
+          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
+          "url": "http://v.daum.net/v/20261029104141990",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
+          "url": "http://v.daum.net/v/20261029095241820",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
+          "url": "http://v.daum.net/v/20261029092745561",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
+          "url": "http://v.daum.net/v/20261029145523042",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 개편…매장 지표·정산 내역 한 화면서 확인",
+          "url": "http://v.daum.net/v/20261029102032698",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 주문접수PC 개편…매장 운영부터 정산까지 한곳에",
+          "url": "http://v.daum.net/v/20261029094720528",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
       "uid": "041e1322739ce5c6abb213425be8e7b7",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -864,27 +797,21 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 18.0,
+      "viral_score": 16.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T23:49:42.313857+09:00",
+      "processed_at": "2026-10-31T05:22:45.665585+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-          "url": "https://www.etnews.com/20261029000037",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "13507aa3fb287213b821c30cae4fb370",
@@ -1434,14 +1361,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 13.8,
+      "viral_score": 13.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-30T23:49:51.378814+09:00",
+      "processed_at": "2026-10-31T05:22:53.160643+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1579,13 +1506,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 17.2,
+      "viral_score": 16.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-30T23:48:13.268995+09:00",
+      "processed_at": "2026-10-31T05:22:30.596128+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1719,14 +1646,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.2,
+      "viral_score": 19.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-30T23:50:18.168823+09:00",
+      "processed_at": "2026-10-31T05:23:15.526674+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9115,13 +9042,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 47.7,
+          "viral_score": 40.7,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-30T19:41:00+09:00",
-          "processed_at": "2026-10-30T23:47:15.251339+09:00",
+          "processed_at": "2026-10-31T05:21:42.555871+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9129,46 +9056,6 @@
           ],
           "duplicate_count": 0,
           "duplicates": []
-        },
-        {
-          "uid": "6e650e53fd3ca9467cb29bc4790701b2",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
-          "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
-          "summary": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림 화면 상단에는 입금 금액과 주요 비용 항목을 요약해 배치하고, 할인 및 마케팅 비용도 배민 지원 금액과 업주",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#점주·자영업"
-          ],
-          "viral_score": 17.9,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주"
-          ],
-          "published_at": "2026-10-29T18:10:30+09:00",
-          "processed_at": "2026-10-30T23:48:43.081438+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 2,
-          "duplicates": [
-            {
-              "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
-              "url": "https://sateconomy.co.kr/news/view/1065579346532324",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
-              "channel": "네이버뉴스"
-            }
-          ]
         },
         {
           "uid": "f503fb2673f56b6a8c129c4acd90a942",
@@ -9183,14 +9070,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 21.0,
+          "viral_score": 18.7,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T16:50:00+09:00",
-          "processed_at": "2026-10-30T23:50:27.265315+09:00",
+          "processed_at": "2026-10-31T05:23:23.137812+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9212,7 +9099,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 22.5,
+          "viral_score": 20.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9220,23 +9107,18 @@
             "라이더"
           ],
           "published_at": "2026-10-29T10:41:00+09:00",
-          "processed_at": "2026-10-30T23:50:45.350071+09:00",
+          "processed_at": "2026-10-31T05:23:38.158598+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 6,
+          "duplicate_count": 5,
           "duplicates": [
             {
               "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
               "url": "http://v.daum.net/v/20261029095241820",
               "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-              "url": "https://www.viva100.com/article/20261029500273",
-              "channel": "네이버뉴스"
             },
             {
               "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
@@ -9273,14 +9155,14 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 15.7,
+          "viral_score": 14.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T10:20:00+09:00",
-          "processed_at": "2026-10-30T23:51:04.740712+09:00",
+          "processed_at": "2026-10-31T05:23:54.367010+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9302,37 +9184,31 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 18.0,
+          "viral_score": 16.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-29T09:11:00+09:00",
-          "processed_at": "2026-10-30T23:49:42.313857+09:00",
+          "processed_at": "2026-10-31T05:22:45.665585+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
-              "url": "https://www.etnews.com/20261029000037",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         }
       ],
-      "total": 6,
-      "avg_score": 23.8,
+      "total": 5,
+      "avg_score": 22.2,
       "ratio": {
         "negative": 0,
-        "positive": 67,
-        "neutral": 33
+        "positive": 80,
+        "neutral": 20
       },
-      "mentions": 15
+      "mentions": 10
     },
     "coupang": {
       "issues": [],
