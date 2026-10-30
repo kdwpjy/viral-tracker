@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-10-30T05:54:10.778290+09:00",
+  "updated_at": "2026-10-30T10:36:43.164851+09:00",
   "hot": [
+    {
+      "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030101002671",
+      "title": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인",
+      "summary": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인 배민이 맥도날드 신메뉴 빅아치 할인행사를 진행하고 있다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T10:10:00+09:00",
+      "processed_at": "2026-10-30T10:31:05.247180+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030094927463",
+      "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+      "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
+      "sentiment": "positive",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T09:49:00+09:00",
+      "processed_at": "2026-10-30T10:31:15.201358+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 4,
+      "duplicates": [
+        {
+          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+          "url": "http://v.daum.net/v/20261030094108971",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030094037962",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
+          "url": "http://v.daum.net/v/20261030092917386",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030092730315",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "fb0350084de561084f408aea2d701ebb",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030085801025",
+      "title": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정",
+      "summary": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정 진행한다고 30일 밝혔다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 51.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T08:58:00+09:00",
+      "processed_at": "2026-10-30T10:32:02.144144+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "17aa3ff82224cb366fbdb07454fb2a8c",
       "brand": "배달앱 일반",
@@ -14,7 +119,7 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 49.5,
+      "viral_score": 44.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -22,7 +127,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T17:45:00+09:00",
-      "processed_at": "2026-10-30T05:54:10.774199+09:00",
+      "processed_at": "2026-10-30T10:36:43.159360+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -44,13 +149,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 47.9,
+      "viral_score": 41.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T04:33:00+09:00",
-      "processed_at": "2026-10-30T05:50:39.451736+09:00",
+      "processed_at": "2026-10-30T10:32:22.066751+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -65,49 +170,21 @@
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261029165005415",
       "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
-      "summary": "배민, AI로 주문부터 배달까지 최적화 콘퍼런스2026(우아콘)'에서 이 같은 기술 개발 현황과 향후 계획을 공개했다",
+      "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 33.3,
+      "viral_score": 29.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T16:50:00+09:00",
-      "processed_at": "2026-10-30T05:50:22.916474+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "65580a5b0f22952bc8d28cd394e9ef39",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029161002012",
-      "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
-      "summary": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정 배민이 K-장 웰니스 요리대회를 진행했다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 32.6,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-29T16:10:00+09:00",
-      "processed_at": "2026-10-30T05:50:31.306063+09:00",
+      "processed_at": "2026-10-30T10:34:12.834430+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -129,7 +206,7 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 32.0,
+      "viral_score": 28.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -137,7 +214,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:41:00+09:00",
-      "processed_at": "2026-10-30T05:52:19.801130+09:00",
+      "processed_at": "2026-10-30T10:34:30.756668+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -190,42 +267,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 30.1,
+      "viral_score": 28.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-30T05:50:54.978000+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6a9e29bbce81c842aef49df6b4402c85",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029221741843",
-      "title": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22.7조에 인수",
-      "summary": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22 도어대시 배달 가방/로이터=뉴스1 미국 최대 음식 배달 플랫폼 도어대시가 식료품 배달업체 인스타카트를 약 1",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 27.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-29T22:17:00+09:00",
-      "processed_at": "2026-10-30T05:50:07.231414+09:00",
+      "processed_at": "2026-10-30T10:32:40.579186+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -247,14 +296,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 26.9,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T05:51:34.807530+09:00",
+      "processed_at": "2026-10-30T10:33:28.142506+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -264,54 +313,25 @@
       "duplicates": []
     },
     {
-      "uid": "64e43b48b37beba17473bc28e0a6c0a9",
+      "uid": "6a9e29bbce81c842aef49df6b4402c85",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029180118110",
-      "title": "배민 키워낸 골드만 '성공 공식' 티맵도 통할까",
-      "summary": "배민 키워낸 골드만 '성공 공식' 티맵도 통할까 삭스는 이때 투자금을 회수했다",
+      "url": "http://v.daum.net/v/20261029221741843",
+      "title": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22.7조에 인수",
+      "summary": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22 도어대시 배달 가방/로이터=뉴스1 미국 최대 음식 배달 플랫폼 도어대시가 식료품 배달업체 인스타카트를 약 1",
       "sentiment": "neutral",
       "tags": [
-        "#서비스·품질",
+        "#가격·수수료",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.1,
+      "viral_score": 23.8,
       "status": "Stable",
       "stakeholders": [
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-10-29T18:01:00+09:00",
-      "processed_at": "2026-10-30T05:50:15.045654+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "7ff9881d5fa5eb232c6d388157c3669a",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029102021682",
-      "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
-      "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 제공 ▲배민, 주문접수PC에 매장 관리 기능 통합…정산내역도 개편 우아한형제들은 배달의민족 파트너용 프로그램",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 22.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T10:20:00+09:00",
-      "processed_at": "2026-10-30T05:52:36.037882+09:00",
+      "published_at": "2026-10-29T22:17:00+09:00",
+      "processed_at": "2026-10-30T10:32:12.368040+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -322,6 +342,117 @@
     }
   ],
   "feed": [
+    {
+      "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030101002671",
+      "title": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인",
+      "summary": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인 배민이 맥도날드 신메뉴 빅아치 할인행사를 진행하고 있다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T10:10:00+09:00",
+      "processed_at": "2026-10-30T10:31:05.247180+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다",
+          "url": "http://v.daum.net/v/20261026104941475",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030094927463",
+      "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+      "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
+      "sentiment": "positive",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 52.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T09:49:00+09:00",
+      "processed_at": "2026-10-30T10:31:15.201358+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 4,
+      "duplicates": [
+        {
+          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+          "url": "http://v.daum.net/v/20261030094108971",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030094037962",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
+          "url": "http://v.daum.net/v/20261030092917386",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030092730315",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "fb0350084de561084f408aea2d701ebb",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030085801025",
+      "title": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정",
+      "summary": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정 진행한다고 30일 밝혔다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 51.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-30T08:58:00+09:00",
+      "processed_at": "2026-10-30T10:32:02.144144+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "6847a886d5574a4b18b23d1c6ad2077e",
       "brand": "배달앱 일반",
@@ -335,13 +466,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 47.9,
+      "viral_score": 41.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T04:33:00+09:00",
-      "processed_at": "2026-10-30T05:50:39.451736+09:00",
+      "processed_at": "2026-10-30T10:32:22.066751+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -508,14 +639,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
-          "url": "http://v.daum.net/v/20261029161002012",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "2deefc1559370222b09fbe37512e02e3",
@@ -756,14 +881,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 26.9,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T05:51:34.807530+09:00",
+      "processed_at": "2026-10-30T10:33:28.142506+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1321,14 +1446,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 18.0,
+      "viral_score": 16.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-30T05:51:42.353415+09:00",
+      "processed_at": "2026-10-30T10:33:37.100725+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1466,13 +1591,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 20.7,
+      "viral_score": 19.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-30T05:51:19.700305+09:00",
+      "processed_at": "2026-10-30T10:33:10.141666+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1606,14 +1731,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 22.5,
+      "viral_score": 21.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-30T05:52:04.797964+09:00",
+      "processed_at": "2026-10-30T10:34:03.787750+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2026,34 +2151,6 @@
       "duplicates": []
     },
     {
-      "uid": "ca94985ccf8216c48765d0ae7cd86b4f",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261026104941475",
-      "title": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다",
-      "summary": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다 직후 맥도날드 대형 버거 가운데 판매 1위에 올랐으며, 영국에서는 기간 한정 메뉴로 출시된 뒤 올해 1월 정",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 53.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-26T10:49:00+09:00",
-      "processed_at": "2026-10-26T11:12:23.091883+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "27ace2f320612d82ecd4f3190cdc4d79",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -2192,16 +2289,11 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "대전 서구, 어린이 먹거리 정보 표시 점검… 배달앱·매장 132곳 대상",
           "url": "http://v.daum.net/v/20261023111309096",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "파주시, 어린이 먹거리 정보 점검…배달앱·매장 189곳 대상",
-          "url": "http://v.daum.net/v/20261016112348773",
           "channel": "다음뉴스"
         }
       ]
@@ -2376,7 +2468,7 @@
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-30T05:53:06.795436+09:00",
+      "processed_at": "2026-10-30T10:35:26.744982+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2443,7 +2535,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-30T05:53:15.089267+09:00",
+      "processed_at": "2026-10-30T10:35:36.642306+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2478,7 +2570,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-30T05:53:23.656347+09:00",
+      "processed_at": "2026-10-30T10:35:46.832735+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2536,7 +2628,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-30T05:53:39.570780+09:00",
+      "processed_at": "2026-10-30T10:36:05.919634+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2595,7 +2687,7 @@
         "직원"
       ],
       "published_at": "2026-10-23T16:51:00+09:00",
-      "processed_at": "2026-10-30T05:53:55.468425+09:00",
+      "processed_at": "2026-10-30T10:36:24.919005+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2624,7 +2716,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T16:47:00+09:00",
-      "processed_at": "2026-10-30T05:54:03.208374+09:00",
+      "processed_at": "2026-10-30T10:36:34.145871+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2960,19 +3052,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배달의민족-외식업중앙회, 22일 'K-장 웰니스 요리대회'새 창 열림",
-          "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120576",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, ‘한국의 장’으로 외식업주 요리대회…수상 레시피 전국 보급새 창 열림",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616846740625",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "fd06ba51aee95acee8c7d296a9cf052a",
@@ -4388,17 +4469,12 @@
         "배달의민족",
         "쿠팡이츠"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "소비자 상담 폭증, 배달의민족·쿠팡이츠·요기요의 숨겨진 문제는?새 창 열림",
           "url": "https://www.gokorea.kr/news/articleView.html?idxno=880985",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족, 우버 업고 '쿠팡이츠'와 격차 벌릴까",
-          "url": "http://v.daum.net/v/20260929072147175",
-          "channel": "다음뉴스"
         }
       ]
     },
@@ -9073,68 +9149,116 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "dbc01d33313605ac0ab54d2c092cc920",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612611",
-      "title": "배달의민족, 전북 외식업 대상 무료 '찾아가는 배민아카데미' 22일까지 ...새 창 열림",
-      "summary": "배달의민족, 전북 외식업 대상 무료 '찾아가는 배민아카데미' 22일까지 배달의민족이 운영하는 배민아카데미가 전라북도 지역 외식업 종사자를 대상으로 4주간 맞춤형 교육 프로그램을 진",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 47.6,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-06T11:18:58+09:00",
-      "processed_at": "2026-10-06T12:47:15.001951+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "226879ede83c71ec7f2d067dff66666d",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006110545050",
-      "title": "[정재겸의 유통삼국지] \"15분 안에 지갑 열어라\"…배달앱 3사 '타임딜 전쟁'",
-      "summary": "[정재겸의 유통삼국지] \"15분 안에 지갑 열어라\"…배달앱 3사 '타임딜 전쟁' 배달앱 입점업체의 평균 거래비용 부담률은 월평균 매출의 26",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 19.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-06T11:05:00+09:00",
-      "processed_at": "2026-10-10T02:51:59.094449+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261030101002671",
+          "title": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인",
+          "summary": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인 배민이 맥도날드 신메뉴 빅아치 할인행사를 진행하고 있다",
+          "sentiment": "positive",
+          "tags": [
+            "#가격·수수료",
+            "#소비자반응",
+            "#마케팅·광고"
+          ],
+          "viral_score": 57.4,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-30T10:10:00+09:00",
+          "processed_at": "2026-10-30T10:31:05.247180+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261030094927463",
+          "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
+          "sentiment": "positive",
+          "tags": [
+            "#마케팅·광고",
+            "#기업·정책",
+            "#감동·긍정"
+          ],
+          "viral_score": 52.8,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-30T09:49:00+09:00",
+          "processed_at": "2026-10-30T10:31:15.201358+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 4,
+          "duplicates": [
+            {
+              "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+              "url": "http://v.daum.net/v/20261030094108971",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+              "url": "http://v.daum.net/v/20261030094037962",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
+              "url": "http://v.daum.net/v/20261030092917386",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
+              "url": "http://v.daum.net/v/20261030092730315",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "fb0350084de561084f408aea2d701ebb",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261030085801025",
+          "title": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정",
+          "summary": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정 진행한다고 30일 밝혔다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#감동·긍정"
+          ],
+          "viral_score": 51.5,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-30T08:58:00+09:00",
+          "processed_at": "2026-10-30T10:32:02.144144+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
         {
           "uid": "6a9e29bbce81c842aef49df6b4402c85",
           "brand": "배달의민족",
@@ -9148,41 +9272,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 27.4,
+          "viral_score": 23.8,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-29T22:17:00+09:00",
-          "processed_at": "2026-10-30T05:50:07.231414+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "64e43b48b37beba17473bc28e0a6c0a9",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029180118110",
-          "title": "배민 키워낸 골드만 '성공 공식' 티맵도 통할까",
-          "summary": "배민 키워낸 골드만 '성공 공식' 티맵도 통할까 삭스는 이때 투자금을 회수했다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 24.1,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-10-29T18:01:00+09:00",
-          "processed_at": "2026-10-30T05:50:15.045654+09:00",
+          "processed_at": "2026-10-30T10:32:12.368040+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9197,49 +9293,21 @@
           "channel": "다음뉴스",
           "url": "http://v.daum.net/v/20261029165005415",
           "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
-          "summary": "배민, AI로 주문부터 배달까지 최적화 콘퍼런스2026(우아콘)'에서 이 같은 기술 개발 현황과 향후 계획을 공개했다",
+          "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 33.3,
+          "viral_score": 29.1,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T16:50:00+09:00",
-          "processed_at": "2026-10-30T05:50:22.916474+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "65580a5b0f22952bc8d28cd394e9ef39",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029161002012",
-          "title": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정",
-          "summary": "김밥부터 장 소스 활용 요리까지…배민 ‘K-장 요리대회’ 수상작 선정 배민이 K-장 웰니스 요리대회를 진행했다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 32.6,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-10-29T16:10:00+09:00",
-          "processed_at": "2026-10-30T05:50:31.306063+09:00",
+          "processed_at": "2026-10-30T10:34:12.834430+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9261,7 +9329,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 32.0,
+          "viral_score": 28.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9269,7 +9337,7 @@
             "라이더"
           ],
           "published_at": "2026-10-29T10:41:00+09:00",
-          "processed_at": "2026-10-30T05:52:19.801130+09:00",
+          "processed_at": "2026-10-30T10:34:30.756668+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9322,14 +9390,14 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 22.2,
+          "viral_score": 20.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T10:20:00+09:00",
-          "processed_at": "2026-10-30T05:52:36.037882+09:00",
+          "processed_at": "2026-10-30T10:34:50.093358+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9351,14 +9419,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 26.9,
+          "viral_score": 23.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-29T09:11:00+09:00",
-          "processed_at": "2026-10-30T05:51:34.807530+09:00",
+          "processed_at": "2026-10-30T10:33:28.142506+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9380,14 +9448,14 @@
             "#점주·자영업",
             "#소비자반응"
           ],
-          "viral_score": 30.1,
+          "viral_score": 28.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-28T18:30:00+09:00",
-          "processed_at": "2026-10-30T05:50:54.978000+09:00",
+          "processed_at": "2026-10-30T10:32:40.579186+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9409,13 +9477,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 15.8,
+          "viral_score": 14.8,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-28T17:03:00+09:00",
-          "processed_at": "2026-10-30T05:51:03.330770+09:00",
+          "processed_at": "2026-10-30T10:32:50.544520+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9423,115 +9491,16 @@
           ],
           "duplicate_count": 0,
           "duplicates": []
-        },
-        {
-          "uid": "942ff3f43799932ae759675dd4805d80",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028151741765",
-          "title": "\"배달 기다린다는 말 없앤다\"… 배민이 그리는 AI 기반 '심리스 시티'",
-          "summary": "\"배달 기다린다는 말 없앤다\"… 배민이 그리는 AI 기반 '심리스 시티' 년 전 종이 전단을 디지털로 바꾸면서 고객은 더 많은 가게를, 점주는 더 많은 고객을 만날 수 있게 됐다\"며",
-          "sentiment": "positive",
-          "tags": [
-            "#마케팅·광고",
-            "#기업·정책",
-            "#감동·긍정"
-          ],
-          "viral_score": 18.0,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주"
-          ],
-          "published_at": "2026-10-28T15:17:00+09:00",
-          "processed_at": "2026-10-30T05:51:42.353415+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "3d948dd384c96d83feb8ca761777b938",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028150341888",
-          "title": "배민, 주문 전부터 AI가 움직인다…'심리스 시티' 비전 공개",
-          "summary": "배민, 주문 전부터 AI가 움직인다…'심리스 시티' 비전 공개 ◆ 라이더 수급도 AI로…우천 대응 80% 단축 배민은 배달 현장에도 AI 기반 예측 시스템을 확대하고 있다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 17.9,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주",
-            "라이더"
-          ],
-          "published_at": "2026-10-28T15:03:00+09:00",
-          "processed_at": "2026-10-30T05:51:49.921762+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "주문 전에 AI가 움직인다…배민, '심리스 시티' 청사진 제시",
-              "url": "http://v.daum.net/v/20261028140244206",
-              "channel": "다음뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "f733d5c4f9b39f60b27c800c9e68f180",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261028105407354",
-          "title": "배민 창업자 김봉진 의장, 중고명품 ‘고쳐팔기’ 패피스에 개인투자",
-          "summary": "배민 창업자 김봉진 의장, 중고명품 ‘고쳐팔기’ 패피스에 개인투자 수선·위탁 판매 플랫폼 패피스(운영사 엘알에이치알)가 배달의민족 창업자인 김봉진 그란데클립 의장으로부터 투자",
-          "sentiment": "positive",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#기업·정책"
-          ],
-          "viral_score": 20.7,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-10-28T10:54:00+09:00",
-          "processed_at": "2026-10-30T05:51:19.700305+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "김봉진 배달의민족 창업자, 중고명품 수선·위탁 판매 '패피스'에 투자",
-              "url": "http://v.daum.net/v/20261028133111833",
-              "channel": "다음뉴스"
-            }
-          ]
         }
       ],
-      "total": 12,
-      "avg_score": 25.1,
+      "total": 10,
+      "avg_score": 33.0,
       "ratio": {
-        "negative": 8,
-        "positive": 58,
-        "neutral": 33
+        "negative": 10,
+        "positive": 60,
+        "neutral": 30
       },
-      "mentions": 20
+      "mentions": 24
     },
     "coupang": {
       "issues": [],
