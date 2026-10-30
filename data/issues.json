@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-30T10:36:43.164851+09:00",
+  "updated_at": "2026-10-30T17:01:57.822045+09:00",
   "hot": [
+    {
+      "uid": "cdd3d377af00d7b2c82bd7f40f29808f",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261030160020786",
+      "title": "양양군, 공공배달앱 ‘땡겨요’ 운영 활성화 업무협약",
+      "summary": "양양군, 공공배달앱 ‘땡겨요’ 운영 활성화 업무협약 강원특별자치도 양양군(군수 김정중)은 30일 오후 3시 군청 소회의실에서 공공배달앱 ‘땡겨요’ 운영 활성화를",
+      "sentiment": "positive",
+      "tags": [
+        "#점주·자영업",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 52.4,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-30T16:00:00+09:00",
+      "processed_at": "2026-10-30T16:58:32.505008+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "양양군 공공배달앱 '땡겨요' 수수료 2% 적용…지역화폐 결제 연계 골목상권 지원",
+          "url": "http://v.daum.net/v/20261030153230427",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
     {
       "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
       "brand": "배달의민족",
@@ -14,13 +48,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 57.4,
-      "status": "Rising",
+      "viral_score": 48.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T10:10:00+09:00",
-      "processed_at": "2026-10-30T10:31:05.247180+09:00",
+      "processed_at": "2026-10-30T16:57:52.326784+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -30,25 +64,25 @@
       "duplicates": []
     },
     {
-      "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
+      "uid": "8f5610c611942eeb73ae63d77b8ca3e9",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261030094927463",
-      "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
-      "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
+      "url": "http://v.daum.net/v/20261030113710380",
+      "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
+      "summary": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다 작성한 응원 메시지와 픽업 주문 상품권을 청소년 가구에 전달해 집 밖으로 나서는 계기를 마련한다는 취지다",
       "sentiment": "positive",
       "tags": [
         "#마케팅·광고",
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 52.8,
-      "status": "Rising",
+      "viral_score": 46.0,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-30T09:49:00+09:00",
-      "processed_at": "2026-10-30T10:31:15.201358+09:00",
+      "published_at": "2026-10-30T11:37:00+09:00",
+      "processed_at": "2026-10-30T16:57:35.526338+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -57,8 +91,13 @@
       "duplicate_count": 4,
       "duplicates": [
         {
-          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
-          "url": "http://v.daum.net/v/20261030094108971",
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030104039194",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030094927463",
           "channel": "다음뉴스"
         },
         {
@@ -70,34 +109,29 @@
           "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
           "url": "http://v.daum.net/v/20261030092917386",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
-          "url": "http://v.daum.net/v/20261030092730315",
-          "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "fb0350084de561084f408aea2d701ebb",
+      "uid": "2f49ddb48694ca32978e68880444f4ff",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261030085801025",
-      "title": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정",
-      "summary": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정 진행한다고 30일 밝혔다",
+      "url": "http://v.daum.net/v/20261030094108971",
+      "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+      "summary": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권 다음달 6일까지 ‘안부를 묻는 카드’와 ‘행운을 담은 카드’ 가운데 하나를 선택해 응원 메시지를 작성하면 참",
       "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
+        "#소비자반응",
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 51.5,
-      "status": "Rising",
+      "viral_score": 43.5,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-30T08:58:00+09:00",
-      "processed_at": "2026-10-30T10:32:02.144144+09:00",
+      "published_at": "2026-10-30T09:41:00+09:00",
+      "processed_at": "2026-10-30T16:58:08.728748+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -119,7 +153,7 @@
         "#라이더",
         "#소비자반응"
       ],
-      "viral_score": 44.0,
+      "viral_score": 37.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -127,7 +161,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T17:45:00+09:00",
-      "processed_at": "2026-10-30T10:36:43.159360+09:00",
+      "processed_at": "2026-10-30T17:01:57.818493+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -137,54 +171,26 @@
       "duplicates": []
     },
     {
-      "uid": "6847a886d5574a4b18b23d1c6ad2077e",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261030043328349",
-      "title": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급",
-      "summary": "울산 배달앱-쇼핑몰에서 울산페이 쓰면 23% 환급 울산시가 다음 달 1일부터 15일까지 울산페이 환급률을 기존 13%에서 18%로 높인다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 41.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-30T04:33:00+09:00",
-      "processed_at": "2026-10-30T10:32:22.066751+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f503fb2673f56b6a8c129c4acd90a942",
+      "uid": "df1a588a65836bee3c02f8e51f8e6afb",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029165005415",
-      "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
-      "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
-      "sentiment": "positive",
+      "url": "http://v.daum.net/v/20261028183012475",
+      "title": "[기자의 눈] 배민과 다이소의 영토 확장... 골목시장 한숨 외면해선 안 돼",
+      "summary": "[기자의 눈] 배민과 다이소의 영토 확장 골목시장 한숨 외면해선 안 돼",
+      "sentiment": "negative",
       "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
       ],
-      "viral_score": 29.1,
+      "viral_score": 25.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
-        "라이더"
+        "점주"
       ],
-      "published_at": "2026-10-29T16:50:00+09:00",
-      "processed_at": "2026-10-30T10:34:12.834430+09:00",
+      "published_at": "2026-10-28T18:30:00+09:00",
+      "processed_at": "2026-10-30T16:58:56.680406+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -206,7 +212,7 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 28.8,
+      "viral_score": 25.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -214,7 +220,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:41:00+09:00",
-      "processed_at": "2026-10-30T10:34:30.756668+09:00",
+      "processed_at": "2026-10-30T17:00:29.628561+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -255,26 +261,26 @@
       ]
     },
     {
-      "uid": "df1a588a65836bee3c02f8e51f8e6afb",
+      "uid": "f503fb2673f56b6a8c129c4acd90a942",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028183012475",
-      "title": "[기자의 눈] 배민과 다이소의 영토 확장... 골목시장 한숨 외면해선 안 돼",
-      "summary": "[기자의 눈] 배민과 다이소의 영토 확장 골목시장 한숨 외면해선 안 돼",
-      "sentiment": "negative",
+      "url": "http://v.daum.net/v/20261029165005415",
+      "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
+      "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 28.0,
+      "viral_score": 24.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
-        "점주"
+        "라이더"
       ],
-      "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-30T10:32:40.579186+09:00",
+      "published_at": "2026-10-29T16:50:00+09:00",
+      "processed_at": "2026-10-30T17:00:14.395891+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -296,14 +302,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 23.9,
+      "viral_score": 20.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T10:33:28.142506+09:00",
+      "processed_at": "2026-10-30T16:59:36.684510+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -313,25 +319,26 @@
       "duplicates": []
     },
     {
-      "uid": "6a9e29bbce81c842aef49df6b4402c85",
+      "uid": "7ff9881d5fa5eb232c6d388157c3669a",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029221741843",
-      "title": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22.7조에 인수",
-      "summary": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22 도어대시 배달 가방/로이터=뉴스1 미국 최대 음식 배달 플랫폼 도어대시가 식료품 배달업체 인스타카트를 약 1",
+      "url": "http://v.daum.net/v/20261029102021682",
+      "title": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡",
+      "summary": "[유통딜리버리] 롯데아울렛ㆍ롯데마트ㆍCUㆍSSG닷컴ㆍG마켓ㆍ이마트24ㆍGS샵ㆍ무신사ㆍ11번가ㆍ배민ㆍ쿠팡 제공 ▲배민, 주문접수PC에 매장 관리 기능 통합…정산내역도 개편 우아한형제들은 배달의민족 파트너용 프로그램",
       "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#서비스·품질",
+        "#라이더",
+        "#마케팅·광고"
       ],
-      "viral_score": 23.8,
+      "viral_score": 17.6,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "라이더"
       ],
-      "published_at": "2026-10-29T22:17:00+09:00",
-      "processed_at": "2026-10-30T10:32:12.368040+09:00",
+      "published_at": "2026-10-29T10:20:00+09:00",
+      "processed_at": "2026-10-30T17:00:45.895637+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -343,59 +350,98 @@
   ],
   "feed": [
     {
-      "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
-      "brand": "배달의민족",
+      "uid": "ecdf4a76e96d9498899d532c7c56f959",
+      "brand": "배달앱 일반",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261030101002671",
-      "title": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인",
-      "summary": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인 배민이 맥도날드 신메뉴 빅아치 할인행사를 진행하고 있다",
-      "sentiment": "positive",
+      "url": "http://v.daum.net/v/20261029093840123",
+      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
+      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
+      "sentiment": "negative",
       "tags": [
         "#가격·수수료",
-        "#소비자반응",
-        "#마케팅·광고"
+        "#점주·자영업",
+        "#기업·정책"
       ],
-      "viral_score": 57.4,
+      "viral_score": 68.3,
       "status": "Rising",
       "stakeholders": [
-        "소비자"
+        "점주"
       ],
-      "published_at": "2026-10-30T10:10:00+09:00",
-      "processed_at": "2026-10-30T10:31:05.247180+09:00",
+      "published_at": "2026-10-29T09:38:00+09:00",
+      "processed_at": "2026-10-29T10:32:23.355960+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달앱"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다",
-          "url": "http://v.daum.net/v/20261026104941475",
+          "title": "양양군, 공공배달앱 ‘땡겨요’ 운영 활성화 업무협약",
+          "url": "http://v.daum.net/v/20261030160020786",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
+          "url": "http://v.daum.net/v/20261018161521333",
           "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
+      "uid": "0abe3f9fecfbdcc83c941860c81e6ecf",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.kwnews.co.kr/article/20261019500514",
+      "title": "태백시, 공공배달앱 ‘땡겨요’ 협약…중개수수료 2%·다음달까지 면제새 창 열림",
+      "summary": "태백시, 공공배달앱 ‘땡겨요’ 협약…중개수수료 2%·다음달까지 면제새 창 열림 태백시는 공공배달앱 ‘땡겨요’를 통해 배달앱 이용에 따른 소상공인의 경영 부담을 줄이고 시민들에게 다양한 이",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 55.2,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-20T00:05:00+09:00",
+      "processed_at": "2026-10-20T01:50:34.186360+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "양양군 공공배달앱 '땡겨요' 수수료 2% 적용…지역화폐 결제 연계 골목상권 지원",
+          "url": "http://v.daum.net/v/20261030153230427",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "8f5610c611942eeb73ae63d77b8ca3e9",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261030094927463",
-      "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
-      "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
+      "url": "http://v.daum.net/v/20261030113710380",
+      "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
+      "summary": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다 작성한 응원 메시지와 픽업 주문 상품권을 청소년 가구에 전달해 집 밖으로 나서는 계기를 마련한다는 취지다",
       "sentiment": "positive",
       "tags": [
         "#마케팅·광고",
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 52.8,
-      "status": "Rising",
+      "viral_score": 46.0,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-30T09:49:00+09:00",
-      "processed_at": "2026-10-30T10:31:15.201358+09:00",
+      "published_at": "2026-10-30T11:37:00+09:00",
+      "processed_at": "2026-10-30T16:57:35.526338+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -404,8 +450,13 @@
       "duplicate_count": 4,
       "duplicates": [
         {
-          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
-          "url": "http://v.daum.net/v/20261030094108971",
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030104039194",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+          "url": "http://v.daum.net/v/20261030094927463",
           "channel": "다음뉴스"
         },
         {
@@ -417,10 +468,39 @@
           "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
           "url": "http://v.daum.net/v/20261030092917386",
           "channel": "다음뉴스"
-        },
+        }
+      ]
+    },
+    {
+      "uid": "ca94985ccf8216c48765d0ae7cd86b4f",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261026104941475",
+      "title": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다",
+      "summary": "배민, 매일 오전 11시 맥도날드 ‘빅아치’ 3000원 할인 쿠폰 푼다 직후 맥도날드 대형 버거 가운데 판매 1위에 올랐으며, 영국에서는 기간 한정 메뉴로 출시된 뒤 올해 1월 정",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 53.4,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-26T10:49:00+09:00",
+      "processed_at": "2026-10-26T11:12:23.091883+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
         {
-          "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
-          "url": "http://v.daum.net/v/20261030092730315",
+          "title": "맥도날드 신메뉴 ‘빅아치’, 배민서 3000원 할인",
+          "url": "http://v.daum.net/v/20261030101002671",
           "channel": "다음뉴스"
         }
       ]
@@ -450,8 +530,14 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+          "url": "http://v.daum.net/v/20261030094108971",
+          "channel": "다음뉴스"
+        }
+      ]
     },
     {
       "uid": "6847a886d5574a4b18b23d1c6ad2077e",
@@ -480,40 +566,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "49da49438e164f5051f1632a9409c76c",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261027065630412",
-      "title": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상",
-      "summary": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상 [이데일리 김겨레 기자] 미국 최대 음식 배달업체 도어대시가 식료품 배달업체 인스타카트를 약 170억달러(약",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-27T06:56:00+09:00",
-      "processed_at": "2026-10-27T07:07:13.890234+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22.7조에 인수",
-          "url": "http://v.daum.net/v/20261029221741843",
-          "channel": "다음뉴스"
-        }
-      ]
     },
     {
       "uid": "64e43b48b37beba17473bc28e0a6c0a9",
@@ -835,40 +887,6 @@
       "duplicates": []
     },
     {
-      "uid": "ecdf4a76e96d9498899d532c7c56f959",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029093840123",
-      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
-      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 68.3,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-29T09:38:00+09:00",
-      "processed_at": "2026-10-29T10:32:23.355960+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
-          "url": "http://v.daum.net/v/20261018161521333",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "f9c5810516edb614073b4555cfae3586",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -881,14 +899,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 23.9,
+      "viral_score": 20.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-30T10:33:28.142506+09:00",
+      "processed_at": "2026-10-30T16:59:36.684510+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1446,14 +1464,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 16.6,
+      "viral_score": 15.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-30T10:33:37.100725+09:00",
+      "processed_at": "2026-10-30T16:59:44.246054+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1591,13 +1609,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 19.5,
+      "viral_score": 18.2,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-30T10:33:10.141666+09:00",
+      "processed_at": "2026-10-30T16:59:21.525001+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1731,14 +1749,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 21.7,
+      "viral_score": 20.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-30T10:34:03.787750+09:00",
+      "processed_at": "2026-10-30T17:00:06.743228+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2060,6 +2078,34 @@
           "channel": "다음뉴스"
         }
       ]
+    },
+    {
+      "uid": "49da49438e164f5051f1632a9409c76c",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261027065630412",
+      "title": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상",
+      "summary": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상 [이데일리 김겨레 기자] 미국 최대 음식 배달업체 도어대시가 식료품 배달업체 인스타카트를 약 170억달러(약",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 34.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-27T06:56:00+09:00",
+      "processed_at": "2026-10-27T07:07:13.890234+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "40fc46350832f786676c577a0a4974bc",
@@ -2468,7 +2514,7 @@
         "소비자"
       ],
       "published_at": "2026-10-23T18:46:00+09:00",
-      "processed_at": "2026-10-30T10:35:26.744982+09:00",
+      "processed_at": "2026-10-30T17:01:16.914932+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2535,21 +2581,15 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:50:00+09:00",
-      "processed_at": "2026-10-30T10:35:36.642306+09:00",
+      "processed_at": "2026-10-30T17:01:25.306652+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠",
         "무료배달"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "국감서 쿠팡이츠 수수료·배달비 부담 논란…김명규 대표 \"개선하겠다\"",
-          "url": "http://v.daum.net/v/20261023164119962",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "fc6787a69dda6e90b2ecc1c1fd31ef3e",
@@ -2570,7 +2610,7 @@
         "점주"
       ],
       "published_at": "2026-10-23T17:48:00+09:00",
-      "processed_at": "2026-10-30T10:35:46.832735+09:00",
+      "processed_at": "2026-10-30T17:01:33.975680+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2628,7 +2668,7 @@
         "라이더"
       ],
       "published_at": "2026-10-23T17:35:00+09:00",
-      "processed_at": "2026-10-30T10:36:05.919634+09:00",
+      "processed_at": "2026-10-30T17:01:42.004619+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3321,14 +3361,8 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "서울시 꿈나무카드, 11월 16일부터 배달앱 '땡겨요'서 결제새 창 열림",
-          "url": "https://www.imaeil.com/page/view/2026102111383745785",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "a71e1c51f6b28a0409537d9c00193087",
@@ -4296,34 +4330,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "0abe3f9fecfbdcc83c941860c81e6ecf",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.kwnews.co.kr/article/20261019500514",
-      "title": "태백시, 공공배달앱 ‘땡겨요’ 협약…중개수수료 2%·다음달까지 면제새 창 열림",
-      "summary": "태백시, 공공배달앱 ‘땡겨요’ 협약…중개수수료 2%·다음달까지 면제새 창 열림 태백시는 공공배달앱 ‘땡겨요’를 통해 배달앱 이용에 따른 소상공인의 경영 부담을 줄이고 시민들에게 다양한 이",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 55.2,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-20T00:05:00+09:00",
-      "processed_at": "2026-10-20T01:50:34.186360+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -9155,6 +9161,55 @@
     "baemin": {
       "issues": [
         {
+          "uid": "8f5610c611942eeb73ae63d77b8ca3e9",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261030113710380",
+          "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
+          "summary": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다 작성한 응원 메시지와 픽업 주문 상품권을 청소년 가구에 전달해 집 밖으로 나서는 계기를 마련한다는 취지다",
+          "sentiment": "positive",
+          "tags": [
+            "#마케팅·광고",
+            "#기업·정책",
+            "#감동·긍정"
+          ],
+          "viral_score": 46.0,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-30T11:37:00+09:00",
+          "processed_at": "2026-10-30T16:57:35.526338+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 4,
+          "duplicates": [
+            {
+              "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+              "url": "http://v.daum.net/v/20261030104039194",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+              "url": "http://v.daum.net/v/20261030094927463",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
+              "url": "http://v.daum.net/v/20261030094037962",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
+              "url": "http://v.daum.net/v/20261030092917386",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
           "uid": "93d4c3911f1c92775ba8f84e88ea9d20",
           "brand": "배달의민족",
           "channel": "다음뉴스",
@@ -9167,118 +9222,41 @@
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 57.4,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-30T10:10:00+09:00",
-          "processed_at": "2026-10-30T10:31:05.247180+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "728f1e97e5dfb01d1ea2b3d658cffe78",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261030094927463",
-          "title": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
-          "summary": "[게시판] 배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인 배민-성평등가족부, 고립·은둔 청소년 응원 캠페인 [우아한형제들 제공",
-          "sentiment": "positive",
-          "tags": [
-            "#마케팅·광고",
-            "#기업·정책",
-            "#감동·긍정"
-          ],
-          "viral_score": 52.8,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-30T09:49:00+09:00",
-          "processed_at": "2026-10-30T10:31:15.201358+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 4,
-          "duplicates": [
-            {
-              "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
-              "url": "http://v.daum.net/v/20261030094108971",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 성평등가족부와 고립·은둔 청소년 응원 캠페인",
-              "url": "http://v.daum.net/v/20261030094037962",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 픽업 주문으로 고립·은둔 청소년 외출 지원",
-              "url": "http://v.daum.net/v/20261030092917386",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "\"픽업 주문, 외출의 계기로\"…배민, 고립·은둔 청소년 응원 캠페인",
-              "url": "http://v.daum.net/v/20261030092730315",
-              "channel": "다음뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "fb0350084de561084f408aea2d701ebb",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261030085801025",
-          "title": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정",
-          "summary": "배민 고객, 고립·은둔 청소년에 메시지 카드 보낸다…3000원 상품권 증정 진행한다고 30일 밝혔다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#감동·긍정"
-          ],
-          "viral_score": 51.5,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-10-30T08:58:00+09:00",
-          "processed_at": "2026-10-30T10:32:02.144144+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "6a9e29bbce81c842aef49df6b4402c85",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029221741843",
-          "title": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22.7조에 인수",
-          "summary": "'미국판 배민' 도어대시, 경쟁사 인스타카트 22 도어대시 배달 가방/로이터=뉴스1 미국 최대 음식 배달 플랫폼 도어대시가 식료품 배달업체 인스타카트를 약 1",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 23.8,
+          "viral_score": 48.1,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-10-29T22:17:00+09:00",
-          "processed_at": "2026-10-30T10:32:12.368040+09:00",
+          "published_at": "2026-10-30T10:10:00+09:00",
+          "processed_at": "2026-10-30T16:57:52.326784+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "2f49ddb48694ca32978e68880444f4ff",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261030094108971",
+          "title": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권",
+          "summary": "배민, 고립·은둔 청소년 응원 캠페인…1000명에 픽업 상품권 다음달 6일까지 ‘안부를 묻는 카드’와 ‘행운을 담은 카드’ 가운데 하나를 선택해 응원 메시지를 작성하면 참",
+          "sentiment": "positive",
+          "tags": [
+            "#소비자반응",
+            "#마케팅·광고",
+            "#감동·긍정"
+          ],
+          "viral_score": 43.5,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-10-30T09:41:00+09:00",
+          "processed_at": "2026-10-30T16:58:08.728748+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9300,14 +9278,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 29.1,
+          "viral_score": 24.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T16:50:00+09:00",
-          "processed_at": "2026-10-30T10:34:12.834430+09:00",
+          "processed_at": "2026-10-30T17:00:14.395891+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9329,7 +9307,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 28.8,
+          "viral_score": 25.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9337,7 +9315,7 @@
             "라이더"
           ],
           "published_at": "2026-10-29T10:41:00+09:00",
-          "processed_at": "2026-10-30T10:34:30.756668+09:00",
+          "processed_at": "2026-10-30T17:00:29.628561+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9390,14 +9368,14 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 20.0,
+          "viral_score": 17.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T10:20:00+09:00",
-          "processed_at": "2026-10-30T10:34:50.093358+09:00",
+          "processed_at": "2026-10-30T17:00:45.895637+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9419,14 +9397,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 23.9,
+          "viral_score": 20.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-29T09:11:00+09:00",
-          "processed_at": "2026-10-30T10:33:28.142506+09:00",
+          "processed_at": "2026-10-30T16:59:36.684510+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9448,14 +9426,14 @@
             "#점주·자영업",
             "#소비자반응"
           ],
-          "viral_score": 28.0,
+          "viral_score": 25.7,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-10-28T18:30:00+09:00",
-          "processed_at": "2026-10-30T10:32:40.579186+09:00",
+          "processed_at": "2026-10-30T16:58:56.680406+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9477,13 +9455,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 14.8,
+          "viral_score": 13.6,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-10-28T17:03:00+09:00",
-          "processed_at": "2026-10-30T10:32:50.544520+09:00",
+          "processed_at": "2026-10-30T16:59:05.072642+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9493,14 +9471,14 @@
           "duplicates": []
         }
       ],
-      "total": 10,
-      "avg_score": 33.0,
+      "total": 9,
+      "avg_score": 29.4,
       "ratio": {
-        "negative": 10,
-        "positive": 60,
-        "neutral": 30
+        "negative": 11,
+        "positive": 67,
+        "neutral": 22
       },
-      "mentions": 24
+      "mentions": 18
     },
     "coupang": {
       "issues": [],
