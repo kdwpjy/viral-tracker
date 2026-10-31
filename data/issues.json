@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:27:15.480107+09:00",
+  "updated_at": "2026-10-31T16:55:24.648843+09:00",
   "hot": [
     {
       "uid": "4313c8c8cbc6cb7c4dde2a65e753100f",
@@ -13,13 +13,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 51.0,
-      "status": "Rising",
+      "viral_score": 42.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-31T08:25:52+09:00",
-      "processed_at": "2026-10-31T10:19:22.284916+09:00",
+      "processed_at": "2026-10-31T16:47:28.457970+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -55,32 +55,37 @@
       ]
     },
     {
-      "uid": "85862fc883709a6f90566fd142d7105a",
+      "uid": "744cbe07db8a12db9efca369cf841fcb",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
-      "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
-      "summary": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림 만보기형 잠금화면 어플 캐시워크 돈버는퀴즈에 배달의민족 선착순 쿠폰 퀴즈가 진행 중이다",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=398575",
+      "title": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림",
+      "summary": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림 빈칸·초성에 따라 ‘맥도’·‘호식이’·‘배짱’ 구분 10월 31일 오전 공개된 캐시워크 돈버는퀴즈 가운데 배",
       "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
-        "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 43.2,
+      "viral_score": 40.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-10-31T10:08:31+09:00",
-      "processed_at": "2026-10-31T10:20:33.598611+09:00",
+      "published_at": "2026-10-31T11:14:38+09:00",
+      "processed_at": "2026-10-31T16:48:40.030212+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "749b4e33001f03c8cf8a31bc78e9eb43",
@@ -95,13 +100,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 35.7,
+      "viral_score": 30.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T19:41:00+09:00",
-      "processed_at": "2026-10-31T10:20:23.091411+09:00",
+      "processed_at": "2026-10-31T16:48:29.689511+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -123,14 +128,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 23.6,
+      "viral_score": 21.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-30T00:00:00+09:00",
-      "processed_at": "2026-10-31T10:20:43.289286+09:00",
+      "processed_at": "2026-10-31T16:49:00.324972+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -158,30 +163,25 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 21.7,
+      "viral_score": 19.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T18:53:26+09:00",
-      "processed_at": "2026-10-31T10:24:31.703472+09:00",
+      "processed_at": "2026-10-31T16:52:39.496010+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 7,
+      "duplicate_count": 5,
       "duplicates": [
         {
           "title": "[상생경영] 우아한형제들, '배민주문접수PC' 개편…파트너 편의성 개선새 창 열림",
           "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283420",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
-          "url": "http://v.daum.net/v/20261029104141990",
-          "channel": "다음뉴스"
         },
         {
           "title": "배민, '주문접수PC' 전면 개편새 창 열림",
@@ -197,11 +197,6 @@
           "title": "배민, '주문접수PC' 개편···주문·매장 관리 기능 통합새 창 열림",
           "url": "https://www.ziksir.com/news/articleView.html?idxno=151314",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
-          "url": "http://v.daum.net/v/20261029145523042",
-          "channel": "다음뉴스"
         },
         {
           "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
@@ -223,13 +218,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.6,
+      "viral_score": 15.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-10-29T18:38:31+09:00",
-      "processed_at": "2026-10-31T10:24:41.580248+09:00",
+      "processed_at": "2026-10-31T16:52:49.410457+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -251,14 +246,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.4,
+      "viral_score": 15.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T17:49:17+09:00",
-      "processed_at": "2026-10-31T10:25:01.806358+09:00",
+      "processed_at": "2026-10-31T16:53:09.812357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -280,72 +275,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.3,
+      "viral_score": 15.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T17:27:23+09:00",
-      "processed_at": "2026-10-31T10:25:21.744139+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f503fb2673f56b6a8c129c4acd90a942",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029165005415",
-      "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
-      "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 17.1,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T16:50:00+09:00",
-      "processed_at": "2026-10-31T10:25:30.614159+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ce0e3d6202fa9910d1eed3486e726608",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://sateconomy.co.kr/news/view/1065579346532324",
-      "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
-      "summary": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림 배민은 앞서 지난 9월 점주용 매장관리 기능인 ‘우리가게NOW’도 개편했다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 13.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-29T11:31:40+09:00",
-      "processed_at": "2026-10-31T10:22:40.749039+09:00",
+      "processed_at": "2026-10-31T16:53:29.858828+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -356,6 +293,39 @@
     }
   ],
   "feed": [
+    {
+      "uid": "4d01cef4b7d0087116d58b0122c30796",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111806",
+      "title": "쿠팡이츠 슈퍼이츠 페스티벌…캐시워크 돈버는퀴즈 정답 공개새 창 열림",
+      "summary": "쿠팡이츠 슈퍼이츠 페스티벌…캐시워크 돈버는퀴즈 정답 공개새 창 열림 쿠팡이츠 슈퍼이츠 페스티벌 캐시워크 정답을 공개한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 44.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-09-28T19:13:06+09:00",
+      "processed_at": "2026-09-29T09:12:40.607427+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398575",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "85862fc883709a6f90566fd142d7105a",
       "brand": "배달의민족",
@@ -369,13 +339,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 43.2,
+      "viral_score": 36.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-31T10:08:31+09:00",
-      "processed_at": "2026-10-31T10:20:33.598611+09:00",
+      "processed_at": "2026-10-31T16:48:50.559655+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -412,14 +382,14 @@
       "duplicate_count": 5,
       "duplicates": [
         {
-          "title": "배민, 성평등가족부와 '고립·은둔 청소년' 응원 캠페인…상품권과 메시...새 창 열림",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=101501",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "배민, 성평등가족부와 고립·은둔 청소년 외출 돕는다",
           "url": "http://v.daum.net/v/20261030113710380",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 성평등가족부와 '고립·은둔 청소년' 응원 캠페인…상품권과 메시...새 창 열림",
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=101501",
+          "channel": "네이버뉴스"
         },
         {
           "title": "[1.5℃ HOW] 고립·은둔 청소년 세상 노크…배민, “응원합니다”",
@@ -451,13 +421,13 @@
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 39.7,
+      "viral_score": 34.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T19:41:13+09:00",
-      "processed_at": "2026-10-31T10:19:32.752780+09:00",
+      "processed_at": "2026-10-31T16:47:38.995515+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -685,6 +655,11 @@
           "channel": "네이버뉴스"
         },
         {
+          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
+          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "매장 관리·정산 한 번에…배민, 주문접수PC 개편",
           "url": "http://v.daum.net/v/20261029104141990",
           "channel": "다음뉴스"
@@ -693,11 +668,6 @@
           "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
           "url": "http://v.daum.net/v/20261029095241820",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
-          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민, '주문접수PC' 전면 개편새 창 열림",
@@ -794,14 +764,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 15.0,
+      "viral_score": 13.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-10-31T10:22:50.231939+09:00",
+      "processed_at": "2026-10-31T16:51:07.914230+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -857,14 +827,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.4,
+      "viral_score": 15.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T17:49:17+09:00",
-      "processed_at": "2026-10-31T10:25:01.806358+09:00",
+      "processed_at": "2026-10-31T16:53:09.812357+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -950,14 +920,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.8,
+      "viral_score": 10.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T15:59:15+09:00",
-      "processed_at": "2026-10-31T10:26:35.160395+09:00",
+      "processed_at": "2026-10-31T16:54:43.627715+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -980,7 +950,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 13.6,
+      "viral_score": 12.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -988,7 +958,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:28:53+09:00",
-      "processed_at": "2026-10-31T10:26:45.106854+09:00",
+      "processed_at": "2026-10-31T16:54:53.672525+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1072,14 +1042,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 15.2,
+      "viral_score": 13.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-31T10:23:37.663914+09:00",
+      "processed_at": "2026-10-31T16:51:45.170920+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1220,14 +1190,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 32.2,
+      "viral_score": 31.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-31T10:21:32.607422+09:00",
+      "processed_at": "2026-10-31T16:49:49.795286+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1643,14 +1613,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 12.4,
+      "viral_score": 11.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-31T10:23:46.467711+09:00",
+      "processed_at": "2026-10-31T16:51:54.019559+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1758,13 +1728,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 16.0,
+      "viral_score": 15.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-31T10:22:21.421075+09:00",
+      "processed_at": "2026-10-31T16:50:38.924992+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1797,13 +1767,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.3,
+      "viral_score": 24.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-27T10:07:08+09:00",
-      "processed_at": "2026-10-31T10:21:02.797921+09:00",
+      "processed_at": "2026-10-31T16:49:20.049663+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1903,14 +1873,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 19.5,
+      "viral_score": 19.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-31T10:24:12.610021+09:00",
+      "processed_at": "2026-10-31T16:52:20.384774+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9199,67 +9169,43 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "067d6074c129a5ab8e8f173d16348425",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261006115411708",
-      "title": "배달앱엔 951~1050g인데 실제론 695g…치킨 중량 차이 왜",
-      "summary": "배달앱엔 951~1050g인데 실제론 695g…치킨 중량 차이 왜 6일 한국소비자단체협의회는 교촌치킨·BHC·BBQ·굽네치킨·처갓집양념치킨 등 5개 브랜드 제품을 대상으로 배",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 36.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "직원"
-      ],
-      "published_at": "2026-10-06T11:54:00+09:00",
-      "processed_at": "2026-10-06T12:48:16.400044+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "85862fc883709a6f90566fd142d7105a",
+          "uid": "744cbe07db8a12db9efca369cf841fcb",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
-          "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
-          "summary": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림 만보기형 잠금화면 어플 캐시워크 돈버는퀴즈에 배달의민족 선착순 쿠폰 퀴즈가 진행 중이다",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398575",
+          "title": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림",
+          "summary": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림 빈칸·초성에 따라 ‘맥도’·‘호식이’·‘배짱’ 구분 10월 31일 오전 공개된 캐시워크 돈버는퀴즈 가운데 배",
           "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
-            "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 43.2,
+          "viral_score": 40.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-10-31T10:08:31+09:00",
-          "processed_at": "2026-10-31T10:20:33.598611+09:00",
+          "published_at": "2026-10-31T11:14:38+09:00",
+          "processed_at": "2026-10-31T16:48:40.030212+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
+              "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
+              "channel": "네이버뉴스"
+            }
+          ]
         },
         {
           "uid": "4313c8c8cbc6cb7c4dde2a65e753100f",
@@ -9273,13 +9219,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 51.0,
-          "status": "Rising",
+          "viral_score": 42.2,
+          "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-31T08:25:52+09:00",
-          "processed_at": "2026-10-31T10:19:22.284916+09:00",
+          "processed_at": "2026-10-31T16:47:28.457970+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9327,13 +9273,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 35.7,
+          "viral_score": 30.6,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-30T19:41:00+09:00",
-          "processed_at": "2026-10-31T10:20:23.091411+09:00",
+          "processed_at": "2026-10-31T16:48:29.689511+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9355,20 +9301,20 @@
             "#라이더",
             "#점주·자영업"
           ],
-          "viral_score": 21.7,
+          "viral_score": 19.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T18:53:26+09:00",
-          "processed_at": "2026-10-31T10:24:31.703472+09:00",
+          "processed_at": "2026-10-31T16:52:39.496010+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 6,
+          "duplicate_count": 5,
           "duplicates": [
             {
               "title": "[상생경영] 우아한형제들, '배민주문접수PC' 개편…파트너 편의성 개선새 창 열림",
@@ -9391,11 +9337,6 @@
               "channel": "네이버뉴스"
             },
             {
-              "title": "배민, 주문접수PC 전면 개편…매장 관리 기능 한 곳에",
-              "url": "http://v.daum.net/v/20261029145523042",
-              "channel": "다음뉴스"
-            },
-            {
               "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
               "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
               "channel": "네이버뉴스"
@@ -9415,13 +9356,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 17.6,
+          "viral_score": 15.8,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-10-29T18:38:31+09:00",
-          "processed_at": "2026-10-31T10:24:41.580248+09:00",
+          "processed_at": "2026-10-31T16:52:49.410457+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9443,14 +9384,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 17.4,
+          "viral_score": 15.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T17:49:17+09:00",
-          "processed_at": "2026-10-31T10:25:01.806358+09:00",
+          "processed_at": "2026-10-31T16:53:09.812357+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9472,43 +9413,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 17.3,
+          "viral_score": 15.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-10-29T17:27:23+09:00",
-          "processed_at": "2026-10-31T10:25:21.744139+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "f503fb2673f56b6a8c129c4acd90a942",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261029165005415",
-          "title": "배민, AI로 주문부터 배달까지 최적화...대기시간 줄인다",
-          "summary": "배민, AI로 주문부터 배달까지 최적화 [사진=우아한형제들] 【투데이신문 김이슬 기자】 배달의민족이 인공지능(AI)을 활용해 주문 예측부터 음식 조",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 17.1,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "라이더"
-          ],
-          "published_at": "2026-10-29T16:50:00+09:00",
-          "processed_at": "2026-10-31T10:25:30.614159+09:00",
+          "processed_at": "2026-10-31T16:53:29.858828+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9518,14 +9430,14 @@
           "duplicates": []
         }
       ],
-      "total": 8,
-      "avg_score": 27.6,
+      "total": 7,
+      "avg_score": 25.7,
       "ratio": {
         "negative": 0,
-        "positive": 88,
-        "neutral": 12
+        "positive": 86,
+        "neutral": 14
       },
-      "mentions": 23
+      "mentions": 18
     },
     "coupang": {
       "issues": [],
@@ -9536,7 +9448,7 @@
         "positive": 0,
         "neutral": 0
       },
-      "mentions": 1
+      "mentions": 0
     }
   }
 }
