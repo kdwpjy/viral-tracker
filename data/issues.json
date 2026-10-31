@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:14:25.175485+09:00",
+  "updated_at": "2026-11-01T03:20:52.788203+09:00",
   "hot": [
     {
       "uid": "b411e2a0b17952c7b640865fa2b4f7e2",
@@ -14,29 +14,57 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 50.2,
-      "status": "Rising",
+      "viral_score": 44.5,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-31T20:45:00+09:00",
-      "processed_at": "2026-10-31T23:07:58.090462+09:00",
+      "processed_at": "2026-11-01T03:16:48.338529+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
-        {
-          "title": "양양군, 공공 배달앱 ‘땡겨요’ 활성화 업무 협약새 창 열림",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700211&ref=A",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "양양군 공공배달앱 '땡겨요' 수수료 2% 적용…지역화폐 결제 연계 골목상권 지원",
           "url": "http://v.daum.net/v/20261030153230427",
           "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "744cbe07db8a12db9efca369cf841fcb",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=398575",
+      "title": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림",
+      "summary": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림 빈칸·초성에 따라 ‘맥도’·‘호식이’·‘배짱’ 구분 10월 31일 오전 공개된 캐시워크 돈버는퀴즈 가운데 배",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 32.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-31T11:14:38+09:00",
+      "processed_at": "2026-11-01T03:16:36.074628+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -52,13 +80,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 35.7,
+      "viral_score": 32.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-31T08:25:52+09:00",
-      "processed_at": "2026-10-31T23:06:27.078634+09:00",
+      "processed_at": "2026-11-01T03:15:57.237652+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -89,39 +117,6 @@
       ]
     },
     {
-      "uid": "744cbe07db8a12db9efca369cf841fcb",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=398575",
-      "title": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림",
-      "summary": "10월 31일 캐시워크 돈버는퀴즈, 배달의민족 문항별 정답새 창 열림 빈칸·초성에 따라 ‘맥도’·‘호식이’·‘배짱’ 구분 10월 31일 오전 공개된 캐시워크 돈버는퀴즈 가운데 배",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 35.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-31T11:14:38+09:00",
-      "processed_at": "2026-10-31T23:07:28.852140+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배달의민족 선착순 쿠폰 캐시워크 퀴즈 이벤트 진행새 창 열림",
-          "url": "https://www.rapportian.com/news/articleView.html?idxno=241876",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "749b4e33001f03c8cf8a31bc78e9eb43",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -134,13 +129,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.8,
+      "viral_score": 24.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T19:41:00+09:00",
-      "processed_at": "2026-10-31T23:07:18.492320+09:00",
+      "processed_at": "2026-11-01T03:16:29.600365+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -176,7 +171,7 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "양양군, 공공 배달앱 땡겨요 활성화 협약",
@@ -187,11 +182,6 @@
           "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
           "url": "http://v.daum.net/v/20261018161521333",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "양양군, 공공 배달앱 ‘땡겨요’ 활성화 업무 협약새 창 열림",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700211&ref=A",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -241,13 +231,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 31.7,
+      "viral_score": 29.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-31T10:08:31+09:00",
-      "processed_at": "2026-10-31T23:07:39.473675+09:00",
+      "processed_at": "2026-11-01T03:16:42.746408+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -323,13 +313,13 @@
         "#마케팅·광고",
         "#감동·긍정"
       ],
-      "viral_score": 30.8,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-10-30T19:41:13+09:00",
-      "processed_at": "2026-10-31T23:06:37.657227+09:00",
+      "processed_at": "2026-11-01T03:16:03.868033+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -616,14 +606,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 12.9,
+      "viral_score": 12.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-10-31T23:10:06.233302+09:00",
+      "processed_at": "2026-11-01T03:18:08.374612+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -679,14 +669,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 14.3,
+      "viral_score": 13.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T17:49:17+09:00",
-      "processed_at": "2026-10-31T23:12:19.150217+09:00",
+      "processed_at": "2026-11-01T03:19:32.288118+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -772,14 +762,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 9.8,
+      "viral_score": 9.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T15:59:15+09:00",
-      "processed_at": "2026-10-31T23:13:44.238333+09:00",
+      "processed_at": "2026-11-01T03:20:26.741190+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -802,7 +792,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 12.0,
+      "viral_score": 11.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -810,7 +800,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:28:53+09:00",
-      "processed_at": "2026-10-31T23:13:54.242590+09:00",
+      "processed_at": "2026-11-01T03:20:33.085238+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -894,14 +884,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 13.0,
+      "viral_score": 12.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-10-31T23:10:54.050415+09:00",
+      "processed_at": "2026-11-01T03:18:38.459018+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1042,14 +1032,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 30.7,
+      "viral_score": 30.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-10-31T23:08:47.716937+09:00",
+      "processed_at": "2026-11-01T03:17:19.401922+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1226,14 +1216,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 11.5,
+      "viral_score": 11.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T17:00:32+09:00",
-      "processed_at": "2026-10-31T23:10:36.229043+09:00",
+      "processed_at": "2026-11-01T03:18:27.219822+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1465,14 +1455,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 11.4,
+      "viral_score": 11.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-10-31T23:11:02.962278+09:00",
+      "processed_at": "2026-11-01T03:18:44.082625+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1580,13 +1570,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 15.2,
+      "viral_score": 15.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-28T10:54:00+09:00",
-      "processed_at": "2026-10-31T23:09:37.206330+09:00",
+      "processed_at": "2026-11-01T03:17:50.258874+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1619,13 +1609,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.0,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-27T10:07:08+09:00",
-      "processed_at": "2026-10-31T23:08:17.865252+09:00",
+      "processed_at": "2026-11-01T03:17:00.803279+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1725,14 +1715,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 19.0,
+      "viral_score": 18.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-10-31T23:11:29.406063+09:00",
+      "processed_at": "2026-11-01T03:19:00.686150+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9038,13 +9028,13 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 35.3,
+          "viral_score": 32.6,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-31T11:14:38+09:00",
-          "processed_at": "2026-10-31T23:07:28.852140+09:00",
+          "processed_at": "2026-11-01T03:16:36.074628+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9071,13 +9061,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 35.7,
+          "viral_score": 32.2,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-31T08:25:52+09:00",
-          "processed_at": "2026-10-31T23:06:27.078634+09:00",
+          "processed_at": "2026-11-01T03:15:57.237652+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9120,13 +9110,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 26.8,
+          "viral_score": 24.7,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-10-30T19:41:00+09:00",
-          "processed_at": "2026-10-31T23:07:18.492320+09:00",
+          "processed_at": "2026-11-01T03:16:29.600365+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9137,7 +9127,7 @@
         }
       ],
       "total": 3,
-      "avg_score": 32.6,
+      "avg_score": 29.8,
       "ratio": {
         "negative": 0,
         "positive": 67,
