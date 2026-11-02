@@ -1,129 +1,36 @@
 {
-  "updated_at": "2026-11-02T02:37:02.655201+09:00",
+  "updated_at": "2026-11-02T10:19:58.177177+09:00",
   "hot": [
     {
-      "uid": "66ea18ca86598b9aea208d6d376cabe4",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
-      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
-      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-02T01:00:00+09:00",
-      "processed_at": "2026-11-02T02:31:32.469991+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 5,
-      "duplicates": [
-        {
-          "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영",
-          "url": "http://v.daum.net/v/20261102010008608",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "양양군 공공배달앱 '땡겨요'와 협력새 창 열림",
-          "url": "https://www.kado.net/news/articleView.html?idxno=2081785",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
-          "url": "http://v.daum.net/v/20261101105923173",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
-          "url": "https://www.kmib.co.kr/article/20261101500126",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "양양군·공공배달앱 ‘땡겨요’, 업무협약새 창 열림",
-          "url": "https://www.kwnews.co.kr/article/20261030500502",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "0b237ec386ab9c8b07efae41fa315e98",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.fnnews.com/news/202611011922127818",
-      "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
-      "summary": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림 우버가 추진 중인 배달의민족 모회사 독일 딜리버리히어로 인수가 성사되면 배민은 미국 기업이 된다",
-      "sentiment": "negative",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 56.9,
-      "status": "Rising",
-      "stakeholders": [
-        "점주",
-        "직원"
-      ],
-      "published_at": "2026-11-01T19:22:16+09:00",
-      "processed_at": "2026-11-02T02:27:55.215996+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[기자수첩] 배달앱 수수료 규제의 역설",
-          "url": "http://v.daum.net/v/20261101192357408",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "2e5393c6701d522428dd87125d13b8ed",
+      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261101184748938",
-      "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-      "summary": "배민라이더스쿨, 한국건축가협회상… 국내외 석권 실습장과 다양한 사고 위험 상황을 체험할 수 있는 교육 공간을 갖춘 점이 높은 평가를 받았다",
+      "channel": "네이버뉴스",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#기업·정책",
+        "#감동·긍정"
       ],
-      "viral_score": 43.0,
-      "status": "Stable",
+      "viral_score": 57.5,
+      "status": "Rising",
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-01T18:47:00+09:00",
-      "processed_at": "2026-11-02T02:29:45.923844+09:00",
+      "published_at": "2026-11-02T09:54:17+09:00",
+      "processed_at": "2026-11-02T10:13:40.959851+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 16,
+      "duplicate_count": 14,
       "duplicates": [
         {
           "title": "배민라이더스쿨, 한국건축가협회상·아키텍처 마스터프라이즈 수상새 창 열림",
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621829",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
-          "url": "https://www.fnnews.com/news/202611011845101904",
           "channel": "네이버뉴스"
         },
         {
@@ -142,6 +49,16 @@
           "channel": "다음뉴스"
         },
         {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
+          "url": "https://www.fnnews.com/news/202611011845101904",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+          "url": "http://v.daum.net/v/20261101184748938",
+          "channel": "다음뉴스"
+        },
+        {
           "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정새 창 열림",
           "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078346",
           "channel": "네이버뉴스"
@@ -152,24 +69,14 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "배민라이더스쿨, 한국건축가협회상·美 건축 디자인상 수상새 창 열림",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=151553",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상새 창 열림",
+          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 잇따라 수상새 창 열림",
           "url": "https://view.asiae.co.kr/article/2026110112554242842",
           "channel": "네이버뉴스"
         },
         {
-          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상",
+          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 잇따라 수상",
           "url": "http://v.daum.net/v/20261101125708501",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261101122821",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정",
@@ -177,18 +84,13 @@
           "channel": "다음뉴스"
         },
         {
+          "title": "배민라이더스쿨, 한국건축가협회상·美 건축 디자인상 수상새 창 열림",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151553",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
           "url": "http://v.daum.net/v/20261101112157695",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상",
-          "url": "http://v.daum.net/v/20261101105342080",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아",
-          "url": "http://v.daum.net/v/20261101111636576",
           "channel": "다음뉴스"
         },
         {
@@ -199,25 +101,127 @@
       ]
     },
     {
-      "uid": "aaf4857b90c51995e43b495cb57b0f0d",
+      "uid": "9efc1647d7d75515538b1a63437d5504",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102094010247",
+      "title": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소",
+      "summary": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소 12시에는 5만원 이상 구매 시 2만원을 깎아주는 할인 쿠폰을 각각 선착순 지급한다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T09:40:00+09:00",
+      "processed_at": "2026-11-02T10:14:22.579630+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "c48764490c7565973e8e670dac62c993",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102093440988",
+      "title": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참",
+      "summary": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참 배민 할인 행사 이미지",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 56.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T09:34:00+09:00",
+      "processed_at": "2026-11-02T10:14:28.720711+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 9,
+      "duplicates": [
+        {
+          "title": "배민, '코리아 그랜드 페스티벌'서 최대 60% 할인",
+          "url": "http://v.daum.net/v/20261102090356540",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 안동 가게 50곳과 손잡고 B마트 최대 60% 할인 소비 진작 총력전새 창 열림",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=755660",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850432",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참",
+          "url": "http://v.daum.net/v/20261102095328977",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기·쇼핑 최대 60% 할인새 창 열림",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778243",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, ‘2026 코리아 그랜드 페스티벌' 동참",
+          "url": "http://v.daum.net/v/20261102094420474",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달의민족, 코리아 그랜드 페스티벌 참여…장보기·쇼핑 최대 60% 할인새 창 열림",
+          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4694",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기 최대 60% 할인",
+          "url": "http://v.daum.net/v/20261102092205332",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 코리아 그랜드 페스티벌 참여…한우 최대 46%·생필품 60% 할인",
+          "url": "http://v.daum.net/v/20261102085040973",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "cb13f83e74eef4b61e25da8411e4272c",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261101151152506",
-      "title": "양양군 공공배달앱 ‘땡겨요’와 협력",
-      "summary": "양양군 공공배달앱 ‘땡겨요’와 협력 ▲ 양양군은 30일 김정중 군수를 비롯한 군 관계자와 땡겨요 사업단, 신한은행 관계자들이 참석한 가운데 공공",
+      "url": "http://v.daum.net/v/20261102010008608",
+      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영",
+      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
       "sentiment": "positive",
       "tags": [
         "#점주·자영업",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 38.9,
+      "viral_score": 45.2,
       "status": "Stable",
       "stakeholders": [
-        "점주"
+        "소비자"
       ],
-      "published_at": "2026-11-01T15:11:00+09:00",
-      "processed_at": "2026-11-02T02:32:21.940363+09:00",
+      "published_at": "2026-11-02T01:00:00+09:00",
+      "processed_at": "2026-11-02T10:15:18.157481+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -226,16 +230,45 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "양양군, 공공배달앱 '땡겨요'와 협약…중개수수료 2% 적용새 창 열림",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078256",
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261101500126",
           "channel": "네이버뉴스"
         },
         {
-          "title": "양양군·공공배달앱 ‘땡겨요’, 업무협약",
-          "url": "http://v.daum.net/v/20261101114635152",
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
+          "url": "http://v.daum.net/v/20261101105923173",
           "channel": "다음뉴스"
         }
       ]
+    },
+    {
+      "uid": "d329077924a041df3819a465ef095fbc",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
+      "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
+      "summary": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림 배달의민족과 쿠팡이츠는 무료배달과 할인 경쟁을 넘어 소비자의 일상 주문을 확보하는 데 주력한다",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 36.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-02T06:30:00+09:00",
+      "processed_at": "2026-11-02T10:14:59.165284+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "8573ca01186a0ea38c7e1552d73ec8ec",
@@ -250,13 +283,13 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 38.3,
+      "viral_score": 31.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-01T14:31:47+09:00",
-      "processed_at": "2026-11-02T02:28:37.716966+09:00",
+      "processed_at": "2026-11-02T10:17:48.142430+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -267,6 +300,40 @@
         {
           "title": "[유통 브리프] 쿠팡, 배달의민족, 스타벅스, 세븐일레븐새 창 열림",
           "url": "https://www.econovill.com/news/articleView.html?idxno=755613",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "62231dd6b3ae6f28c00aa64b743f2923",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261101192357408",
+      "title": "[기자수첩] 배달앱 수수료 규제의 역설",
+      "summary": "[기자수첩] 배달앱 수수료 규제의 역설 통상 문제도 간과하기 어렵다",
+      "sentiment": "neutral",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 27.7,
+      "status": "Stable",
+      "stakeholders": [
+        "점주",
+        "직원"
+      ],
+      "published_at": "2026-11-01T19:23:00+09:00",
+      "processed_at": "2026-11-02T10:14:52.576802+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
+          "url": "https://www.fnnews.com/news/202611011922127818",
           "channel": "네이버뉴스"
         }
       ]
@@ -284,13 +351,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.5,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-02T02:31:21.919026+09:00",
+      "processed_at": "2026-11-02T10:15:11.903213+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -306,25 +373,53 @@
       ]
     },
     {
-      "uid": "338b40383cdb74b96aaccdf031b6e56a",
+      "uid": "d9f4a62b8c9461db9f0375c02168571f",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878481",
-      "title": "1일 배달의민족 캐시워크 돈버는퀴즈 정답 공개새 창 열림",
-      "summary": "1일 배달의민족 캐시워크 돈버는퀴즈 정답 공개새 창 열림 | 서울=한스경제 김근현 기자 | 1일 출제 중인 배달의민족 캐시워크돈버는퀴즈 문제와 정답이 공개돼 누리꾼들",
-      "sentiment": "neutral",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261101111636576",
+      "title": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아",
+      "summary": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아 배민라이더스쿨 '한국건축가협회상' 수상 [우아한형제들 제공",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#마케팅·광고"
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 29.8,
+      "viral_score": 25.3,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "라이더"
       ],
-      "published_at": "2026-11-01T14:48:20+09:00",
-      "processed_at": "2026-11-02T02:31:00.929831+09:00",
+      "published_at": "2026-11-01T11:16:00+09:00",
+      "processed_at": "2026-11-02T10:18:53.833028+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "b7b8debda57e7188c5f7595504637731",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261101105342080",
+      "title": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상",
+      "summary": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상 배민 운영사 우아한형제들은 지난달 31일 부산 벡스코에서 열린 제49회 한국건축가협회 건축상 시상식에서 '배",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 25.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-01T10:53:00+09:00",
+      "processed_at": "2026-11-02T10:18:59.675183+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -335,6 +430,252 @@
     }
   ],
   "feed": [
+    {
+      "uid": "c48764490c7565973e8e670dac62c993",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102093440988",
+      "title": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참",
+      "summary": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참 배민 할인 행사 이미지",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 56.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T09:34:00+09:00",
+      "processed_at": "2026-11-02T10:14:28.720711+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 9,
+      "duplicates": [
+        {
+          "title": "배민, '코리아 그랜드 페스티벌'서 최대 60% 할인",
+          "url": "http://v.daum.net/v/20261102090356540",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 안동 가게 50곳과 손잡고 B마트 최대 60% 할인 소비 진작 총력전새 창 열림",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=755660",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참",
+          "url": "http://v.daum.net/v/20261102095328977",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850432",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, ‘2026 코리아 그랜드 페스티벌' 동참",
+          "url": "http://v.daum.net/v/20261102094420474",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기·쇼핑 최대 60% 할인새 창 열림",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778243",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달의민족, 코리아 그랜드 페스티벌 참여…장보기·쇼핑 최대 60% 할인새 창 열림",
+          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4694",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기 최대 60% 할인",
+          "url": "http://v.daum.net/v/20261102092205332",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 코리아 그랜드 페스티벌 참여…한우 최대 46%·생필품 60% 할인",
+          "url": "http://v.daum.net/v/20261102085040973",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 57.5,
+      "status": "Rising",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-02T09:54:17+09:00",
+      "processed_at": "2026-11-02T10:13:40.959851+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 14,
+      "duplicates": [
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상·아키텍처 마스터프라이즈 수상새 창 열림",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621829",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상...실내 교육 인프라 구축 인정",
+          "url": "http://v.daum.net/v/20261101142202665",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상...실내 교육 인프라 구축 인정새 창 열림",
+          "url": "https://www.ajunews.com/view/20261101141240684",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 공간 설계 인정새 창 열림",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283850",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+          "url": "http://v.daum.net/v/20261101184748938",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
+          "url": "https://www.fnnews.com/news/202611011845101904",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정",
+          "url": "http://v.daum.net/v/20261101132641079",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정새 창 열림",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078346",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 잇따라 수상",
+          "url": "http://v.daum.net/v/20261101125708501",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 잇따라 수상새 창 열림",
+          "url": "https://view.asiae.co.kr/article/2026110112554242842",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정",
+          "url": "http://v.daum.net/v/20261101123631206",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상·美 건축 디자인상 수상새 창 열림",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151553",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
+          "url": "http://v.daum.net/v/20261101112157695",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "3만명 교육한 배민라이더스쿨, 국내외 건축상 잇달아 수상",
+          "url": "http://v.daum.net/v/20261101104317866",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "9efc1647d7d75515538b1a63437d5504",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102094010247",
+      "title": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소",
+      "summary": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소 12시에는 5만원 이상 구매 시 2만원을 깎아주는 할인 쿠폰을 각각 선착순 지급한다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T09:40:00+09:00",
+      "processed_at": "2026-11-02T10:14:22.579630+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "[유통딜리버리] 신세계 팩토리스토어ㆍCUㆍGS리테일ㆍ세븐일레븐ㆍSSG닷컴ㆍ배민ㆍ에이블리ㆍ신라호텔ㆍ한화호텔앤드리조트ㆍ워커힐",
+          "url": "http://v.daum.net/v/20261013092006332",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "[유통 딜리버리] 쿠팡ㆍGS리테일ㆍCJ올리브영ㆍ배달의민족ㆍ롯데마트ㆍ...새 창 열림",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610020816385750261",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[유통딜리버리] 신세계百ㆍ이마트24ㆍ신세계사이먼ㆍW컨셉ㆍ29CMㆍGS25ㆍ11번가ㆍ배민ㆍ에이블리ㆍ쿠팡풀필먼트서비스",
+          "url": "http://v.daum.net/v/20261021094007872",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "d329077924a041df3819a465ef095fbc",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
+      "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
+      "summary": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림 배달의민족과 쿠팡이츠는 무료배달과 할인 경쟁을 넘어 소비자의 일상 주문을 확보하는 데 주력한다",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 36.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-02T06:30:00+09:00",
+      "processed_at": "2026-11-02T10:14:59.165284+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
     {
       "uid": "66ea18ca86598b9aea208d6d376cabe4",
       "brand": "배달앱 일반",
@@ -455,207 +796,6 @@
       ]
     },
     {
-      "uid": "2e5393c6701d522428dd87125d13b8ed",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261101184748938",
-      "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-      "summary": "배민라이더스쿨, 한국건축가협회상… 국내외 석권 실습장과 다양한 사고 위험 상황을 체험할 수 있는 교육 공간을 갖춘 점이 높은 평가를 받았다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 43.0,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-01T18:47:00+09:00",
-      "processed_at": "2026-11-02T02:29:45.923844+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 16,
-      "duplicates": [
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상·아키텍처 마스터프라이즈 수상새 창 열림",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621829",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
-          "url": "https://www.fnnews.com/news/202611011845101904",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상...실내 교육 인프라 구축 인정",
-          "url": "http://v.daum.net/v/20261101142202665",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상...실내 교육 인프라 구축 인정새 창 열림",
-          "url": "https://www.ajunews.com/view/20261101141240684",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 공간 설계 인정새 창 열림",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283850",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정",
-          "url": "http://v.daum.net/v/20261101132641079",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정새 창 열림",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078346",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상·美 건축 디자인상 수상새 창 열림",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=151553",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상",
-          "url": "http://v.daum.net/v/20261101125708501",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026110112554242842",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정",
-          "url": "http://v.daum.net/v/20261101123631206",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261101122821",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-          "url": "http://v.daum.net/v/20261101112157695",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상",
-          "url": "http://v.daum.net/v/20261101105342080",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아",
-          "url": "http://v.daum.net/v/20261101111636576",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "3만명 교육한 배민라이더스쿨, 국내외 건축상 잇달아 수상",
-          "url": "http://v.daum.net/v/20261101104317866",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "ecdf4a76e96d9498899d532c7c56f959",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029093840123",
-      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
-      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 68.3,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-29T09:38:00+09:00",
-      "processed_at": "2026-10-29T10:32:23.355960+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 6,
-      "duplicates": [
-        {
-          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
-          "url": "http://v.daum.net/v/20261018161521333",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "양양군 공공배달앱 ‘땡겨요’와 협력",
-          "url": "http://v.daum.net/v/20261101151152506",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "양양군 공공배달앱 '땡겨요'와 협력새 창 열림",
-          "url": "https://www.kado.net/news/articleView.html?idxno=2081785",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "양양군, 공공배달앱 '땡겨요'와 협약…중개수수료 2% 적용새 창 열림",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078256",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "양양군·공공배달앱 ‘땡겨요’, 업무협약새 창 열림",
-          "url": "https://www.kwnews.co.kr/article/20261030500502",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "양양군·공공배달앱 ‘땡겨요’, 업무협약",
-          "url": "http://v.daum.net/v/20261101114635152",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "4d01cef4b7d0087116d58b0122c30796",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111806",
-      "title": "쿠팡이츠 슈퍼이츠 페스티벌…캐시워크 돈버는퀴즈 정답 공개새 창 열림",
-      "summary": "쿠팡이츠 슈퍼이츠 페스티벌…캐시워크 돈버는퀴즈 정답 공개새 창 열림 쿠팡이츠 슈퍼이츠 페스티벌 캐시워크 정답을 공개한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 44.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-09-28T19:13:06+09:00",
-      "processed_at": "2026-09-29T09:12:40.607427+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "1일 배달의민족 캐시워크 돈버는퀴즈 정답 공개새 창 열림",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878481",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "8573ca01186a0ea38c7e1552d73ec8ec",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -668,13 +808,13 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 38.3,
+      "viral_score": 31.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-01T14:31:47+09:00",
-      "processed_at": "2026-11-02T02:28:37.716966+09:00",
+      "processed_at": "2026-11-02T10:17:48.142430+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -690,6 +830,62 @@
       ]
     },
     {
+      "uid": "d9f4a62b8c9461db9f0375c02168571f",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261101111636576",
+      "title": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아",
+      "summary": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아 배민라이더스쿨 '한국건축가협회상' 수상 [우아한형제들 제공",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 25.3,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-01T11:16:00+09:00",
+      "processed_at": "2026-11-02T10:18:53.833028+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "b7b8debda57e7188c5f7595504637731",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261101105342080",
+      "title": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상",
+      "summary": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상 배민 운영사 우아한형제들은 지난달 31일 부산 벡스코에서 열린 제49회 한국건축가협회 건축상 시상식에서 '배",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 25.1,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-01T10:53:00+09:00",
+      "processed_at": "2026-11-02T10:18:59.675183+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "17127b648bfed20aaed15ef5527f65e8",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -702,13 +898,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.5,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-02T02:31:21.919026+09:00",
+      "processed_at": "2026-11-02T10:15:11.903213+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -976,14 +1172,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 10.8,
+      "viral_score": 10.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-11-02T02:34:19.094070+09:00",
+      "processed_at": "2026-11-02T10:16:27.550667+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1125,14 +1321,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 7.9,
+      "viral_score": 7.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-10-29T15:59:15+09:00",
-      "processed_at": "2026-11-02T02:36:01.374705+09:00",
+      "processed_at": "2026-11-02T10:19:11.907090+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1155,7 +1351,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 10.5,
+      "viral_score": 10.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1163,7 +1359,7 @@
         "라이더"
       ],
       "published_at": "2026-10-29T10:28:53+09:00",
-      "processed_at": "2026-11-02T02:36:11.457560+09:00",
+      "processed_at": "2026-11-02T10:19:18.247594+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1201,6 +1397,40 @@
       "duplicates": []
     },
     {
+      "uid": "ecdf4a76e96d9498899d532c7c56f959",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029093840123",
+      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
+      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 68.3,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-29T09:38:00+09:00",
+      "processed_at": "2026-10-29T10:32:23.355960+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "신한은행, 단 2% 수수료 우리동네 배달앱 '땡겨요' 회원 1000만명 돌파",
+          "url": "http://v.daum.net/v/20261018161521333",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
       "uid": "f9c5810516edb614073b4555cfae3586",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -1213,14 +1443,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 11.0,
+      "viral_score": 10.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-11-02T02:35:06.860287+09:00",
+      "processed_at": "2026-11-02T10:16:58.280180+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1361,14 +1591,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 29.3,
+      "viral_score": 29.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-11-02T02:33:20.327494+09:00",
+      "processed_at": "2026-11-02T10:15:49.922266+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1545,14 +1775,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 10.5,
+      "viral_score": 10.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T17:00:32+09:00",
-      "processed_at": "2026-11-02T02:34:49.013666+09:00",
+      "processed_at": "2026-11-02T10:16:46.800588+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1784,14 +2014,14 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 10.5,
+      "viral_score": 10.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-11-02T02:35:15.708939+09:00",
+      "processed_at": "2026-11-02T10:17:04.054489+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1963,13 +2193,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 23.6,
+      "viral_score": 23.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-10-27T10:07:08+09:00",
-      "processed_at": "2026-11-02T02:32:50.590922+09:00",
+      "processed_at": "2026-11-02T10:15:30.786200+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2076,7 +2306,7 @@
         "점주"
       ],
       "published_at": "2026-10-27T18:10:00+09:00",
-      "processed_at": "2026-11-02T02:35:42.018636+09:00",
+      "processed_at": "2026-11-02T10:17:21.074564+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3373,19 +3603,8 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "[2026 국감] 배달앱 'AI 배차' 기준 깜깜이...투명성 도마 위에새 창 열림",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=135104",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[2026 국감] \"말로만 상생, 부담은 소상공인 몫\"…배민에 쏟아진 질문 세...새 창 열림",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318914",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "8688b1e396051aa9a868596892457b58",
@@ -4252,34 +4471,6 @@
       "duplicates": []
     },
     {
-      "uid": "75d7452e1df333eba4dcd32c6ab26bd6",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261021094007872",
-      "title": "[유통딜리버리] 신세계百ㆍ이마트24ㆍ신세계사이먼ㆍW컨셉ㆍ29CMㆍGS25ㆍ11번가ㆍ배민ㆍ에이블리ㆍ쿠팡풀필먼트서비스",
-      "summary": "[유통딜리버리] 신세계百ㆍ이마트24ㆍ신세계사이먼ㆍW컨셉ㆍ29CMㆍGS25ㆍ11번가ㆍ배민ㆍ에이블리ㆍ쿠팡풀필먼트서비스 예약구매 특가 상품을 지난 5월 행사보다 확대 편성한다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 22.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-21T09:40:00+09:00",
-      "processed_at": "2026-10-22T04:54:37.189480+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "49ab03d2e2f04efbb497576357bc9868",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -4393,14 +4584,8 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"1240억원 투자\"…달라질 '상생배달앱' 기대만발새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833847",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "899f365909888e23a67ab212ac53ce0e",
@@ -6642,34 +6827,6 @@
       ],
       "published_at": "2026-10-13T09:22:00+09:00",
       "processed_at": "2026-10-13T10:50:39.095604+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "8c3c47b292782d372408ddc83fe13090",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261013092006332",
-      "title": "[유통딜리버리] 신세계 팩토리스토어ㆍCUㆍGS리테일ㆍ세븐일레븐ㆍSSG닷컴ㆍ배민ㆍ에이블리ㆍ신라호텔ㆍ한화호텔앤드리조트ㆍ워커힐",
-      "summary": "[유통딜리버리] 신세계 팩토리스토어ㆍCUㆍGS리테일ㆍ세븐일레븐ㆍSSG닷컴ㆍ배민ㆍ에이블리ㆍ신라호텔ㆍ한화호텔앤드리조트ㆍ워커힐 구매 시 패션 상품은 10%, 명품은 7% 할인 쿠폰을 제공한다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 55.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-13T09:20:00+09:00",
-      "processed_at": "2026-10-13T10:50:51.072820+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9180,104 +9337,115 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "0c45c1b41497bb0168fce6ba5cfb3d33",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261007093257503",
-      "title": "배민 \"할인 화장품도 주문 즉시 배달\"",
-      "summary": "배민 \"할인 화장품도 주문 즉시 배달\" 배달의민족이 도심형 뷰티 아웃렛 '오프뷰티'와 손잡고 합리적인 가격의 뷰티 상품을 주문 즉시 고객에게 배달한",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 52.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-07T09:32:00+09:00",
-      "processed_at": "2026-10-07T10:25:04.118805+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "cdeb5fc7ced0f424bbdeb3663293b153",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40833",
-      "title": "배민 \"따끈한 화장품이 타고 있어요!\" 초저가 화장품 즉시배달 시작새 창 열림",
-      "summary": "배민 \"따끈한 화장품이 타고 있어요 \" 초저가 화장품 즉시배달 시작새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 24.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-07T08:35:08+09:00",
-      "processed_at": "2026-10-08T06:05:42.505386+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "2e5393c6701d522428dd87125d13b8ed",
+          "uid": "c48764490c7565973e8e670dac62c993",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261101184748938",
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-          "summary": "배민라이더스쿨, 한국건축가협회상… 국내외 석권 실습장과 다양한 사고 위험 상황을 체험할 수 있는 교육 공간을 갖춘 점이 높은 평가를 받았다",
+          "url": "http://v.daum.net/v/20261102093440988",
+          "title": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참",
+          "summary": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참 배민 할인 행사 이미지",
           "sentiment": "positive",
           "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
+            "#가격·수수료",
+            "#점주·자영업",
+            "#마케팅·광고"
           ],
-          "viral_score": 43.0,
-          "status": "Stable",
+          "viral_score": 56.9,
+          "status": "Rising",
           "stakeholders": [
-            "라이더"
+            "소비자"
           ],
-          "published_at": "2026-11-01T18:47:00+09:00",
-          "processed_at": "2026-11-02T02:29:45.923844+09:00",
+          "published_at": "2026-11-02T09:34:00+09:00",
+          "processed_at": "2026-11-02T10:14:28.720711+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 14,
+          "duplicate_count": 9,
+          "duplicates": [
+            {
+              "title": "배민, '코리아 그랜드 페스티벌'서 최대 60% 할인",
+              "url": "http://v.daum.net/v/20261102090356540",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 안동 가게 50곳과 손잡고 B마트 최대 60% 할인 소비 진작 총력전새 창 열림",
+              "url": "https://www.econovill.com/news/articleView.html?idxno=755660",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참",
+              "url": "http://v.daum.net/v/20261102095328977",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "한우 최대 46%·장보기 60% 할인…배민, '코리아 그랜드 페스티벌' 동참새 창 열림",
+              "url": "https://www.newsis.com/view/NISX20261102_0003850432",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, ‘2026 코리아 그랜드 페스티벌' 동참",
+              "url": "http://v.daum.net/v/20261102094420474",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기·쇼핑 최대 60% 할인새 창 열림",
+              "url": "https://www.slist.kr/news/articleView.html?idxno=778243",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배달의민족, 코리아 그랜드 페스티벌 참여…장보기·쇼핑 최대 60% 할인새 창 열림",
+              "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4694",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, '코리아 그랜드 페스티벌' 동참…장보기 최대 60% 할인",
+              "url": "http://v.daum.net/v/20261102092205332",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 코리아 그랜드 페스티벌 참여…한우 최대 46%·생필품 60% 할인",
+              "url": "http://v.daum.net/v/20261102085040973",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "c789a486f06ce9fdb1c7fede410a4e08",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+          "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+          "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#기업·정책",
+            "#감동·긍정"
+          ],
+          "viral_score": 57.5,
+          "status": "Rising",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-11-02T09:54:17+09:00",
+          "processed_at": "2026-11-02T10:13:40.959851+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 5,
           "duplicates": [
             {
               "title": "배민라이더스쿨, 한국건축가협회상·아키텍처 마스터프라이즈 수상새 창 열림",
               "url": "https://www.cbci.co.kr/news/articleView.html?idxno=621829",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
-              "url": "https://www.fnnews.com/news/202611011845101904",
               "channel": "네이버뉴스"
             },
             {
@@ -9286,82 +9454,42 @@
               "channel": "다음뉴스"
             },
             {
-              "title": "배민라이더스쿨, 국내외 건축상 수상...실내 교육 인프라 구축 인정새 창 열림",
-              "url": "https://www.ajunews.com/view/20261101141240684",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 공간 설계 인정새 창 열림",
-              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283850",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정",
-              "url": "http://v.daum.net/v/20261101132641079",
+              "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+              "url": "http://v.daum.net/v/20261101184748938",
               "channel": "다음뉴스"
             },
             {
-              "title": "배민라이더스쿨, 국내외 건축상 수상…교육시설 설계 인정새 창 열림",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078346",
+              "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권새 창 열림",
+              "url": "https://www.fnnews.com/news/202611011845101904",
               "channel": "네이버뉴스"
             },
             {
               "title": "배민라이더스쿨, 한국건축가협회상·美 건축 디자인상 수상새 창 열림",
               "url": "https://www.ziksir.com/news/articleView.html?idxno=151553",
               "channel": "네이버뉴스"
-            },
-            {
-              "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상",
-              "url": "http://v.daum.net/v/20261101125708501",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "이륜차 교육기관 배민라이더스쿨, 국내외 건축상 수상새 창 열림",
-              "url": "https://view.asiae.co.kr/article/2026110112554242842",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정",
-              "url": "http://v.daum.net/v/20261101123631206",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 국내외 건축상 수상…실내 이륜차 교육시설 인정새 창 열림",
-              "url": "https://zdnet.co.kr/view/?no=20261101122821",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-              "url": "http://v.daum.net/v/20261101112157695",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "[게시판] 배민라이더스쿨, '제49회 한국건축가협회상' 받아",
-              "url": "http://v.daum.net/v/20261101111636576",
-              "channel": "다음뉴스"
             }
           ]
         },
         {
-          "uid": "338b40383cdb74b96aaccdf031b6e56a",
+          "uid": "9efc1647d7d75515538b1a63437d5504",
           "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878481",
-          "title": "1일 배달의민족 캐시워크 돈버는퀴즈 정답 공개새 창 열림",
-          "summary": "1일 배달의민족 캐시워크 돈버는퀴즈 정답 공개새 창 열림 | 서울=한스경제 김근현 기자 | 1일 출제 중인 배달의민족 캐시워크돈버는퀴즈 문제와 정답이 공개돼 누리꾼들",
-          "sentiment": "neutral",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261102094010247",
+          "title": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소",
+          "summary": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소 12시에는 5만원 이상 구매 시 2만원을 깎아주는 할인 쿠폰을 각각 선착순 지급한다",
+          "sentiment": "positive",
           "tags": [
             "#가격·수수료",
-            "#소비자반응",
+            "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 29.8,
-          "status": "Stable",
+          "viral_score": 57.1,
+          "status": "Rising",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-01T14:48:20+09:00",
-          "processed_at": "2026-11-02T02:31:00.929831+09:00",
+          "published_at": "2026-11-02T09:40:00+09:00",
+          "processed_at": "2026-11-02T10:14:22.579630+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9383,47 +9511,71 @@
             "#기업·정책",
             "#감동·긍정"
           ],
-          "viral_score": 38.3,
+          "viral_score": 31.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-01T14:31:47+09:00",
-          "processed_at": "2026-11-02T02:28:37.716966+09:00",
+          "processed_at": "2026-11-02T10:17:48.142430+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "[유통 브리프] 쿠팡, 배달의민족, 스타벅스, 세븐일레븐새 창 열림",
-              "url": "https://www.econovill.com/news/articleView.html?idxno=755613",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         }
       ],
-      "total": 3,
-      "avg_score": 37.0,
+      "total": 4,
+      "avg_score": 50.8,
       "ratio": {
         "negative": 0,
-        "positive": 67,
-        "neutral": 33
+        "positive": 100,
+        "neutral": 0
       },
-      "mentions": 21
+      "mentions": 31
     },
     "coupang": {
-      "issues": [],
-      "total": 0,
-      "avg_score": 0,
+      "issues": [
+        {
+          "uid": "0b237ec386ab9c8b07efae41fa315e98",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.fnnews.com/news/202611011922127818",
+          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
+          "summary": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림 쿠팡이츠도 법적으로 미국에 본사를 둔 쿠팡의 자회사다",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#점주·자영업",
+            "#기업·정책"
+          ],
+          "viral_score": 24.9,
+          "status": "Stable",
+          "stakeholders": [
+            "점주",
+            "직원"
+          ],
+          "published_at": "2026-11-01T19:22:16+09:00",
+          "processed_at": "2026-11-02T10:15:05.424448+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        }
+      ],
+      "total": 1,
+      "avg_score": 24.9,
       "ratio": {
         "negative": 0,
         "positive": 0,
-        "neutral": 0
+        "neutral": 100
       },
-      "mentions": 1
+      "mentions": 2
     }
   }
 }
