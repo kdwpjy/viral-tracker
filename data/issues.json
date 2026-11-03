@@ -1,27 +1,94 @@
 {
-  "updated_at": "2026-11-04T02:36:19.513747+09:00",
+  "updated_at": "2026-11-04T07:55:57.784886+09:00",
   "hot": [
+    {
+      "uid": "d53ad01d7807e8861b46d8d89756bb02",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060228985",
+      "title": "\"배달비만으로도 주문금액의 17%…라이더 보수 깎일 것\"",
+      "summary": "\"배달비만으로도 주문금액의 17%…라이더 보수 깎일 것\" [이유석 동국대 경영학과 교수·이데일리 한전진 기자] 자영업자를 살리겠다는 규제가 자영업자를 겨누고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 71.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-04T06:02:00+09:00",
+      "processed_at": "2026-11-04T07:50:09.894117+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "014a2a7968575faa58ce7c898f5d4076",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060322086",
+      "title": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\"",
+      "summary": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\" 부담이 줄어든 상황에서 점주 몫까지 15%로 묶으면 배달 비용을 댈 곳이 마땅치 않다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 66.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T06:03:00+09:00",
+      "processed_at": "2026-11-04T07:49:10.595022+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비",
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\"새 창 열림",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01876166645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "298c0649c605a7dab349155b0ee02f6a",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261103175144462",
       "title": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’",
-      "summary": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’ 라이더 B씨 본인 제공 3일 관련 업계에 따르면 이날 인천 계양구와 경기 김포시 상가 밀집 지역에서 라이더들",
+      "summary": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’ 국회 정무위원회에 계류 중인 배달앱 수수료 상한제 법안을 문제 삼으며, 생업을 쪼개면서까지 거리로 나서고 있",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#라이더",
-        "#소비자반응"
+        "#기업·정책"
       ],
-      "viral_score": 54.4,
+      "viral_score": 52.3,
       "status": "Rising",
       "stakeholders": [
+        "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T17:51:00+09:00",
-      "processed_at": "2026-11-04T02:33:11.876527+09:00",
+      "processed_at": "2026-11-04T07:55:38.086582+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -31,150 +98,42 @@
       "duplicates": []
     },
     {
-      "uid": "863cd84af683ab5ae4237913ec1980eb",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103162709090",
-      "title": "먹깨비, 제주 현장 경험으로 공공배달앱 운영사에 선정",
-      "summary": "먹깨비, 제주 현장 경험으로 공공배달앱 운영사에 선정 받을 때 발생하는 중개 비용 부담을 낮추고, 온라인 주문을 매장 운영에 활용할 수 있도록 지원하는 정책이다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 40.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-03T16:27:00+09:00",
-      "processed_at": "2026-11-04T02:36:10.243506+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "제주형 공공배달앱 우선협상대상자 '먹깨비'",
-          "url": "http://v.daum.net/v/20261103205222515",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "제주 공공배달앱 '먹깨비' 재운영 협상… 수수료 1.5% 유지 제안",
-          "url": "http://v.daum.net/v/20261103163445559",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "d5579c1d49636925677c6357e0c98a6b",
+      "uid": "7b6f9644aacc41acf5d4e786f04f78d1",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103175741725",
-      "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
-      "summary": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격 /배달의민족 제공 배달의민족(배민)을 운영하는 우아한형제들이 화장품 쇼핑 전용관인 ‘B뷰티’를 선보인다",
+      "channel": "네이버뉴스",
+      "url": "https://www.news2day.co.kr/article/20261103500088",
+      "title": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림",
+      "summary": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림 배달의민족 물류서비스를 전담하는 우아한청년들은 하남 배민라이더스쿨까지 교육생을 무료로 태워주는 ‘출동",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#라이더",
+        "#마케팅·광고"
       ],
-      "viral_score": 38.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-03T17:57:00+09:00",
-      "processed_at": "2026-11-04T02:31:53.932503+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
-          "url": "http://v.daum.net/v/20261103171545712",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "d5b9e5180cb485348067ce9f552fef75",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103162221808",
-      "title": "쿠팡이츠, 배달파트너에 3000만원 규모 방한용품 기부",
-      "summary": "쿠팡이츠, 배달파트너에 3000만원 규모 방한용품 기부 김명규(왼쪽) 쿠팡이츠서비스 대표와 김동만 한국플랫폼프리랜서노동공제회 이사장이 3일 서울 영등포구 한국노총회",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 36.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-03T16:22:00+09:00",
-      "processed_at": "2026-11-04T02:32:23.052985+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 지원",
-          "url": "http://v.daum.net/v/20261103154431744",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 기부",
-          "url": "http://v.daum.net/v/20261103153532216",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "쿠팡이츠, 배달파트너 안전 위해 3000만원 상당 방한용품 기부",
-          "url": "http://v.daum.net/v/20261103145821836",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "9b8d4f00a3c578b06cc13031ca841ba3",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103144156555",
-      "title": "배민, 라이더 안전교육 무료 셔틀버스 확대",
-      "summary": "배민, 라이더 안전교육 무료 셔틀버스 확대 우아한청년들은 라이더들의 안전교육 접근성을 높이기 위해 '배민라이더스쿨' 무료 셔틀버스를 정식 운영한다고 3",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.4,
+      "viral_score": 49.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-03T14:41:00+09:00",
-      "processed_at": "2026-11-04T02:34:52.889720+09:00",
+      "published_at": "2026-11-04T07:47:00+09:00",
+      "processed_at": "2026-11-04T07:53:30.996420+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 5,
       "duplicates": [
+        {
+          "title": "배민, 라이더 안전교육 무료 셔틀버스 확대새 창 열림",
+          "url": "http://www.inews24.com/view/2021952",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "우아한청년들, '배민라이더스쿨' 수도권 셔틀버스 확대 운영새 창 열림",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022111",
+          "channel": "네이버뉴스"
+        },
         {
           "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
           "url": "http://v.daum.net/v/20261103120142518",
@@ -189,149 +148,162 @@
           "title": "배민라이더스쿨 '무료 셔틀버스', 수원·용인도 달린다…수도권 18개 시로 순차 확대",
           "url": "http://v.daum.net/v/20261103100039247",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "우아한청년들, 배민라이더스쿨 수도권 무료 셔틀버스 확대",
-          "url": "http://v.daum.net/v/20261103094651469",
-          "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "6742bfb0a92409a066692c9695ade1e0",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103100007186",
-      "title": "[유통딜리버리] 신세계그룹ㆍ현대百ㆍ롯데마트ㆍGS샵ㆍ무신사ㆍ쿠팡ㆍNS홈쇼핑ㆍ배민ㆍ다이소ㆍ와디즈",
-      "summary": "[유통딜리버리] 신세계그룹ㆍ현대百ㆍ롯데마트ㆍGS샵ㆍ무신사ㆍ쿠팡ㆍNS홈쇼핑ㆍ배민ㆍ다이소ㆍ와디즈 협력해 성남 지역 복지시설 환경 개선과 취약계층 지원에 매년 약 1억원을 정기 후원해왔다",
-      "sentiment": "positive",
+      "uid": "941ba58344b73da7c758bdbe2ed79c39",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=229223",
+      "title": "플랫폼에 '잠식' 당한 소상공인들…중개수수료에 배달비용 부담가중 '속...새 창 열림",
+      "summary": "플랫폼에 '잠식' 당한 소상공인들…중개수수료에 배달비용 부담가중 '속 이들 단체는 배달의민족과 쿠팡이츠 등 주요 배달 플랫폼 사업자들에게 협의체 참여를 요구하고 중개수수료와 배달",
+      "sentiment": "negative",
       "tags": [
-        "#서비스·품질",
+        "#가격·수수료",
+        "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 30.0,
+      "viral_score": 42.6,
       "status": "Stable",
       "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-03T10:00:00+09:00",
-      "processed_at": "2026-11-04T02:35:32.053092+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "f3513be212f8c81f441a17576c25162f",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103191831668",
-      "title": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작",
-      "summary": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작 지역에서 우선 운영된다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 27.7,
-      "status": "Stable",
-      "stakeholders": [
+        "소비자",
         "점주"
       ],
-      "published_at": "2026-11-03T19:18:00+09:00",
-      "processed_at": "2026-11-04T02:31:43.763146+09:00",
+      "published_at": "2026-11-03T08:00:02+09:00",
+      "processed_at": "2026-11-04T07:54:58.262433+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달비"
       ],
       "duplicate_count": 0,
       "duplicates": []
     },
     {
-      "uid": "dbd938225cfb807aab17b0eff8c1479e",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103052007542",
-      "title": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수",
-      "summary": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수 연간 거래액은 2021년부터 2026년까지 연평균 46% 성장했다",
-      "sentiment": "positive",
+      "uid": "2030b6cfbb3ee4fa58ca4309aa76ba4f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730526",
+      "title": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까...새 창 열림",
+      "summary": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까 음식 배달을 넘어 장보기와 생활용품 구매까지 배달 애플리케이션(앱)의 영향력이 커졌다",
+      "sentiment": "neutral",
       "tags": [
-        "#라이더",
+        "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.5,
+      "viral_score": 42.5,
       "status": "Stable",
       "stakeholders": [
-        "점주",
-        "라이더"
+        "소비자",
+        "점주"
       ],
-      "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-04T02:35:51.110615+09:00",
+      "published_at": "2026-11-04T07:00:00+09:00",
+      "processed_at": "2026-11-04T07:48:17.927561+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족",
-        "쿠팡이츠",
         "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
     },
     {
-      "uid": "1dd89f0dced12275706865e62bfc164a",
-      "brand": "쿠팡이츠",
+      "uid": "24ee95593bf7b62e5c6f2b9e70412d4f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206182",
+      "title": "배민, 화장품 퀵서비스 시장 진출...신촌·신림·압구정서 'B뷰티' 서비...새 창 열림",
+      "summary": "배민, 화장품 퀵서비스 시장 진출 신촌·신림·압구정서 'B뷰티' 서비",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 35.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-03T21:16:50+09:00",
+      "processed_at": "2026-11-04T07:48:28.997886+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작새 창 열림",
+          "url": "https://www.yna.co.kr/view/AKR20261103178000030?input=1195m",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격새 창 열림",
+          "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/03/HUSC43RBNRF4TIBOEZ5TBZXDCM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
+          "url": "http://v.daum.net/v/20261103175741725",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "122202782c7087f29b2bb4685f50bbfb",
+      "brand": "배달앱 일반",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103163623654",
-      "title": "[똑똑한유통] 쿠쿠, 아성다이소, 시디즈, 청호나이스, 쿠팡이츠서비스",
-      "summary": "[똑똑한유통] 쿠쿠, 아성다이소, 시디즈, 청호나이스, 쿠팡이츠서비스 고객 중 선착순 50명에게는 가열식 가습기를 증정한다",
+      "url": "http://v.daum.net/v/20261104060319074",
+      "title": "\"배달앱 상한제, 되레 영세점주 잡을라\"",
+      "summary": "\"배달앱 상한제, 되레 영세점주 잡을라\" [이유석 동국대 경영학과 교수] 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 묶으려는 수",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 35.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T06:03:00+09:00",
+      "processed_at": "2026-11-04T07:50:00.470360+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "fbea8b1da6cf75d46a06d452444acbea",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712307",
+      "title": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용'...퀵커머스...새 창 열림",
+      "summary": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용' B마트와 배민스토어로 나뉘어 있던 상품과 재고 시스템을 통합해 셀러를 붙이는 데 드는 비용을 낮췄다",
       "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.5,
+      "viral_score": 34.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-03T16:36:00+09:00",
-      "processed_at": "2026-11-04T02:32:13.558234+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "c43d783d62eecd5d907b3eb9498ad305",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103150430319",
-      "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수",
-      "summary": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수 것이란 분석이 나온다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 24.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-11-03T15:04:00+09:00",
-      "processed_at": "2026-11-04T02:34:43.842676+09:00",
+      "published_at": "2026-11-04T07:30:00+09:00",
+      "processed_at": "2026-11-04T07:48:08.029492+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -339,9 +311,295 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "db1419e52aed15c24aa576f6687267f1",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.hankyung.com/article/2026110335541",
+      "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민새 창 열림",
+      "summary": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민새 창 열림 3일 유통업계에 따르면 배민은 이날 뷰티 상품을 30분~1시간 내 배달하는 ‘B뷰티‘ 서비스를 시작했다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-03T17:13:52+09:00",
+      "processed_at": "2026-11-04T07:49:00.551222+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
+          "url": "http://v.daum.net/v/20261103171545712",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수새 창 열림",
+          "url": "https://www.hankyung.com/article/202610293254i",
+          "channel": "네이버뉴스"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "uid": "7b6f9644aacc41acf5d4e786f04f78d1",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.news2day.co.kr/article/20261103500088",
+      "title": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림",
+      "summary": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림 배달의민족 물류서비스를 전담하는 우아한청년들은 하남 배민라이더스쿨까지 교육생을 무료로 태워주는 ‘출동",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#마케팅·광고"
+      ],
+      "viral_score": 49.8,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-04T07:47:00+09:00",
+      "processed_at": "2026-11-04T07:53:30.996420+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 4,
+      "duplicates": [
+        {
+          "title": "우아한청년들, '배민라이더스쿨' 수도권 셔틀버스 확대 운영새 창 열림",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022111",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
+          "url": "http://v.daum.net/v/20261103120142518",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
+          "url": "http://v.daum.net/v/20261103105706639",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨 '무료 셔틀버스', 수원·용인도 달린다…수도권 18개 시로 순차 확대",
+          "url": "http://v.daum.net/v/20261103100039247",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "fbea8b1da6cf75d46a06d452444acbea",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712307",
+      "title": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용'...퀵커머스...새 창 열림",
+      "summary": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용' B마트와 배민스토어로 나뉘어 있던 상품과 재고 시스템을 통합해 셀러를 붙이는 데 드는 비용을 낮췄다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 34.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T07:30:00+09:00",
+      "processed_at": "2026-11-04T07:48:08.029492+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "2030b6cfbb3ee4fa58ca4309aa76ba4f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730526",
+      "title": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까...새 창 열림",
+      "summary": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까 음식 배달을 넘어 장보기와 생활용품 구매까지 배달 애플리케이션(앱)의 영향력이 커졌다",
+      "sentiment": "neutral",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 42.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T07:00:00+09:00",
+      "processed_at": "2026-11-04T07:48:17.927561+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "014a2a7968575faa58ce7c898f5d4076",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060322086",
+      "title": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\"",
+      "summary": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\" 부담이 줄어든 상황에서 점주 몫까지 15%로 묶으면 배달 비용을 댈 곳이 마땅치 않다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 66.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T06:03:00+09:00",
+      "processed_at": "2026-11-04T07:49:10.595022+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비",
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "해외 배달앱 8곳 평균 수수료 28%…\"15% 적용 전 배달비 분담 합의해야\"새 창 열림",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01876166645642440&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "122202782c7087f29b2bb4685f50bbfb",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060319074",
+      "title": "\"배달앱 상한제, 되레 영세점주 잡을라\"",
+      "summary": "\"배달앱 상한제, 되레 영세점주 잡을라\" [이유석 동국대 경영학과 교수] 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 묶으려는 수",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 35.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T06:03:00+09:00",
+      "processed_at": "2026-11-04T07:50:00.470360+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "d53ad01d7807e8861b46d8d89756bb02",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060228985",
+      "title": "\"배달비만으로도 주문금액의 17%…라이더 보수 깎일 것\"",
+      "summary": "\"배달비만으로도 주문금액의 17%…라이더 보수 깎일 것\" [이유석 동국대 경영학과 교수·이데일리 한전진 기자] 자영업자를 살리겠다는 규제가 자영업자를 겨누고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 71.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-04T06:02:00+09:00",
+      "processed_at": "2026-11-04T07:50:09.894117+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "24ee95593bf7b62e5c6f2b9e70412d4f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.livebiz.today/news/articleView.html?idxno=206182",
+      "title": "배민, 화장품 퀵서비스 시장 진출...신촌·신림·압구정서 'B뷰티' 서비...새 창 열림",
+      "summary": "배민, 화장품 퀵서비스 시장 진출 신촌·신림·압구정서 'B뷰티' 서비",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 35.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-03T21:16:50+09:00",
+      "processed_at": "2026-11-04T07:48:28.997886+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작새 창 열림",
+          "url": "https://www.yna.co.kr/view/AKR20261103178000030?input=1195m",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
+          "url": "http://v.daum.net/v/20261103175741725",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격새 창 열림",
+          "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/03/HUSC43RBNRF4TIBOEZ5TBZXDCM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "248a1308ba23777beab0cb0ff01e41df",
       "brand": "배달앱 일반",
@@ -355,13 +613,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 31.9,
+      "viral_score": 27.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-03T20:52:00+09:00",
-      "processed_at": "2026-11-04T02:33:02.076122+09:00",
+      "processed_at": "2026-11-04T07:50:19.460464+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -383,13 +641,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 27.7,
+      "viral_score": 23.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-03T19:18:00+09:00",
-      "processed_at": "2026-11-04T02:31:43.763146+09:00",
+      "processed_at": "2026-11-04T07:49:19.730139+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -399,60 +657,27 @@
       "duplicates": []
     },
     {
-      "uid": "d5579c1d49636925677c6357e0c98a6b",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103175741725",
-      "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
-      "summary": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격 /배달의민족 제공 배달의민족(배민)을 운영하는 우아한형제들이 화장품 쇼핑 전용관인 ‘B뷰티’를 선보인다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 38.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-03T17:57:00+09:00",
-      "processed_at": "2026-11-04T02:31:53.932503+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
-          "url": "http://v.daum.net/v/20261103171545712",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "298c0649c605a7dab349155b0ee02f6a",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
       "url": "http://v.daum.net/v/20261103175144462",
       "title": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’",
-      "summary": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’ 라이더 B씨 본인 제공 3일 관련 업계에 따르면 이날 인천 계양구와 경기 김포시 상가 밀집 지역에서 라이더들",
+      "summary": "“적자 보며 달리라는 건가”…배달앱 수수료 상한제에 라이더들 ‘생존권 벼랑’ 국회 정무위원회에 계류 중인 배달앱 수수료 상한제 법안을 문제 삼으며, 생업을 쪼개면서까지 거리로 나서고 있",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#라이더",
-        "#소비자반응"
+        "#기업·정책"
       ],
-      "viral_score": 54.4,
+      "viral_score": 52.3,
       "status": "Rising",
       "stakeholders": [
+        "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T17:51:00+09:00",
-      "processed_at": "2026-11-04T02:33:11.876527+09:00",
+      "processed_at": "2026-11-04T07:55:38.086582+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -473,6 +698,45 @@
       ]
     },
     {
+      "uid": "f9c0012fa5605c5ac93c01a32a618883",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261103171545712",
+      "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
+      "summary": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민 쿠팡(로켓뷰티), 무신사(무신사 뷰티) 등보다 더 빠른 배송 속도를 내세워 승부한다는 전략이다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-03T17:15:00+09:00",
+      "processed_at": "2026-11-04T07:49:39.041073+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민새 창 열림",
+          "url": "https://www.hankyung.com/article/2026110335541",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민도 뛰어든 화장품 배송…뷰티업계, '퀵커머스' 경쟁 격화새 창 열림",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413220",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
       "uid": "1dd89f0dced12275706865e62bfc164a",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -501,90 +765,6 @@
       "duplicates": []
     },
     {
-      "uid": "66ea18ca86598b9aea208d6d376cabe4",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
-      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
-      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-02T01:00:00+09:00",
-      "processed_at": "2026-11-02T02:31:32.469991+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
-          "url": "http://v.daum.net/v/20261101105923173",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
-          "url": "https://www.munhwa.com/article/11623154?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
-          "url": "https://www.kmib.co.kr/article/20261101500126",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "제주 공공배달앱 '먹깨비' 재운영 협상… 수수료 1.5% 유지 제안",
-          "url": "http://v.daum.net/v/20261103163445559",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "e5284cda821641ce03419e11510dad56",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261016104745945",
-      "title": "제주 공공배달앱 운영사 모집.. 소상공인 수수료 부담 낮춰야",
-      "summary": "제주 공공배달앱 운영사 모집 소상공인 수수료 부담 낮춰야",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 53.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-16T10:47:00+09:00",
-      "processed_at": "2026-10-16T11:06:57.909995+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "먹깨비, 제주 현장 경험으로 공공배달앱 운영사에 선정",
-          "url": "http://v.daum.net/v/20261103162709090",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "d5b9e5180cb485348067ce9f552fef75",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -609,22 +789,12 @@
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 지원",
-          "url": "http://v.daum.net/v/20261103154431744",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 기부",
-          "url": "http://v.daum.net/v/20261103153532216",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "쿠팡이츠, 배달파트너 안전 위해 3000만원 상당 방한용품 기부",
-          "url": "http://v.daum.net/v/20261103145821836",
-          "channel": "다음뉴스"
+          "title": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행...새 창 열림",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92915",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -664,6 +834,35 @@
       ]
     },
     {
+      "uid": "644367e9c36ee9ab90767f93f778fe7d",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.hankyung.com/article/202610293254i",
+      "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수새 창 열림",
+      "summary": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수새 창 열림 B뷰티는 배민이 보유한 80여개 도심 내 유통센터(PPC)를 활용해 운영된다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 20.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-11-03T15:01:59+09:00",
+      "processed_at": "2026-11-04T07:53:41.927530+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "f4648491ccd75bb63667119cb31d339f",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -698,26 +897,25 @@
       ]
     },
     {
-      "uid": "b6c0c009e71a9238fae6467681f1d806",
+      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103120142518",
-      "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
-      "summary": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대 거리가 멀어 안전교육 참여가 어렵다는 라이더들의 의견을 반영해 도입됐다",
+      "channel": "네이버뉴스",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
+        "#기업·정책",
+        "#감동·긍정"
       ],
-      "viral_score": 31.8,
-      "status": "Stable",
+      "viral_score": 57.5,
+      "status": "Rising",
       "stakeholders": [
-        "소비자",
         "라이더"
       ],
-      "published_at": "2026-11-03T12:01:00+09:00",
-      "processed_at": "2026-11-04T02:35:02.063282+09:00",
+      "published_at": "2026-11-02T09:54:17+09:00",
+      "processed_at": "2026-11-02T10:13:40.959851+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -726,63 +924,89 @@
       "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
-          "url": "http://v.daum.net/v/20261103105706639",
+          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
+          "url": "http://v.daum.net/v/20261101112157695",
           "channel": "다음뉴스"
         },
         {
-          "title": "배민라이더스쿨 '무료 셔틀버스', 수원·용인도 달린다…수도권 18개 시로 순차 확대",
-          "url": "http://v.daum.net/v/20261103100039247",
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+          "url": "http://v.daum.net/v/20261101184748938",
           "channel": "다음뉴스"
         },
         {
-          "title": "우아한청년들, 배민라이더스쿨 수도권 무료 셔틀버스 확대",
-          "url": "http://v.daum.net/v/20261103094651469",
-          "channel": "다음뉴스"
+          "title": "배민, 라이더 안전교육 무료 셔틀버스 확대새 창 열림",
+          "url": "http://www.inews24.com/view/2021952",
+          "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "9efc1647d7d75515538b1a63437d5504",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261102094010247",
-      "title": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소",
-      "summary": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소 12시에는 5만원 이상 구매 시 2만원을 깎아주는 할인 쿠폰을 각각 선착순 지급한다",
-      "sentiment": "positive",
+      "uid": "941ba58344b73da7c758bdbe2ed79c39",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=229223",
+      "title": "플랫폼에 '잠식' 당한 소상공인들…중개수수료에 배달비용 부담가중 '속...새 창 열림",
+      "summary": "플랫폼에 '잠식' 당한 소상공인들…중개수수료에 배달비용 부담가중 '속 이들 단체는 배달의민족과 쿠팡이츠 등 주요 배달 플랫폼 사업자들에게 협의체 참여를 요구하고 중개수수료와 배달",
+      "sentiment": "negative",
       "tags": [
         "#가격·수수료",
-        "#서비스·품질",
-        "#마케팅·광고"
+        "#점주·자영업",
+        "#기업·정책"
       ],
-      "viral_score": 57.1,
-      "status": "Rising",
+      "viral_score": 42.6,
+      "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "점주"
       ],
-      "published_at": "2026-11-02T09:40:00+09:00",
-      "processed_at": "2026-11-02T10:14:22.579630+09:00",
+      "published_at": "2026-11-03T08:00:02+09:00",
+      "processed_at": "2026-11-04T07:54:58.262433+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달비"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "[유통딜리버리] 신세계 팩토리스토어ㆍCUㆍGS리테일ㆍ세븐일레븐ㆍSSG닷컴ㆍ배민ㆍ에이블리ㆍ신라호텔ㆍ한화호텔앤드리조트ㆍ워커힐",
-          "url": "http://v.daum.net/v/20261013092006332",
-          "channel": "다음뉴스"
-        },
+          "title": "서산공공배달플랫폼 가맹 500곳 소상공인 배달비 지원 추진새 창 열림",
+          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=869968",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "aea28fca22aa2dbb3b006a2e2eee2cfb",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730440",
+      "title": "[배달앱, 어디까지②] 2만원 주문에 6116원 부담, '수수료의 무게'새 창 열림",
+      "summary": "[배달앱, 어디까지②] 2만원 주문에 6116원 부담, '수수료의 무게'새 창 열림 거래비용 구성은 중개수수료가 42",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 22.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-03T06:20:00+09:00",
+      "processed_at": "2026-11-04T07:50:58.082740+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
         {
-          "title": "[유통딜리버리] 신세계그룹ㆍ현대百ㆍ롯데마트ㆍGS샵ㆍ무신사ㆍ쿠팡ㆍNS홈쇼핑ㆍ배민ㆍ다이소ㆍ와디즈",
-          "url": "http://v.daum.net/v/20261103100007186",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[유통딜리버리] 신세계百ㆍ이마트24ㆍ신세계사이먼ㆍW컨셉ㆍ29CMㆍGS25ㆍ11번가ㆍ배민ㆍ에이블리ㆍ쿠팡풀필먼트서비스",
-          "url": "http://v.daum.net/v/20261021094007872",
-          "channel": "다음뉴스"
+          "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -799,14 +1023,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.5,
+      "viral_score": 23.2,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-04T02:35:51.110615+09:00",
+      "processed_at": "2026-11-04T07:55:29.019646+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -816,6 +1040,41 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "4785d749a5ed53168a20ea6b0405ce92",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mediapen.com/news/view/1130962",
+      "title": "립스틱 이어 굿즈까지...배민, 비식품 퀵커머스 '승부수'새 창 열림",
+      "summary": "립스틱 이어 굿즈까지 배민, 비식품 퀵커머스 '승부수'새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-19T16:44:18+09:00",
+      "processed_at": "2026-10-20T01:51:56.494517+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수새 창 열림",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021316263430177",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "d1049823e2d37af23fbc6db53a34fdf3",
@@ -971,25 +1230,25 @@
       ]
     },
     {
-      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
+      "uid": "9efc1647d7d75515538b1a63437d5504",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
-      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
-      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102094010247",
+      "title": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소",
+      "summary": "[유통딜리버리] 신세계百ㆍ갤러리아ㆍ롯데마트ㆍSSG닷컴ㆍ무신사ㆍ29CMㆍG마켓ㆍ롯데온ㆍ11번가ㆍCJ온스타일ㆍ쿠팡ㆍ컬리ㆍ배민ㆍ다이소 12시에는 5만원 이상 구매 시 2만원을 깎아주는 할인 쿠폰을 각각 선착순 지급한다",
       "sentiment": "positive",
       "tags": [
+        "#가격·수수료",
         "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
+        "#마케팅·광고"
       ],
-      "viral_score": 57.5,
+      "viral_score": 57.1,
       "status": "Rising",
       "stakeholders": [
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-11-02T09:54:17+09:00",
-      "processed_at": "2026-11-02T10:13:40.959851+09:00",
+      "published_at": "2026-11-02T09:40:00+09:00",
+      "processed_at": "2026-11-02T10:14:22.579630+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -998,45 +1257,60 @@
       "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-          "url": "http://v.daum.net/v/20261101112157695",
+          "title": "[유통딜리버리] 신세계 팩토리스토어ㆍCUㆍGS리테일ㆍ세븐일레븐ㆍSSG닷컴ㆍ배민ㆍ에이블리ㆍ신라호텔ㆍ한화호텔앤드리조트ㆍ워커힐",
+          "url": "http://v.daum.net/v/20261013092006332",
           "channel": "다음뉴스"
         },
         {
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-          "url": "http://v.daum.net/v/20261101184748938",
+          "title": "[유통딜리버리] 신세계百ㆍ이마트24ㆍ신세계사이먼ㆍW컨셉ㆍ29CMㆍGS25ㆍ11번가ㆍ배민ㆍ에이블리ㆍ쿠팡풀필먼트서비스",
+          "url": "http://v.daum.net/v/20261021094007872",
           "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "d329077924a041df3819a465ef095fbc",
-      "brand": "배달의민족",
+      "uid": "66ea18ca86598b9aea208d6d376cabe4",
+      "brand": "배달앱 일반",
       "channel": "네이버뉴스",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
-      "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
-      "summary": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림 배달의민족은 지난달 1일 월 3990원의 '배민클럽 에디션 2'를 출시했다",
-      "sentiment": "neutral",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
+      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
+      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
+      "sentiment": "positive",
       "tags": [
         "#가격·수수료",
-        "#점주·자영업",
-        "#마케팅·광고"
+        "#서비스·품질",
+        "#점주·자영업"
       ],
-      "viral_score": 29.2,
-      "status": "Stable",
+      "viral_score": 59.5,
+      "status": "Rising",
       "stakeholders": [
-        "소비자",
         "점주"
       ],
-      "published_at": "2026-11-02T06:30:00+09:00",
-      "processed_at": "2026-11-03T05:00:04.673039+09:00",
+      "published_at": "2026-11-02T01:00:00+09:00",
+      "processed_at": "2026-11-02T02:31:32.469991+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
+          "url": "http://v.daum.net/v/20261101105923173",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
+          "url": "https://www.munhwa.com/article/11623154?ref=naver",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261101500126",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "270eb96cdc7a38267b0521e497b647ff",
@@ -1069,6 +1343,42 @@
           "title": "[기자수첩] 배달앱 수수료 규제의 역설",
           "url": "http://v.daum.net/v/20261101192357408",
           "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "a8b7d9728a9777b56bd43b60c00da489",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
+      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
+      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 84.3,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-09-16T17:22:18+09:00",
+      "processed_at": "2026-09-16T18:05:28.339759+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
+          "url": "https://www.fnnews.com/news/202611011922127818",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1168,20 +1478,26 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 11.5,
+      "viral_score": 11.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-04T02:36:19.510179+09:00",
+      "processed_at": "2026-11-04T07:55:57.780084+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "일본서도 '배달비 0엔'…우버이츠 쫓는 쿠팡 '로켓나우' 써보니 [MTN 픽]새 창 열림",
+          "url": "https://news.mtn.co.kr/article/2026103123514557966",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "85862fc883709a6f90566fd142d7105a",
@@ -1364,6 +1680,66 @@
       "duplicates": []
     },
     {
+      "uid": "03538091c1bab36fa525d0c2f1c674cb",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029092703506",
+      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
+      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 52.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "라이더"
+      ],
+      "published_at": "2026-10-29T09:27:00+09:00",
+      "processed_at": "2026-10-29T10:37:08.461524+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 6,
+      "duplicates": [
+        {
+          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
+          "url": "http://v.daum.net/v/20261029095241820",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
+          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
+          "url": "https://www.viva100.com/article/20261029500273",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
+          "url": "http://v.daum.net/v/20261029092745561",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
       "uid": "6e650e53fd3ca9467cb29bc4790701b2",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1376,21 +1752,27 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 10.1,
+      "viral_score": 9.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-11-03T05:00:27.735203+09:00",
+      "processed_at": "2026-11-04T07:51:58.746337+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
+          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "64e43b48b37beba17473bc28e0a6c0a9",
@@ -1537,51 +1919,6 @@
       "duplicates": []
     },
     {
-      "uid": "03538091c1bab36fa525d0c2f1c674cb",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029092703506",
-      "title": "배민, 파트너 편의성 높인다…주문접수PC 개편",
-      "summary": "배민, 파트너 편의성 높인다…주문접수PC 개편 위해 ‘배민주문접수PC’를 개편한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 52.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-29T09:27:00+09:00",
-      "processed_at": "2026-10-29T10:37:08.461524+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191276",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
-          "url": "http://v.daum.net/v/20261029095241820",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
-          "url": "http://v.daum.net/v/20261029092745561",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "041e1322739ce5c6abb213425be8e7b7",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1693,14 +2030,20 @@
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-11-04T02:33:58.017132+09:00",
+      "processed_at": "2026-11-04T07:52:35.855012+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민, 점주 PC 전면 개편…매장 운영 기능 한 곳에새 창 열림",
+          "url": "https://www.etnews.com/20261029000037",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "13507aa3fb287213b821c30cae4fb370",
@@ -1824,17 +2167,18 @@
       "summary": "[기자의 눈] 배민과 다이소의 영토 확장 골목시장 한숨 외면해선 안",
       "sentiment": "negative",
       "tags": [
+        "#서비스·품질",
         "#점주·자영업",
-        "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 23.6,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
+        "소비자",
         "점주"
       ],
       "published_at": "2026-10-28T18:30:00+09:00",
-      "processed_at": "2026-11-03T05:00:51.447442+09:00",
+      "processed_at": "2026-11-04T07:51:29.895397+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2257,7 +2601,7 @@
         "점주"
       ],
       "published_at": "2026-10-28T15:17:00+09:00",
-      "processed_at": "2026-11-04T02:34:16.622563+09:00",
+      "processed_at": "2026-11-04T07:53:03.506331+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -4592,33 +4936,6 @@
       "duplicates": []
     },
     {
-      "uid": "9c2cc10898f2268bcebbbbdd792cbd84",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02053286645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "title": "호통 끝에 칼 빼들까…쿠팡·배민·GS25 또 국감 달군다새 창 열림",
-      "summary": "호통 끝에 칼 빼들까…쿠팡·배민·GS25 또 국감 달군다새 창 열림 쿠팡과 배달의민족(배민), GS25 등 유통·플랫폼 기업들이 또다시 국회 정무위원회 국정감사(국감)의 도마 ",
-      "sentiment": "negative",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 60.0,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-21T06:00:07+09:00",
-      "processed_at": "2026-10-21T18:07:54.971827+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "d3639e5be6576e31dbd3031eca486d9a",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -4978,63 +5295,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "4785d749a5ed53168a20ea6b0405ce92",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mediapen.com/news/view/1130962",
-      "title": "립스틱 이어 굿즈까지...배민, 비식품 퀵커머스 '승부수'새 창 열림",
-      "summary": "립스틱 이어 굿즈까지 배민, 비식품 퀵커머스 '승부수'새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 31.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-19T16:44:18+09:00",
-      "processed_at": "2026-10-20T01:51:56.494517+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "78ee23f1876438315a5e4da92c5da56b",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.dynews.co.kr/news/articleView.html?idxno=869968",
-      "title": "서산공공배달플랫폼 가맹 500곳 소상공인 배달비 지원 추진새 창 열림",
-      "summary": "서산공공배달플랫폼 가맹 500곳 소상공인 배달비 지원 추진새 창 열림 ［동양일보 장인철 기자］ 공공배달플랫폼을 통해 상품을 판매하는 서산지역 소상공인들이 내년부터 배달비 등을 일",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 29.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-19T13:55:59+09:00",
-      "processed_at": "2026-10-20T07:04:13.325418+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달비"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -5664,6 +5924,35 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "e5284cda821641ce03419e11510dad56",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261016104745945",
+      "title": "제주 공공배달앱 운영사 모집.. 소상공인 수수료 부담 낮춰야",
+      "summary": "제주 공공배달앱 운영사 모집 소상공인 수수료 부담 낮춰야",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 53.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-16T10:47:00+09:00",
+      "processed_at": "2026-10-16T11:06:57.909995+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -8253,35 +8542,6 @@
       "duplicates": []
     },
     {
-      "uid": "ca4a9e4bd52fdc4bd8d921e776bb1498",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413220",
-      "title": "배민도 뛰어든 화장품 배송…뷰티업계, '퀵커머스' 경쟁 격화새 창 열림",
-      "summary": "배민도 뛰어든 화장품 배송…뷰티업계, '퀵커머스' 경쟁 격화새 창 열림 10일 업계에 따르면 우한형제들이 운영하는 배달의민족(배민)은 지난 7일부터 '장보기·쇼핑' 카테고리에 도심",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 27.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-10T10:00:00+09:00",
-      "processed_at": "2026-10-11T11:45:13.796177+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "9589f949f5ea5822e7965861c90ae75e",
       "brand": "쿠팡이츠",
       "channel": "다음뉴스",
@@ -8910,179 +9170,168 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "ec06d41526726d476be88739282f98bf",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=213338",
-      "title": "배민, 전기 이륜차 보급 활성화…친환경 배달 생태계 조성새 창 열림",
-      "summary": "배민, 전기 이륜차 보급 활성화…친환경 배달 생태계 조성새 창 열림 올해 2월에는 배민라이더스쿨에서 기후에너지환경부와 배달 플랫폼·대행사, 관련 협단체 등과 전기 이륜차 보급 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 45.5,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-08T14:42:46+09:00",
-      "processed_at": "2026-10-08T17:33:05.396107+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "c03d297640ba2970e8fd4e343844e536",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3716346",
-      "title": "웅스타쪽갈비, 배달앱 대신 현장 판촉…지역 고객 접점 확대새 창 열림",
-      "summary": "웅스타쪽갈비, 배달앱 대신 현장 판촉…지역 고객 접점 확대새 창 열림 수수료와 배달비, 광고비, 할인 비용 등이 발생할 수 있다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 29.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-08T14:18:46+09:00",
-      "processed_at": "2026-10-09T02:17:51.828311+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6b1733e1120231fe9de2757790ad63b7",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://lawtalknews.co.kr/article/86CX0H9UWQ66",
-      "title": "라이더 생계 쥐고 흔드는 '불투명' 배달앱 AI?\"15건 중 14건 배달하면 보...새 창 열림",
-      "summary": "라이더 생계 쥐고 흔드는 '불투명' 배달앱 AI \"15건 중 14건 배달하면 보",
-      "sentiment": "negative",
-      "tags": [
-        "#라이더",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 69.1,
-      "status": "Rising",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-08T10:12:38+09:00",
-      "processed_at": "2026-10-08T10:43:50.640615+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "101061215b93b123f2e1f70f40595f23",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.newsis.com/view/NISX20261008_0003818694",
-      "title": "배민, 한국형 녹색대전환 'K-GX' 시그니처 프로젝트 선정새 창 열림",
-      "summary": "배민, 한국형 녹색대전환 'K-GX' 시그니처 프로젝트 선정새 창 열림 배민은 녹색 배달 생태계 조성을 위해 배달용 전기 이륜차 민관협력 실증사업을 시행해 온 성과를 인정받았다",
-      "sentiment": "positive",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 53.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-08T10:11:01+09:00",
-      "processed_at": "2026-10-08T10:43:11.354331+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ecce1eeaca5c1f0f0f79186464d3f51e",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261008100603174",
-      "title": "배민, ‘K-GX’ 프로젝트 참여…전기 이륜차 보급 확대 나선다",
-      "summary": "배민, ‘K-GX’ 프로젝트 참여…전기 이륜차 보급 확대 나선다 스테이션 구축 △전기 이륜차 무상 렌탈 △전기 이륜차 배달 건당 인센티브 지급 등을 중심으로 운영한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 15.3,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더",
-        "직원"
-      ],
-      "published_at": "2026-10-08T10:06:00+09:00",
-      "processed_at": "2026-10-10T10:39:22.532793+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "7848011ac1246a39529e4f9f2f2229b4",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261008095557563",
-      "title": "현관 앞에 뿌려진 오물…배민 주소 빼돌려 사적 보복 대행 일당 징역형 [세상&]",
-      "summary": "현관 앞에 뿌려진 오물…배민 주소 빼돌려 사적 보복 대행 일당 징역형 [세상&] 의뢰를 받은 뒤 대상자의 집을 찾아가 현관문에 오물을 뿌리거나 래커칠로 낙서하는 식이었다",
-      "sentiment": "negative",
-      "tags": [
-        "#기업·정책"
-      ],
-      "viral_score": 63.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-08T09:55:00+09:00",
-      "processed_at": "2026-10-08T10:43:39.735708+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "7b6f9644aacc41acf5d4e786f04f78d1",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.news2day.co.kr/article/20261103500088",
+          "title": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림",
+          "summary": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림 배달의민족 물류서비스를 전담하는 우아한청년들은 하남 배민라이더스쿨까지 교육생을 무료로 태워주는 ‘출동",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#라이더",
+            "#마케팅·광고"
+          ],
+          "viral_score": 49.8,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-11-04T07:47:00+09:00",
+          "processed_at": "2026-11-04T07:53:30.996420+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 5,
+          "duplicates": [
+            {
+              "title": "배민, 라이더 안전교육 무료 셔틀버스 확대새 창 열림",
+              "url": "http://www.inews24.com/view/2021952",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "우아한청년들, '배민라이더스쿨' 수도권 셔틀버스 확대 운영새 창 열림",
+              "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022111",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
+              "url": "http://v.daum.net/v/20261103120142518",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
+              "url": "http://v.daum.net/v/20261103105706639",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민라이더스쿨 '무료 셔틀버스', 수원·용인도 달린다…수도권 18개 시로 순차 확대",
+              "url": "http://v.daum.net/v/20261103100039247",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "fbea8b1da6cf75d46a06d452444acbea",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712307",
+          "title": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용'...퀵커머스...새 창 열림",
+          "summary": "배민 '시스템 통합' vs 컬리 '거점 확대' vs 쿠팡 '재고 활용' B마트와 배민스토어로 나뉘어 있던 상품과 재고 시스템을 통합해 셀러를 붙이는 데 드는 비용을 낮췄다",
+          "sentiment": "neutral",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 34.6,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-04T07:30:00+09:00",
+          "processed_at": "2026-11-04T07:48:08.029492+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "2030b6cfbb3ee4fa58ca4309aa76ba4f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730526",
+          "title": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까...새 창 열림",
+          "summary": "[배달앱, 어디까지③] '탈플랫폼' 현실… 배민·쿠팡 없이 팔 수 있을까 음식 배달을 넘어 장보기와 생활용품 구매까지 배달 애플리케이션(앱)의 영향력이 커졌다",
+          "sentiment": "neutral",
+          "tags": [
+            "#소비자반응",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 42.5,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-11-04T07:00:00+09:00",
+          "processed_at": "2026-11-04T07:48:17.927561+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족",
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "24ee95593bf7b62e5c6f2b9e70412d4f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.livebiz.today/news/articleView.html?idxno=206182",
+          "title": "배민, 화장품 퀵서비스 시장 진출...신촌·신림·압구정서 'B뷰티' 서비...새 창 열림",
+          "summary": "배민, 화장품 퀵서비스 시장 진출 신촌·신림·압구정서 'B뷰티' 서비",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#점주·자영업",
+            "#마케팅·광고"
+          ],
+          "viral_score": 35.8,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-11-03T21:16:50+09:00",
+          "processed_at": "2026-11-04T07:48:28.997886+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 3,
+          "duplicates": [
+            {
+              "title": "배민, 화장품 즉시배송 'B뷰티' 출시…서울 일부 지역서 시작새 창 열림",
+              "url": "https://www.yna.co.kr/view/AKR20261103178000030?input=1195m",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
+              "url": "http://v.daum.net/v/20261103175741725",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격새 창 열림",
+              "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/03/HUSC43RBNRF4TIBOEZ5TBZXDCM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+              "channel": "네이버뉴스"
+            }
+          ]
+        },
         {
           "uid": "f3513be212f8c81f441a17576c25162f",
           "brand": "배달의민족",
@@ -9096,13 +9345,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 27.7,
+          "viral_score": 23.6,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-03T19:18:00+09:00",
-          "processed_at": "2026-11-04T02:31:43.763146+09:00",
+          "processed_at": "2026-11-04T07:49:19.730139+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9112,60 +9361,65 @@
           "duplicates": []
         },
         {
-          "uid": "d5579c1d49636925677c6357e0c98a6b",
+          "uid": "f9c0012fa5605c5ac93c01a32a618883",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261103175741725",
-          "title": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격",
-          "summary": "신촌·신림·압구정서 화장품도 30분만에 받는다…배민 ‘B뷰티’ 출격 /배달의민족 제공 배달의민족(배민)을 운영하는 우아한형제들이 화장품 쇼핑 전용관인 ‘B뷰티’를 선보인다",
+          "url": "http://v.daum.net/v/20261103171545712",
+          "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
+          "summary": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민 쿠팡(로켓뷰티), 무신사(무신사 뷰티) 등보다 더 빠른 배송 속도를 내세워 승부한다는 전략이다",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 38.0,
+          "viral_score": 31.8,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-03T17:57:00+09:00",
-          "processed_at": "2026-11-04T02:31:53.932503+09:00",
+          "published_at": "2026-11-03T17:15:00+09:00",
+          "processed_at": "2026-11-04T07:49:39.041073+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
+          "duplicate_count": 2,
           "duplicates": [
             {
-              "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민",
-              "url": "http://v.daum.net/v/20261103171545712",
+              "title": "\"화장품도 30분 만에 배송\"…뷰티 시장 뛰어든 배민새 창 열림",
+              "url": "https://www.hankyung.com/article/2026110335541",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수",
+              "url": "http://v.daum.net/v/20261103150430319",
               "channel": "다음뉴스"
             }
           ]
         },
         {
-          "uid": "c43d783d62eecd5d907b3eb9498ad305",
+          "uid": "644367e9c36ee9ab90767f93f778fe7d",
           "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261103150430319",
-          "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수",
-          "summary": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수 것이란 분석이 나온다",
+          "channel": "네이버뉴스",
+          "url": "https://www.hankyung.com/article/202610293254i",
+          "title": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수새 창 열림",
+          "summary": "\"치킨 시킬 때 화장품도 주문해요\"…배민 '30분 배송' 승부수새 창 열림 B뷰티는 배민이 보유한 80여개 도심 내 유통센터(PPC)를 활용해 운영된다",
           "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
-            "#라이더",
-            "#마케팅·광고"
+            "#마케팅·광고",
+            "#기업·정책"
           ],
-          "viral_score": 24.3,
+          "viral_score": 20.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
-          "published_at": "2026-11-03T15:04:00+09:00",
-          "processed_at": "2026-11-04T02:34:43.842676+09:00",
+          "published_at": "2026-11-03T15:01:59+09:00",
+          "processed_at": "2026-11-04T07:53:41.927530+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9187,61 +9441,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 34.4,
+          "viral_score": 29.5,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-03T14:41:00+09:00",
-          "processed_at": "2026-11-04T02:34:52.889720+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 4,
-          "duplicates": [
-            {
-              "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
-              "url": "http://v.daum.net/v/20261103120142518",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
-              "url": "http://v.daum.net/v/20261103105706639",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민라이더스쿨 '무료 셔틀버스', 수원·용인도 달린다…수도권 18개 시로 순차 확대",
-              "url": "http://v.daum.net/v/20261103100039247",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "우아한청년들, 배민라이더스쿨 수도권 무료 셔틀버스 확대",
-              "url": "http://v.daum.net/v/20261103094651469",
-              "channel": "다음뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "6742bfb0a92409a066692c9695ade1e0",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261103100007186",
-          "title": "[유통딜리버리] 신세계그룹ㆍ현대百ㆍ롯데마트ㆍGS샵ㆍ무신사ㆍ쿠팡ㆍNS홈쇼핑ㆍ배민ㆍ다이소ㆍ와디즈",
-          "summary": "[유통딜리버리] 신세계그룹ㆍ현대百ㆍ롯데마트ㆍGS샵ㆍ무신사ㆍ쿠팡ㆍNS홈쇼핑ㆍ배민ㆍ다이소ㆍ와디즈 협력해 성남 지역 복지시설 환경 개선과 취약계층 지원에 매년 약 1억원을 정기 후원해왔다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#기업·정책"
-          ],
-          "viral_score": 30.0,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-03T10:00:00+09:00",
-          "processed_at": "2026-11-04T02:35:32.053092+09:00",
+          "processed_at": "2026-11-04T07:54:19.846564+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9251,98 +9457,54 @@
           "duplicates": []
         }
       ],
-      "total": 5,
-      "avg_score": 30.9,
-      "ratio": {
-        "negative": 0,
-        "positive": 60,
-        "neutral": 40
-      },
-      "mentions": 11
-    },
-    "coupang": {
-      "issues": [
-        {
-          "uid": "1dd89f0dced12275706865e62bfc164a",
-          "brand": "쿠팡이츠",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261103163623654",
-          "title": "[똑똑한유통] 쿠쿠, 아성다이소, 시디즈, 청호나이스, 쿠팡이츠서비스",
-          "summary": "[똑똑한유통] 쿠쿠, 아성다이소, 시디즈, 청호나이스, 쿠팡이츠서비스 고객 중 선착순 50명에게는 가열식 가습기를 증정한다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 25.5,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-03T16:36:00+09:00",
-          "processed_at": "2026-11-04T02:32:13.558234+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "d5b9e5180cb485348067ce9f552fef75",
-          "brand": "쿠팡이츠",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261103162221808",
-          "title": "쿠팡이츠, 배달파트너에 3000만원 규모 방한용품 기부",
-          "summary": "쿠팡이츠, 배달파트너에 3000만원 규모 방한용품 기부 김명규(왼쪽) 쿠팡이츠서비스 대표와 김동만 한국플랫폼프리랜서노동공제회 이사장이 3일 서울 영등포구 한국노총회",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#기업·정책",
-            "#감동·긍정"
-          ],
-          "viral_score": 36.2,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-03T16:22:00+09:00",
-          "processed_at": "2026-11-04T02:32:23.052985+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 3,
-          "duplicates": [
-            {
-              "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 지원",
-              "url": "http://v.daum.net/v/20261103154431744",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "쿠팡이츠서비스, 배달파트너에 방한용품 2100여개 기부",
-              "url": "http://v.daum.net/v/20261103153532216",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "쿠팡이츠, 배달파트너 안전 위해 3000만원 상당 방한용품 기부",
-              "url": "http://v.daum.net/v/20261103145821836",
-              "channel": "다음뉴스"
-            }
-          ]
-        }
-      ],
-      "total": 2,
-      "avg_score": 30.9,
+      "total": 8,
+      "avg_score": 33.6,
       "ratio": {
         "negative": 0,
         "positive": 50,
         "neutral": 50
       },
-      "mentions": 6
+      "mentions": 22
+    },
+    "coupang": {
+      "issues": [
+        {
+          "uid": "f82b5c6bd167b7d4e70caf817afe237d",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92915",
+          "title": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행...새 창 열림",
+          "summary": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행 쿠팡이츠서비스(CES)가 추운 겨울철 라이더들의 안전한 이륜차 운행 환경 조성을 위해 나섰다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#라이더",
+            "#기업·정책"
+          ],
+          "viral_score": 29.7,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-11-03T14:51:58+09:00",
+          "processed_at": "2026-11-04T07:55:09.025543+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "쿠팡이츠"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        }
+      ],
+      "total": 1,
+      "avg_score": 29.7,
+      "ratio": {
+        "negative": 0,
+        "positive": 100,
+        "neutral": 0
+      },
+      "mentions": 5
     }
   }
 }
