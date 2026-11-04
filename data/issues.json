@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:55:58.170076+09:00",
+  "updated_at": "2026-11-04T20:54:16.751481+09:00",
   "hot": [
     {
       "uid": "d53ad01d7807e8861b46d8d89756bb02",
@@ -14,7 +14,7 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 62.4,
+      "viral_score": 51.4,
       "status": "Rising",
       "stakeholders": [
         "소비자",
@@ -22,11 +22,39 @@
         "라이더"
       ],
       "published_at": "2026-11-04T06:02:00+09:00",
-      "processed_at": "2026-11-04T12:55:33.366461+09:00",
+      "processed_at": "2026-11-04T20:53:48.004513+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "15cdb4a4566a5ae7603735215a4b6b7a",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104170236623",
+      "title": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대",
+      "summary": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대 이용자가 서비스 경계를 넘나들지 않아도 검색부터 추천·예약·결제까지 이어지도록 하는 것이 목표다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 48.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T17:02:00+09:00",
+      "processed_at": "2026-11-04T20:51:01.279202+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -44,14 +72,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 57.3,
-      "status": "Rising",
+      "viral_score": 46.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T12:52:10.568898+09:00",
+      "processed_at": "2026-11-04T20:52:13.989099+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -62,74 +90,84 @@
       "duplicates": []
     },
     {
-      "uid": "5e263bad8ae681e597b93e16a3040884",
+      "uid": "e63c4a166ce8ae986e42fbda7bde3c23",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93007",
-      "title": "3년 연속 완판 신화 잇는다…배민B마트, 롯데 빼빼로와 '열빼로' 한정판...새 창 열림",
-      "summary": "3년 연속 완판 신화 잇는다…배민B마트, 롯데 빼빼로와 '열빼로' 한정판 배달의민족을 운영하는 우아한형제들은 4일부터 배민B마트를 통해 롯데 빼빼로와 손잡고 기획한 한정판 협업 상품",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104180821666",
+      "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부",
+      "summary": "배달의민족, 라이더 안전·복지 위해 3000만원 기부 현장 목소리를 반영한 다양한 라이더 상생 프로그램을 운영하고 있다",
       "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
+        "#라이더",
+        "#기업·정책",
+        "#감동·긍정"
       ],
-      "viral_score": 55.1,
-      "status": "Rising",
+      "viral_score": 45.7,
+      "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "라이더"
       ],
-      "published_at": "2026-11-04T11:00:44+09:00",
-      "processed_at": "2026-11-04T12:49:15.399525+09:00",
+      "published_at": "2026-11-04T18:08:00+09:00",
+      "processed_at": "2026-11-04T20:50:52.104149+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 6,
       "duplicates": [
         {
-          "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업···한정판 상품 출시새 창 열림",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=265553",
+          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
+          "url": "https://www.sedaily.com/article/20110335?ref=naver",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민B마트, 롯데와 빼빼로데이 한정판 출시…최대 4000원 할인새 창 열림",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131957",
+          "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
+          "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민B마트서 한정판 '빼빼로 패키지' 판매",
-          "url": "http://v.daum.net/v/20261104093143521",
+          "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
+          "url": "http://v.daum.net/v/20261104092633254",
           "channel": "다음뉴스"
         },
         {
-          "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업…한정판 '열빼로' 출시",
-          "url": "http://v.daum.net/v/20261104092759325",
+          "title": "배민, 라이더 안전·복지 지원에 3000만원 기부",
+          "url": "http://v.daum.net/v/20261104095916829",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 라이더 복지 위해 플랫폼프리랜서노동공제회에 3000만원 기부",
+          "url": "http://v.daum.net/v/20261104090127158",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 라이더 안전·복지 위해 3000만원 기부",
+          "url": "http://v.daum.net/v/20261104085439885",
           "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "972adfafbf32f425654e7928aa14ccfb",
+      "uid": "bbae3d06c2b8a496d6552695a101654c",
       "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.kbmaeil.com/article/20261104500215",
-      "title": "배달 오토바이가 ‘생명지킴이’로…구미, 배달앱까지 자살예방망 확대새 창 열림",
-      "summary": "배달 오토바이가 ‘생명지킴이’로…구미, 배달앱까지 자살예방망 확대새 창 열림 경북 구미시가 배달기사를 활용한 자살예방사업을 공공배달앱으로 확대하면서 생활 현장과 온라인을 연결하는 정신건",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104180433536",
+      "title": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약",
+      "summary": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약 (사진=구미시 제공) 2026",
       "sentiment": "positive",
       "tags": [
+        "#소비자반응",
         "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
+        "#기업·정책"
       ],
-      "viral_score": 51.0,
-      "status": "Rising",
+      "viral_score": 45.6,
+      "status": "Stable",
       "stakeholders": [
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-11-04T10:58:00+09:00",
-      "processed_at": "2026-11-04T12:51:00.195152+09:00",
+      "published_at": "2026-11-04T18:04:00+09:00",
+      "processed_at": "2026-11-04T20:51:54.137609+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -138,6 +176,150 @@
       "duplicate_count": 0,
       "duplicates": []
     },
+    {
+      "uid": "c89c8253af757df57104038675f0c29b",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104103125770",
+      "title": "배민, '빼빼로 데이' 맞아 롯데와 협업 한정판 패키지 선봬",
+      "summary": "배민, '빼빼로 데이' 맞아 롯데와 협업 한정판 패키지 선봬 ⓒ우아한형제들 배민B마트가 오는 11일 ‘빼빼로 데이’를 앞두고 롯데 빼빼로와 한정판 협업 상품을 단독으로 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 40.0,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T10:31:00+09:00",
+      "processed_at": "2026-11-04T20:51:33.707117+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "ae2889050bb99fe12d83032cc0bd943d",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104091003533",
+      "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서",
+      "summary": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서 배민이 입점 업주의 매장 편의성을 높이기 위한 '배민주문접수PC'를 개편한다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 38.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-04T09:10:00+09:00",
+      "processed_at": "2026-11-04T20:53:00.527583+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "7847bf86d30bbf57509561547fdc439c",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104114013905",
+      "title": "[유통딜리버리] 신세계百ㆍ이마트ㆍ롯데마트ㆍSSG닷컴ㆍ롯데온ㆍGS25ㆍG마켓ㆍ이마트24ㆍ무신사ㆍ전자랜드ㆍ배민B마트ㆍ한진ㆍ11번가ㆍCUㆍCJ대한통운",
+      "summary": "[유통딜리버리] 신세계百ㆍ이마트ㆍ롯데마트ㆍSSG닷컴ㆍ롯데온ㆍGS25ㆍG마켓ㆍ이마트24ㆍ무신사ㆍ전자랜드ㆍ배민B마트ㆍ한진ㆍ11번가ㆍCUㆍCJ대한통운 제품을 반납하면 구매 금액에 따라 최대 30만원을 보상한다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 28.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T11:40:00+09:00",
+      "processed_at": "2026-11-04T20:51:13.050200+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "484ac62352d5262f30dc20f794917e3e",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104110006526",
+      "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE",
+      "summary": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE 며 “AI 기반 렌탈 의사결정 기술을 고도화해 누구나 손해 없이 렌탈을 시작할 수 있는 경험을 만들어 나가겠",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 25.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-04T11:00:00+09:00",
+      "processed_at": "2026-11-04T20:51:23.856480+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "d1ffa86ba631fe27963fdb082fe4ef55",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104101057648",
+      "title": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행",
+      "summary": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행 않지만, 약 3개월 정도의 물량을 생산했다\"며 \"조기 판매 이슈가 없으면 내년 1월까지 판매할 것으로 예상한",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 24.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T10:10:00+09:00",
+      "processed_at": "2026-11-04T20:51:43.557216+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  ],
+  "feed": [
     {
       "uid": "798e949993b32a5d58ed3d10a5e4eacc",
       "brand": "배달의민족",
@@ -163,37 +345,27 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 7,
+      "duplicate_count": 5,
       "duplicates": [
+        {
+          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부",
+          "url": "http://v.daum.net/v/20261104180821666",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
+          "url": "https://www.sedaily.com/article/20110335?ref=naver",
+          "channel": "네이버뉴스"
+        },
         {
           "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
           "url": "http://v.daum.net/v/20261104092633254",
           "channel": "다음뉴스"
         },
         {
-          "title": "배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달...관심도...새 창 열림",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=20261104104943618df3c2a17b7_23",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "우아한청년들, 배달의민족 라이더 안전보건 기부금 쾌척새 창 열림",
-          "url": "http://www.newsdream.kr/news/articleView.html?idxno=121433",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족, 라이더 안전·복지 지원에 3천만원 기부새 창 열림",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884006",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "배민, 라이더 안전·복지 지원에 3000만원 기부",
           "url": "http://v.daum.net/v/20261104095916829",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지 지원에 3000만원 기부...상생 활동 확대새 창 열림",
-          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107565",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민, 라이더 안전·복지 위해 3000만원 기부",
@@ -203,155 +375,126 @@
       ]
     },
     {
-      "uid": "c89c8253af757df57104038675f0c29b",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261104103125770",
-      "title": "배민, '빼빼로 데이' 맞아 롯데와 협업 한정판 패키지 선봬",
-      "summary": "배민, '빼빼로 데이' 맞아 롯데와 협업 한정판 패키지 선봬 ⓒ우아한형제들 배민B마트가 오는 11일 ‘빼빼로 데이’를 앞두고 롯데 빼빼로와 한정판 협업 상품을 단독으로 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 50.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-04T10:31:00+09:00",
-      "processed_at": "2026-11-04T12:50:09.657750+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "cf8ac1a49a3b43958e51b8d0b77c34be",
+      "uid": "66ea18ca86598b9aea208d6d376cabe4",
       "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261104095411565",
-      "title": "대구 토종 공공 배달앱 '먹깨비', 제주도 운영사로 재선정···대기업 배달앱 제쳐",
-      "summary": "대구 토종 공공 배달앱 '먹깨비', 제주도 운영사로 재선정···대기업 배달앱 제쳐 대구 업체가 개발한 공공 배달앱 먹깨비는 다른 민간 배달앱보다 훨씬 낮은 1",
+      "channel": "네이버뉴스",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
+      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
+      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
       "sentiment": "positive",
       "tags": [
+        "#가격·수수료",
         "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#점주·자영업"
       ],
-      "viral_score": 49.3,
-      "status": "Stable",
+      "viral_score": 59.5,
+      "status": "Rising",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-04T09:54:00+09:00",
-      "processed_at": "2026-11-04T12:55:41.489011+09:00",
+      "published_at": "2026-11-02T01:00:00+09:00",
+      "processed_at": "2026-11-02T02:31:32.469991+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ae2889050bb99fe12d83032cc0bd943d",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261104091003533",
-      "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서",
-      "summary": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서 배민이 입점 업주의 매장 편의성을 높이기 위한 '배민주문접수PC'를 개편한다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 48.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-11-04T09:10:00+09:00",
-      "processed_at": "2026-11-04T12:54:26.995936+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "b3fe29000e02fc1e2353a7552883ae25",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323349",
-      "title": "배민, 라이더 안전교육 무료 셔틀버스 운영수도권 18개 시로 확대새 창 열림",
-      "summary": "배민, 라이더 안전교육 무료 셔틀버스 운영수도권 18개 시로 확대새 창 열림 배달의민족의 물류 서비스를 전담하는 우아한청년들은 수도권 주요 거점에서 하남 배민라이더스쿨까지 교육생의 이동",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 47.6,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-04T11:20:48+09:00",
-      "processed_at": "2026-11-04T12:48:56.558890+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "3e293028c8a361762459364f895cb28a",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ekn.kr/web/view.php?key=20261104020595216",
-      "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS2...새 창 열림",
-      "summary": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS2 ◇ 배달의민족, 라이더 안전·복지 위해 3000만원 기부 배달의민족 물류서비스를 담당하는 우아한청년들이 배달",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 47.0,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-04T11:00:00+09:00",
-      "processed_at": "2026-11-04T12:50:51.257646+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
+      "duplicate_count": 4,
       "duplicates": [
         {
-          "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE",
-          "url": "http://v.daum.net/v/20261104110006526",
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
+          "url": "http://v.daum.net/v/20261101105923173",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약",
+          "url": "http://v.daum.net/v/20261104180433536",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
+          "url": "https://www.munhwa.com/article/11623154?ref=naver",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261101500126",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "15cdb4a4566a5ae7603735215a4b6b7a",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104170236623",
+      "title": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대",
+      "summary": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대 이용자가 서비스 경계를 넘나들지 않아도 검색부터 추천·예약·결제까지 이어지도록 하는 것이 목표다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 48.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-04T17:02:00+09:00",
+      "processed_at": "2026-11-04T20:51:01.279202+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 57.5,
+      "status": "Rising",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-02T09:54:17+09:00",
+      "processed_at": "2026-11-02T10:13:40.959851+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
+          "url": "http://v.daum.net/v/20261101112157695",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
+          "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+          "url": "http://v.daum.net/v/20261101184748938",
           "channel": "다음뉴스"
         }
       ]
-    }
-  ],
-  "feed": [
+    },
     {
       "uid": "9efc1647d7d75515538b1a63437d5504",
       "brand": "배달의민족",
@@ -397,114 +540,6 @@
       ]
     },
     {
-      "uid": "7b6f9644aacc41acf5d4e786f04f78d1",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20261103500088",
-      "title": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림",
-      "summary": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림 배달의민족 물류서비스를 전담하는 우아한청년들은 하남 배민라이더스쿨까지 교육생을 무료로 태워주는 ‘출동",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 49.8,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-04T07:47:00+09:00",
-      "processed_at": "2026-11-04T07:53:30.996420+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
-          "url": "http://v.daum.net/v/20261103105706639",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전교육 무료 셔틀버스 운영수도권 18개 시로 확대새 창 열림",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323349",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
-          "url": "http://v.daum.net/v/20261103120142518",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "798e949993b32a5d58ed3d10a5e4eacc",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=778866",
-      "title": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림",
-      "summary": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림 고용노동부·국토교통부·경찰청과의 협약을 바탕으로 전국 배민B마트에서 라이더에게 생수 115만병을 배포하고 고",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 50.4,
-      "status": "Rising",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-04T10:32:16+09:00",
-      "processed_at": "2026-11-04T12:49:42.695580+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 7,
-      "duplicates": [
-        {
-          "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
-          "url": "http://v.daum.net/v/20261104092633254",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달...관심도...새 창 열림",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=20261104104943618df3c2a17b7_23",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "우아한청년들, 배달의민족 라이더 안전보건 기부금 쾌척새 창 열림",
-          "url": "http://www.newsdream.kr/news/articleView.html?idxno=121433",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족, 라이더 안전·복지 지원에 3천만원 기부새 창 열림",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884006",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지 지원에 3000만원 기부",
-          "url": "http://v.daum.net/v/20261104095916829",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지 지원에 3000만원 기부...상생 활동 확대새 창 열림",
-          "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107565",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지 위해 3000만원 기부",
-          "url": "http://v.daum.net/v/20261104085439885",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "5e263bad8ae681e597b93e16a3040884",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -529,29 +564,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업···한정판 상품 출시새 창 열림",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=265553",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민B마트, 롯데와 빼빼로데이 한정판 출시…최대 4000원 할인새 창 열림",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131957",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민B마트서 한정판 '빼빼로 패키지' 판매",
-          "url": "http://v.daum.net/v/20261104093143521",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업…한정판 '열빼로' 출시",
-          "url": "http://v.daum.net/v/20261104092759325",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "3e293028c8a361762459364f895cb28a",
@@ -628,13 +642,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 50.3,
-      "status": "Rising",
+      "viral_score": 40.0,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T10:31:00+09:00",
-      "processed_at": "2026-11-04T12:50:09.657750+09:00",
+      "processed_at": "2026-11-04T20:51:33.707117+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -684,13 +698,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 32.1,
+      "viral_score": 24.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T10:10:00+09:00",
-      "processed_at": "2026-11-04T12:50:17.848920+09:00",
+      "processed_at": "2026-11-04T20:51:43.557216+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -753,7 +767,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 7,
+      "duplicate_count": 4,
       "duplicates": [
         {
           "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에새 창 열림",
@@ -761,34 +775,19 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서",
-          "url": "http://v.daum.net/v/20261104091003533",
-          "channel": "다음뉴스"
-        },
-        {
           "title": "배민, 업주 편의성 높인다…주문접수PC서 정산·리뷰·영업 관리",
           "url": "http://v.daum.net/v/20261029095241820",
           "channel": "다음뉴스"
         },
         {
-          "title": "[유통갤러리] 배민, ‘배민주문접수PC’ 개편으로 파트너 편의성 높인다...새 창 열림",
-          "url": "https://theviewers.co.kr/View.aspx?No=4288101",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편새 창 열림",
-          "url": "https://www.viva100.com/article/20261029500273",
-          "channel": "네이버뉴스"
+          "title": "배민, 주문접수PC 개편…매장 관리부터 정산까지 한 화면에서",
+          "url": "http://v.daum.net/v/20261104091003533",
+          "channel": "다음뉴스"
         },
         {
           "title": "배민, 파트너 편의성 높인 ‘배민주문접수PC’ 개편",
           "url": "http://v.daum.net/v/20261029092745561",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "주문만 받던 PC '매장관리 허브'로… 배민, 점주 편의성 높인다새 창 열림",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=424974",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -805,13 +804,13 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 44.0,
+      "viral_score": 34.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-04T09:01:00+09:00",
-      "processed_at": "2026-11-04T12:54:35.127182+09:00",
+      "processed_at": "2026-11-04T20:53:10.297061+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -819,6 +818,45 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "7b6f9644aacc41acf5d4e786f04f78d1",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.news2day.co.kr/article/20261103500088",
+      "title": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림",
+      "summary": "우아한청년들, 배민라이더스쿨 셔틀 확대…수도권 18개 시로 넓힌다새 창 열림 배달의민족 물류서비스를 전담하는 우아한청년들은 하남 배민라이더스쿨까지 교육생을 무료로 태워주는 ‘출동",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#마케팅·광고"
+      ],
+      "viral_score": 49.8,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-04T07:47:00+09:00",
+      "processed_at": "2026-11-04T07:53:30.996420+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "우아한청년들, 배민라이더스쿨 수도권 셔틀버스 확대 운영",
+          "url": "http://v.daum.net/v/20261103105706639",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, 라이더 안전교육 무료 셔틀버스 운영… 수도권 18개 시로 확대",
+          "url": "http://v.daum.net/v/20261103120142518",
+          "channel": "다음뉴스"
+        }
+      ]
     },
     {
       "uid": "fbea8b1da6cf75d46a06d452444acbea",
@@ -891,14 +929,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 57.3,
-      "status": "Rising",
+      "viral_score": 46.2,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T12:52:10.568898+09:00",
+      "processed_at": "2026-11-04T20:52:13.989099+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -921,14 +959,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 30.8,
+      "viral_score": 24.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T12:55:25.798534+09:00",
+      "processed_at": "2026-11-04T20:53:38.917626+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -950,7 +988,7 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 62.4,
+      "viral_score": 51.4,
       "status": "Rising",
       "stakeholders": [
         "소비자",
@@ -958,7 +996,7 @@
         "라이더"
       ],
       "published_at": "2026-11-04T06:02:00+09:00",
-      "processed_at": "2026-11-04T12:55:33.366461+09:00",
+      "processed_at": "2026-11-04T20:53:48.004513+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1089,16 +1127,11 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
           "url": "http://v.daum.net/v/20261024101230252",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "라이더들 \"배달앱 수수료 15% 상한제, 단가 삭감으로 이어질 것\" 우려",
-          "url": "http://v.daum.net/v/20261025124237084",
           "channel": "다음뉴스"
         }
       ]
@@ -1156,14 +1189,8 @@
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행...새 창 열림",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92915",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "644367e9c36ee9ab90767f93f778fe7d",
@@ -1258,26 +1285,26 @@
       ]
     },
     {
-      "uid": "d329077924a041df3819a465ef095fbc",
+      "uid": "aea28fca22aa2dbb3b006a2e2eee2cfb",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
-      "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
-      "summary": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림 배달의민족은 지난달 1일 월 3990원의 '배민클럽 에디션 2'를 출시했다",
+      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730440",
+      "title": "[배달앱, 어디까지②] 2만원 주문에 6116원 부담, '수수료의 무게'새 창 열림",
+      "summary": "[배달앱, 어디까지②] 2만원 주문에 6116원 부담, '수수료의 무게'새 창 열림 거래비용 구성은 중개수수료가 42",
       "sentiment": "neutral",
       "tags": [
         "#가격·수수료",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 21.1,
+      "viral_score": 22.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-02T06:30:00+09:00",
-      "processed_at": "2026-11-04T12:51:44.036675+09:00",
+      "published_at": "2026-11-03T06:20:00+09:00",
+      "processed_at": "2026-11-04T07:50:58.082740+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1286,8 +1313,8 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "[배달앱, 어디까지②] 2만원 주문에 6116원 부담, '수수료의 무게'새 창 열림",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730440",
+          "title": "[배달앱, 어디까지①] 1인분부터 장보기… 끝나지 않는 '주문 경쟁'새 창 열림",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=730351",
           "channel": "네이버뉴스"
         }
       ]
@@ -1305,14 +1332,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.7,
+      "viral_score": 17.7,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-04T12:55:17.683239+09:00",
+      "processed_at": "2026-11-04T20:53:29.201019+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1322,41 +1349,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "4785d749a5ed53168a20ea6b0405ce92",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mediapen.com/news/view/1130962",
-      "title": "립스틱 이어 굿즈까지...배민, 비식품 퀵커머스 '승부수'새 창 열림",
-      "summary": "립스틱 이어 굿즈까지 배민, 비식품 퀵커머스 '승부수'새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 31.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-19T16:44:18+09:00",
-      "processed_at": "2026-10-20T01:51:56.494517+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수새 창 열림",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021316263430177",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "d1049823e2d37af23fbc6db53a34fdf3",
@@ -1512,89 +1504,6 @@
       ]
     },
     {
-      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
-      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
-      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 57.5,
-      "status": "Rising",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-02T09:54:17+09:00",
-      "processed_at": "2026-11-02T10:13:40.959851+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-          "url": "http://v.daum.net/v/20261101112157695",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-          "url": "http://v.daum.net/v/20261101184748938",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "66ea18ca86598b9aea208d6d376cabe4",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
-      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
-      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-02T01:00:00+09:00",
-      "processed_at": "2026-11-02T02:31:32.469991+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
-          "url": "http://v.daum.net/v/20261101105923173",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
-          "url": "https://www.munhwa.com/article/11623154?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
-          "url": "https://www.kmib.co.kr/article/20261101500126",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "270eb96cdc7a38267b0521e497b647ff",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -1625,42 +1534,6 @@
           "title": "[기자수첩] 배달앱 수수료 규제의 역설",
           "url": "http://v.daum.net/v/20261101192357408",
           "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "a8b7d9728a9777b56bd43b60c00da489",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
-      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
-      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 84.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-09-16T17:22:18+09:00",
-      "processed_at": "2026-09-16T18:05:28.339759+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
-          "url": "https://www.fnnews.com/news/202611011922127818",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -1760,26 +1633,20 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.9,
+      "viral_score": 10.6,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-04T12:55:58.164690+09:00",
+      "processed_at": "2026-11-04T20:54:16.747470+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "일본서도 '배달비 0엔'…우버이츠 쫓는 쿠팡 '로켓나우' 써보니 [MTN 픽]새 창 열림",
-          "url": "https://news.mtn.co.kr/article/2026103123514557966",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "85862fc883709a6f90566fd142d7105a",
@@ -1987,14 +1854,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 점주용 운영도구 잇달아 개편…정산·매장관리 한 화면에새 창 열림",
-          "url": "https://sateconomy.co.kr/news/view/1065579346532324",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "64e43b48b37beba17473bc28e0a6c0a9",
@@ -2252,7 +2113,7 @@
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-11-04T12:52:58.469963+09:00",
+      "processed_at": "2026-11-04T20:52:32.051223+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2400,14 +2261,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[기자의 눈] 배민과 다이소의 영토 확장... 골목시장 한숨 외면해선 안 돼",
-          "url": "http://v.daum.net/v/20261028183012475",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "572d3bc6d784c038e9fb0fa139648d46",
@@ -2525,40 +2380,6 @@
       "duplicates": []
     },
     {
-      "uid": "b70d89e690349efa93fcf188d34f005d",
-      "brand": "쿠팡이츠",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028154824508",
-      "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
-      "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 36.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-28T15:48:00+09:00",
-      "processed_at": "2026-10-29T10:31:30.408218+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "공정위, 쿠팡 '배달앱 끼워팔기' 이틀간 심의…멤버십 결합 위법성 쟁점",
-          "url": "http://v.daum.net/v/20261028170314649",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
       "uid": "5a122f661fa2fefa67eca1b21ccfc770",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -2613,19 +2434,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민, 주문 전부터 AI가 움직인다…'심리스 시티' 비전 공개",
-          "url": "http://v.daum.net/v/20261028150341888",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "주문 전에 AI가 움직인다…배민, '심리스 시티' 청사진 제시",
-          "url": "http://v.daum.net/v/20261028140244206",
-          "channel": "다음뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "fd8696021be90084e923f8520efe9cc7",
@@ -2765,6 +2575,34 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "b70d89e690349efa93fcf188d34f005d",
+      "brand": "쿠팡이츠",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261028154824508",
+      "title": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박",
+      "summary": "공정위, 쿠팡 '끼워팔기' 심의…배달앱 사건 결론 임박 영향력을 배달앱 시장으로 전이해 경쟁을 제한하고 소비자의 선택권을 제약했다고 보고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 36.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-28T15:48:00+09:00",
+      "processed_at": "2026-10-29T10:31:30.408218+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -5522,6 +5360,35 @@
       ],
       "published_at": "2026-10-19T17:25:00+09:00",
       "processed_at": "2026-10-20T06:57:03.848140+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "4785d749a5ed53168a20ea6b0405ce92",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mediapen.com/news/view/1130962",
+      "title": "립스틱 이어 굿즈까지...배민, 비식품 퀵커머스 '승부수'새 창 열림",
+      "summary": "립스틱 이어 굿즈까지 배민, 비식품 퀵커머스 '승부수'새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-19T16:44:18+09:00",
+      "processed_at": "2026-10-20T01:51:56.494517+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9179,6 +9046,93 @@
     "baemin": {
       "issues": [
         {
+          "uid": "e63c4a166ce8ae986e42fbda7bde3c23",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261104180821666",
+          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부",
+          "summary": "배달의민족, 라이더 안전·복지 위해 3000만원 기부 현장 목소리를 반영한 다양한 라이더 상생 프로그램을 운영하고 있다",
+          "sentiment": "positive",
+          "tags": [
+            "#라이더",
+            "#기업·정책",
+            "#감동·긍정"
+          ],
+          "viral_score": 45.7,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-11-04T18:08:00+09:00",
+          "processed_at": "2026-11-04T20:50:52.104149+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 6,
+          "duplicates": [
+            {
+              "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
+              "url": "https://www.sedaily.com/article/20110335?ref=naver",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
+              "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
+              "url": "http://v.daum.net/v/20261104092633254",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 라이더 안전·복지 지원에 3000만원 기부",
+              "url": "http://v.daum.net/v/20261104095916829",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 라이더 복지 위해 플랫폼프리랜서노동공제회에 3000만원 기부",
+              "url": "http://v.daum.net/v/20261104090127158",
+              "channel": "다음뉴스"
+            },
+            {
+              "title": "배민, 라이더 안전·복지 위해 3000만원 기부",
+              "url": "http://v.daum.net/v/20261104085439885",
+              "channel": "다음뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "15cdb4a4566a5ae7603735215a4b6b7a",
+          "brand": "배달의민족",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261104170236623",
+          "title": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대",
+          "summary": "네이버, 통합 에이전트 구축 앞당긴다…카카오·배민도 자연어 AI 검색 확대 이용자가 서비스 경계를 넘나들지 않아도 검색부터 추천·예약·결제까지 이어지도록 하는 것이 목표다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 48.1,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-04T17:02:00+09:00",
+          "processed_at": "2026-11-04T20:51:01.279202+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
           "uid": "7847bf86d30bbf57509561547fdc439c",
           "brand": "배달의민족",
           "channel": "다음뉴스",
@@ -9191,13 +9145,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 36.5,
+          "viral_score": 28.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T11:40:00+09:00",
-          "processed_at": "2026-11-04T12:49:52.495150+09:00",
+          "processed_at": "2026-11-04T20:51:13.050200+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9207,174 +9161,32 @@
           "duplicates": []
         },
         {
-          "uid": "b3fe29000e02fc1e2353a7552883ae25",
+          "uid": "484ac62352d5262f30dc20f794917e3e",
           "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323349",
-          "title": "배민, 라이더 안전교육 무료 셔틀버스 운영수도권 18개 시로 확대새 창 열림",
-          "summary": "배민, 라이더 안전교육 무료 셔틀버스 운영수도권 18개 시로 확대새 창 열림 배달의민족의 물류 서비스를 전담하는 우아한청년들은 수도권 주요 거점에서 하남 배민라이더스쿨까지 교육생의 이동",
-          "sentiment": "positive",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261104110006526",
+          "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE",
+          "summary": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE 며 “AI 기반 렌탈 의사결정 기술을 고도화해 누구나 손해 없이 렌탈을 시작할 수 있는 경험을 만들어 나가겠",
+          "sentiment": "neutral",
           "tags": [
-            "#서비스·품질",
             "#라이더",
+            "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 47.6,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-04T11:20:48+09:00",
-          "processed_at": "2026-11-04T12:48:56.558890+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "798e949993b32a5d58ed3d10a5e4eacc",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778866",
-          "title": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림",
-          "summary": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림 고용노동부·국토교통부·경찰청과의 협약을 바탕으로 전국 배민B마트에서 라이더에게 생수 115만병을 배포하고 고",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#기업·정책",
-            "#감동·긍정"
-          ],
-          "viral_score": 50.4,
-          "status": "Rising",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-04T10:32:16+09:00",
-          "processed_at": "2026-11-04T12:49:42.695580+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 6,
-          "duplicates": [
-            {
-              "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
-              "url": "http://v.daum.net/v/20261104092633254",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달...관심도...새 창 열림",
-              "url": "https://www.thebigdata.co.kr/view.php?ud=20261104104943618df3c2a17b7_23",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "우아한청년들, 배달의민족 라이더 안전보건 기부금 쾌척새 창 열림",
-              "url": "http://www.newsdream.kr/news/articleView.html?idxno=121433",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배달의민족, 라이더 안전·복지 지원에 3천만원 기부새 창 열림",
-              "url": "https://www.gokorea.kr/news/articleView.html?idxno=884006",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 라이더 안전·복지 지원에 3000만원 기부",
-              "url": "http://v.daum.net/v/20261104095916829",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 라이더 안전·복지 지원에 3000만원 기부...상생 활동 확대새 창 열림",
-              "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107565",
-              "channel": "네이버뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "5e263bad8ae681e597b93e16a3040884",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93007",
-          "title": "3년 연속 완판 신화 잇는다…배민B마트, 롯데 빼빼로와 '열빼로' 한정판...새 창 열림",
-          "summary": "3년 연속 완판 신화 잇는다…배민B마트, 롯데 빼빼로와 '열빼로' 한정판 배달의민족을 운영하는 우아한형제들은 4일부터 배민B마트를 통해 롯데 빼빼로와 손잡고 기획한 한정판 협업 상품",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 55.1,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-04T11:00:44+09:00",
-          "processed_at": "2026-11-04T12:49:15.399525+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 4,
-          "duplicates": [
-            {
-              "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업···한정판 상품 출시새 창 열림",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=265553",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민B마트, 롯데와 빼빼로데이 한정판 출시…최대 4000원 할인새 창 열림",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131957",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민B마트서 한정판 '빼빼로 패키지' 판매",
-              "url": "http://v.daum.net/v/20261104093143521",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민B마트, 롯데 빼빼로와 3년 연속 협업…한정판 '열빼로' 출시",
-              "url": "http://v.daum.net/v/20261104092759325",
-              "channel": "다음뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "3e293028c8a361762459364f895cb28a",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.ekn.kr/web/view.php?key=20261104020595216",
-          "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS2...새 창 열림",
-          "summary": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS2 ◇ 배달의민족, 라이더 안전·복지 위해 3000만원 기부 배달의민족 물류서비스를 담당하는 우아한청년들이 배달",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 47.0,
+          "viral_score": 25.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-04T11:00:00+09:00",
-          "processed_at": "2026-11-04T12:50:51.257646+09:00",
+          "processed_at": "2026-11-04T20:51:23.856480+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "[똑똑한소비] 신세계백화점, 홈플러스, G마켓, 렌트리, 배달의민족, GS25, CU, 이마트24, 가민, CJ ONE",
-              "url": "http://v.daum.net/v/20261104110006526",
-              "channel": "다음뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
           "uid": "c89c8253af757df57104038675f0c29b",
@@ -9389,41 +9201,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 50.3,
-          "status": "Rising",
+          "viral_score": 40.0,
+          "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T10:31:00+09:00",
-          "processed_at": "2026-11-04T12:50:09.657750+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "ea225b60b02defb4639e0638bd50b9ec",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119237",
-          "title": "[잘먹잘살+]에스트라·더페이스샵·교원웰스·배민B마트·에듀윌·우아한...새 창 열림",
-          "summary": "[잘먹잘살+]에스트라·더페이스샵·교원웰스·배민B마트·에듀윌·우아한 사진=우아한형제들 ◇배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달 배달의민족이 상생 파트너",
-          "sentiment": "neutral",
-          "tags": [
-            "#라이더",
-            "#기업·정책",
-            "#감동·긍정"
-          ],
-          "viral_score": 32.2,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-04T10:23:42+09:00",
-          "processed_at": "2026-11-04T12:53:45.595674+09:00",
+          "processed_at": "2026-11-04T20:51:33.707117+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9445,13 +9229,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 32.1,
+          "viral_score": 24.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T10:10:00+09:00",
-          "processed_at": "2026-11-04T12:50:17.848920+09:00",
+          "processed_at": "2026-11-04T20:51:43.557216+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9473,7 +9257,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 48.2,
+          "viral_score": 38.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9481,7 +9265,7 @@
             "라이더"
           ],
           "published_at": "2026-11-04T09:10:00+09:00",
-          "processed_at": "2026-11-04T12:54:26.995936+09:00",
+          "processed_at": "2026-11-04T20:53:00.527583+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9491,54 +9275,25 @@
           "duplicates": []
         }
       ],
-      "total": 9,
-      "avg_score": 44.4,
+      "total": 7,
+      "avg_score": 36.0,
       "ratio": {
         "negative": 0,
-        "positive": 67,
-        "neutral": 33
+        "positive": 57,
+        "neutral": 43
       },
-      "mentions": 26
+      "mentions": 14
     },
     "coupang": {
-      "issues": [
-        {
-          "uid": "f82b5c6bd167b7d4e70caf817afe237d",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92915",
-          "title": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행...새 창 열림",
-          "summary": "\"방한용품 2100개 전달\"…쿠팡이츠서비스, 배달파트너 겨울철 안전 운행 쿠팡이츠서비스(CES)가 추운 겨울철 라이더들의 안전한 이륜차 운행 환경 조성을 위해 나섰다",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 26.0,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-03T14:51:58+09:00",
-          "processed_at": "2026-11-04T12:55:00.740042+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        }
-      ],
-      "total": 1,
-      "avg_score": 26.0,
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
       "ratio": {
         "negative": 0,
-        "positive": 100,
+        "positive": 0,
         "neutral": 0
       },
-      "mentions": 4
+      "mentions": 1
     }
   }
 }
