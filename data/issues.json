@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T20:54:16.751481+09:00",
+  "updated_at": "2026-11-05T04:08:27.712422+09:00",
   "hot": [
     {
       "uid": "d53ad01d7807e8861b46d8d89756bb02",
@@ -14,15 +14,15 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 51.4,
-      "status": "Rising",
+      "viral_score": 44.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-04T06:02:00+09:00",
-      "processed_at": "2026-11-04T20:53:48.004513+09:00",
+      "processed_at": "2026-11-05T04:08:18.560753+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -44,13 +44,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.1,
+      "viral_score": 39.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T17:02:00+09:00",
-      "processed_at": "2026-11-04T20:51:01.279202+09:00",
+      "processed_at": "2026-11-05T04:05:53.177139+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -72,14 +72,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 46.2,
+      "viral_score": 38.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T20:52:13.989099+09:00",
+      "processed_at": "2026-11-05T04:06:45.056109+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -102,30 +102,20 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 45.7,
+      "viral_score": 36.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-04T18:08:00+09:00",
-      "processed_at": "2026-11-04T20:50:52.104149+09:00",
+      "processed_at": "2026-11-05T04:05:44.075308+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 4,
       "duplicates": [
-        {
-          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
-          "url": "https://www.sedaily.com/article/20110335?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
           "url": "http://v.daum.net/v/20261104092633254",
@@ -149,34 +139,6 @@
       ]
     },
     {
-      "uid": "bbae3d06c2b8a496d6552695a101654c",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261104180433536",
-      "title": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약",
-      "summary": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약 (사진=구미시 제공) 2026",
-      "sentiment": "positive",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 45.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-04T18:04:00+09:00",
-      "processed_at": "2026-11-04T20:51:54.137609+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "c89c8253af757df57104038675f0c29b",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -189,13 +151,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 40.0,
+      "viral_score": 33.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T10:31:00+09:00",
-      "processed_at": "2026-11-04T20:51:33.707117+09:00",
+      "processed_at": "2026-11-05T04:06:25.398033+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -217,7 +179,7 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 38.5,
+      "viral_score": 32.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -225,7 +187,7 @@
         "라이더"
       ],
       "published_at": "2026-11-04T09:10:00+09:00",
-      "processed_at": "2026-11-04T20:53:00.527583+09:00",
+      "processed_at": "2026-11-05T04:07:31.238076+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -247,17 +209,46 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 28.9,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T11:40:00+09:00",
-      "processed_at": "2026-11-04T20:51:13.050200+09:00",
+      "processed_at": "2026-11-05T04:06:04.880788+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "122202782c7087f29b2bb4685f50bbfb",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261104060319074",
+      "title": "\"배달앱 상한제, 되레 영세점주 잡을라\"",
+      "summary": "\"배달앱 상한제, 되레 영세점주 잡을라\" [이유석 동국대 경영학과 교수] 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 묶으려는 수",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 21.0,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-04T06:03:00+09:00",
+      "processed_at": "2026-11-05T04:08:09.469629+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -275,13 +266,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 25.6,
+      "viral_score": 20.7,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-04T11:00:00+09:00",
-      "processed_at": "2026-11-04T20:51:23.856480+09:00",
+      "processed_at": "2026-11-05T04:06:15.609936+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -291,29 +282,32 @@
       "duplicates": []
     },
     {
-      "uid": "d1ffa86ba631fe27963fdb082fe4ef55",
-      "brand": "배달의민족",
+      "uid": "dbd938225cfb807aab17b0eff8c1479e",
+      "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261104101057648",
-      "title": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행",
-      "summary": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행 않지만, 약 3개월 정도의 물량을 생산했다\"며 \"조기 판매 이슈가 없으면 내년 1월까지 판매할 것으로 예상한",
-      "sentiment": "neutral",
+      "url": "http://v.daum.net/v/20261103052007542",
+      "title": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수",
+      "summary": "배민ㆍ쿠팡이츠, 배달앱 성장세 엎치락 뒤치락… 퀵커머스로 승부수 연간 거래액은 2021년부터 2026년까지 연평균 46% 성장했다",
+      "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
+        "#라이더",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.9,
+      "viral_score": 15.7,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "점주",
+        "라이더"
       ],
-      "published_at": "2026-11-04T10:10:00+09:00",
-      "processed_at": "2026-11-04T20:51:43.557216+09:00",
+      "published_at": "2026-11-03T05:20:00+09:00",
+      "processed_at": "2026-11-05T04:07:59.797228+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달의민족",
+        "쿠팡이츠",
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -345,17 +339,12 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 5,
+      "duplicate_count": 4,
       "duplicates": [
         {
           "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부",
           "url": "http://v.daum.net/v/20261104180821666",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
-          "url": "https://www.sedaily.com/article/20110335?ref=naver",
-          "channel": "네이버뉴스"
         },
         {
           "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
@@ -375,55 +364,6 @@
       ]
     },
     {
-      "uid": "66ea18ca86598b9aea208d6d376cabe4",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
-      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
-      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-02T01:00:00+09:00",
-      "processed_at": "2026-11-02T02:31:32.469991+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
-          "url": "http://v.daum.net/v/20261101105923173",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "구미시, 공공배달앱 먹깨비 매출 407억원 돌파…운영사와 협약",
-          "url": "http://v.daum.net/v/20261104180433536",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
-          "url": "https://www.munhwa.com/article/11623154?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
-          "url": "https://www.kmib.co.kr/article/20261101500126",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "15cdb4a4566a5ae7603735215a4b6b7a",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -436,13 +376,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.1,
+      "viral_score": 39.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T17:02:00+09:00",
-      "processed_at": "2026-11-04T20:51:01.279202+09:00",
+      "processed_at": "2026-11-05T04:05:53.177139+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -450,50 +390,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
-      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
-      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 57.5,
-      "status": "Rising",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-02T09:54:17+09:00",
-      "processed_at": "2026-11-02T10:13:40.959851+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-          "url": "http://v.daum.net/v/20261101112157695",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
-          "url": "http://v.daum.net/v/20261101184748938",
-          "channel": "다음뉴스"
-        }
-      ]
     },
     {
       "uid": "9efc1647d7d75515538b1a63437d5504",
@@ -642,13 +538,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 40.0,
+      "viral_score": 33.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-04T10:31:00+09:00",
-      "processed_at": "2026-11-04T20:51:33.707117+09:00",
+      "processed_at": "2026-11-05T04:06:25.398033+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -804,13 +700,13 @@
         "#기업·정책",
         "#감동·긍정"
       ],
-      "viral_score": 34.4,
+      "viral_score": 28.0,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-04T09:01:00+09:00",
-      "processed_at": "2026-11-04T20:53:10.297061+09:00",
+      "processed_at": "2026-11-05T04:07:40.943587+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -929,14 +825,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 46.2,
+      "viral_score": 38.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T20:52:13.989099+09:00",
+      "processed_at": "2026-11-05T04:06:45.056109+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -959,14 +855,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 24.9,
+      "viral_score": 21.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-04T20:53:38.917626+09:00",
+      "processed_at": "2026-11-05T04:08:09.469629+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -988,15 +884,15 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 51.4,
-      "status": "Rising",
+      "viral_score": 44.1,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-04T06:02:00+09:00",
-      "processed_at": "2026-11-04T20:53:48.004513+09:00",
+      "processed_at": "2026-11-05T04:08:18.560753+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1332,14 +1228,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 17.7,
+      "viral_score": 15.7,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-04T20:53:29.201019+09:00",
+      "processed_at": "2026-11-05T04:07:59.797228+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1504,6 +1400,89 @@
       ]
     },
     {
+      "uid": "c789a486f06ce9fdb1c7fede410a4e08",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66867",
+      "title": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권...새 창 열림",
+      "summary": "\"라이더 안전 공간, 건축적 가치도 인정\"…배민라이더스쿨, 국내 최고 권 배달의민족(배민)이 운영하는 국내 최초 이륜차 전문교육기관 '배민라이더스쿨'이 국내외 주요 건축상을 잇달아 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 57.5,
+      "status": "Rising",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-02T09:54:17+09:00",
+      "processed_at": "2026-11-02T10:13:40.959851+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
+          "url": "http://v.daum.net/v/20261101112157695",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
+          "url": "http://v.daum.net/v/20261101184748938",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "66ea18ca86598b9aea208d6d376cabe4",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
+      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
+      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 59.5,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-02T01:00:00+09:00",
+      "processed_at": "2026-11-02T02:31:32.469991+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
+          "url": "http://v.daum.net/v/20261101105923173",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
+          "url": "https://www.munhwa.com/article/11623154?ref=naver",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261101500126",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
       "uid": "270eb96cdc7a38267b0521e497b647ff",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -1633,13 +1612,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.6,
+      "viral_score": 10.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-04T20:54:16.747470+09:00",
+      "processed_at": "2026-11-05T04:08:27.707673+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2113,7 +2092,7 @@
         "점주"
       ],
       "published_at": "2026-10-29T09:11:00+09:00",
-      "processed_at": "2026-11-04T20:52:32.051223+09:00",
+      "processed_at": "2026-11-05T04:07:02.984672+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9058,30 +9037,20 @@
             "#기업·정책",
             "#감동·긍정"
           ],
-          "viral_score": 45.7,
+          "viral_score": 36.4,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-04T18:08:00+09:00",
-          "processed_at": "2026-11-04T20:50:52.104149+09:00",
+          "processed_at": "2026-11-05T04:05:44.075308+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 6,
+          "duplicate_count": 4,
           "duplicates": [
-            {
-              "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부새 창 열림",
-              "url": "https://www.sedaily.com/article/20110335?ref=naver",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 라이더 안전·복지에 3000만원 기부새 창 열림",
-              "url": "https://www.inthenews.co.kr/news/article.html?no=94042",
-              "channel": "네이버뉴스"
-            },
             {
               "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
               "url": "http://v.daum.net/v/20261104092633254",
@@ -9117,13 +9086,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 48.1,
+          "viral_score": 39.2,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T17:02:00+09:00",
-          "processed_at": "2026-11-04T20:51:01.279202+09:00",
+          "processed_at": "2026-11-05T04:05:53.177139+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9145,13 +9114,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 28.9,
+          "viral_score": 23.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T11:40:00+09:00",
-          "processed_at": "2026-11-04T20:51:13.050200+09:00",
+          "processed_at": "2026-11-05T04:06:04.880788+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9173,13 +9142,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 25.6,
+          "viral_score": 20.7,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-04T11:00:00+09:00",
-          "processed_at": "2026-11-04T20:51:23.856480+09:00",
+          "processed_at": "2026-11-05T04:06:15.609936+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9201,41 +9170,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 40.0,
+          "viral_score": 33.2,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-04T10:31:00+09:00",
-          "processed_at": "2026-11-04T20:51:33.707117+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "d1ffa86ba631fe27963fdb082fe4ef55",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261104101057648",
-          "title": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행",
-          "summary": "롯데웰푸드, '가나' 채널별 한정판 4종 출시…배민 협업도 진행 않지만, 약 3개월 정도의 물량을 생산했다\"며 \"조기 판매 이슈가 없으면 내년 1월까지 판매할 것으로 예상한",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 24.9,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-04T10:10:00+09:00",
-          "processed_at": "2026-11-04T20:51:43.557216+09:00",
+          "processed_at": "2026-11-05T04:06:25.398033+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9257,7 +9198,7 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 38.5,
+          "viral_score": 32.1,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9265,7 +9206,7 @@
             "라이더"
           ],
           "published_at": "2026-11-04T09:10:00+09:00",
-          "processed_at": "2026-11-04T20:53:00.527583+09:00",
+          "processed_at": "2026-11-05T04:07:31.238076+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9275,14 +9216,14 @@
           "duplicates": []
         }
       ],
-      "total": 7,
-      "avg_score": 36.0,
+      "total": 6,
+      "avg_score": 30.9,
       "ratio": {
         "negative": 0,
-        "positive": 57,
-        "neutral": 43
+        "positive": 67,
+        "neutral": 33
       },
-      "mentions": 14
+      "mentions": 11
     },
     "coupang": {
       "issues": [],
