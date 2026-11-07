@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:01:00.347459+09:00",
+  "updated_at": "2026-11-08T02:21:46.659335+09:00",
   "hot": [
     {
       "uid": "8dc9bd883ec021bfccacea164a680c92",
@@ -14,7 +14,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 41.4,
+      "viral_score": 37.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -22,13 +22,13 @@
         "라이더"
       ],
       "published_at": "2026-11-06T18:33:29+09:00",
-      "processed_at": "2026-11-07T19:59:06.807544+09:00",
+      "processed_at": "2026-11-08T02:19:35.069256+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 10,
+      "duplicate_count": 11,
       "duplicates": [
         {
           "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”",
@@ -38,6 +38,11 @@
         {
           "title": "배달앱 수수료 15% 상한제, 소상공인 부담 못 덜고 라이더·소비자 피해...새 창 열림",
           "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323398",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "‘배달앱 수수료 상한제’ 신중론…전문가들 “획일적 규제, 플랫폼 생...새 창 열림",
+          "url": "https://www.ceoscoredaily.com/page/view/2026110614235663195",
           "channel": "네이버뉴스"
         },
         {
@@ -83,34 +88,6 @@
       ]
     },
     {
-      "uid": "2a83cd29d5f340cda3f79a5824931f52",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
-      "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
-      "summary": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림 6월 경산 카페축제에서는 지역 카페와 신비복숭아를 함께 알리는 배민B마트 홍보 부스를 운영하고 할인 쿠폰을 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 40.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-07T10:00:54+09:00",
-      "processed_at": "2026-11-07T19:53:16.084145+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "275dec66f3f3543f5b37e9030d9782c7",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -123,7 +100,7 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 39.5,
+      "viral_score": 35.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -131,7 +108,7 @@
         "라이더"
       ],
       "published_at": "2026-11-06T15:49:00+09:00",
-      "processed_at": "2026-11-07T20:00:13.096889+09:00",
+      "processed_at": "2026-11-08T02:20:56.696696+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -153,7 +130,7 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 38.4,
+      "viral_score": 34.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -161,11 +138,111 @@
         "라이더"
       ],
       "published_at": "2026-11-06T14:02:00+09:00",
-      "processed_at": "2026-11-07T19:57:03.771850+09:00",
+      "processed_at": "2026-11-08T02:17:23.142960+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "2a83cd29d5f340cda3f79a5824931f52",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
+      "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
+      "summary": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림 6월 경산 카페축제에서는 지역 카페와 신비복숭아를 함께 알리는 배민B마트 홍보 부스를 운영하고 할인 쿠폰을 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 34.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-07T10:00:54+09:00",
+      "processed_at": "2026-11-08T02:13:08.579254+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "67a3405116f800dc430e02c79cc8d4ac",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://view.asiae.co.kr/article/2026110609311567670",
+      "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원새 창 열림",
+      "summary": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원새 창 열림 배달의민족이 기부로 따뜻한 나눔을 실천하는 외식업 점주들을 응원하기 위해 할인 행사를 진행한다",
+      "sentiment": "positive",
+      "tags": [
+        "#점주·자영업",
+        "#마케팅·광고",
+        "#감동·긍정"
+      ],
+      "viral_score": 33.3,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-06T09:31:15+09:00",
+      "processed_at": "2026-11-08T02:17:34.173000+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
+        {
+          "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원",
+          "url": "http://v.daum.net/v/20261106093310807",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489155",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "\"배민 기부실천가게 1만4215곳 쿠폰 푼다\" 나눔 이어온 사장님께 응원 영...새 창 열림",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756261",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "674b9817404e30f9e796cd612f091f7f",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261106090724548",
+      "title": "배달 기사 '고객 음식 몰래 먹기' 의혹...배민 해명 들어보니",
+      "summary": "배달 기사 '고객 음식 몰래 먹기' 의혹 배송 중 파손돼 기사가 직접 비용을 부담한 음식이라고 해명했다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 32.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-06T09:07:00+09:00",
+      "processed_at": "2026-11-08T02:16:30.424215+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -183,14 +260,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 36.2,
+      "viral_score": 32.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T18:27:54+09:00",
-      "processed_at": "2026-11-07T19:53:54.670376+09:00",
+      "processed_at": "2026-11-08T02:14:01.264693+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -241,78 +318,6 @@
       ]
     },
     {
-      "uid": "671a7f8e63d3682678f779e325092d40",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489155",
-      "title": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림",
-      "summary": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림 배민 운영사 우아한형제들은 오는 14일까지 전국 '기부실천가게'를 대상으로 할인 쿠폰 행사를 진행한다고 6일",
-      "sentiment": "positive",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 35.9,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-06T18:35:00+09:00",
-      "processed_at": "2026-11-07T19:53:45.355182+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026110609311567670",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원",
-          "url": "http://v.daum.net/v/20261106093310807",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "\"배민 기부실천가게 1만4215곳 쿠폰 푼다\" 나눔 이어온 사장님께 응원 영...새 창 열림",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756261",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "674b9817404e30f9e796cd612f091f7f",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261106090724548",
-      "title": "배달 기사 '고객 음식 몰래 먹기' 의혹...배민 해명 들어보니",
-      "summary": "배달 기사 '고객 음식 몰래 먹기' 의혹 배송 중 파손돼 기사가 직접 비용을 부담한 음식이라고 해명했다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 35.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-06T09:07:00+09:00",
-      "processed_at": "2026-11-07T19:56:15.321814+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "38df92f65a643adb7ca86a6b5fcbd4f1",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -325,7 +330,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 34.2,
+      "viral_score": 30.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -333,7 +338,7 @@
         "라이더"
       ],
       "published_at": "2026-11-06T15:47:00+09:00",
-      "processed_at": "2026-11-07T20:00:22.709183+09:00",
+      "processed_at": "2026-11-08T02:21:07.217220+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -355,14 +360,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 31.6,
+      "viral_score": 28.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-06T18:10:00+09:00",
-      "processed_at": "2026-11-07T20:00:40.550694+09:00",
+      "processed_at": "2026-11-08T02:21:26.141159+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -372,29 +377,30 @@
       "duplicates": []
     },
     {
-      "uid": "1c6764e03ca6d8f84fe1ce1f92443cac",
-      "brand": "배달의민족",
+      "uid": "237b33c4a77c6c9ba22a932fa85af574",
+      "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065621275816744",
-      "title": "배민, 라이더 선행 알리기 나섰다…'히어로 라이더' 캠페인 50만 조회새 창 열림",
-      "summary": "배민, 라이더 선행 알리기 나섰다…'히어로 라이더' 캠페인 50만 조회새 창 열림 배민커넥트 공식 유튜브 채널에서 온라인 캠페인 '히어로 라이더 상영회'를 진행했다",
-      "sentiment": "positive",
+      "url": "https://www.ceoscoredaily.com/page/view/2026110516030527079",
+      "title": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록...새 창 열림",
+      "summary": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록 배달의민족(배민)과 쿠팡이츠의 타임세일 공세 속에서, 요기요는 포인트 적립과 제휴 혜택을 무기로 실속형 충성",
+      "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
-        "#마케팅·광고",
-        "#감동·긍정"
+        "#소비자반응",
+        "#마케팅·광고"
       ],
-      "viral_score": 30.7,
+      "viral_score": 28.0,
       "status": "Stable",
       "stakeholders": [
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-11-06T22:54:41+09:00",
-      "processed_at": "2026-11-07T19:53:25.769031+09:00",
+      "published_at": "2026-11-07T07:00:00+09:00",
+      "processed_at": "2026-11-08T02:13:20.011106+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달의민족",
+        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -439,14 +445,14 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
-          "channel": "네이버뉴스"
-        },
-        {
           "title": "배민, 지역축제 연계 소상공인 판로 확대…지역 상권 활성화",
           "url": "http://v.daum.net/v/20261105120217629",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -463,14 +469,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 36.2,
+      "viral_score": 32.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T18:27:54+09:00",
-      "processed_at": "2026-11-07T19:53:54.670376+09:00",
+      "processed_at": "2026-11-08T02:14:01.264693+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -521,41 +527,35 @@
       ]
     },
     {
-      "uid": "237b33c4a77c6c9ba22a932fa85af574",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026110516030527079",
-      "title": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록...새 창 열림",
-      "summary": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록 배달의민족(배민)과 쿠팡이츠의 타임세일 공세 속에서, 요기요는 포인트 적립과 제휴 혜택을 무기로 실속형 충성",
-      "sentiment": "neutral",
+      "uid": "c97d4bfd5f32486d1daf30f969c67181",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261105140941402",
+      "title": "무료배달·포인트에 외부 제휴까지…요기요 '요기패스' 200만명 돌파",
+      "summary": "무료배달·포인트에 외부 제휴까지…요기요 '요기패스' 200만명 돌파 패스는 2021년 요기요가 선보인 배달앱 구독형 멤버십 서비스다",
+      "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 41.2,
+      "viral_score": 40.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-07T07:00:00+09:00",
-      "processed_at": "2026-11-07T08:59:00.550392+09:00",
+      "published_at": "2026-11-05T14:09:00+09:00",
+      "processed_at": "2026-11-06T08:10:15.721897+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
+        "무료배달"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "무료배달·포인트에 외부 제휴까지…요기요 '요기패스' 200만명 돌파",
-          "url": "http://v.daum.net/v/20261105140941402",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민·쿠팡이츠 점주 79% \"광고·할인 후 정산금 줄어\"새 창 열림",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2121238",
+          "title": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록...새 창 열림",
+          "url": "https://www.ceoscoredaily.com/page/view/2026110516030527079",
           "channel": "네이버뉴스"
         }
       ]
@@ -621,7 +621,7 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 8,
+      "duplicate_count": 9,
       "duplicates": [
         {
           "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림",
@@ -636,6 +636,11 @@
         {
           "title": "배달앱 수수료 15% 상한제, 소상공인 부담 못 덜고 라이더·소비자 피해...새 창 열림",
           "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323398",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "‘배달앱 수수료 상한제’ 신중론…전문가들 “획일적 규제, 플랫폼 생...새 창 열림",
+          "url": "https://www.ceoscoredaily.com/page/view/2026110614235663195",
           "channel": "네이버뉴스"
         },
         {
@@ -678,13 +683,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 28.6,
+      "viral_score": 25.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-06T19:41:00+09:00",
-      "processed_at": "2026-11-07T19:54:11.611074+09:00",
+      "processed_at": "2026-11-08T02:14:19.477705+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -700,25 +705,25 @@
       ]
     },
     {
-      "uid": "671a7f8e63d3682678f779e325092d40",
+      "uid": "06533a5d0084ed62473b730afe4cd1ae",
       "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489155",
-      "title": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림",
-      "summary": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림 배민 운영사 우아한형제들은 오는 14일까지 전국 '기부실천가게'를 대상으로 할인 쿠폰 행사를 진행한다고 6일",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261106093310807",
+      "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원",
+      "summary": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원 배달의민족이 기부로 따뜻한 나눔을 실천하는 외식업 점주들을 응원하기 위해 할인 행사를 진행한다",
       "sentiment": "positive",
       "tags": [
+        "#점주·자영업",
         "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
+        "#기업·정책"
       ],
-      "viral_score": 35.9,
+      "viral_score": 33.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-06T18:35:00+09:00",
-      "processed_at": "2026-11-07T19:53:45.355182+09:00",
+      "published_at": "2026-11-06T09:33:00+09:00",
+      "processed_at": "2026-11-08T02:17:54.810115+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -727,9 +732,9 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원",
-          "url": "http://v.daum.net/v/20261106093310807",
-          "channel": "다음뉴스"
+          "title": "\"선행 이어온 식당에 응원쿠폰 쏜다\"···배민, 기부실천가게 이벤트새 창 열림",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489155",
+          "channel": "네이버뉴스"
         }
       ]
     },
@@ -812,14 +817,14 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 30.5,
+      "viral_score": 26.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T17:50:00+09:00",
-      "processed_at": "2026-11-07T19:57:40.652250+09:00",
+      "processed_at": "2026-11-08T02:18:03.316031+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -962,14 +967,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 21.9,
+      "viral_score": 19.7,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T17:29:33+09:00",
-      "processed_at": "2026-11-07T19:55:31.236126+09:00",
+      "processed_at": "2026-11-08T02:15:43.598768+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1040,13 +1045,13 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 18.9,
+      "viral_score": 16.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-06T17:02:23+09:00",
-      "processed_at": "2026-11-07T19:55:01.640178+09:00",
+      "processed_at": "2026-11-08T02:15:11.887121+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1090,13 +1095,13 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도",
-          "url": "http://v.daum.net/v/20261106140200827",
+          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
+          "url": "http://v.daum.net/v/20261024101230252",
           "channel": "다음뉴스"
         },
         {
-          "title": "청와대 앞에 선 라이더들 “배달앱 수수료 15% 상한제, 라이더·소상공인 다 죽인다\"",
-          "url": "http://v.daum.net/v/20261024101230252",
+          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도",
+          "url": "http://v.daum.net/v/20261106140200827",
           "channel": "다음뉴스"
         },
         {
@@ -1119,7 +1124,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 21.3,
+      "viral_score": 19.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1127,7 +1132,7 @@
         "라이더"
       ],
       "published_at": "2026-11-06T15:57:00+09:00",
-      "processed_at": "2026-11-07T20:00:03.823175+09:00",
+      "processed_at": "2026-11-08T02:20:47.009158+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1364,13 +1369,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 35.6,
+      "viral_score": 32.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-06T09:07:00+09:00",
-      "processed_at": "2026-11-07T19:56:15.321814+09:00",
+      "processed_at": "2026-11-08T02:16:30.424215+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1533,13 +1538,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 25.6,
+      "viral_score": 23.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-05T21:18:28+09:00",
-      "processed_at": "2026-11-07T19:58:56.457748+09:00",
+      "processed_at": "2026-11-08T02:19:24.077827+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1575,6 +1580,42 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "cae6eb22f0840672d1df275d49e04e22",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171813",
+      "title": "공정위·국회 압박에도 배민·쿠팡이츠 '자사배달 우대·할인 압박' 여전새 창 열림",
+      "summary": "공정위·국회 압박에도 배민·쿠팡이츠 '자사배달 우대·할인 압박' 여전새 창 열림 따르면 배민과 쿠팡이츠가 타임세일·골드박스 등 할인·판촉 프로그램을 잇달아 운영하면서 입점업체들 사이에서 비",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 29.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-13T06:30:00+09:00",
+      "processed_at": "2026-10-15T11:22:03.989841+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민·쿠팡이츠 점주 79% \"광고·할인 후 정산금 줄어\"새 창 열림",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2121238",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "cb5f566177b4f87a0ce1267d8991151f",
@@ -1821,13 +1862,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 15.6,
+      "viral_score": 14.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-05T14:00:00+09:00",
-      "processed_at": "2026-11-07T19:57:23.736137+09:00",
+      "processed_at": "2026-11-08T02:17:45.040074+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1954,13 +1995,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 9.1,
+      "viral_score": 8.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-05T06:01:00+09:00",
-      "processed_at": "2026-11-07T19:58:26.887424+09:00",
+      "processed_at": "2026-11-08T02:18:52.682703+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2433,7 +2474,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 10.6,
+      "viral_score": 10.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -2441,7 +2482,7 @@
         "라이더"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-07T19:58:36.482021+09:00",
+      "processed_at": "2026-11-08T02:19:02.776564+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2762,14 +2803,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.4,
+      "viral_score": 10.3,
       "status": "Stable",
       "stakeholders": [
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-07T19:58:45.660110+09:00",
+      "processed_at": "2026-11-08T02:19:12.681475+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3123,7 +3164,7 @@
         "소비자"
       ],
       "published_at": "2026-11-01T08:01:00+09:00",
-      "processed_at": "2026-11-07T20:01:00.342991+09:00",
+      "processed_at": "2026-11-08T02:21:46.653673+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -8624,36 +8665,6 @@
       "duplicates": []
     },
     {
-      "uid": "cae6eb22f0840672d1df275d49e04e22",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171813",
-      "title": "공정위·국회 압박에도 배민·쿠팡이츠 '자사배달 우대·할인 압박' 여전새 창 열림",
-      "summary": "공정위·국회 압박에도 배민·쿠팡이츠 '자사배달 우대·할인 압박' 여전새 창 열림 따르면 배민과 쿠팡이츠가 타임세일·골드박스 등 할인·판촉 프로그램을 잇달아 운영하면서 입점업체들 사이에서 비",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 29.1,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-13T06:30:00+09:00",
-      "processed_at": "2026-10-15T11:22:03.989841+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "2e33c47d836043301837040f2663a50e",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -9295,13 +9306,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 40.5,
+          "viral_score": 34.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-07T10:00:54+09:00",
-          "processed_at": "2026-11-07T19:53:16.084145+09:00",
+          "processed_at": "2026-11-08T02:13:08.579254+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9323,14 +9334,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 36.2,
+          "viral_score": 32.0,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-11-06T18:27:54+09:00",
-          "processed_at": "2026-11-07T19:53:54.670376+09:00",
+          "processed_at": "2026-11-08T02:14:01.264693+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9378,13 +9389,13 @@
             "#마케팅·광고",
             "#감동·긍정"
           ],
-          "viral_score": 30.7,
+          "viral_score": 26.8,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-06T22:54:41+09:00",
-          "processed_at": "2026-11-07T19:53:25.769031+09:00",
+          "processed_at": "2026-11-08T02:13:30.190920+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9406,13 +9417,13 @@
             "#기업·정책",
             "#감동·긍정"
           ],
-          "viral_score": 35.9,
+          "viral_score": 32.7,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-06T18:35:00+09:00",
-          "processed_at": "2026-11-07T19:53:45.355182+09:00",
+          "processed_at": "2026-11-08T02:13:51.175680+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9434,14 +9445,14 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 31.6,
+          "viral_score": 28.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-06T18:10:00+09:00",
-          "processed_at": "2026-11-07T20:00:40.550694+09:00",
+          "processed_at": "2026-11-08T02:21:26.141159+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9463,14 +9474,14 @@
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 30.5,
+          "viral_score": 26.4,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-11-06T17:50:00+09:00",
-          "processed_at": "2026-11-07T19:57:40.652250+09:00",
+          "processed_at": "2026-11-08T02:18:03.316031+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9498,14 +9509,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 21.9,
+          "viral_score": 19.7,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-11-06T17:29:33+09:00",
-          "processed_at": "2026-11-07T19:55:31.236126+09:00",
+          "processed_at": "2026-11-08T02:15:43.598768+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9519,82 +9530,23 @@
               "channel": "네이버뉴스"
             }
           ]
-        },
-        {
-          "uid": "c7ae3b757e8d14811d7720a0adaace05",
-          "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261106140200827",
-          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도",
-          "summary": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도 배달앱 수수료 규제의 법리적 문제점을 짚었다",
-          "sentiment": "negative",
-          "tags": [
-            "#점주·자영업",
-            "#소비자반응",
-            "#기업·정책"
-          ],
-          "viral_score": 38.4,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주",
-            "라이더"
-          ],
-          "published_at": "2026-11-06T14:02:00+09:00",
-          "processed_at": "2026-11-07T19:57:03.771850+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달앱"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
         }
       ],
-      "total": 8,
-      "avg_score": 33.2,
+      "total": 7,
+      "avg_score": 28.6,
       "ratio": {
-        "negative": 38,
-        "positive": 50,
-        "neutral": 12
+        "negative": 29,
+        "positive": 57,
+        "neutral": 14
       },
-      "mentions": 24
+      "mentions": 25
     },
     "coupang": {
-      "issues": [
-        {
-          "uid": "3c9bafc498ff778b78a58996417cfb6a",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "http://www.intn.co.kr/news/articleView.html?idxno=2054535",
-          "title": "10가지 넘는 배달앱 프로모션·광고, 수수료 폭탄에 순수익 줄어새 창 열림",
-          "summary": "10가지 넘는 배달앱 프로모션·광고, 수수료 폭탄에 순수익 줄어새 창 열림 설문조사 결과, 타임세일을 이용하는 점주는 336명 중 44명, 쿠팡이츠 골드박스를 이용하는 점주는 71명가",
-          "sentiment": "negative",
-          "tags": [
-            "#가격·수수료",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 25.6,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-11-05T21:18:28+09:00",
-          "processed_at": "2026-11-07T19:58:56.457748+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달앱"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        }
-      ],
-      "total": 1,
-      "avg_score": 25.6,
+      "issues": [],
+      "total": 0,
+      "avg_score": 0,
       "ratio": {
-        "negative": 100,
+        "negative": 0,
         "positive": 0,
         "neutral": 0
       },
