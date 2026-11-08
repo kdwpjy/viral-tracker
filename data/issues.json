@@ -1,208 +1,42 @@
 {
-  "updated_at": "2026-11-08T10:15:09.974183+09:00",
+  "updated_at": "2026-11-08T17:30:45.361532+09:00",
   "hot": [
     {
-      "uid": "e693c2be9defdc5b6d229173cf5d82cd",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261108093309734",
-      "title": "\"우리 동네 빵 맛집 어디?\"…배민, '빵지순례' 선봬",
-      "summary": "\"우리 동네 빵 맛집 어디 \"…배민, '빵지순례' 선봬",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 57.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-08T09:33:00+09:00",
-      "processed_at": "2026-11-08T10:07:03.787568+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, '빵지순례' 운영…전국 빵 맛집 370여곳 망라새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779881",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "4a068ae9af2beeaf73ce6bd193e76dd9",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261108094424945",
-      "title": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에",
-      "summary": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에 [서울=뉴시스] 배민, '빵지순례' 큐레이션 운영 (사진=우아한 형제들 제공) *재판매 및 DB 금지 [서울",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 53.4,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-08T09:44:00+09:00",
-      "processed_at": "2026-11-08T10:06:54.613601+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 8,
-      "duplicates": [
-        {
-          "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영새 창 열림",
-          "url": "https://www.etoday.co.kr/news/view/2645365",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영새 창 열림",
-          "url": "https://www.viva100.com/article/20261108500117",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영",
-          "url": "http://v.daum.net/v/20261108091105423",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 전국 빵집 370여곳 모은 '빵지순례' 운영…픽업 서비스 강화새 창 열림",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=190582",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859177",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전국 빵집 370여곳 모았다···픽업 서비스 '빵지순례' 운영새 창 열림",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=152421",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영",
-          "url": "http://v.daum.net/v/20261108092403589",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "전국 빵 맛집 370여 곳 모았다...배민, '빵지순례' 서비스 운영새 창 열림",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320182",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "4fb3b07ffed659000755837ee6e96353",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132177",
-      "title": "배달의민족, 전국 빵집 370곳 모은 '빵지순례' 서비스 선봬새 창 열림",
-      "summary": "배달의민족, 전국 빵집 370곳 모은 '빵지순례' 서비스 선봬새 창 열림 배민 운영사 우아한형제들은 오는 29일까지 픽업 서비스에서 전국 베이커리 370여 곳을 추천하는 '빵지순례'",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 52.6,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-08T09:15:00+09:00",
-      "processed_at": "2026-11-08T10:06:33.843796+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "빵 맛집 370곳 한눈에 … 배민, 픽업 서비스 '큐레이션' 확대새 창 열림",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800012.html",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "2dbe53073a941c3eaa5e02e6280f53fe",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261108091021421",
-      "title": "서대문구, 배민·대학과 손잡고 배달 일회용기 사용 줄인다",
-      "summary": "서대문구, 배민·대학과 손잡고 배달 일회용기 사용 줄인다 서울 서대문구(구청장 박운기)가 배달음식의 일회용기를 줄이려고 배달의민족, 지역 대학들과 함께 다회용기 배달",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 48.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-08T09:10:00+09:00",
-      "processed_at": "2026-11-08T10:07:31.643194+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "8dc9bd883ec021bfccacea164a680c92",
+      "uid": "98cd3acb4d0e494ca80a39589a135b08",
       "brand": "배달앱 일반",
       "channel": "네이버뉴스",
-      "url": "https://www.fntimes.com/html/view.php?ud=202611061827257345b5b890e35c_18",
-      "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림",
-      "summary": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 제한하는 수수료 상한제 입법을 놓고 자영업자",
+      "url": "https://www.viva100.com/article/20261105500691",
+      "title": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다새 창 열림",
+      "summary": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다새 창 열림 배달앱의 과도한 수수료와 배달비 부담 문제가 2년 연속 국정감사에서 도마에 올랐지만, 관련 입법은 제자리걸음",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
-        "#라이더",
-        "#점주·자영업"
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 33.4,
-      "status": "Stable",
+      "viral_score": 83.4,
+      "status": "Hot",
       "stakeholders": [
         "소비자",
-        "점주",
-        "라이더"
+        "점주"
       ],
-      "published_at": "2026-11-06T18:33:29+09:00",
-      "processed_at": "2026-11-08T10:13:13.533640+09:00",
+      "published_at": "2026-11-08T16:17:00+09:00",
+      "processed_at": "2026-11-08T17:23:51.655452+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 11,
+      "duplicate_count": 4,
       "duplicates": [
         {
-          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”",
-          "url": "http://v.daum.net/v/20261106183339945",
+          "title": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다",
+          "url": "http://v.daum.net/v/20261108161750343",
           "channel": "다음뉴스"
         },
         {
-          "title": "배달앱 수수료 15% 상한제, 소상공인 부담 못 덜고 라이더·소비자 피해...새 창 열림",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323398",
+          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림",
+          "url": "https://www.fntimes.com/html/view.php?ud=202611061827257345b5b890e35c_18",
           "channel": "네이버뉴스"
         },
         {
@@ -214,66 +48,132 @@
           "title": "배달앱 수수료 규제에 자영업자·라이더 갈등…\"규제영향평가 먼저\"새 창 열림",
           "url": "https://www.fnnews.com/news/202611061732273477",
           "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "9b52c216215809abf98646e0794d9a74",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369159",
+      "title": "배민 픽업, '빵지순례' 큐레이션 선보여…전국 베이커리 370여 곳 모았다새 창 열림",
+      "summary": "배민 픽업, '빵지순례' 큐레이션 선보여…전국 베이커리 370여 곳 모았다새 창 열림 배달의민족 운영사 우아한형제들은 배민 픽업 서비스에서 추천 베이커리를 모은 '빵지순례' 큐레이션을 오는 29",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 52.2,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T16:16:00+09:00",
+      "processed_at": "2026-11-08T17:21:07.796647+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 8,
+      "duplicates": [
+        {
+          "title": "배민, 전국 빵집 370곳 추천…'빵지순례' 픽업 확대새 창 열림",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2121373",
+          "channel": "네이버뉴스"
         },
         {
-          "title": "배달앱 수수료 규제에 자영업자·라이더 갈등…\"규제영향평가 먼저\"",
-          "url": "http://v.daum.net/v/20261106174710769",
+          "title": "배민, 전국 베이커리 370곳 '빵지순례' 지도 선보여… 29일까지 운영새 창 열림",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285422",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 앱에서 전국 빵집 370곳 '빵지순례'…픽업 서비스 확대새 창 열림",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=483773",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "전국 빵 맛집 배민에서 픽업…배민, 빵지순례 큐레이션 운영",
+          "url": "http://v.daum.net/v/20261108111909925",
           "channel": "다음뉴스"
         },
         {
-          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가...새 창 열림",
-          "url": "https://news.mtn.co.kr/article/2026110613195731518",
+          "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬새 창 열림",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01840086645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달앱 수수료 상한제 논란 확산 … \"업주·라이더 피해 막을 영향평가...새 창 열림",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91631",
+          "title": "배민, 전국 빵집 370여 곳 선정해 ‘빵지순례’ 운영새 창 열림",
+          "url": "https://www.seoultimes.news/news/article.html?no=2000101908",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달앱 수수료 상한제 놓고 업주·라이더 입장차... \"규제 영향평가 선...새 창 열림",
-          "url": "https://www.meconomynews.com/news/articleView.html?idxno=203387",
+          "title": "배민, '빵지순례' 큐레이션 진행새 창 열림",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=216979",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달앱 수수료 상한제 도입에…\"시장 영향평가 선행돼야\"새 창 열림",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=555670",
+          "title": "배민, ‘빵지순례’ 운영새 창 열림",
+          "url": "https://sports.donga.com/it/article/all/20261108/134985235/1",
           "channel": "네이버뉴스"
-        },
+        }
+      ]
+    },
+    {
+      "uid": "59e0bc0227e9aaf2091df14c9c08887a",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108110923695",
+      "title": "이제는 배민에서 '빵지순례' 한다…전국 빵집 370여 곳서 주문",
+      "summary": "이제는 배민에서 '빵지순례' 한다…전국 빵집 370여 곳서 주문 (배달의민족 제공) (서울=뉴스1) 박혜연 기자 = 배민 운영사 ㈜우아한형제들은 픽업 서비스에서 추천 베이커",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 44.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T11:09:00+09:00",
+      "processed_at": "2026-11-08T17:22:49.506743+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
         {
-          "title": "배달앱 수수료 상한제 놓고 찬반 격돌…\"규제보다 영향평가 먼저\"",
-          "url": "http://v.daum.net/v/20261106161722089",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배달앱 수수료 낮추면 점주도 웃을까…국회서 규제 실효성 논의",
-          "url": "http://v.daum.net/v/20261106145022473",
+          "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬",
+          "url": "http://v.daum.net/v/20261108135928764",
           "channel": "다음뉴스"
         }
       ]
     },
     {
-      "uid": "275dec66f3f3543f5b37e9030d9782c7",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261106154919764",
-      "title": "배달앱 수수료 규제 놓고 우려 확산…\"자영업자·라이더 피해 전가 안 돼\"",
-      "summary": "배달앱 수수료 규제 놓고 우려 확산…\"자영업자·라이더 피해 전가 안 돼\" 프랜차이즈의 자체 배달앱 운영 등을 근거로 배달앱 시장의 진입장벽이 낮다며 강한 가격 규제의 필요성에 의문을",
-      "sentiment": "negative",
+      "uid": "4f6de569af5466d201c587c9114a5abd",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902324",
+      "title": "농협카드, 편의점·배달앱서 NH머니 결제 시 10.5% 적립새 창 열림",
+      "summary": "농협카드, 편의점·배달앱서 NH머니 결제 시 10 5% 적립새 창 열림",
+      "sentiment": "positive",
       "tags": [
         "#가격·수수료",
         "#소비자반응",
-        "#기업·정책"
+        "#마케팅·광고"
       ],
-      "viral_score": 32.3,
+      "viral_score": 44.3,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
+        "소비자"
       ],
-      "published_at": "2026-11-06T15:49:00+09:00",
-      "processed_at": "2026-11-08T10:14:31.524327+09:00",
+      "published_at": "2026-11-08T13:41:53+09:00",
+      "processed_at": "2026-11-08T17:23:10.179870+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -283,84 +183,25 @@
       "duplicates": []
     },
     {
-      "uid": "c7ae3b757e8d14811d7720a0adaace05",
+      "uid": "3a08e7c3ebb8361ba0cee158249d555d",
       "brand": "배달의민족",
       "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261106140200827",
-      "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도",
-      "summary": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가 우려도 배달앱 수수료 규제의 법리적 문제점을 짚었다",
-      "sentiment": "negative",
-      "tags": [
-        "#점주·자영업",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 31.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-11-06T14:02:00+09:00",
-      "processed_at": "2026-11-08T10:10:36.937948+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "237b33c4a77c6c9ba22a932fa85af574",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026110516030527079",
-      "title": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록...새 창 열림",
-      "summary": "배민·쿠팡이츠 ‘타임 할인’ 맞불 속…요기요, ‘요기패스 200만’ 록 배달의민족(배민)과 쿠팡이츠의 타임세일 공세 속에서, 요기요는 포인트 적립과 제휴 혜택을 무기로 실속형 충성",
+      "url": "http://v.daum.net/v/20261108115239501",
+      "title": "서대문구 “배달의민족 손잡고 일회용기 사용 줄인다”",
+      "summary": "서대문구 “배달의민족 손잡고 일회용기 사용 줄인다” 쓰는 서대문구 배달문화 조성’ 업무협약 후 참여 기관 관계자들과 함께 파이팅을 하고 있다",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 30.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-07T07:00:00+09:00",
-      "processed_at": "2026-11-08T10:07:43.621183+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "2a83cd29d5f340cda3f79a5824931f52",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
-      "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
-      "summary": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림 배민이 온라인 할인 쿠폰 행사를 진행한 가운데 자양동 일대 배달 주문 건수는 행사 전주 같은 요일보다 30%",
-      "sentiment": "positive",
-      "tags": [
-        "#점주·자영업",
         "#마케팅·광고",
-        "#감동·긍정"
+        "#기업·정책"
       ],
-      "viral_score": 28.6,
+      "viral_score": 41.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-07T10:00:54+09:00",
-      "processed_at": "2026-11-08T10:15:00.686886+09:00",
+      "published_at": "2026-11-08T11:52:00+09:00",
+      "processed_at": "2026-11-08T17:22:29.701190+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -368,6 +209,109 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "c8bc2328f0023ac13db3d8090ac393ec",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91631",
+      "title": "배달앱 수수료 상한제 논란 확산 … \"업주·라이더 피해 막을 영향평가...새 창 열림",
+      "summary": "배달앱 수수료 상한제 논란 확산 … \"업주·라이더 피해 막을 영향평가 자영업자 보호를 위한 배달플랫폼 입법 관련 토론회 (사진=김민전 국민의힘 의원실 제공) 배달앱 중개수수료와 ",
+      "sentiment": "negative",
+      "tags": [
+        "#라이더",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 37.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-06T22:44:12+09:00",
+      "processed_at": "2026-11-08T17:29:15.169849+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”",
+          "url": "http://v.daum.net/v/20261106183339945",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달앱 수수료 규제에 자영업자·라이더 갈등…\"규제영향평가 먼저\"",
+          "url": "http://v.daum.net/v/20261106174710769",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "fe2431fb53119ffd682c3bf3488e556a",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108164722214",
+      "title": "배민, ‘빵지순례’ 운영",
+      "summary": "배민, ‘빵지순례’ 운영 배달의민족이 전국 빵 맛집을 모은 픽업 큐레이션 서비스를 선보인다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 37.1,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T16:47:00+09:00",
+      "processed_at": "2026-11-08T17:22:10.390136+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "dedf17ecea9fbacdf64a97489cbd5a57",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108110250537",
+      "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①]",
+      "summary": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①] 온 가운데, 미국 의회 권력 재편이 통상 압박의 강도와 방향에 어떤 변화를 가져올지가 관건이다",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T11:02:00+09:00",
+      "processed_at": "2026-11-08T17:22:58.799903+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈...새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858588",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "960d379300d7e07dec52ea2cbf203505",
@@ -382,14 +326,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 28.2,
+      "viral_score": 25.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T18:27:54+09:00",
-      "processed_at": "2026-11-08T10:08:32.752499+09:00",
+      "processed_at": "2026-11-08T17:24:20.577232+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -423,9 +367,197 @@
           "channel": "다음뉴스"
         }
       ]
+    },
+    {
+      "uid": "1c6764e03ca6d8f84fe1ce1f92443cac",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065621275816744",
+      "title": "배민, 라이더 선행 알리기 나섰다…'히어로 라이더' 캠페인 50만 조회새 창 열림",
+      "summary": "배민, 라이더 선행 알리기 나섰다…'히어로 라이더' 캠페인 50만 조회새 창 열림 우아한청년들은 캠페인에 소개된 라이더들을 배달의민족 라이더 축제인 '배민라이더페스타'에 초청할 계획이다",
+      "sentiment": "positive",
+      "tags": [
+        "#라이더",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 20.8,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-06T22:54:41+09:00",
+      "processed_at": "2026-11-08T17:27:27.805408+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     }
   ],
   "feed": [
+    {
+      "uid": "e693c2be9defdc5b6d229173cf5d82cd",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108093309734",
+      "title": "\"우리 동네 빵 맛집 어디?\"…배민, '빵지순례' 선봬",
+      "summary": "\"우리 동네 빵 맛집 어디 \"…배민, '빵지순례' 선봬",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.1,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T09:33:00+09:00",
+      "processed_at": "2026-11-08T10:07:03.787568+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 4,
+      "duplicates": [
+        {
+          "title": "전국 빵 맛집 배민에서 픽업…배민, 빵지순례 큐레이션 운영",
+          "url": "http://v.daum.net/v/20261108111909925",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬",
+          "url": "http://v.daum.net/v/20261108135928764",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, ‘빵지순례’ 운영",
+          "url": "http://v.daum.net/v/20261108164722214",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배민, ‘빵지순례’ 운영새 창 열림",
+          "url": "https://sports.donga.com/it/article/all/20261108/134985235/1",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "a8b7d9728a9777b56bd43b60c00da489",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
+      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
+      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 84.3,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-09-16T17:22:18+09:00",
+      "processed_at": "2026-09-16T18:05:28.339759+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 9,
+      "duplicates": [
+        {
+          "title": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다새 창 열림",
+          "url": "https://www.viva100.com/article/20261105500691",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제 논란 확산 … \"업주·라이더 피해 막을 영향평가...새 창 열림",
+          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91631",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림",
+          "url": "https://www.fntimes.com/html/view.php?ud=202611061827257345b5b890e35c_18",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”",
+          "url": "http://v.daum.net/v/20261106183339945",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "배달앱 수수료 15% 상한제, 소상공인 부담 못 덜고 라이더·소비자 피해...새 창 열림",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323398",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "‘배달앱 수수료 상한제’ 신중론…전문가들 “획일적 규제, 플랫폼 생...새 창 열림",
+          "url": "https://www.ceoscoredaily.com/page/view/2026110614235663195",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가...새 창 열림",
+          "url": "https://news.mtn.co.kr/article/2026110613195731518",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
+          "url": "https://www.fnnews.com/news/202611011922127818",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달앱 수수료 상한제 놓고 업주·라이더 입장차... \"규제 영향평가 선...새 창 열림",
+          "url": "https://www.meconomynews.com/news/articleView.html?idxno=203387",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "d344ec94a769e88d133fdb6b29c0d392",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108161750343",
+      "title": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다",
+      "summary": "배달앱 수수료 논란 반복되는데⋯ 규제 법안 국회서 잠잔다 5일 서울 종로구 청와대 분수광장 인근에서 배달업 종사자들이 연 ‘배달앱 수수료 상한제 재검토 촉구’ 집회에",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 83.4,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-08T16:17:00+09:00",
+      "processed_at": "2026-11-08T17:24:01.122354+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[기자수첩] 배달앱 수수료 규제의 역설",
+          "url": "http://v.daum.net/v/20261101192357408",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
     {
       "uid": "4fb3b07ffed659000755837ee6e96353",
       "brand": "배달의민족",
@@ -451,11 +583,16 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
+      "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "빵 맛집 370곳 한눈에 … 배민, 픽업 서비스 '큐레이션' 확대새 창 열림",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800012.html",
+          "title": "배민 픽업, '빵지순례' 큐레이션 선보여…전국 베이커리 370여 곳 모았다새 창 열림",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369159",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 전국 베이커리 370곳 '빵지순례' 지도 선보여… 29일까지 운영새 창 열림",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285422",
           "channel": "네이버뉴스"
         }
       ]
@@ -485,83 +622,62 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 8,
+      "duplicate_count": 5,
       "duplicates": [
         {
-          "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영새 창 열림",
-          "url": "https://www.etoday.co.kr/news/view/2645365",
+          "title": "배민, 전국 빵집 370곳 추천…'빵지순례' 픽업 확대새 창 열림",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2121373",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영새 창 열림",
-          "url": "https://www.viva100.com/article/20261108500117",
+          "title": "배민, 앱에서 전국 빵집 370곳 '빵지순례'…픽업 서비스 확대새 창 열림",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=483773",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영",
-          "url": "http://v.daum.net/v/20261108091105423",
+          "title": "이제는 배민에서 '빵지순례' 한다…전국 빵집 370여 곳서 주문",
+          "url": "http://v.daum.net/v/20261108110923695",
           "channel": "다음뉴스"
         },
         {
-          "title": "배민, 전국 빵집 370여곳 모은 '빵지순례' 운영…픽업 서비스 강화새 창 열림",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=190582",
+          "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬새 창 열림",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01840086645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "channel": "네이버뉴스"
         },
         {
-          "title": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에새 창 열림",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859177",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영",
-          "url": "http://v.daum.net/v/20261108092403589",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 전국 빵집 370여곳 모았다···픽업 서비스 '빵지순례' 운영새 창 열림",
-          "url": "https://www.ziksir.com/news/articleView.html?idxno=152421",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "전국 빵 맛집 370여 곳 모았다...배민, '빵지순례' 서비스 운영새 창 열림",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320182",
+          "title": "배민, 전국 빵집 370여 곳 선정해 ‘빵지순례’ 운영새 창 열림",
+          "url": "https://www.seoultimes.news/news/article.html?no=2000101908",
           "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "e693c2be9defdc5b6d229173cf5d82cd",
+      "uid": "4f6de569af5466d201c587c9114a5abd",
       "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261108093309734",
-      "title": "\"우리 동네 빵 맛집 어디?\"…배민, '빵지순례' 선봬",
-      "summary": "\"우리 동네 빵 맛집 어디 \"…배민, '빵지순례' 선봬",
+      "channel": "네이버뉴스",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902324",
+      "title": "농협카드, 편의점·배달앱서 NH머니 결제 시 10.5% 적립새 창 열림",
+      "summary": "농협카드, 편의점·배달앱서 NH머니 결제 시 10 5% 적립새 창 열림",
       "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
+        "#가격·수수료",
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 57.1,
-      "status": "Rising",
+      "viral_score": 44.3,
+      "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-08T09:33:00+09:00",
-      "processed_at": "2026-11-08T10:07:03.787568+09:00",
+      "published_at": "2026-11-08T13:41:53+09:00",
+      "processed_at": "2026-11-08T17:23:10.179870+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족"
+        "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, '빵지순례' 운영…전국 빵 맛집 370여곳 망라새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779881",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "2dbe53073a941c3eaa5e02e6280f53fe",
@@ -588,44 +704,107 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "서대문구 “배달의민족 손잡고 일회용기 사용 줄인다”",
+          "url": "http://v.daum.net/v/20261108115239501",
+          "channel": "다음뉴스"
+        }
+      ]
     },
     {
-      "uid": "853cb16e0122b65b49745f14a19ab8fa",
+      "uid": "9fb034208526dac85e2d05dcab6884be",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236869",
-      "title": "배민, 전국 지역축제와 상생 협력…소상공인 판로 확대 지원새 창 열림",
-      "summary": "배민, 전국 지역축제와 상생 협력…소상공인 판로 확대 지원새 창 열림 배달의민족(이하 배민) 운영사 우아한형제들은 전국 각지의 지역축제와 연계해 소상공인 판로 확대와 지역 상권 ",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216979",
+      "title": "배민, '빵지순례' 큐레이션 진행새 창 열림",
+      "summary": "배민, '빵지순례' 큐레이션 진행새 창 열림 지난 9월 29일부터 10월 26일까지 배민 픽업의 빵·디저트 주문 건수를 전년 동기와 비교한 결과 크루아상",
       "sentiment": "positive",
       "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
       ],
-      "viral_score": 49.6,
+      "viral_score": 41.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-06T12:51:03+09:00",
-      "processed_at": "2026-11-06T13:05:24.624424+09:00",
+      "published_at": "2026-11-08T11:22:58+09:00",
+      "processed_at": "2026-11-08T17:22:01.258034+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "dedf17ecea9fbacdf64a97489cbd5a57",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261108110250537",
+      "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①]",
+      "summary": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①] 온 가운데, 미국 의회 권력 재편이 통상 압박의 강도와 방향에 어떤 변화를 가져올지가 관건이다",
+      "sentiment": "neutral",
+      "tags": [
+        "#라이더",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 31.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-08T11:02:00+09:00",
+      "processed_at": "2026-11-08T17:22:58.799903+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "배민-천안시, 지역 농특산물 온라인 판로 확대 맞손새 창 열림",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=189995",
+          "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈...새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858588",
           "channel": "네이버뉴스"
-        },
+        }
+      ]
+    },
+    {
+      "uid": "2a83cd29d5f340cda3f79a5824931f52",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
+      "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
+      "summary": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림 6월 경산 카페축제에서는 지역 카페와 신비복숭아를 함께 알리는 배민B마트 홍보 부스를 운영하고 할인 쿠폰을 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 49.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-07T10:00:54+09:00",
+      "processed_at": "2026-11-07T12:39:41.599272+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 3,
+      "duplicates": [
         {
-          "title": "배민, 전남광주 소상공인 판로 넓힌다…로컬푸드 판매 지원 모색새 창 열림",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=554907",
+          "title": "배민, 전국 지역축제와 상생 협력…소상공인 판로 확대 지원새 창 열림",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=236869",
           "channel": "네이버뉴스"
         },
         {
@@ -634,8 +813,8 @@
           "channel": "다음뉴스"
         },
         {
-          "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
+          "title": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=778866",
           "channel": "네이버뉴스"
         }
       ]
@@ -653,29 +832,29 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 28.2,
+      "viral_score": 25.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T18:27:54+09:00",
-      "processed_at": "2026-11-08T10:08:32.752499+09:00",
+      "processed_at": "2026-11-08T17:24:20.577232+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 7,
+      "duplicate_count": 8,
       "duplicates": [
-        {
-          "title": "배달의민족 해명: 배달 기사가 고객 음식 먹었다는 오해의 진실은?새 창 열림",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884541",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "'라이더가 음식 먹었다' 논란에…배민 \"사실 아냐\"새 창 열림",
           "url": "http://www.yonhapnewstv.co.kr/news/AKR20261106180401ayC",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달의민족 해명: 배달 기사가 고객 음식 먹었다는 오해의 진실은?새 창 열림",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884541",
           "channel": "네이버뉴스"
         },
         {
@@ -687,6 +866,11 @@
           "title": "“배달기사가 내 짜장면 먹는데 제재도 없어?”…배달앱 '반전' 해명",
           "url": "http://v.daum.net/v/20261106100524370",
           "channel": "다음뉴스"
+        },
+        {
+          "title": "“배달기사가 내 짜장면 먹는데 제재도 없어?”…배달앱 '반전' 해명새 창 열림",
+          "url": "https://www.etnews.com/20261106000086",
+          "channel": "네이버뉴스"
         },
         {
           "title": "“배달기사가 주문 음식 먹었다” 주장에…배민 “파손 처리한 것”",
@@ -774,82 +958,6 @@
       ]
     },
     {
-      "uid": "a8b7d9728a9777b56bd43b60c00da489",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
-      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
-      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 84.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-09-16T17:22:18+09:00",
-      "processed_at": "2026-09-16T18:05:28.339759+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 9,
-      "duplicates": [
-        {
-          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”새 창 열림",
-          "url": "https://www.fntimes.com/html/view.php?ud=202611061827257345b5b890e35c_18",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 놓고 실효성 논란…“규제 영향평가 선행돼야”",
-          "url": "http://v.daum.net/v/20261106183339945",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배달앱 수수료 15% 상한제, 소상공인 부담 못 덜고 라이더·소비자 피해...새 창 열림",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323398",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "‘배달앱 수수료 상한제’ 신중론…전문가들 “획일적 규제, 플랫폼 생...새 창 열림",
-          "url": "https://www.ceoscoredaily.com/page/view/2026110614235663195",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "\"배달앱 수수료 상한제, 주문 줄고 식당 매출 감소\"…소비자 부담 전가...새 창 열림",
-          "url": "https://news.mtn.co.kr/article/2026110613195731518",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[기자수첩] 배달앱 수수료 규제의 역설새 창 열림",
-          "url": "https://www.fnnews.com/news/202611011922127818",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 논란 확산 … \"업주·라이더 피해 막을 영향평가...새 창 열림",
-          "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91631",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 놓고 업주·라이더 입장차... \"규제 영향평가 선...새 창 열림",
-          "url": "https://www.meconomynews.com/news/articleView.html?idxno=203387",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달앱 수수료 상한제 도입에…\"시장 영향평가 선행돼야\"새 창 열림",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=555670",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "2b90c389f716e97966b86c719b3bef89",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "다음뉴스",
@@ -862,26 +970,20 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 22.1,
+      "viral_score": 20.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-06T19:41:00+09:00",
-      "processed_at": "2026-11-08T10:08:02.507522+09:00",
+      "processed_at": "2026-11-08T17:23:40.460990+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "또봉이통닭, 11월 배달앱 할인… 전 메뉴 3천원 할인새 창 열림",
-          "url": "https://www.mt.co.kr/industry/2026/11/06/2026110514262922337",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "671a7f8e63d3682678f779e325092d40",
@@ -913,45 +1015,6 @@
         {
           "title": "배민, 기부실천가게 응원 프로모션…10일간 할인쿠폰 지원",
           "url": "http://v.daum.net/v/20261106093310807",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "c48764490c7565973e8e670dac62c993",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261102093440988",
-      "title": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참",
-      "summary": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참 배민 할인 행사 이미지",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 56.9,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-02T09:34:00+09:00",
-      "processed_at": "2026-11-02T10:14:28.720711+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민 ‘코리아 그랜드 페스티벌’ 참가…4일까지 한우 최대 46% 할인",
-          "url": "http://v.daum.net/v/20261102142640591",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 코리아 그랜드 페스티벌 참여…장보기 최대 60% 할인",
-          "url": "http://v.daum.net/v/20261106181001445",
           "channel": "다음뉴스"
         }
       ]
@@ -996,14 +1059,14 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 22.7,
+      "viral_score": 20.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T17:50:00+09:00",
-      "processed_at": "2026-11-08T10:11:25.366516+09:00",
+      "processed_at": "2026-11-08T17:27:35.972604+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1146,14 +1209,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 17.7,
+      "viral_score": 16.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-06T17:29:33+09:00",
-      "processed_at": "2026-11-08T10:08:52.352123+09:00",
+      "processed_at": "2026-11-08T17:24:40.450951+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1303,7 +1366,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 17.4,
+      "viral_score": 16.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1311,7 +1374,7 @@
         "라이더"
       ],
       "published_at": "2026-11-06T15:57:00+09:00",
-      "processed_at": "2026-11-08T10:14:22.288436+09:00",
+      "processed_at": "2026-11-08T17:30:25.777393+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1345,51 +1408,11 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "배달앱 수수료 규제 놓고 우려 확산…\"자영업자·라이더 피해 전가 안 돼\"",
           "url": "http://v.daum.net/v/20261106154919764",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[기자수첩] 배달앱 수수료 규제의 역설",
-          "url": "http://v.daum.net/v/20261101192357408",
-          "channel": "다음뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "7bd1a2f8e7a06543a6ae43e16ba4ea9b",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261105160430964",
-      "title": "\"배달앱 수수료 낮추려다 미국과 충돌?\"…국회서 나온 경고",
-      "summary": "\"배달앱 수수료 낮추려다 미국과 충돌 \"…국회서 나온 경고",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 55.2,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-05T16:04:00+09:00",
-      "processed_at": "2026-11-06T08:10:09.600424+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배달앱 수수료 낮추면 점주도 웃을까…국회서 규제 실효성 논의",
-          "url": "http://v.daum.net/v/20261106145022473",
           "channel": "다음뉴스"
         }
       ]
@@ -1548,13 +1571,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 30.1,
+      "viral_score": 28.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-06T09:07:00+09:00",
-      "processed_at": "2026-11-08T10:09:46.137797+09:00",
+      "processed_at": "2026-11-08T17:25:44.021707+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1717,13 +1740,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 22.3,
+      "viral_score": 21.2,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-05T21:18:28+09:00",
-      "processed_at": "2026-11-08T10:13:02.931514+09:00",
+      "processed_at": "2026-11-08T17:29:04.185498+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1965,6 +1988,35 @@
       "duplicates": []
     },
     {
+      "uid": "7bd1a2f8e7a06543a6ae43e16ba4ea9b",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261105160430964",
+      "title": "\"배달앱 수수료 낮추려다 미국과 충돌?\"…국회서 나온 경고",
+      "summary": "\"배달앱 수수료 낮추려다 미국과 충돌 \"…국회서 나온 경고",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 55.2,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-05T16:04:00+09:00",
+      "processed_at": "2026-11-06T08:10:09.600424+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "8bc3c451baa2b9d972e31bc2e2441415",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -2041,13 +2093,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 14.2,
+      "viral_score": 13.8,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-05T14:00:00+09:00",
-      "processed_at": "2026-11-08T10:10:57.873451+09:00",
+      "processed_at": "2026-11-08T17:27:08.256980+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2174,13 +2226,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 8.2,
+      "viral_score": 7.9,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-05T06:01:00+09:00",
-      "processed_at": "2026-11-08T10:12:32.765724+09:00",
+      "processed_at": "2026-11-08T17:28:33.616695+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2272,7 +2324,7 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "배민, 라이더 복지 위해 플랫폼프리랜서노동공제회에 3000만원 기부",
@@ -2283,11 +2335,6 @@
           "title": "배민 우아한청년들, 라이더 안전·복지 지원에 3000만원 기부",
           "url": "http://v.daum.net/v/20261104092633254",
           "channel": "다음뉴스"
-        },
-        {
-          "title": "[나눔] 배달의민족, 라이더 안전보건·복지에 3000만원 기금 전달 外새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778866",
-          "channel": "네이버뉴스"
         }
       ]
     },
@@ -2653,7 +2700,7 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 10.2,
+      "viral_score": 10.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -2661,7 +2708,7 @@
         "라이더"
       ],
       "published_at": "2026-11-04T06:03:00+09:00",
-      "processed_at": "2026-11-08T10:12:42.474040+09:00",
+      "processed_at": "2026-11-08T17:28:43.449027+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2989,7 +3036,7 @@
         "라이더"
       ],
       "published_at": "2026-11-03T05:20:00+09:00",
-      "processed_at": "2026-11-08T10:12:52.000114+09:00",
+      "processed_at": "2026-11-08T17:28:53.039337+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3120,6 +3167,40 @@
       "duplicates": []
     },
     {
+      "uid": "c48764490c7565973e8e670dac62c993",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102093440988",
+      "title": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참",
+      "summary": "배민, B마트 최대 60% 할인…코리아 그랜드 페스티벌 동참 배민 할인 행사 이미지",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 56.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T09:34:00+09:00",
+      "processed_at": "2026-11-02T10:14:28.720711+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민 ‘코리아 그랜드 페스티벌’ 참가…4일까지 한우 최대 46% 할인",
+          "url": "http://v.daum.net/v/20261102142640591",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
       "uid": "c789a486f06ce9fdb1c7fede410a4e08",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -3144,13 +3225,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
-        {
-          "title": "배민라이더스쿨, 건축상 잇단 수상…건축가치도 인정",
-          "url": "http://v.daum.net/v/20261101112157695",
-          "channel": "다음뉴스"
-        },
         {
           "title": "배민라이더스쿨, 한국건축가협회상… 국내외 석권",
           "url": "http://v.daum.net/v/20261101184748938",
@@ -3222,13 +3298,8 @@
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
-        {
-          "title": "화순군, 공공배달앱 ‘먹깨비 데이’ 할인 이벤트 돌입",
-          "url": "http://v.daum.net/v/20261101105923173",
-          "channel": "다음뉴스"
-        },
         {
           "title": "소진공, 공공배달앱 통합 운영·경쟁력 강화 방안 논의새 창 열림",
           "url": "https://www.munhwa.com/article/11623154?ref=naver",
@@ -4547,6 +4618,34 @@
       "matched_keywords": [
         "배달의민족",
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "0d090a8e8ca2cc9c5f008a909256eaee",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=189995",
+      "title": "배민-천안시, 지역 농특산물 온라인 판로 확대 맞손새 창 열림",
+      "summary": "배민-천안시, 지역 농특산물 온라인 판로 확대 맞손새 창 열림 협약은 배민 플랫폼을 활용해 천안 지역 농가의 판매처를 확대하고 농특산물의 유통 경쟁력을 높이기 위해 마련됐",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 49.5,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-27T18:14:47+09:00",
+      "processed_at": "2026-10-27T18:32:20.715035+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -6373,6 +6472,33 @@
       "duplicates": []
     },
     {
+      "uid": "7f8f61dc998622f654fcb42bd063ed65",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=554907",
+      "title": "배민, 전남광주 소상공인 판로 넓힌다…로컬푸드 판매 지원 모색새 창 열림",
+      "summary": "배민, 전남광주 소상공인 판로 넓힌다…로컬푸드 판매 지원 모색새 창 열림 배민 운영사 우아한형제들은 '전남광주지역 동반성장협의체'에 참여한다고 21일 밝혔다",
+      "sentiment": "positive",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 49.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-10-21T17:42:34+09:00",
+      "processed_at": "2026-10-21T18:04:48.824858+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "f91dccb3b781293ca9b0f3e0ee94dac6",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -6564,33 +6690,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "9c2cc10898f2268bcebbbbdd792cbd84",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02053286645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "title": "호통 끝에 칼 빼들까…쿠팡·배민·GS25 또 국감 달군다새 창 열림",
-      "summary": "호통 끝에 칼 빼들까…쿠팡·배민·GS25 또 국감 달군다새 창 열림 쿠팡과 배달의민족(배민), GS25 등 유통·플랫폼 기업들이 또다시 국회 정무위원회 국정감사(국감)의 도마 ",
-      "sentiment": "negative",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 60.0,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-21T06:00:07+09:00",
-      "processed_at": "2026-10-21T18:07:54.971827+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -9208,204 +9307,59 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "4e8364489e5b7c47564c4043ca5f20e3",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261012171746973",
-      "title": "배민 '한집배달' 추가 비용에도 지연?…김용석 부사장 \"오인 없도록 세심히 볼 것\"",
-      "summary": "배민 '한집배달' 추가 비용에도 지연 …김용석 부사장 \"오인 없도록 세심히 볼 것\"",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 45.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-12T17:17:00+09:00",
-      "processed_at": "2026-10-13T04:39:06.592711+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "fe42daa5d3d8850924cfa8be1202ae20",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261012165653862",
-      "title": "[국감] 쿠팡·배민 정무위 국감 출석",
-      "summary": "[국감] 쿠팡·배민 정무위 국감 출석 (서울=뉴스1) 유승관 기자 = 주성원 쿠팡 총괄부사장이 12일 서울 여의도 국회에서 열린 정무위원회의 공정",
-      "sentiment": "neutral",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 37.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-12T16:56:00+09:00",
-      "processed_at": "2026-10-12T17:21:05.738658+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "fa80029aace2366b81850f1977faf083",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.newspim.com/news/view/20261012001312",
-      "title": "2026 국정감사 출석한 '정유4사·쿠팡·배민·홈플러스'새 창 열림",
-      "summary": "2026 국정감사 출석한 '정유4사·쿠팡·배민·홈플러스'새 창 열림 김종화 SK에너지 대표가 12일 오후 서울 여의도 국회에서 열린 정무위원회의 공정위 등에 대한 국정감사에서 ",
-      "sentiment": "neutral",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 37.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-12T16:48:00+09:00",
-      "processed_at": "2026-10-12T17:20:34.849239+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "dd27b1764cdec2ead9b88b78b6b7487e",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.imaeil.com/page/view/2026101216373487346",
-      "title": "배민, 법 허점 이용 '산재 꼬리자르기' 논란…산재 1만건 육박, 노동부 ...새 창 열림",
-      "summary": "배민, 법 허점 이용 '산재 꼬리자르기' 논란…산재 1만건 육박, 노동부 지난 2025년 12월 배민 라이더 서모 씨가 오토바이로 햄버거를 배달하던 중 유턴 차량을 미처 발견하지 못",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 73.9,
-      "status": "Rising",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-12T16:38:20+09:00",
-      "processed_at": "2026-10-12T17:20:56.476108+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "7125ea4a82e9b588c4cb310456b8c891",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261012163508780",
-      "title": "밀양시, 공공배달앱과 드론 배송 연계 본격화",
-      "summary": "밀양시, 공공배달앱과 드론 배송 연계 본격화 드론 배달점에서 한 가족이 배송받은 물품을 수령한 가운데, 배송을 마친 드론이 거점으로 복귀하고 있다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 48.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-12T16:35:00+09:00",
-      "processed_at": "2026-10-12T17:22:46.951577+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "4fb3b07ffed659000755837ee6e96353",
+          "uid": "fe2431fb53119ffd682c3bf3488e556a",
           "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132177",
-          "title": "배달의민족, 전국 빵집 370곳 모은 '빵지순례' 서비스 선봬새 창 열림",
-          "summary": "배달의민족, 전국 빵집 370곳 모은 '빵지순례' 서비스 선봬새 창 열림 배민 운영사 우아한형제들은 오는 29일까지 픽업 서비스에서 전국 베이커리 370여 곳을 추천하는 '빵지순례'",
-          "sentiment": "positive",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261108164722214",
+          "title": "배민, ‘빵지순례’ 운영",
+          "summary": "배민, ‘빵지순례’ 운영 배달의민족이 전국 빵 맛집을 모은 픽업 큐레이션 서비스를 선보인다",
+          "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
-            "#소비자반응",
+            "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 52.6,
-          "status": "Rising",
+          "viral_score": 37.1,
+          "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-08T09:15:00+09:00",
-          "processed_at": "2026-11-08T10:06:33.843796+09:00",
+          "published_at": "2026-11-08T16:47:00+09:00",
+          "processed_at": "2026-11-08T17:22:10.390136+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "빵 맛집 370곳 한눈에 … 배민, 픽업 서비스 '큐레이션' 확대새 창 열림",
-              "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/08/2026110800012.html",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
-          "uid": "4a068ae9af2beeaf73ce6bd193e76dd9",
+          "uid": "9b52c216215809abf98646e0794d9a74",
           "brand": "배달의민족",
-          "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261108094424945",
-          "title": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에",
-          "summary": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에 [서울=뉴시스] 배민, '빵지순례' 큐레이션 운영 (사진=우아한 형제들 제공) *재판매 및 DB 금지 [서울",
+          "channel": "네이버뉴스",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=369159",
+          "title": "배민 픽업, '빵지순례' 큐레이션 선보여…전국 베이커리 370여 곳 모았다새 창 열림",
+          "summary": "배민 픽업, '빵지순례' 큐레이션 선보여…전국 베이커리 370여 곳 모았다새 창 열림 배달의민족 운영사 우아한형제들은 배민 픽업 서비스에서 추천 베이커리를 모은 '빵지순례' 큐레이션을 오는 29",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 53.4,
+          "viral_score": 52.2,
           "status": "Rising",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-08T09:44:00+09:00",
-          "processed_at": "2026-11-08T10:06:54.613601+09:00",
+          "published_at": "2026-11-08T16:16:00+09:00",
+          "processed_at": "2026-11-08T17:21:07.796647+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9414,67 +9368,67 @@
           "duplicate_count": 8,
           "duplicates": [
             {
-              "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영새 창 열림",
-              "url": "https://www.etoday.co.kr/news/view/2645365",
+              "title": "배민, 전국 빵집 370곳 추천…'빵지순례' 픽업 확대새 창 열림",
+              "url": "http://www.4th.kr/news/articleView.html?idxno=2121373",
               "channel": "네이버뉴스"
             },
             {
-              "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영새 창 열림",
-              "url": "https://www.viva100.com/article/20261108500117",
+              "title": "배민, 전국 베이커리 370곳 '빵지순례' 지도 선보여… 29일까지 운영새 창 열림",
+              "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285422",
               "channel": "네이버뉴스"
             },
             {
-              "title": "배민, 전국 베이커리 370여 곳 모은 픽업 ‘빵지순례’ 운영",
-              "url": "http://v.daum.net/v/20261108091105423",
+              "title": "배민, 앱에서 전국 빵집 370곳 '빵지순례'…픽업 서비스 확대새 창 열림",
+              "url": "https://news.ifm.kr/news/articleView.html?idxno=483773",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "전국 빵 맛집 배민에서 픽업…배민, 빵지순례 큐레이션 운영",
+              "url": "http://v.daum.net/v/20261108111909925",
               "channel": "다음뉴스"
             },
             {
-              "title": "배민, 전국 빵집 370여곳 모은 '빵지순례' 운영…픽업 서비스 강화새 창 열림",
-              "url": "http://www.kdfnews.com/news/articleView.html?idxno=190582",
+              "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬새 창 열림",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=01840086645643752&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
               "channel": "네이버뉴스"
             },
             {
-              "title": "\"앱으로 떠나는 빵지순례\" 배민, 전국 빵 맛집 370여곳 한자리에새 창 열림",
-              "url": "https://www.newsis.com/view/NISX20261108_0003859177",
+              "title": "배민, 전국 빵집 370여 곳 선정해 ‘빵지순례’ 운영새 창 열림",
+              "url": "https://www.seoultimes.news/news/article.html?no=2000101908",
               "channel": "네이버뉴스"
             },
             {
-              "title": "배민, 전국 빵집 370여곳 모은 ‘빵지순례’ 운영",
-              "url": "http://v.daum.net/v/20261108092403589",
-              "channel": "다음뉴스"
-            },
-            {
-              "title": "배민, 전국 빵집 370여곳 모았다···픽업 서비스 '빵지순례' 운영새 창 열림",
-              "url": "https://www.ziksir.com/news/articleView.html?idxno=152421",
+              "title": "배민, '빵지순례' 큐레이션 진행새 창 열림",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=216979",
               "channel": "네이버뉴스"
             },
             {
-              "title": "전국 빵 맛집 370여 곳 모았다...배민, '빵지순례' 서비스 운영새 창 열림",
-              "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320182",
+              "title": "배민, ‘빵지순례’ 운영새 창 열림",
+              "url": "https://sports.donga.com/it/article/all/20261108/134985235/1",
               "channel": "네이버뉴스"
             }
           ]
         },
         {
-          "uid": "e693c2be9defdc5b6d229173cf5d82cd",
+          "uid": "59e0bc0227e9aaf2091df14c9c08887a",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261108093309734",
-          "title": "\"우리 동네 빵 맛집 어디?\"…배민, '빵지순례' 선봬",
-          "summary": "\"우리 동네 빵 맛집 어디 \"…배민, '빵지순례' 선봬",
+          "url": "http://v.daum.net/v/20261108110923695",
+          "title": "이제는 배민에서 '빵지순례' 한다…전국 빵집 370여 곳서 주문",
+          "summary": "이제는 배민에서 '빵지순례' 한다…전국 빵집 370여 곳서 주문 (배달의민족 제공) (서울=뉴스1) 박혜연 기자 = 배민 운영사 ㈜우아한형제들은 픽업 서비스에서 추천 베이커",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
-            "#소비자반응",
+            "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 57.1,
-          "status": "Rising",
+          "viral_score": 44.9,
+          "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-08T09:33:00+09:00",
-          "processed_at": "2026-11-08T10:07:03.787568+09:00",
+          "published_at": "2026-11-08T11:09:00+09:00",
+          "processed_at": "2026-11-08T17:22:49.506743+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9483,32 +9437,60 @@
           "duplicate_count": 1,
           "duplicates": [
             {
-              "title": "배민, '빵지순례' 운영…전국 빵 맛집 370여곳 망라새 창 열림",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=779881",
-              "channel": "네이버뉴스"
+              "title": "배민서 전국 빵 맛집 370여곳 한눈에…'빵지순례' 서비스 선봬",
+              "url": "http://v.daum.net/v/20261108135928764",
+              "channel": "다음뉴스"
             }
           ]
         },
         {
-          "uid": "2dbe53073a941c3eaa5e02e6280f53fe",
+          "uid": "4f6de569af5466d201c587c9114a5abd",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902324",
+          "title": "농협카드, 편의점·배달앱서 NH머니 결제 시 10.5% 적립새 창 열림",
+          "summary": "농협카드, 편의점·배달앱서 NH머니 결제 시 10 5% 적립새 창 열림",
+          "sentiment": "positive",
+          "tags": [
+            "#가격·수수료",
+            "#소비자반응",
+            "#마케팅·광고"
+          ],
+          "viral_score": 44.3,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-08T13:41:53+09:00",
+          "processed_at": "2026-11-08T17:23:10.179870+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "3a08e7c3ebb8361ba0cee158249d555d",
           "brand": "배달의민족",
           "channel": "다음뉴스",
-          "url": "http://v.daum.net/v/20261108091021421",
-          "title": "서대문구, 배민·대학과 손잡고 배달 일회용기 사용 줄인다",
-          "summary": "서대문구, 배민·대학과 손잡고 배달 일회용기 사용 줄인다 서울 서대문구(구청장 박운기)가 배달음식의 일회용기를 줄이려고 배달의민족, 지역 대학들과 함께 다회용기 배달",
+          "url": "http://v.daum.net/v/20261108115239501",
+          "title": "서대문구 “배달의민족 손잡고 일회용기 사용 줄인다”",
+          "summary": "서대문구 “배달의민족 손잡고 일회용기 사용 줄인다” 쓰는 서대문구 배달문화 조성’ 업무협약 후 참여 기관 관계자들과 함께 파이팅을 하고 있다",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 48.4,
+          "viral_score": 41.8,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-08T09:10:00+09:00",
-          "processed_at": "2026-11-08T10:07:31.643194+09:00",
+          "published_at": "2026-11-08T11:52:00+09:00",
+          "processed_at": "2026-11-08T17:22:29.701190+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9518,32 +9500,38 @@
           "duplicates": []
         },
         {
-          "uid": "2a83cd29d5f340cda3f79a5824931f52",
+          "uid": "dedf17ecea9fbacdf64a97489cbd5a57",
           "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779762",
-          "title": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림",
-          "summary": "[나눔] 배달의민족, 지역 축제 연계 소상공인·농가 판로 지원 外새 창 열림 배민이 온라인 할인 쿠폰 행사를 진행한 가운데 자양동 일대 배달 주문 건수는 행사 전주 같은 요일보다 30%",
-          "sentiment": "positive",
+          "channel": "다음뉴스",
+          "url": "http://v.daum.net/v/20261108110250537",
+          "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①]",
+          "summary": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈법①] 온 가운데, 미국 의회 권력 재편이 통상 압박의 강도와 방향에 어떤 변화를 가져올지가 관건이다",
+          "sentiment": "neutral",
           "tags": [
-            "#점주·자영업",
+            "#라이더",
             "#마케팅·광고",
-            "#감동·긍정"
+            "#기업·정책"
           ],
-          "viral_score": 28.6,
+          "viral_score": 31.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-07T10:00:54+09:00",
-          "processed_at": "2026-11-08T10:15:00.686886+09:00",
+          "published_at": "2026-11-08T11:02:00+09:00",
+          "processed_at": "2026-11-08T17:22:58.799903+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 0,
-          "duplicates": []
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "韓 플랫폼법 변수…쿠팡·배민 통상 압박 거세질까[블루웨이브 K-유통 셈...새 창 열림",
+              "url": "https://www.newsis.com/view/NISX20261106_0003858588",
+              "channel": "네이버뉴스"
+            }
+          ]
         },
         {
           "uid": "e84dca77a890bd0cacb712356ee98975",
@@ -9557,26 +9545,20 @@
             "#서비스·품질",
             "#소비자반응"
           ],
-          "viral_score": 25.6,
+          "viral_score": 22.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-07T09:56:29+09:00",
-          "processed_at": "2026-11-08T10:11:44.009425+09:00",
+          "processed_at": "2026-11-08T17:27:54.759891+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "“배달기사가 주문 음식 먹었다” 주장에…배민 “파손 처리한 것”새 창 열림",
-              "url": "https://www.joongang.co.kr/article/25476464",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
           "uid": "1c6764e03ca6d8f84fe1ce1f92443cac",
@@ -9591,13 +9573,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 23.2,
+          "viral_score": 20.8,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-06T22:54:41+09:00",
-          "processed_at": "2026-11-08T10:11:17.235809+09:00",
+          "processed_at": "2026-11-08T17:27:27.805408+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9619,14 +9601,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 16.2,
+          "viral_score": 14.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-11-06T22:46:00+09:00",
-          "processed_at": "2026-11-08T10:09:10.024185+09:00",
+          "processed_at": "2026-11-08T17:25:07.640857+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9636,14 +9618,14 @@
           "duplicates": []
         }
       ],
-      "total": 8,
-      "avg_score": 38.1,
+      "total": 9,
+      "avg_score": 34.4,
       "ratio": {
         "negative": 0,
-        "positive": 75,
-        "neutral": 25
+        "positive": 56,
+        "neutral": 44
       },
-      "mentions": 32
+      "mentions": 25
     },
     "coupang": {
       "issues": [],
