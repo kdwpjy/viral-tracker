@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:45:38.736951+09:00",
+  "updated_at": "2026-11-16T01:50:28.407237+09:00",
   "hot": [
     {
       "uid": "c2c73de76e3aa3e21c2400a5d1208162",
@@ -14,13 +14,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 63.7,
+      "viral_score": 50.6,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-15T14:30:00+09:00",
-      "processed_at": "2026-11-15T17:41:21.270332+09:00",
+      "processed_at": "2026-11-16T01:49:34.279759+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -42,45 +42,17 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 54.0,
-      "status": "Rising",
+      "viral_score": 42.2,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-15T12:00:00+09:00",
-      "processed_at": "2026-11-15T17:41:36.607875+09:00",
+      "processed_at": "2026-11-16T01:49:37.416718+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "08ef73fe666742e33ed76bef1eca2225",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
-      "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
-      "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 41.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-15T11:52:58+09:00",
-      "processed_at": "2026-11-15T17:41:43.462571+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -98,14 +70,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 40.8,
+      "viral_score": 37.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-14T07:00:00+09:00",
-      "processed_at": "2026-11-15T17:43:17.277624+09:00",
+      "processed_at": "2026-11-16T01:49:58.561575+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -115,25 +87,53 @@
       "duplicates": []
     },
     {
-      "uid": "9b770fad9bebeb959c57e6929323dad5",
+      "uid": "08ef73fe666742e33ed76bef1eca2225",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083265",
-      "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림",
-      "summary": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림 배달의민족(배민)이 던킨 신메뉴 출시를 기념해 앱 전용 상품을 선보였다",
-      "sentiment": "neutral",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+      "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+      "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
-        "#마케팅·광고"
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 31.2,
+      "viral_score": 32.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-15T14:10:00+09:00",
-      "processed_at": "2026-11-15T17:41:29.087358+09:00",
+      "published_at": "2026-11-15T11:52:58+09:00",
+      "processed_at": "2026-11-16T01:49:38.859167+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "8c1c69914e48a2a30cb0536d4cbea75f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238444",
+      "title": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림",
+      "summary": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림 배달의민족(이하 배민) 운영사 우아한형제들이 외식업주들이 매장 운영에 활용할 수 있는 인공지능(AI) 실전 ",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 29.8,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-15T20:54:51+09:00",
+      "processed_at": "2026-11-16T01:49:32.768536+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -155,13 +155,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 31.1,
+      "viral_score": 27.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T15:03:13+09:00",
-      "processed_at": "2026-11-15T17:45:38.732148+09:00",
+      "processed_at": "2026-11-16T01:50:28.402729+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -183,13 +183,41 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 27.3,
+      "viral_score": 24.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-14T06:42:00+09:00",
-      "processed_at": "2026-11-15T17:44:55.847122+09:00",
+      "processed_at": "2026-11-16T01:50:19.246247+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "9b770fad9bebeb959c57e6929323dad5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083265",
+      "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림",
+      "summary": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림 배달의민족(배민)이 던킨 신메뉴 출시를 기념해 앱 전용 상품을 선보였다",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 24.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-15T14:10:00+09:00",
+      "processed_at": "2026-11-16T01:49:35.891002+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -211,13 +239,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 21.8,
+      "viral_score": 18.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T12:26:37+09:00",
-      "processed_at": "2026-11-15T17:41:50.693640+09:00",
+      "processed_at": "2026-11-16T01:49:40.442057+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -239,13 +267,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 20.5,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-14T11:27:03+09:00",
-      "processed_at": "2026-11-15T17:43:09.239574+09:00",
+      "processed_at": "2026-11-16T01:49:57.007836+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -254,38 +282,48 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "c043a2fbc1870f498d8d6bc1a1aa72b2",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.dt.co.kr/article/12095072?ref=naver",
-      "title": "“욕도 안했는데, 별점 하나 줬다고”…배달앱 리뷰 차단에 누리꾼 ‘갑...새 창 열림",
-      "summary": "“욕도 안했는데, 별점 하나 줬다고”…배달앱 리뷰 차단에 누리꾼 ‘갑 현재 배달의민족, 쿠팡이츠, 요기요 등 주요 배달플랫폼 3사는 점주의 권리침해 신고 접수 시 임시로 리뷰를 ",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 19.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-14T07:55:21+09:00",
-      "processed_at": "2026-11-15T17:45:31.474224+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "feed": [
+    {
+      "uid": "8c1c69914e48a2a30cb0536d4cbea75f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238444",
+      "title": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림",
+      "summary": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림 배달의민족(이하 배민) 운영사 우아한형제들이 외식업주들이 매장 운영에 활용할 수 있는 인공지능(AI) 실전 ",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 29.8,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-15T20:54:51+09:00",
+      "processed_at": "2026-11-16T01:49:32.768536+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "배민, 외식업 파트너 AI 활용 문턱 낮춘다…'AI 플레이북' 공개새 창 열림",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902980",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 외식업 현장에 AI 입힌다…장사 효율 높일 실전 도구 27종 공개새 창 열림",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603600441604",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "c2c73de76e3aa3e21c2400a5d1208162",
       "brand": "배달의민족",
@@ -299,13 +337,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 63.7,
+      "viral_score": 50.6,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-15T14:30:00+09:00",
-      "processed_at": "2026-11-15T17:41:21.270332+09:00",
+      "processed_at": "2026-11-16T01:49:34.279759+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -422,13 +460,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 41.4,
+      "viral_score": 32.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-15T11:52:58+09:00",
-      "processed_at": "2026-11-15T17:41:43.462571+09:00",
+      "processed_at": "2026-11-16T01:49:38.859167+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -489,26 +527,20 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 21.8,
+      "viral_score": 18.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T12:26:37+09:00",
-      "processed_at": "2026-11-15T17:41:50.693640+09:00",
+      "processed_at": "2026-11-16T01:49:40.442057+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민, 외식업 파트너 AI 활용 문턱 낮춘다…'AI 플레이북' 공개새 창 열림",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902980",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "825e0cb1eed66420f19b14b04759d993",
@@ -565,13 +597,13 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261113165818",
+          "title": "배민 수수료 공제 확대에 소상공인 단체 환영…\"쿠팡이츠도 동참해야\"새 창 열림",
+          "url": "https://www.newspim.com/news/view/20261112001293",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민 수수료 공제 확대에 소상공인 단체 환영…\"쿠팡이츠도 동참해야\"새 창 열림",
-          "url": "https://www.newspim.com/news/view/20261112001293",
+          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
+          "url": "https://zdnet.co.kr/view/?no=20261113165818",
           "channel": "네이버뉴스"
         },
         {
@@ -599,14 +631,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 19.4,
+      "viral_score": 17.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-14T07:55:21+09:00",
-      "processed_at": "2026-11-15T17:45:31.474224+09:00",
+      "processed_at": "2026-11-16T01:50:26.902660+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -719,34 +751,6 @@
       "duplicates": []
     },
     {
-      "uid": "b5c57019e84cc9cd67392e5b4d562b8b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603600441604",
-      "title": "배민, 외식업 현장에 AI 입힌다…장사 효율 높일 실전 도구 27종 공개새 창 열림",
-      "summary": "배민, 외식업 현장에 AI 입힌다…장사 효율 높일 실전 도구 27종 공개새 창 열림 배달의민족(배민)이 외식업 현장의 인공지능(AI) 활용 확산에 나섰다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 12.2,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-13T18:00:38+09:00",
-      "processed_at": "2026-11-15T10:32:32.208793+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "8ea1a326f35940d882dd068cd90f6a71",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -759,13 +763,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 19.4,
+      "viral_score": 17.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-13T17:28:20+09:00",
-      "processed_at": "2026-11-15T17:44:14.277295+09:00",
+      "processed_at": "2026-11-16T01:50:10.691295+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -925,19 +929,19 @@
       "url": "https://www.fnnews.com/news/202611131455514496",
       "title": "메뉴 개발·손익 관리…배민, 입점업주 AI 활용 돕는다새 창 열림",
       "summary": "메뉴 개발·손익 관리…배민, 입점업주 AI 활용 돕는다새 창 열림 가게 알림과 공지사항, 리뷰 답글처럼 배민 입점 점주가 반복해서 작성하는 문구를 위한 지시문도 포함됐다",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 10.4,
+      "viral_score": 13.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-13T15:02:31+09:00",
-      "processed_at": "2026-11-15T17:43:53.544008+09:00",
+      "processed_at": "2026-11-16T01:50:06.321783+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1108,13 +1112,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 33.9,
+      "viral_score": 32.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-13T10:43:54+09:00",
-      "processed_at": "2026-11-15T17:42:33.493031+09:00",
+      "processed_at": "2026-11-16T01:49:49.472541+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1136,14 +1140,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 22.6,
+      "viral_score": 21.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-13T06:30:00+09:00",
-      "processed_at": "2026-11-15T17:42:47.717372+09:00",
+      "processed_at": "2026-11-16T01:49:52.502775+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1217,17 +1221,17 @@
       "summary": "오세희 의원 \"배민 수수료 체계 개편 환영…타 플랫폼으로 확대해야\"새 창 열림 오 의원은 12일 배민의 이번 조치가 국정감사에서 제기된 현장의 요구가 제도 개선으로 이어진 결과라고 평가했",
       "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#소비자반응",
+        "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 16.8,
+      "viral_score": 16.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-12T17:02:41+09:00",
-      "processed_at": "2026-11-15T17:42:54.571139+09:00",
+      "processed_at": "2026-11-16T01:49:53.890606+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9147,6 +9151,34 @@
     "baemin": {
       "issues": [
         {
+          "uid": "8c1c69914e48a2a30cb0536d4cbea75f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238444",
+          "title": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림",
+          "summary": "배민, 외식업 AI 활용 문턱 낮춘다…따라 하기 쉬운 실전 가이드 공개새 창 열림 배달의민족(이하 배민) 운영사 우아한형제들이 외식업주들이 매장 운영에 활용할 수 있는 인공지능(AI) 실전 ",
+          "sentiment": "neutral",
+          "tags": [
+            "#서비스·품질",
+            "#점주·자영업",
+            "#마케팅·광고"
+          ],
+          "viral_score": 29.8,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-15T20:54:51+09:00",
+          "processed_at": "2026-11-16T01:49:32.768536+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
           "uid": "c2c73de76e3aa3e21c2400a5d1208162",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
@@ -9159,13 +9191,13 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 63.7,
+          "viral_score": 50.6,
           "status": "Rising",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-15T14:30:00+09:00",
-          "processed_at": "2026-11-15T17:41:21.270332+09:00",
+          "processed_at": "2026-11-16T01:49:34.279759+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9187,13 +9219,13 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 31.2,
+          "viral_score": 24.2,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-15T14:10:00+09:00",
-          "processed_at": "2026-11-15T17:41:29.087358+09:00",
+          "processed_at": "2026-11-16T01:49:35.891002+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9215,13 +9247,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 54.0,
-          "status": "Rising",
+          "viral_score": 42.2,
+          "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-15T12:00:00+09:00",
-          "processed_at": "2026-11-15T17:41:36.607875+09:00",
+          "processed_at": "2026-11-16T01:49:37.416718+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9243,13 +9275,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 41.4,
+          "viral_score": 32.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-15T11:52:58+09:00",
-          "processed_at": "2026-11-15T17:41:43.462571+09:00",
+          "processed_at": "2026-11-16T01:49:38.859167+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9271,13 +9303,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 21.8,
+          "viral_score": 18.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-14T12:26:37+09:00",
-          "processed_at": "2026-11-15T17:41:50.693640+09:00",
+          "processed_at": "2026-11-16T01:49:40.442057+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9299,14 +9331,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 40.8,
+          "viral_score": 37.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-14T07:00:00+09:00",
-          "processed_at": "2026-11-15T17:43:17.277624+09:00",
+          "processed_at": "2026-11-16T01:49:58.561575+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9328,13 +9360,13 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 27.3,
+          "viral_score": 24.6,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-14T06:42:00+09:00",
-          "processed_at": "2026-11-15T17:44:55.847122+09:00",
+          "processed_at": "2026-11-16T01:50:19.246247+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9344,14 +9376,14 @@
           "duplicates": []
         }
       ],
-      "total": 7,
-      "avg_score": 40.0,
+      "total": 8,
+      "avg_score": 32.4,
       "ratio": {
-        "negative": 43,
-        "positive": 43,
-        "neutral": 14
+        "negative": 38,
+        "positive": 38,
+        "neutral": 25
       },
-      "mentions": 9
+      "mentions": 10
     },
     "coupang": {
       "issues": [],
