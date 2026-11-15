@@ -1,26 +1,139 @@
 {
-  "updated_at": "2026-11-15T10:34:34.041771+09:00",
+  "updated_at": "2026-11-15T17:45:38.736951+09:00",
   "hot": [
     {
-      "uid": "29544b0bfe9b883f5068b793c0d23f33",
+      "uid": "c2c73de76e3aa3e21c2400a5d1208162",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62275",
-      "title": "[위클리 IT뷰] 엔비디아 젠슨 황 CEO 사임과 배민-쿠팡 과징금 부과새 창 열림",
-      "summary": "[위클리 IT뷰] 엔비디아 젠슨 황 CEO 사임과 배민-쿠팡 과징금 부과새 창 열림 이번에는 엔비디아 젠슨 황 CEO의 퇴진과 배민-쿠팡에 대한 공정위의 총 6천억 원대 과징금 부과, 그리고 ",
+      "url": "https://www.mt.co.kr/economy/2026/11/15/2026111309331235875",
+      "title": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림",
+      "summary": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림 및 '배민클럽'(배달의민족) 시행 지역 내 모든 입점업체가 최혜대우 요구의 영향을 받았다고 판단했다는 것이다",
       "sentiment": "negative",
       "tags": [
+        "#서비스·품질",
         "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 63.7,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-15T14:30:00+09:00",
+      "processed_at": "2026-11-15T17:41:21.270332+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "a280aee65f6de59e8d81b1cbac167397",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563756",
+      "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...새 창 열림",
+      "summary": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터 배민에는 입점업체의 자체배달 전환을 강제하고 배달예상시간을 사실과 다르게 광고한 행위도 적용됐다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 35.7,
+      "viral_score": 54.0,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-15T12:00:00+09:00",
+      "processed_at": "2026-11-15T17:41:36.607875+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "08ef73fe666742e33ed76bef1eca2225",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+      "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+      "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 41.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-13T10:43:54+09:00",
-      "processed_at": "2026-11-15T10:33:02.454316+09:00",
+      "published_at": "2026-11-15T11:52:58+09:00",
+      "processed_at": "2026-11-15T17:41:43.462571+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "5b3d2b864f5be2349ece3f05b70d028a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=885614",
+      "title": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림",
+      "summary": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림 배달의민족도 2024년 5월부터 지난해 10월까지 비슷한 방식으로 압박했고, 이 기간 자체배달 수수료를 6",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 40.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-14T07:00:00+09:00",
+      "processed_at": "2026-11-15T17:43:17.277624+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "9b770fad9bebeb959c57e6929323dad5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083265",
+      "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림",
+      "summary": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림 배달의민족(배민)이 던킨 신메뉴 출시를 기념해 앱 전용 상품을 선보였다",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 31.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-15T14:10:00+09:00",
+      "processed_at": "2026-11-15T17:41:29.087358+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -42,13 +155,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 35.7,
+      "viral_score": 31.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T15:03:13+09:00",
-      "processed_at": "2026-11-15T10:34:34.037145+09:00",
+      "processed_at": "2026-11-15T17:45:38.732148+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -56,40 +169,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "5b3d2b864f5be2349ece3f05b70d028a",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.gokorea.kr/news/articleView.html?idxno=885614",
-      "title": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림",
-      "summary": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림 공정위는 쿠팡의 최혜대우 요구만으로 배민의 2만5000원짜리 주문 가격이 최대 1650원 뛴 것으로 추산했다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-14T07:00:00+09:00",
-      "processed_at": "2026-11-15T10:32:27.861256+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[A 주간 서머리] 경제·산업계 \"공정위, 배민·쿠팡에 과징금 6319억원.....새 창 열림",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=270835",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "49fd06a200d7c7105fa31e8f13fa8f2b",
@@ -104,13 +183,13 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 30.5,
+      "viral_score": 27.3,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-14T06:42:00+09:00",
-      "processed_at": "2026-11-15T10:34:17.482188+09:00",
+      "processed_at": "2026-11-15T17:44:55.847122+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -118,41 +197,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "b266c5f7be1de8615059bdf01ea48cf9",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://view.asiae.co.kr/article/2026111313135410368",
-      "title": "자체배달, 글로벌 대세인데…공정위 배민 제재 부작용 우려새 창 열림",
-      "summary": "자체배달, 글로벌 대세인데…공정위 배민 제재 부작용 우려새 창 열림 공정거래위원회가 배달의민족이 입점업체에 자체배달(OD)로 전환을 강제했다는 이유로 과징금을 처분한 것에 대해",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 26.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-13T13:40:36+09:00",
-      "processed_at": "2026-11-15T10:32:54.519264+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "“가게배달 접는 게 낫다?”…공정위 배달앱 제재에 ‘역설’ 우려 나와새 창 열림",
-          "url": "https://www.mk.co.kr/article/12207826",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "fa4149ffdca0db282290e5870884e75f",
@@ -167,13 +211,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 25.9,
+      "viral_score": 21.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T12:26:37+09:00",
-      "processed_at": "2026-11-15T10:32:19.931246+09:00",
+      "processed_at": "2026-11-15T17:41:50.693640+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -188,35 +232,28 @@
       "channel": "네이버뉴스",
       "url": "https://zdnet.co.kr/view/?no=20261113165818",
       "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
-      "summary": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림 배달의민족(배민)이 입점업주 부담을 줄이기 위해 할인 금액에 대한 수수료 공제 범위를 확대하면서 경쟁사인 쿠",
+      "summary": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림 배민의 수수료 공제 확대와 쿠팡이츠의 약관 시정이 맞물리면서 향후 두 플랫폼의 할인액 수수료 산정 방식이 어",
       "sentiment": "neutral",
       "tags": [
         "#가격·수수료",
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 23.3,
+      "viral_score": 20.5,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
         "점주"
       ],
       "published_at": "2026-11-14T11:27:03+09:00",
-      "processed_at": "2026-11-15T10:32:23.675707+09:00",
+      "processed_at": "2026-11-15T17:43:09.239574+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족",
         "쿠팡이츠"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"점주 할인액 수수료 없다\" 배민 결단에…쿠팡이츠로 쏠리는 눈새 창 열림",
-          "url": "https://news.tf.co.kr/read/economy/2388530.htm",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "c043a2fbc1870f498d8d6bc1a1aa72b2",
@@ -231,14 +268,167 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 21.8,
+      "viral_score": 19.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-14T07:55:21+09:00",
-      "processed_at": "2026-11-15T10:32:50.895717+09:00",
+      "processed_at": "2026-11-15T17:45:31.474224+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  ],
+  "feed": [
+    {
+      "uid": "c2c73de76e3aa3e21c2400a5d1208162",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mt.co.kr/economy/2026/11/15/2026111309331235875",
+      "title": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림",
+      "summary": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림 및 '배민클럽'(배달의민족) 시행 지역 내 모든 입점업체가 최혜대우 요구의 영향을 받았다고 판단했다는 것이다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 63.7,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-15T14:30:00+09:00",
+      "processed_at": "2026-11-15T17:41:21.270332+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[이슈 포커스 上] 공정위 '고무줄 잣대' 과징금…배달앱 \"연락조차 안 한...새 창 열림",
+          "url": "https://www.banronbodo.com/news/articleView.html?idxno=33354",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "c7b3eeb405a356b1282278e9f09afec6",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261110124322190",
+      "title": "배민, '던킨 두바이 도넛팩' 단독 판매…최대 5000원 할인",
+      "summary": "배민, '던킨 두바이 도넛팩' 단독 판매…최대 5000원 할인 ⓒ우아한형제들 배민 운영사 우아한형제들은 던킨의 신메뉴 출시를 기념해 배민에서만 주문할 수 있는 ‘던킨 두바",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 57.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-10T12:43:00+09:00",
+      "processed_at": "2026-11-10T13:01:02.958992+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083265",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "28c959dd77b35fbaa86005f01cf64937",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.donga.com/news/Economy/article/all/20261110/134995528/2",
+      "title": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림",
+      "summary": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림 1월, 배민은 2024년 5월∼2025년 10월 입점업체에 거래 조건을 경쟁사와 같거나 더 유리하게 적용하는",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 78.7,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-10T04:30:00+09:00",
+      "processed_at": "2026-11-10T05:22:54.931843+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 5,
+      "duplicates": [
+        {
+          "title": "배달앱 역대 최대 6319억 과징금···쿠팡 '요기요의 600배' 반발·배민...새 창 열림",
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307981",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "입점업체에 '갑질 의혹' … 쿠팡·배민 과징금 6천억",
+          "url": "http://v.daum.net/v/20261109174521081",
+          "channel": "다음뉴스"
+        },
+        {
+          "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...새 창 열림",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563756",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[A 주간 서머리] 경제·산업계 \"공정위, 배민·쿠팡에 과징금 6319억원.....새 창 열림",
+          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=270835",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 3311억 과징금 이틀 만에 수수료 공제 확대새 창 열림",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625147",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "08ef73fe666742e33ed76bef1eca2225",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+      "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+      "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 41.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-15T11:52:58+09:00",
+      "processed_at": "2026-11-15T17:41:43.462571+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -247,87 +437,6 @@
       "duplicate_count": 0,
       "duplicates": []
     },
-    {
-      "uid": "8ea1a326f35940d882dd068cd90f6a71",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390224.html",
-      "title": "배민, 겨울철 라이더에 1억원 규모 안전용품 지원새 창 열림",
-      "summary": "배민, 겨울철 라이더에 1억원 규모 안전용품 지원새 창 열림 배달의민족의 물류서비스를 전담하는 우아한청년들이 겨울철 배달에 나서는 라이더 500명에게 1억원 규모의 안전",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 21.2,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-13T17:28:20+09:00",
-      "processed_at": "2026-11-15T10:32:35.676224+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "배민, 라이더 500명에 1억 원 규모 안전용품 지원새 창 열림",
-          "url": "https://www.munhwa.com/article/11631184?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "\"겨울밤 라이더 안전 챙긴다\"…배민, 500명에 안전 용품 지원새 창 열림",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213567",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "어두운 겨울밤 다가오자… 배민, 라이더 500명 안전용품 1억 원 지원새 창 열림",
-          "url": "https://www.hankookilbo.com/news/article/A2026111312320000131?did=NA",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "우아한청년들, 배민 라이더 500명에 1억원 규모 야간 안전용품 지원새 창 열림",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611131247467263204ead0791_12",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "ea1cb343a3601aedb4821ca393a40d7f",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.huffingtonpost.kr/article/262052",
-      "title": "쿠팡이츠가 배민·공정위·소상공인 모두의 압박에 포위 당했다 : '점주...새 창 열림",
-      "summary": "쿠팡이츠가 배민·공정위·소상공인 모두의 압박에 포위 당했다 : '점주 다만 배민의 선제적 조치에도 할인 비용 분담을 둘러싼 논란은 남아 있다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 19.3,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-13T11:33:10+09:00",
-      "processed_at": "2026-11-15T10:32:58.301113+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    }
-  ],
-  "feed": [
     {
       "uid": "aed0e6d41e938ef80c6577537ade75b2",
       "brand": "배달앱 일반",
@@ -380,13 +489,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 25.9,
+      "viral_score": 21.8,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-14T12:26:37+09:00",
-      "processed_at": "2026-11-15T10:32:19.931246+09:00",
+      "processed_at": "2026-11-15T17:41:50.693640+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -451,6 +560,11 @@
           "channel": "네이버뉴스"
         },
         {
+          "title": "\"점주 할인액 수수료 없다\" 배민 결단에…쿠팡이츠로 쏠리는 눈새 창 열림",
+          "url": "https://news.tf.co.kr/read/economy/2388530.htm",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
           "url": "https://zdnet.co.kr/view/?no=20261113165818",
           "channel": "네이버뉴스"
@@ -463,11 +577,6 @@
         {
           "title": "쿠팡이츠가 배민·공정위·소상공인 모두의 압박에 포위 당했다 : '점주...새 창 열림",
           "url": "https://www.huffingtonpost.kr/article/262052",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "\"점주 할인액 수수료 없다\" 배민 결단에…쿠팡이츠로 쏠리는 눈새 창 열림",
-          "url": "https://news.tf.co.kr/read/economy/2388530.htm",
           "channel": "네이버뉴스"
         },
         {
@@ -490,14 +599,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 21.8,
+      "viral_score": 19.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-14T07:55:21+09:00",
-      "processed_at": "2026-11-15T10:32:50.895717+09:00",
+      "processed_at": "2026-11-15T17:45:31.474224+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -650,13 +759,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 21.2,
+      "viral_score": 19.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-13T17:28:20+09:00",
-      "processed_at": "2026-11-15T10:32:35.676224+09:00",
+      "processed_at": "2026-11-15T17:44:14.277295+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -677,56 +786,6 @@
         {
           "title": "어두운 겨울밤 다가오자… 배민, 라이더 500명 안전용품 1억 원 지원새 창 열림",
           "url": "https://www.hankookilbo.com/news/article/A2026111312320000131?did=NA",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "28c959dd77b35fbaa86005f01cf64937",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.donga.com/news/Economy/article/all/20261110/134995528/2",
-      "title": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림",
-      "summary": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림 1월, 배민은 2024년 5월∼2025년 10월 입점업체에 거래 조건을 경쟁사와 같거나 더 유리하게 적용하는",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 78.7,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-10T04:30:00+09:00",
-      "processed_at": "2026-11-10T05:22:54.931843+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 4,
-      "duplicates": [
-        {
-          "title": "배달앱 역대 최대 6319억 과징금···쿠팡 '요기요의 600배' 반발·배민...새 창 열림",
-          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307981",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "입점업체에 '갑질 의혹' … 쿠팡·배민 과징금 6천억",
-          "url": "http://v.daum.net/v/20261109174521081",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "[A 주간 서머리] 경제·산업계 \"공정위, 배민·쿠팡에 과징금 6319억원.....새 창 열림",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=270835",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 3311억 과징금 이틀 만에 수수료 공제 확대새 창 열림",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625147",
           "channel": "네이버뉴스"
         }
       ]
@@ -845,16 +904,11 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
           "title": "산지 직거래 농산물도 '배달앱'으로 … 배민, '지역상생' 확대새 창 열림",
           "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700145.html",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 배달팁 할인액도 수수료 산정서 제외새 창 열림",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247471",
           "channel": "네이버뉴스"
         },
         {
@@ -877,13 +931,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 11.6,
+      "viral_score": 10.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-13T15:02:31+09:00",
-      "processed_at": "2026-11-15T10:33:42.025321+09:00",
+      "processed_at": "2026-11-15T17:43:53.544008+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1054,13 +1108,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 35.7,
+      "viral_score": 33.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-13T10:43:54+09:00",
-      "processed_at": "2026-11-15T10:33:02.454316+09:00",
+      "processed_at": "2026-11-15T17:42:33.493031+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1082,14 +1136,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 24.1,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-13T06:30:00+09:00",
-      "processed_at": "2026-11-15T10:33:10.416016+09:00",
+      "processed_at": "2026-11-15T17:42:47.717372+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1167,13 +1221,13 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 17.2,
+      "viral_score": 16.8,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-12T17:02:41+09:00",
-      "processed_at": "2026-11-15T10:33:14.151896+09:00",
+      "processed_at": "2026-11-15T17:42:54.571139+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1219,34 +1273,6 @@
           "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "6102cd39080e821e70e0229e94d23e39",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.banronbodo.com/news/articleView.html?idxno=33354",
-      "title": "[이슈 포커스 上] 공정위 '고무줄 잣대' 과징금…배달앱 \"연락조차 안 한...새 창 열림",
-      "summary": "[이슈 포커스 上] 공정위 '고무줄 잣대' 과징금…배달앱 \"연락조차 안 한 둘러싼 논란이 일고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 28.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-12T13:10:00+09:00",
-      "processed_at": "2026-11-14T04:01:17.388837+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "4598a31f988274c7df651491661e9acd",
@@ -2393,34 +2419,6 @@
           "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "c7b3eeb405a356b1282278e9f09afec6",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261110124322190",
-      "title": "배민, '던킨 두바이 도넛팩' 단독 판매…최대 5000원 할인",
-      "summary": "배민, '던킨 두바이 도넛팩' 단독 판매…최대 5000원 할인 ⓒ우아한형제들 배민 운영사 우아한형제들은 던킨의 신메뉴 출시를 기념해 배민에서만 주문할 수 있는 ‘던킨 두바",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 57.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-10T12:43:00+09:00",
-      "processed_at": "2026-11-10T13:01:02.958992+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "5388a83f1de0c5587dd499317c0219a1",
@@ -9143,39 +9141,123 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "645b8de7aeae0fa8db1a9a56c673b5c2",
-      "brand": "쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.apnews.kr/news/articleView.html?idxno=3052316",
-      "title": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림",
-      "summary": "명륜진사갈비, 쿠팡이츠 입점으로 배달 영역 확장새 창 열림 명륜진사갈비는 지난 9월 30일부터 배달 플랫폼 쿠팡이츠에 입점해 배달 판매를 시작했다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 30.2,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-10-21T13:37:45+09:00",
-      "processed_at": "2026-10-21T18:06:34.604409+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
+        {
+          "uid": "c2c73de76e3aa3e21c2400a5d1208162",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.mt.co.kr/economy/2026/11/15/2026111309331235875",
+          "title": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림",
+          "summary": "\"과징금 산정 기준 명확\"…배달앱·국고채, 공정위 과징금 잣대보니새 창 열림 및 '배민클럽'(배달의민족) 시행 지역 내 모든 입점업체가 최혜대우 요구의 영향을 받았다고 판단했다는 것이다",
+          "sentiment": "negative",
+          "tags": [
+            "#서비스·품질",
+            "#소비자반응",
+            "#기업·정책"
+          ],
+          "viral_score": 63.7,
+          "status": "Rising",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-15T14:30:00+09:00",
+          "processed_at": "2026-11-15T17:41:21.270332+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "9b770fad9bebeb959c57e6929323dad5",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083265",
+          "title": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림",
+          "summary": "배민에서만 만나는 던킨 두바이 도넛팩…쿠폰 적용하면 1만2100원새 창 열림 배달의민족(배민)이 던킨 신메뉴 출시를 기념해 앱 전용 상품을 선보였다",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#서비스·품질",
+            "#마케팅·광고"
+          ],
+          "viral_score": 31.2,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-15T14:10:00+09:00",
+          "processed_at": "2026-11-15T17:41:29.087358+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "a280aee65f6de59e8d81b1cbac167397",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563756",
+          "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...새 창 열림",
+          "summary": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터 배민에는 입점업체의 자체배달 전환을 강제하고 배달예상시간을 사실과 다르게 광고한 행위도 적용됐다",
+          "sentiment": "negative",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 54.0,
+          "status": "Rising",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-15T12:00:00+09:00",
+          "processed_at": "2026-11-15T17:41:36.607875+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "08ef73fe666742e33ed76bef1eca2225",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+          "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+          "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 41.4,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-15T11:52:58+09:00",
+          "processed_at": "2026-11-15T17:41:43.462571+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
         {
           "uid": "fa4149ffdca0db282290e5870884e75f",
           "brand": "배달의민족",
@@ -9189,13 +9271,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 25.9,
+          "viral_score": 21.8,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-14T12:26:37+09:00",
-          "processed_at": "2026-11-15T10:32:19.931246+09:00",
+          "processed_at": "2026-11-15T17:41:50.693640+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9210,33 +9292,28 @@
           "channel": "네이버뉴스",
           "url": "https://www.gokorea.kr/news/articleView.html?idxno=885614",
           "title": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림",
-          "summary": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림 공정위는 쿠팡의 최혜대우 요구만으로 배민의 2만5000원짜리 주문 가격이 최대 1650원 뛴 것으로 추산했다",
+          "summary": "[알쓸다정] 배달앱에 과징금 6319억 때린 '최혜대우', 뭐가 문제였나새 창 열림 배달의민족도 2024년 5월부터 지난해 10월까지 비슷한 방식으로 압박했고, 이 기간 자체배달 수수료를 6",
           "sentiment": "negative",
           "tags": [
+            "#가격·수수료",
             "#소비자반응",
-            "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 34.7,
+          "viral_score": 40.8,
           "status": "Stable",
           "stakeholders": [
-            "소비자"
+            "소비자",
+            "점주"
           ],
           "published_at": "2026-11-14T07:00:00+09:00",
-          "processed_at": "2026-11-15T10:32:27.861256+09:00",
+          "processed_at": "2026-11-15T17:43:17.277624+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달앱"
           ],
-          "duplicate_count": 1,
-          "duplicates": [
-            {
-              "title": "[A 주간 서머리] 경제·산업계 \"공정위, 배민·쿠팡에 과징금 6319억원.....새 창 열림",
-              "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=270835",
-              "channel": "네이버뉴스"
-            }
-          ]
+          "duplicate_count": 0,
+          "duplicates": []
         },
         {
           "uid": "49fd06a200d7c7105fa31e8f13fa8f2b",
@@ -9251,231 +9328,13 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 30.5,
+          "viral_score": 27.3,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-14T06:42:00+09:00",
-          "processed_at": "2026-11-15T10:34:17.482188+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "b5c57019e84cc9cd67392e5b4d562b8b",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065603600441604",
-          "title": "배민, 외식업 현장에 AI 입힌다…장사 효율 높일 실전 도구 27종 공개새 창 열림",
-          "summary": "배민, 외식업 현장에 AI 입힌다…장사 효율 높일 실전 도구 27종 공개새 창 열림 배달의민족(배민)이 외식업 현장의 인공지능(AI) 활용 확산에 나섰다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 12.2,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-11-13T18:00:38+09:00",
-          "processed_at": "2026-11-15T10:32:32.208793+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "8ea1a326f35940d882dd068cd90f6a71",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390224.html",
-          "title": "배민, 겨울철 라이더에 1억원 규모 안전용품 지원새 창 열림",
-          "summary": "배민, 겨울철 라이더에 1억원 규모 안전용품 지원새 창 열림 배달의민족의 물류서비스를 전담하는 우아한청년들이 겨울철 배달에 나서는 라이더 500명에게 1억원 규모의 안전",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 21.2,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-13T17:28:20+09:00",
-          "processed_at": "2026-11-15T10:32:35.676224+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 4,
-          "duplicates": [
-            {
-              "title": "배민, 라이더 500명에 1억 원 규모 안전용품 지원새 창 열림",
-              "url": "https://www.munhwa.com/article/11631184?ref=naver",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "\"겨울밤 라이더 안전 챙긴다\"…배민, 500명에 안전 용품 지원새 창 열림",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213567",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "어두운 겨울밤 다가오자… 배민, 라이더 500명 안전용품 1억 원 지원새 창 열림",
-              "url": "https://www.hankookilbo.com/news/article/A2026111312320000131?did=NA",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "우아한청년들, 배민 라이더 500명에 1억원 규모 야간 안전용품 지원새 창 열림",
-              "url": "https://www.lawissue.co.kr/view.php?ud=202611131247467263204ead0791_12",
-              "channel": "네이버뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "cc79d9e3ab5b8e5986801194402d5a64",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625147",
-          "title": "배민, 3311억 과징금 이틀 만에 수수료 공제 확대새 창 열림",
-          "summary": "배민, 3311억 과징금 이틀 만에 수수료 공제 확대새 창 열림 공정위 판단에 이견을 밝힌 배민이 곧바로 수수료 부담 완화 방안을 내놓으면서 이번 조치에 제재 이후의 부정적",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#소비자반응",
-            "#기업·정책"
-          ],
-          "viral_score": 17.6,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-11-13T17:11:38+09:00",
-          "processed_at": "2026-11-15T10:33:21.890403+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "65f76833aefccdc8d15d28a7ffd7b589",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=190909",
-          "title": "[리테일 인사이드] 배민·GS25·G마켓·11번가·SSG닷컴...\"1만원대 보르...새 창 열림",
-          "summary": "[리테일 인사이드] 배민·GS25·G마켓·11번가·SSG닷컴 대형 온라인 할인 행사에서는 고사양 노트북 등 디지털기기가 매출 상위권을 차지했고, 배달업계는 일몰이 빨라지",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#마케팅·광고"
-          ],
-          "viral_score": 14.6,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-13T16:01:59+09:00",
-          "processed_at": "2026-11-15T10:33:54.142321+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "89d1eb5a7fa7af7cf10dac28e6ceed05",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026111315083012263",
-          "title": "배민 '배달팁 할인' 수수료 제외…벼랑 끝 자영업자 동아줄 될까[NW리포...새 창 열림",
-          "summary": "배민 '배달팁 할인' 수수료 제외…벼랑 끝 자영업자 동아줄 될까[NW리포 배민이 제시한 연간 1100억원의 수수료 절감액에는 기존 음식값 할인 공제분도 포함돼 있다",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#점주·자영업",
-            "#기업·정책"
-          ],
-          "viral_score": 17.2,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-11-13T15:14:03+09:00",
-          "processed_at": "2026-11-15T10:33:37.990391+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "81336ed12804aedfecd68acda0de7d2b",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.fnnews.com/news/202611131455514496",
-          "title": "메뉴 개발·손익 관리…배민, 입점업주 AI 활용 돕는다새 창 열림",
-          "summary": "메뉴 개발·손익 관리…배민, 입점업주 AI 활용 돕는다새 창 열림 가게 알림과 공지사항, 리뷰 답글처럼 배민 입점 점주가 반복해서 작성하는 문구를 위한 지시문도 포함됐다",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#점주·자영업",
-            "#마케팅·광고"
-          ],
-          "viral_score": 11.6,
-          "status": "Stable",
-          "stakeholders": [
-            "점주"
-          ],
-          "published_at": "2026-11-13T15:02:31+09:00",
-          "processed_at": "2026-11-15T10:33:42.025321+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "b266c5f7be1de8615059bdf01ea48cf9",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://view.asiae.co.kr/article/2026111313135410368",
-          "title": "자체배달, 글로벌 대세인데…공정위 배민 제재 부작용 우려새 창 열림",
-          "summary": "자체배달, 글로벌 대세인데…공정위 배민 제재 부작용 우려새 창 열림 공정거래위원회가 배달의민족이 입점업체에 자체배달(OD)로 전환을 강제했다는 이유로 과징금을 처분한 것에 대해",
-          "sentiment": "negative",
-          "tags": [
-            "#서비스·품질",
-            "#소비자반응",
-            "#기업·정책"
-          ],
-          "viral_score": 26.2,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자",
-            "점주"
-          ],
-          "published_at": "2026-11-13T13:40:36+09:00",
-          "processed_at": "2026-11-15T10:32:54.519264+09:00",
+          "processed_at": "2026-11-15T17:44:55.847122+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9485,14 +9344,14 @@
           "duplicates": []
         }
       ],
-      "total": 10,
-      "avg_score": 21.2,
+      "total": 7,
+      "avg_score": 40.0,
       "ratio": {
-        "negative": 20,
-        "positive": 30,
-        "neutral": 50
+        "negative": 43,
+        "positive": 43,
+        "neutral": 14
       },
-      "mentions": 21
+      "mentions": 9
     },
     "coupang": {
       "issues": [],
@@ -9503,7 +9362,7 @@
         "positive": 0,
         "neutral": 0
       },
-      "mentions": 5
+      "mentions": 2
     }
   }
 }
