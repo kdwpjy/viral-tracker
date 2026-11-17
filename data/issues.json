@@ -1,99 +1,500 @@
 {
-  "updated_at": "2026-11-17T14:44:36.705384+09:00",
+  "updated_at": "2026-11-18T00:17:48.694781+09:00",
   "hot": [
     {
-      "uid": "4b2efa2b3e1edeb5c779a226063811ca",
+      "uid": "668a8ea740aefcb160d8579d83c033f3",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611170101",
-      "title": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림",
-      "summary": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림 한편 배달앱 리뷰 정책을 둘러싼 소비자 불만도 이어지고 있다",
+      "url": "https://www.g-enews.com/view.php?ud=202611171529365058a96f092d0c_1",
+      "title": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주...새 창 열림",
+      "summary": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주 한가협은 이번 논란이 단순히 약관을 바꿀 문제가 아니라고 지적했다",
       "sentiment": "negative",
       "tags": [
+        "#가격·수수료",
         "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
+        "#소비자반응"
       ],
-      "viral_score": 57.3,
-      "status": "Rising",
+      "viral_score": 80.3,
+      "status": "Hot",
       "stakeholders": [
-        "소비자"
+        "점주"
       ],
-      "published_at": "2026-11-17T10:52:02+09:00",
-      "processed_at": "2026-11-17T14:42:50.985921+09:00",
+      "published_at": "2026-11-17T15:32:06+09:00",
+      "processed_at": "2026-11-18T00:16:04.131946+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 13,
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "5bac848f5be989a0e34c4488c2304c1c",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
+      "title": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림",
+      "summary": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림 문제는 지난 7월께 신한은행의 배달 애플리케이션 '땡겨요' 사업단 간부가 경쟁사인 쿠팡이츠의 영업 비밀을 무",
+      "sentiment": "negative",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 74.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T21:29:10+09:00",
+      "processed_at": "2026-11-18T00:15:27.686338+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "배달의민족, 리뷰 시스템 전면 개편…음식·배달 별점 분리 운영새 창 열림",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=303877",
+          "title": "대구공공배달앱 새 운영사에 '신한은행 땡겨요' 선정새 창 열림",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119191",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084265",
+          "title": "대구시 공공배달앱 우선협상대상자 ‘신한은행 땡겨요’ 선정새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261117501355",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식만 반영새 창 열림",
-          "url": "http://www.inews24.com/view/2027134",
+          "title": "대구시 공공배달앱 간판 바뀐다…새 운영사에 '신한 땡겨요' 낙점새 창 열림",
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=561094",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "6da7c45a73261d2904930dccef639a2d",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33158",
+      "title": "한국가맹점주協 \"1100억원은 혜택 아냐\"…배민에 통합할인 수수료 환급...새 창 열림",
+      "summary": "한국가맹점주協 \"1100억원은 혜택 아냐\"…배민에 통합할인 수수료 환급 등 주요 업주단체와 더불어민주당 오세희 의원이 공개적으로 환영의 뜻을 밝혔다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 64.0,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-17T15:01:35+09:00",
+      "processed_at": "2026-11-18T00:16:55.790208+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배달팁 할인해도 수수료는 줄어든다…배민, 점주 부담 연 1100억원 낮춘...새 창 열림",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083905",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "512d4f76bcc7178398b49a7befb835f4",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=757561",
+      "title": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림",
+      "summary": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림 배민이 파트너 요청에 속도를 내는 배경에는 업주의 불만이 쌓여 있다는 점이 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#소비자반응"
+      ],
+      "viral_score": 55.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-17T16:22:49+09:00",
+      "processed_at": "2026-11-18T00:16:42.699152+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 12,
+      "duplicates": [
+        {
+          "title": "배민, 리뷰 서비스 개편…배달·음식 별점 분리에 '칭찬리뷰' 신설새 창 열림",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903423",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 음식·배달 별점 분리…가게 평점은 '음식'만 반영새 창 열림",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=755221",
+          "title": "배민, 음식·배달 별점 분리한다새 창 열림",
+          "url": "https://byline.network/?p=9004111222628244",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101415",
+          "title": "\"늦은배달로 인한 별점 테러 피해 없도록\"… 배민, 음식·배달 별점 분리...새 창 열림",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45375",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 배달·음식 별점 따로 매긴다…가게 평균별점은 '음식'으로만새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=782430",
+          "title": "배달 늦었다고 식당 별점 깎이는 일 없앤다…배민, 음식·배달 평가 분리새 창 열림",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/17/MLRGWB3Z3FB3ZDYDNAZAJ7IDFE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "https://www.sedaily.com/article/20115323?ref=naver",
+          "title": "배달의민족, 음식·배달 평가 분리…가게 평균 별점은 음식 리뷰만 반영새 창 열림",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611172126243368204ead0791_12",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달의민족, 배달·음식 '별점 분리'…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367679",
+          "title": "배민, 리뷰 시스템 개편…배달·음식 별점 따로 매긴다새 창 열림",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=191070",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 음식·배달 별점 분리…업주 불만에 리뷰제도 손질새 창 열림",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122024",
+          "title": "배민, 배달·음식 별점 따로 매긴다...리뷰 서비스 개편새 창 열림",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026111717482730270a47484cf8_23",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달·음식 따로 평가…배민 리뷰 더 '공정'해진다새 창 열림",
-          "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/17/0010",
+          "title": "배민, 배달·음식 별점 이제 따로 매긴다… 속 터지던 업주들 의견 반영새 창 열림",
+          "url": "https://www.hankookilbo.com/news/article/A2026111714430000610?did=NA",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민 리뷰, 배달·음식 별점 분리…가게 평점은 음식 별점으로만새 창 열림",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=148685",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달 불만에 깎이던 음식 별점…배민, 별점 따로 매긴다새 창 열림",
+          "url": "https://www.peoplewatch.co.kr/article/view/ppw202611170016",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611170101",
           "channel": "네이버뉴스"
         },
         {
           "title": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한...새 창 열림",
           "url": "https://www.mk.co.kr/article/12210897",
           "channel": "네이버뉴스"
-        },
+        }
+      ]
+    },
+    {
+      "uid": "32fad4845c8762a02f0916fe06527ebb",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.lawissue.co.kr/view.php?ud=20261117223133433204ead0791_12",
+      "title": "쿠팡이츠서비스, 배달파트너 대상 이륜차 주행 안전교육 확대새 창 열림",
+      "summary": "쿠팡이츠서비스, 배달파트너 대상 이륜차 주행 안전교육 확대새 창 열림 쿠팡이츠서비스가 한국도로교통공단과 함께 배달파트너의 이륜차 운전 역량을 높이기 위한 실습 교육을 진행했다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 51.2,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T22:31:58+09:00",
+      "processed_at": "2026-11-18T00:15:23.923499+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
         {
-          "title": "배민, '음식·배달 별점' 분리…누적 리뷰 수도 공개새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026111709394920861",
+          "title": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 안전교육 실시새 창 열림",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=191064",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배달이 늦어도 가게 별점은 안 깎인다, 배민 리뷰 별점 음식·배달 분리새 창 열림",
-          "url": "https://platum.kr/archives/298753",
+          "title": "쿠팡이츠서비스, 배달파트너 이륜차 안전교육…울산 이어 30일 인천서 진...새 창 열림",
+          "url": "https://www.todayeconomic.com/news/article.html?no=32885",
           "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "67ff4cc9d7ba4f20936128897826021f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.etnews.com/20261117000375",
+      "title": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림",
+      "summary": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림 수수료율 자체보다 할인 정산 방식, 별점처럼 체감 부담이 큰 세부 운영 문제를 겨냥한 '핀셋형' 정책을 꺼내",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 50.5,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-17T16:09:47+09:00",
+      "processed_at": "2026-11-18T00:16:47.134016+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "43190d59fdd2434018c4150558c8b8cb",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.ajunews.com/view/20261117210716559",
+      "title": "소상공인 수수료 부담 완화…대구시, 향후 3년간 공공배달앱 이끌 새 파...새 창 열림",
+      "summary": "소상공인 수수료 부담 완화…대구시, 향후 3년간 공공배달앱 이끌 새 파 이달 말 협약 체결 및 12월 사전 준비 거쳐 내년 1월 1일부터 대구공공배달앱 정식 서비스 대구테크노파크 ",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 49.2,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-17T21:10:50+09:00",
+      "processed_at": "2026-11-18T00:15:51.902464+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "a140e66065515927bedf1dae045e2e79",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://zdnet.co.kr/view/?no=20261117164922",
+      "title": "배민 상생책에 소상공인 단체들 환영…\"현장 목소리 잘 반영\"새 창 열림",
+      "summary": "배민 상생책에 소상공인 단체들 환영…\"현장 목소리 잘 반영\"새 창 열림 이어 쿠팡이츠를 비롯한 다른 배달 플랫폼에도 할인 수수료 부과 방식의 즉각적인 개선을 촉구했다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 48.0,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-17T17:20:35+09:00",
+      "processed_at": "2026-11-18T00:15:31.823225+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "2a59c53231d875393e4be5964b8644fe",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/113761",
+      "title": "[무료배달의 청구서②]1만9500원에 팔아 9909원 받아… 식당 사장님 배달...새 창 열림",
+      "summary": "[무료배달의 청구서②]1만9500원에 팔아 9909원 받아… 식당 사장님 배달 |스마트투데이=최아랑 기자| '무료배달’ 경쟁을 벌이고 있는 배달의민족(배민)과 쿠팡이츠의 입점 점주들이 중",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 46.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-16T14:46:00+09:00",
+      "processed_at": "2026-11-18T00:16:08.527312+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "무료배달"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "c623922f4c015ead30dda1bd5aa848f3",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084265",
+      "title": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림",
+      "summary": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림 배달의민족(배민) 운영사 우아한형제들이 리뷰 서비스를 개편해 입점 점주와 소비자 모두가 존중받는 리뷰 문화 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 39.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-17T13:47:41+09:00",
+      "processed_at": "2026-11-18T00:17:03.769090+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    }
+  ],
+  "feed": [
+    {
+      "uid": "512d4f76bcc7178398b49a7befb835f4",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=757561",
+      "title": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림",
+      "summary": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림 배민이 파트너 요청에 속도를 내는 배경에는 업주의 불만이 쌓여 있다는 점이 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#소비자반응"
+      ],
+      "viral_score": 55.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-17T16:22:49+09:00",
+      "processed_at": "2026-11-18T00:16:42.699152+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 12,
+      "duplicates": [
+        {
+          "title": "배민, 리뷰 서비스 개편…배달·음식 별점 분리에 '칭찬리뷰' 신설새 창 열림",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903423",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 음식·배달 별점 분리한다새 창 열림",
+          "url": "https://byline.network/?p=9004111222628244",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "\"늦은배달로 인한 별점 테러 피해 없도록\"… 배민, 음식·배달 별점 분리...새 창 열림",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45375",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달 늦었다고 식당 별점 깎이는 일 없앤다…배민, 음식·배달 평가 분리새 창 열림",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/17/MLRGWB3Z3FB3ZDYDNAZAJ7IDFE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달의민족, 음식·배달 평가 분리…가게 평균 별점은 음식 리뷰만 반영새 창 열림",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611172126243368204ead0791_12",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 리뷰 시스템 개편…배달·음식 별점 따로 매긴다새 창 열림",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=191070",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 배달·음식 별점 따로 매긴다...리뷰 서비스 개편새 창 열림",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=2026111717482730270a47484cf8_23",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 배달·음식 별점 이제 따로 매긴다… 속 터지던 업주들 의견 반영새 창 열림",
+          "url": "https://www.hankookilbo.com/news/article/A2026111714430000610?did=NA",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민 리뷰, 배달·음식 별점 분리…가게 평점은 음식 별점으로만새 창 열림",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=148685",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달 불만에 깎이던 음식 별점…배민, 별점 따로 매긴다새 창 열림",
+          "url": "https://www.peoplewatch.co.kr/article/view/ppw202611170016",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611170101",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한...새 창 열림",
+          "url": "https://www.mk.co.kr/article/12210897",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "9f175fdb93d89df527b46b6299f200a2",
+      "brand": "배달의민족",
+      "channel": "클리앙",
+      "url": "https://www.clien.net/service/board/news/19294297",
+      "title": "[단독] 우버, 배민 모회사 지분 66.6% 확보…‘택시·배달 결합’ 띄우나",
+      "summary": "[단독] 우버, 배민 모회사 지분 66 6% 확보…‘택시·배달 결합’ 띄우나",
+      "sentiment": "neutral",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 26.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T23:05:26+09:00",
+      "processed_at": "2026-11-18T00:15:15.599135+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "8a29e5839dd5c0dc290d344f2571fd9a",
@@ -123,71 +524,379 @@
       "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "쿠팡이츠, 찾아가는 배달파트너 안전교육 실시새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026111714122995078",
+          "title": "쿠팡이츠서비스, 배달파트너 대상 이륜차 주행 안전교육 확대새 창 열림",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261117223133433204ead0791_12",
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠, 배달기사 이륜차 주행 실습교육 확대새 창 열림",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122041",
+          "title": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 안전교육 실시새 창 열림",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=191064",
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠서비스, 배달파트너 이륜차 주행 안전교육 실시새 창 열림",
-          "url": "http://www.breaknews.com/1251581",
+          "title": "쿠팡이츠서비스, 배달파트너 이륜차 안전교육…울산 이어 30일 인천서 진...새 창 열림",
+          "url": "https://www.todayeconomic.com/news/article.html?no=32885",
           "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "2a59c53231d875393e4be5964b8644fe",
+      "uid": "5bac848f5be989a0e34c4488c2304c1c",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
+      "title": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림",
+      "summary": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림 문제는 지난 7월께 신한은행의 배달 애플리케이션 '땡겨요' 사업단 간부가 경쟁사인 쿠팡이츠의 영업 비밀을 무",
+      "sentiment": "negative",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 74.9,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T21:29:10+09:00",
+      "processed_at": "2026-11-18T00:15:27.686338+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 4,
+      "duplicates": [
+        {
+          "title": "대구공공배달앱 새 운영사에 '신한은행 땡겨요' 선정새 창 열림",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119191",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "대구시 공공배달앱 우선협상대상자 ‘신한은행 땡겨요’ 선정새 창 열림",
+          "url": "https://www.kmib.co.kr/article/20261117501355",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "대구시 공공배달앱 간판 바뀐다…새 운영사에 '신한 땡겨요' 낙점새 창 열림",
+          "url": "https://www.dkilbo.com/news/articleView.html?idxno=561094",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "제주형 공공배달앱 우선협상대상자 '먹깨비'",
+          "url": "http://v.daum.net/v/20261103205222515",
+          "channel": "다음뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "daefe6d3d8d0c2b31056e0cdefb638e7",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.sportsseoul.com/news/read/1643590?ref=naver",
+      "title": "박희승, “배달앱 문제의 본질은 수수료율 아닌 소상공인 종속 구조” ...새 창 열림",
+      "summary": "박희승, “배달앱 문제의 본질은 수수료율 아닌 소상공인 종속 구조” △ 거래비용 부담 넘어 시장구조 개선해야… 월 매출의 평균 26",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 62.0,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-10-23T16:40:44+09:00",
+      "processed_at": "2026-10-23T23:49:01.702246+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "소상공인 수수료 부담 완화…대구시, 향후 3년간 공공배달앱 이끌 새 파...새 창 열림",
+          "url": "https://www.ajunews.com/view/20261117210716559",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "194c60ccd5425570cefbc2a2eaed3002",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140052",
+      "title": "배민, 별점은 최근 6개월·리뷰는 누적…가게 평가 기준 이원화새 창 열림",
+      "summary": "배민, 별점은 최근 6개월·리뷰는 누적…가게 평가 기준 이원화새 창 열림 배달 평가 결과는 배달 서비스 개선에 활용하며 라이더 개인의 평가나 배차 및 보상에는 반영하지 않는다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#소비자반응"
+      ],
+      "viral_score": 28.1,
+      "status": "Stable",
+      "stakeholders": [
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-17T17:26:53+09:00",
+      "processed_at": "2026-11-18T00:17:15.357355+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "825e0cb1eed66420f19b14b04759d993",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.smarttoday.co.kr/ko-kr/articles/113761",
-      "title": "[무료배달의 청구서②]1만9500원에 팔아 9909원 받아… 식당 사장님 배달...새 창 열림",
-      "summary": "[무료배달의 청구서②]1만9500원에 팔아 9909원 받아… 식당 사장님 배달 |스마트투데이=최아랑 기자| '무료배달’ 경쟁을 벌이고 있는 배달의민족(배민)과 쿠팡이츠의 입점 점주들이 중",
+      "url": "https://zdnet.co.kr/view/?no=20261112164943",
+      "title": "소상공인 단체들, 배민 할인 수수료 면제 환영…\"쿠팡이츠도 동참해야\"새 창 열림",
+      "summary": "소상공인 단체들, 배민 할인 수수료 면제 환영…\"쿠팡이츠도 동참해야\"새 창 열림 다만 무료배달 정책과 수수료 체계, 배달비 분담 구조 등 추가적인 제도 개선이 필요하다고 강조했다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 73.8,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-12T17:01:27+09:00",
+      "processed_at": "2026-11-12T23:19:56.730409+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 6,
+      "duplicates": [
+        {
+          "title": "쿠팡·쿠팡이츠 전산 장애에 소상공인 반발 … \"영업 손실 보상해야\"새 창 열림",
+          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246396",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민, 소상공인 짐 덜어낸다…모든 할인에 플랫폼 수수료 전면 면제새 창 열림",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93949",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민 상생책에 소상공인 단체들 환영…\"현장 목소리 잘 반영\"새 창 열림",
+          "url": "https://zdnet.co.kr/view/?no=20261117164922",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[마켓+]배민 백기 든 수수료 인하 경쟁…쿠팡이츠도 바뀌나새 창 열림",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119799",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "쿠팡이츠가 배민·공정위·소상공인 모두의 압박에 포위 당했다 : '점주...새 창 열림",
+          "url": "https://www.huffingtonpost.kr/article/262052",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
+          "url": "https://zdnet.co.kr/view/?no=20261113165818",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "772722bc25fa903d00d76107f4695ee6",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87919",
+      "title": "배달 지연에 깎이던 식당 별점 사라진다…배민, 리뷰 시스템 개편새 창 열림",
+      "summary": "배달 지연에 깎이던 식당 별점 사라진다…배민, 리뷰 시스템 개편새 창 열림 배달 별점 데이터는 배민의 배달 서비스 품질 개선에만 쓰이며, 라이더 개인의 평가나 배차, 보상 기준에는 영",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 30.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-17T17:17:06+09:00",
+      "processed_at": "2026-11-18T00:17:19.136507+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "6da7c45a73261d2904930dccef639a2d",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33158",
+      "title": "한국가맹점주協 \"1100억원은 혜택 아냐\"…배민에 통합할인 수수료 환급...새 창 열림",
+      "summary": "한국가맹점주協 \"1100억원은 혜택 아냐\"…배민에 통합할인 수수료 환급 등 주요 업주단체와 더불어민주당 오세희 의원이 공개적으로 환영의 뜻을 밝혔다",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 53.0,
+      "viral_score": 64.0,
       "status": "Rising",
       "stakeholders": [
-        "소비자",
         "점주"
       ],
-      "published_at": "2026-11-16T14:46:00+09:00",
-      "processed_at": "2026-11-17T14:42:59.243011+09:00",
+      "published_at": "2026-11-17T15:01:35+09:00",
+      "processed_at": "2026-11-18T00:16:55.790208+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "무료배달"
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "배민, 파트너 부담 할인 전부 수수료에서 뺀다…연간 1100억 원 규모 부...새 창 열림",
+          "url": "https://www.globalepic.co.kr/view.php?ud=2026111213033311454ee4ea3d05_29",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "배달팁 할인해도 수수료는 줄어든다…배민, 점주 부담 연 1100억원 낮춘...새 창 열림",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083905",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "e7d392b90d186450482c2e4aa330a8c9",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.dailian.co.kr/news/view/1716280/?sc=Naver",
+      "title": "\"리뷰는 사장님의 소중한 자산\"…배민 리뷰 개편에 업주단체 '환영'새 창 열림",
+      "summary": "\"리뷰는 사장님의 소중한 자산\"…배민 리뷰 개편에 업주단체 '환영'새 창 열림 배달의민족(이하 배민)이 음식과 배달에 대한 별점을 분리하고 리뷰 수를 전체 기간 누적으로 표시하는 등 리뷰",
+      "sentiment": "positive",
+      "tags": [
+        "#점주·자영업",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 39.6,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-17T17:05:00+09:00",
+      "processed_at": "2026-11-18T00:16:34.625512+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
     },
     {
-      "uid": "ee424591bf8b83aa8942f164afcfc993",
-      "brand": "배달의민족",
+      "uid": "b513bdee1c0fc081858ba179fe397c65",
+      "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.sidae.com/article/2026111709180272375",
-      "title": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림",
-      "summary": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림 배민은 입점 업체와의 상생을 위해 점주 불편을 덜어주는 정책·서비스 개편에 나섰다",
-      "sentiment": "positive",
+      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024208",
+      "title": "[유통가 오늘] GS리테일ㆍ쿠팡이츠ㆍLFㆍ유한킴벌리새 창 열림",
+      "summary": "[유통가 오늘] GS리테일ㆍ쿠팡이츠ㆍLFㆍ유한킴벌리새 창 열림 쿠팡이츠, 한국도로교통공단과 찾아가는 배달파트너 주행 안전교육 실시 쿠팡이츠서비스(CES)가 한국도로교통공단",
+      "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
         "#기업·정책"
+      ],
+      "viral_score": 30.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T16:57:06+09:00",
+      "processed_at": "2026-11-18T00:15:39.446864+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[유통가 오늘] BGF리테일ㆍ배달의민족ㆍhyㆍ락앤락새 창 열림",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022315",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "6894973ae60086df71c6b7fe84683034",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12206083",
+      "title": "배민, 업주 부담 덜어준다...사장님이 깎아준 배달팁, 이제 수수료 안 떼...새 창 열림",
+      "summary": "배민, 업주 부담 덜어준다 사장님이 깎아준 배달팁, 이제 수수료 안 떼",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 67.8,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-12T10:02:24+09:00",
+      "processed_at": "2026-11-12T13:50:30.648107+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배달비 3000원 깎아준 사장님, 수수료는 얼마 낼까 [솔로이코노미]새 창 열림",
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=104642",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "67ff4cc9d7ba4f20936128897826021f",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.etnews.com/20261117000375",
+      "title": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림",
+      "summary": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림 수수료율 자체보다 할인 정산 방식, 별점처럼 체감 부담이 큰 세부 운영 문제를 겨냥한 '핀셋형' 정책을 꺼내",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
       ],
       "viral_score": 50.5,
       "status": "Rising",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-17T09:42:39+09:00",
-      "processed_at": "2026-11-17T14:43:28.761756+09:00",
+      "published_at": "2026-11-17T16:09:47+09:00",
+      "processed_at": "2026-11-18T00:16:47.134016+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -197,345 +906,62 @@
       "duplicates": []
     },
     {
-      "uid": "bea971a43edd2ccc7b87f45a0715ecae",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.joseilbo.com/news/news_read.php?uid=579819&class=17&grp=",
-      "title": "'배달 불만에 가게 별점 안 깎인다'…배민, 수수료 이어 리뷰도 손질새 창 열림",
-      "summary": "'배달 불만에 가게 별점 안 깎인다'…배민, 수수료 이어 리뷰도 손질새 창 열림 공정거래위원회의 대규모 과징금 부과 방침이 발표된 이후 배달의민족(배민)이 입점 업주들의 부담을 줄이기 위한",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 40.5,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-17T14:37:04+09:00",
-      "processed_at": "2026-11-17T14:44:12.680355+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"배달불만에 '가게평점'깎일 일 없앤다\" 배민, 리뷰서비스 개편새 창 열림",
-          "url": "https://www.catchnews.kr/news/articleView.html?idxno=130592",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "7f237506f5aa0fdd8deee5fb9164441e",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://kpenews.com/View.aspx?No=4313705",
-      "title": "[여의도와 경제] 배달의민족은 어쩌다 하루도 바람 잘 날 없는 플랫폼이...새 창 열림",
-      "summary": "[여의도와 경제] 배달의민족은 어쩌다 하루도 바람 잘 날 없는 플랫폼이 공정위는 배민이 상대적으로 수수료 부담이 낮은 가게배달의 노출 기회를 줄이고 자체배달을 더 유리하게 보이도록",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 38.4,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-16T08:52:32+09:00",
-      "processed_at": "2026-11-17T14:43:32.587642+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "78ac6d8389b8f4d16813fc45a7c07d19",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.fnnews.com/news/202611171417436502",
-      "title": "대구 공공배달앱 차기 운영사로 '㈜신한은행 땡겨요' 낙점새 창 열림",
-      "summary": "대구 공공배달앱 차기 운영사로 '㈜신한은행 땡겨요' 낙점새 창 열림 ' 대구시가 민간 배달플랫폼의 높은 수수료로 어려움을 겪는 지역 소상공인의 부담을 덜기 위해 오는 2027년",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 37.7,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-17T14:36:06+09:00",
-      "processed_at": "2026-11-17T14:42:46.740927+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "fac05b0175cb9846c4686143c71effe7",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754619",
-      "title": "성심당 서울 온다… '2026 광화문 빵축제' 참여 빵집 라인업·입장·배민...새 창 열림",
-      "summary": "성심당 서울 온다… '2026 광화문 빵축제' 참여 빵집 라인업·입장·배민 행사 현장에서 앱 내 픽업 탭을 통해 매장과 상품을 선택해 주문한 뒤 준비 완료 알림에 맞춰 행사장 내 배민",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 37.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-17T14:30:40+09:00",
-      "processed_at": "2026-11-17T14:41:48.297627+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "216c3a3b1375c4d23085af172284e709",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.newsis.com/view/NISX20261117_0003871155",
-      "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림",
-      "summary": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림 최근 메뉴 개선이나 서비스 변화에 따른 고객 평가를 반영하기 위한 조치다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#기업·정책"
-      ],
-      "viral_score": 36.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-17T11:20:09+09:00",
-      "processed_at": "2026-11-17T14:42:16.302794+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6dc913e1b9b1e04a3e31a324a789f96e",
+      "uid": "73355b01b79bc2d065a29fda359bc598",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://economist.co.kr/article/view/ecn202611170027",
-      "title": "육식사관학교, 신메뉴 ‘쉑쉑마늘마늘삼겹’ 출시…17일 배달앱 5,000원...새 창 열림",
-      "summary": "육식사관학교, 신메뉴 ‘쉑쉑마늘마늘삼겹’ 출시…17일 배달앱 5,000원 -328번 칼집 낸 맥반석 직화 삼겹에 특제 마늘소스 적용…용기째 흔들어 먹는 방식 -전국 207개 매장 정",
+      "url": "https://www.etnews.com/20261117000242",
+      "title": "상생배달앱 예산 '1200억' 쿠폰은 절반, 라이더·점주 지원은 확대로 가...새 창 열림",
+      "summary": "상생배달앱 예산 '1200억' 쿠폰은 절반, 라이더·점주 지원은 확대로 가 업계 관계자는 “정부는 그간 공공배달앱 활성화를 위해 단순한 소비자 쿠폰 지원에 집중해왔지만, 이번에 배달앱",
       "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 35.4,
+      "viral_score": 26.8,
       "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-17T12:32:00+09:00",
-      "processed_at": "2026-11-17T14:42:08.914317+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    }
-  ],
-  "feed": [
-    {
-      "uid": "b14ef0ced2bea856178f40b1296e9fcd",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.fnnews.com/news/202611051540274202",
-      "title": "\"수수료 낮춰라\" vs \"소득 깎인다\"…배달앱 규제 갈등 격화새 창 열림",
-      "summary": "\"수수료 낮춰라\" vs \"소득 깎인다\"…배달앱 규제 갈등 격화새 창 열림 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 제한하는 수수료 상한제 입법을 놓고 자영업자",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#점주·자영업"
-      ],
-      "viral_score": 66.6,
-      "status": "Rising",
       "stakeholders": [
         "소비자",
         "점주",
         "라이더"
       ],
-      "published_at": "2026-11-05T16:06:39+09:00",
-      "processed_at": "2026-11-05T17:49:56.097122+09:00",
+      "published_at": "2026-11-17T16:00:00+09:00",
+      "processed_at": "2026-11-18T00:16:59.709778+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "'배달 불만에 가게 별점 안 깎인다'…배민, 수수료 이어 리뷰도 손질새 창 열림",
-          "url": "http://www.joseilbo.com/news/news_read.php?uid=579819&class=17&grp=",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
-      "uid": "ecdf4a76e96d9498899d532c7c56f959",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261029093840123",
-      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
-      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
+      "uid": "668a8ea740aefcb160d8579d83c033f3",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.g-enews.com/view.php?ud=202611171529365058a96f092d0c_1",
+      "title": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주...새 창 열림",
+      "summary": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주 한가협은 이번 논란이 단순히 약관을 바꿀 문제가 아니라고 지적했다",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
+        "#서비스·품질",
+        "#소비자반응"
       ],
-      "viral_score": 68.3,
-      "status": "Rising",
+      "viral_score": 80.3,
+      "status": "Hot",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-10-29T09:38:00+09:00",
-      "processed_at": "2026-10-29T10:32:23.355960+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "대구 공공배달앱 차기 운영사로 '㈜신한은행 땡겨요' 낙점새 창 열림",
-          "url": "https://www.fnnews.com/news/202611171417436502",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "4b2efa2b3e1edeb5c779a226063811ca",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611170101",
-      "title": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림",
-      "summary": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림 한편 배달앱 리뷰 정책을 둘러싼 소비자 불만도 이어지고 있다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 57.3,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-17T10:52:02+09:00",
-      "processed_at": "2026-11-17T14:42:50.985921+09:00",
+      "published_at": "2026-11-17T15:32:06+09:00",
+      "processed_at": "2026-11-18T00:16:04.131946+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 13,
-      "duplicates": [
-        {
-          "title": "배달의민족, 리뷰 시스템 전면 개편…음식·배달 별점 분리 운영새 창 열림",
-          "url": "https://www.widedaily.com/news/articleView.html?idxno=303877",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084265",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식만 반영새 창 열림",
-          "url": "http://www.inews24.com/view/2027134",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…가게 평점은 '음식'만 반영새 창 열림",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=755221",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101415",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 배달·음식 별점 따로 매긴다…가게 평균별점은 '음식'으로만새 창 열림",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=782430",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족, 배달·음식 '별점 분리'…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367679",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-          "url": "https://www.sedaily.com/article/20115323?ref=naver",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 음식·배달 별점 분리…업주 불만에 리뷰제도 손질새 창 열림",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122024",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달·음식 따로 평가…배민 리뷰 더 '공정'해진다새 창 열림",
-          "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/17/0010",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한...새 창 열림",
-          "url": "https://www.mk.co.kr/article/12210897",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, '음식·배달 별점' 분리…누적 리뷰 수도 공개새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026111709394920861",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달이 늦어도 가게 별점은 안 깎인다, 배민 리뷰 별점 음식·배달 분리새 창 열림",
-          "url": "https://platum.kr/archives/298753",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "fac05b0175cb9846c4686143c71effe7",
@@ -594,45 +1020,46 @@
       "duplicates": []
     },
     {
-      "uid": "8a29e5839dd5c0dc290d344f2571fd9a",
-      "brand": "쿠팡이츠",
+      "uid": "c623922f4c015ead30dda1bd5aa848f3",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5378",
-      "title": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 교육새 창 열림",
-      "summary": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 교육새 창 열림 쿠팡이츠서비스가 한국도로교통공단과 손잡고 배달파트너를 대상으로 이륜차 주행 실습 중심의 안전교육을 확대한다",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084265",
+      "title": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림",
+      "summary": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림 배달의민족(배민) 운영사 우아한형제들이 리뷰 서비스를 개편해 입점 점주와 소비자 모두가 존중받는 리뷰 문화 ",
       "sentiment": "positive",
       "tags": [
         "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
+        "#소비자반응",
+        "#마케팅·광고"
       ],
-      "viral_score": 53.2,
-      "status": "Rising",
+      "viral_score": 39.8,
+      "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "점주"
       ],
-      "published_at": "2026-11-17T14:12:58+09:00",
-      "processed_at": "2026-11-17T14:42:31.184774+09:00",
+      "published_at": "2026-11-17T13:47:41+09:00",
+      "processed_at": "2026-11-18T00:17:03.769090+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "쿠팡이츠"
+        "배달의민족"
       ],
       "duplicate_count": 3,
       "duplicates": [
         {
-          "title": "쿠팡이츠, 찾아가는 배달파트너 안전교육 실시새 창 열림",
-          "url": "https://view.asiae.co.kr/article/2026111714122995078",
+          "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871155",
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠, 배달기사 이륜차 주행 실습교육 확대새 창 열림",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122041",
+          "title": "\"배달불만에 '가게평점'깎일 일 없앤다\" 배민, 리뷰서비스 개편새 창 열림",
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=130592",
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠서비스, 배달파트너 이륜차 주행 안전교육 실시새 창 열림",
-          "url": "http://www.breaknews.com/1251581",
+          "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
           "channel": "네이버뉴스"
         }
       ]
@@ -694,117 +1121,26 @@
       "duplicates": []
     },
     {
-      "uid": "bc4b839258cb0488efbb819716355e01",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293192",
-      "title": "[굿모닝! 6일 유통가 소식] 롯데하이마트·홈앤쇼핑·배민·LG생활건강·...새 창 열림",
-      "summary": "6일 유통가 소식] 롯데하이마트·홈앤쇼핑·배민·LG생활건강· 롯데하이마트는 블랙프라이데이 시즌을 맞아 연중 최대 규모의 가전 쇼핑행사인 '하이마트 블프'를 한다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-06T11:32:13+09:00",
-      "processed_at": "2026-11-06T13:06:08.102507+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[굿모닝! 17일 유통가 소식] bhc·이디야커피·배민·신라면세점·피죤·...새 창 열림",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293532",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "216c3a3b1375c4d23085af172284e709",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.newsis.com/view/NISX20261117_0003871155",
-      "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림",
-      "summary": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림 최근 메뉴 개선이나 서비스 변화에 따른 고객 평가를 반영하기 위한 조치다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#기업·정책"
-      ],
-      "viral_score": 36.9,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-17T11:20:09+09:00",
-      "processed_at": "2026-11-17T14:42:16.302794+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "17e172f3bbe0e64a4677b1d158c3eb1a",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.catchnews.kr/news/articleView.html?idxno=130592",
-      "title": "\"배달불만에 '가게평점'깎일 일 없앤다\" 배민, 리뷰서비스 개편새 창 열림",
-      "summary": "\"배달불만에 '가게평점'깎일 일 없앤다\" 배민, 리뷰서비스 개편새 창 열림 배민 운영사 우아한형제들은 파트너(입점업주) 의견을 반영해 리뷰서비스를 개편한다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 33.7,
-      "status": "Stable",
-      "stakeholders": [
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-11-17T10:58:48+09:00",
-      "processed_at": "2026-11-17T14:44:08.799654+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "ff4ae9075a79f4b62e2c4e0ba40c7546",
       "brand": "배달앱 일반",
       "channel": "네이버뉴스",
       "url": "https://www.mk.co.kr/article/12210906",
       "title": "무료 배달 이어 ‘7일 전 예약’...쿠팡, 日 배달앱 공략 박차새 창 열림",
       "summary": "무료 배달 이어 ‘7일 전 예약’ 쿠팡, 日 배달앱 공략 박차새 창 열림",
-      "sentiment": "neutral",
+      "sentiment": "positive",
       "tags": [
         "#서비스·품질",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.8,
+      "viral_score": 35.8,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "소비자",
+        "점주"
       ],
       "published_at": "2026-11-17T09:45:31+09:00",
-      "processed_at": "2026-11-17T14:42:54.864452+09:00",
+      "processed_at": "2026-11-18T00:17:48.688759+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -819,20 +1155,20 @@
       "channel": "네이버뉴스",
       "url": "https://www.sidae.com/article/2026111709180272375",
       "title": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림",
-      "summary": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림 배민은 입점 업체와의 상생을 위해 점주 불편을 덜어주는 정책·서비스 개편에 나섰다",
-      "sentiment": "positive",
+      "summary": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림 앞서 배민셀프서비스 점주 설문조사에서는 배달 품질 평가가 음식 평가에 섞이고 오래 쌓은 리뷰가 표시 건수에서",
+      "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
+        "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 50.5,
-      "status": "Rising",
+      "viral_score": 22.3,
+      "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-17T09:42:39+09:00",
-      "processed_at": "2026-11-17T14:43:28.761756+09:00",
+      "processed_at": "2026-11-18T00:17:07.439578+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -944,14 +1280,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 53.0,
-      "status": "Rising",
+      "viral_score": 46.7,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-16T14:46:00+09:00",
-      "processed_at": "2026-11-17T14:42:59.243011+09:00",
+      "processed_at": "2026-11-18T00:16:08.527312+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1152,20 +1488,21 @@
       "channel": "네이버뉴스",
       "url": "https://kpenews.com/View.aspx?No=4313705",
       "title": "[여의도와 경제] 배달의민족은 어쩌다 하루도 바람 잘 날 없는 플랫폼이...새 창 열림",
-      "summary": "[여의도와 경제] 배달의민족은 어쩌다 하루도 바람 잘 날 없는 플랫폼이 공정위는 배민이 상대적으로 수수료 부담이 낮은 가게배달의 노출 기회를 줄이고 자체배달을 더 유리하게 보이도록",
+      "summary": "[여의도와 경제] 배달의민족은 어쩌다 하루도 바람 잘 날 없는 플랫폼이 공정위가 집계한 2025년 주문금액 기준 점유율은 배민 58",
       "sentiment": "negative",
       "tags": [
-        "#서비스·품질",
         "#소비자반응",
+        "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 38.4,
+      "viral_score": 23.1,
       "status": "Stable",
       "stakeholders": [
+        "소비자",
         "점주"
       ],
       "published_at": "2026-11-16T08:52:32+09:00",
-      "processed_at": "2026-11-17T14:43:32.587642+09:00",
+      "processed_at": "2026-11-18T00:17:40.418208+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1176,25 +1513,25 @@
     },
     {
       "uid": "6d8b467d4a57132303481c9db87123b7",
-      "brand": "배달의민족",
+      "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
       "url": "https://www.cstimes.com/news/articleView.html?idxno=727877",
       "title": "점주가 깎아준 돈에도 수수료…배달앱 정산 관행에 '제동'새 창 열림",
-      "summary": "점주가 깎아준 돈에도 수수료…배달앱 정산 관행에 '제동'새 창 열림 배달의민족(이하 배민)은 외식업 소상공인 단체들의 요청을 반영해 음식값 할인액에 이어 점주가 부담한 고객 배",
-      "sentiment": "neutral",
+      "summary": "점주가 깎아준 돈에도 수수료…배달앱 정산 관행에 '제동'새 창 열림 쿠팡이츠는 올해 4월부터 일반적인 점주 부담 할인액을 결제수수료 산정에서 제외했지만, 중개수수료는 할인 전 ",
+      "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 20.3,
+      "viral_score": 33.1,
       "status": "Stable",
       "stakeholders": [
-        "소비자",
-        "점주"
+        "점주",
+        "직원"
       ],
       "published_at": "2026-11-16T07:54:06+09:00",
-      "processed_at": "2026-11-17T14:43:36.740529+09:00",
+      "processed_at": "2026-11-18T00:17:44.464332+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1283,41 +1620,6 @@
       ]
     },
     {
-      "uid": "28c959dd77b35fbaa86005f01cf64937",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.donga.com/news/Economy/article/all/20261110/134995528/2",
-      "title": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림",
-      "summary": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림 1월, 배민은 2024년 5월∼2025년 10월 입점업체에 거래 조건을 경쟁사와 같거나 더 유리하게 적용하는",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 78.7,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-10T04:30:00+09:00",
-      "processed_at": "2026-11-10T05:22:54.931843+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[주간 유통 나침반] 배민·쿠팡 6319억 과징금…식품 담합 소송·맘스터...새 창 열림",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=563756",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "08ef73fe666742e33ed76bef1eca2225",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1345,62 +1647,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "825e0cb1eed66420f19b14b04759d993",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://zdnet.co.kr/view/?no=20261112164943",
-      "title": "소상공인 단체들, 배민 할인 수수료 면제 환영…\"쿠팡이츠도 동참해야\"새 창 열림",
-      "summary": "소상공인 단체들, 배민 할인 수수료 면제 환영…\"쿠팡이츠도 동참해야\"새 창 열림 다만 무료배달 정책과 수수료 체계, 배달비 분담 구조 등 추가적인 제도 개선이 필요하다고 강조했다",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 73.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-12T17:01:27+09:00",
-      "processed_at": "2026-11-12T23:19:56.730409+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 5,
-      "duplicates": [
-        {
-          "title": "쿠팡·쿠팡이츠 전산 장애에 소상공인 반발 … \"영업 손실 보상해야\"새 창 열림",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246396",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 소상공인 짐 덜어낸다…모든 할인에 플랫폼 수수료 전면 면제새 창 열림",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=93949",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "[마켓+]배민 백기 든 수수료 인하 경쟁…쿠팡이츠도 바뀌나새 창 열림",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119799",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "쿠팡이츠가 배민·공정위·소상공인 모두의 압박에 포위 당했다 : '점주...새 창 열림",
-          "url": "https://www.huffingtonpost.kr/article/262052",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나새 창 열림",
-          "url": "https://zdnet.co.kr/view/?no=20261113165818",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "c043a2fbc1870f498d8d6bc1a1aa72b2",
@@ -1610,42 +1856,6 @@
       ]
     },
     {
-      "uid": "a8b7d9728a9777b56bd43b60c00da489",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
-      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
-      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 84.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-09-16T17:22:18+09:00",
-      "processed_at": "2026-09-16T18:05:28.339759+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[창간 29주년 기획 5-4] 배달앱 수수료 상한제, 정말 모두를 위한 해법일...새 창 열림",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323514",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "857efceab2071f7de01138975d745e9f",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1693,13 +1903,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.4,
+      "viral_score": 29.1,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-13T10:43:54+09:00",
-      "processed_at": "2026-11-17T14:43:12.565114+09:00",
+      "processed_at": "2026-11-18T00:16:21.823196+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1847,34 +2057,6 @@
       ],
       "published_at": "2026-11-12T17:02:41+09:00",
       "processed_at": "2026-11-16T12:42:13.347102+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "4598a31f988274c7df651491661e9acd",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.globalepic.co.kr/view.php?ud=2026111213033311454ee4ea3d05_29",
-      "title": "배민, 파트너 부담 할인 전부 수수료에서 뺀다…연간 1100억 원 규모 부...새 창 열림",
-      "summary": "배민, 파트너 부담 할인 전부 수수료에서 뺀다…연간 1100억 원 규모 부 배달의민족(배민)이 입점 파트너가 부담하는 할인 금액 전체를 플랫폼 수수료 산정에서 빼기로 했다",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 56.8,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-12T13:04:33+09:00",
-      "processed_at": "2026-11-12T13:48:56.520739+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2032,34 +2214,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6894973ae60086df71c6b7fe84683034",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mk.co.kr/article/12206083",
-      "title": "배민, 업주 부담 덜어준다...사장님이 깎아준 배달팁, 이제 수수료 안 떼...새 창 열림",
-      "summary": "배민, 업주 부담 덜어준다 사장님이 깎아준 배달팁, 이제 수수료 안 떼",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 67.8,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-12T10:02:24+09:00",
-      "processed_at": "2026-11-12T13:50:30.648107+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -2926,41 +3080,6 @@
       "duplicates": []
     },
     {
-      "uid": "a4af4e569b343536f442bb5323eb8e66",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261109165701739",
-      "title": "\"배민·쿠팡 과징금 6천억원 적다\" 참여연대, 플랫폼 독점 규제법 제정 촉구",
-      "summary": "\"배민·쿠팡 과징금 6천억원 적다\" 참여연대, 플랫폼 독점 규제법 제정 촉구 않은 업체의 '와우매장' 지위를 박탈했으며, 배달의민족은 자사 서비스인 '배민배달'에 프로모션과 쿠폰, 앱 ",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 78.3,
-      "status": "Hot",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-09T16:57:00+09:00",
-      "processed_at": "2026-11-09T18:02:33.735136+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배민·쿠팡 과징금 6천억대 '역대 최대'…최혜대우 요구 등 갑질",
-          "url": "https://www.clien.net/service/board/park/19290275",
-          "channel": "클리앙"
-        }
-      ]
-    },
-    {
       "uid": "f24b89443b43e6dc85ec0390d09ae373",
       "brand": "배달앱 일반",
       "channel": "다음뉴스",
@@ -3587,6 +3706,35 @@
       "duplicates": []
     },
     {
+      "uid": "28c959dd77b35fbaa86005f01cf64937",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.donga.com/news/Economy/article/all/20261110/134995528/2",
+      "title": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림",
+      "summary": "입점업체에 갑질 의혹, 배민-쿠팡 6319억 과징금새 창 열림 1월, 배민은 2024년 5월∼2025년 10월 입점업체에 거래 조건을 경쟁사와 같거나 더 유리하게 적용하는",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 78.7,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-10T04:30:00+09:00",
+      "processed_at": "2026-11-10T05:22:54.931843+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "58f4b7c214691db004363a67615132f1",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -3899,6 +4047,35 @@
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "a4af4e569b343536f442bb5323eb8e66",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261109165701739",
+      "title": "\"배민·쿠팡 과징금 6천억원 적다\" 참여연대, 플랫폼 독점 규제법 제정 촉구",
+      "summary": "\"배민·쿠팡 과징금 6천억원 적다\" 참여연대, 플랫폼 독점 규제법 제정 촉구 않은 업체의 '와우매장' 지위를 박탈했으며, 배달의민족은 자사 서비스인 '배민배달'에 프로모션과 쿠폰, 앱 ",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 78.3,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-09T16:57:00+09:00",
+      "processed_at": "2026-11-09T18:02:33.735136+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -4855,6 +5032,34 @@
       "duplicates": []
     },
     {
+      "uid": "bc4b839258cb0488efbb819716355e01",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293192",
+      "title": "[굿모닝! 6일 유통가 소식] 롯데하이마트·홈앤쇼핑·배민·LG생활건강·...새 창 열림",
+      "summary": "6일 유통가 소식] 롯데하이마트·홈앤쇼핑·배민·LG생활건강· 롯데하이마트는 블랙프라이데이 시즌을 맞아 연중 최대 규모의 가전 쇼핑행사인 '하이마트 블프'를 한다",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 59.5,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-06T11:32:13+09:00",
+      "processed_at": "2026-11-06T13:06:08.102507+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "ce6733d96d44c9033c137c9a78e77781",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -5362,6 +5567,36 @@
       "duplicates": []
     },
     {
+      "uid": "b14ef0ced2bea856178f40b1296e9fcd",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.fnnews.com/news/202611051540274202",
+      "title": "\"수수료 낮춰라\" vs \"소득 깎인다\"…배달앱 규제 갈등 격화새 창 열림",
+      "summary": "\"수수료 낮춰라\" vs \"소득 깎인다\"…배달앱 규제 갈등 격화새 창 열림 배달앱 중개수수료와 배달비 등 총비용을 주문금액의 15% 이내로 제한하는 수수료 상한제 입법을 놓고 자영업자",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 66.6,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-05T16:06:39+09:00",
+      "processed_at": "2026-11-05T17:49:56.097122+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "f81e07c6cfd38bfe8a7872f748f2b1bd",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -5761,34 +5996,6 @@
       "duplicates": []
     },
     {
-      "uid": "4ddbbd661d4116617cfedc22d79cb482",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022315",
-      "title": "[유통가 오늘] BGF리테일ㆍ배달의민족ㆍhyㆍ락앤락새 창 열림",
-      "summary": "[유통가 오늘] BGF리테일ㆍ배달의민족ㆍhyㆍ락앤락새 창 열림 배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달 배달의민족(배민)의 물류서비스를 전담하는 우",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 24.0,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-04T16:41:02+09:00",
-      "processed_at": "2026-11-05T17:52:58.294247+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "5e263bad8ae681e597b93e16a3040884",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -6155,34 +6362,6 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "248a1308ba23777beab0cb0ff01e41df",
-      "brand": "배달앱 일반",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261103205222515",
-      "title": "제주형 공공배달앱 우선협상대상자 '먹깨비'",
-      "summary": "제주형 공공배달앱 우선협상대상자 '먹깨비' 내년부터 3년 동안 제주형 공공배달앱을 운영할 우선협상대상자로 '먹깨비'가 선정됐습니다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#마케팅·광고"
-      ],
-      "viral_score": 27.5,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-03T20:52:00+09:00",
-      "processed_at": "2026-11-04T07:50:19.460464+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -6865,35 +7044,6 @@
       "duplicates": []
     },
     {
-      "uid": "6e650e53fd3ca9467cb29bc4790701b2",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900057.html",
-      "title": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림",
-      "summary": "'주문 접수·매출 관리' 배민, 점주용 PC 서비스 전면 개편새 창 열림 화면 상단에는 입금 금액과 주요 비용 항목을 요약해 배치하고, 할인 및 마케팅 비용도 배민 지원 금액과 업주",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 9.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-29T18:10:30+09:00",
-      "processed_at": "2026-11-05T17:52:07.934833+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "64e43b48b37beba17473bc28e0a6c0a9",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -7091,6 +7241,34 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "ecdf4a76e96d9498899d532c7c56f959",
+      "brand": "배달앱 일반",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261029093840123",
+      "title": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약",
+      "summary": "[경산 소식] 신한은행과 공공배달앱 '땡겨요' 운영 협약 경산시장(오른쪽)이 28일 신한은행과 업무협약을 체결한 뒤 기념촬영을 하고 있다",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 68.3,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-10-29T09:38:00+09:00",
+      "processed_at": "2026-10-29T10:32:23.355960+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -8750,35 +8928,6 @@
       "duplicates": []
     },
     {
-      "uid": "daefe6d3d8d0c2b31056e0cdefb638e7",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.sportsseoul.com/news/read/1643590?ref=naver",
-      "title": "박희승, “배달앱 문제의 본질은 수수료율 아닌 소상공인 종속 구조” ...새 창 열림",
-      "summary": "박희승, “배달앱 문제의 본질은 수수료율 아닌 소상공인 종속 구조” △ 거래비용 부담 넘어 시장구조 개선해야… 월 매출의 평균 26",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 62.0,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-23T16:40:44+09:00",
-      "processed_at": "2026-10-23T23:49:01.702246+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "8310f88c1b1caa34c50c480f60e26083",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -9088,264 +9237,192 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "5df639404778567e3502c4adb8fafd1c",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20261022500247",
-      "title": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림",
-      "summary": "배민 찾은 링크드인 경영진, AI·플랫폼 운영 노하우 살폈다새 창 열림 고객과 입점 사장님, 라이더의 의견을 정기적으로 듣고 구성원들이 직접 사용자를 만나는 과정을 통해 수치만으로",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 53.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-22T18:05:00+09:00",
-      "processed_at": "2026-10-22T18:11:49.739557+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "35266bd954b7e895a22f49a6c9f02011",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026102216581265222",
-      "title": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아...새 창 열림",
-      "summary": "배민, 2년간 자사주 매입·소각만 1조…“명목만 자본거래, 실제 배당 아 논란의 핵심은 자사주 매입·소각이 실제로는 배당과 다르지 않다는 것이다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#기업·정책"
-      ],
-      "viral_score": 23.5,
-      "status": "Stable",
-      "stakeholders": [
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-10-22T17:26:11+09:00",
-      "processed_at": "2026-10-29T16:54:55.534327+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "9d2d9b1f29fb577a6deb10a05a1683f4",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.techm.kr/news/articleView.html?idxno=156419",
-      "title": "[국감 26] 배민, DH에 1조원대 자금 이전 논란...국감서 '세금 회피' 의혹...새 창 열림",
-      "summary": "[국감 26] 배민, DH에 1조원대 자금 이전 논란 국감서 '세금 회피' 의혹",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 23.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-22T16:48:46+09:00",
-      "processed_at": "2026-10-29T10:33:25.312961+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "3d4c27d5b0098a035de0de489b5385ac",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261022162522231",
-      "title": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\"",
-      "summary": "배민, 본사로 자금 이전 관련 \"국세청 세무조사 성실히 임할 것\" (지디넷코리아=류승현 기자)배달의민족 운영사 우아한형제들이 자사주 매입·소각을 통해 독일 모회사 딜리버리히어",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 71.8,
-      "status": "Rising",
-      "stakeholders": [
-        "직원"
-      ],
-      "published_at": "2026-10-22T16:25:00+09:00",
-      "processed_at": "2026-10-22T18:08:10.652178+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
         {
-          "uid": "bea971a43edd2ccc7b87f45a0715ecae",
+          "uid": "512d4f76bcc7178398b49a7befb835f4",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "http://www.joseilbo.com/news/news_read.php?uid=579819&class=17&grp=",
-          "title": "'배달 불만에 가게 별점 안 깎인다'…배민, 수수료 이어 리뷰도 손질새 창 열림",
-          "summary": "'배달 불만에 가게 별점 안 깎인다'…배민, 수수료 이어 리뷰도 손질새 창 열림 공정거래위원회의 대규모 과징금 부과 방침이 발표된 이후 배달의민족(배민)이 입점 업주들의 부담을 줄이기 위한",
-          "sentiment": "neutral",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=757561",
+          "title": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림",
+          "summary": "배민 가게 평점에 음식 별점만 반영 \"배달 평가는 분리\"새 창 열림 배민이 파트너 요청에 속도를 내는 배경에는 업주의 불만이 쌓여 있다는 점이 있다",
+          "sentiment": "negative",
           "tags": [
+            "#가격·수수료",
             "#서비스·품질",
-            "#점주·자영업",
-            "#기업·정책"
+            "#소비자반응"
           ],
-          "viral_score": 40.5,
-          "status": "Stable",
+          "viral_score": 55.6,
+          "status": "Rising",
           "stakeholders": [
+            "소비자",
             "점주"
           ],
-          "published_at": "2026-11-17T14:37:04+09:00",
-          "processed_at": "2026-11-17T14:44:12.680355+09:00",
+          "published_at": "2026-11-17T16:22:49+09:00",
+          "processed_at": "2026-11-18T00:16:42.699152+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 1,
+          "duplicate_count": 9,
           "duplicates": [
             {
-              "title": "\"배달불만에 '가게평점'깎일 일 없앤다\" 배민, 리뷰서비스 개편새 창 열림",
-              "url": "https://www.catchnews.kr/news/articleView.html?idxno=130592",
+              "title": "배민, 리뷰 서비스 개편…배달·음식 별점 분리에 '칭찬리뷰' 신설새 창 열림",
+              "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903423",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 음식·배달 별점 분리한다새 창 열림",
+              "url": "https://byline.network/?p=9004111222628244",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "\"늦은배달로 인한 별점 테러 피해 없도록\"… 배민, 음식·배달 별점 분리...새 창 열림",
+              "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45375",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배달의민족, 음식·배달 평가 분리…가게 평균 별점은 음식 리뷰만 반영새 창 열림",
+              "url": "https://www.lawissue.co.kr/view.php?ud=202611172126243368204ead0791_12",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 리뷰 시스템 개편…배달·음식 별점 따로 매긴다새 창 열림",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=191070",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 배달·음식 별점 따로 매긴다...리뷰 서비스 개편새 창 열림",
+              "url": "https://www.thebigdata.co.kr/view.php?ud=2026111717482730270a47484cf8_23",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민, 배달·음식 별점 이제 따로 매긴다… 속 터지던 업주들 의견 반영새 창 열림",
+              "url": "https://www.hankookilbo.com/news/article/A2026111714430000610?did=NA",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배민 리뷰, 배달·음식 별점 분리…가게 평점은 음식 별점으로만새 창 열림",
+              "url": "https://www.tournews21.com/news/articleView.html?idxno=148685",
+              "channel": "네이버뉴스"
+            },
+            {
+              "title": "배달 불만에 깎이던 음식 별점…배민, 별점 따로 매긴다새 창 열림",
+              "url": "https://www.peoplewatch.co.kr/article/view/ppw202611170016",
               "channel": "네이버뉴스"
             }
           ]
         },
         {
-          "uid": "4b2efa2b3e1edeb5c779a226063811ca",
+          "uid": "9f175fdb93d89df527b46b6299f200a2",
+          "brand": "배달의민족",
+          "channel": "클리앙",
+          "url": "https://www.clien.net/service/board/news/19294297",
+          "title": "[단독] 우버, 배민 모회사 지분 66.6% 확보…‘택시·배달 결합’ 띄우나",
+          "summary": "[단독] 우버, 배민 모회사 지분 66 6% 확보…‘택시·배달 결합’ 띄우나",
+          "sentiment": "neutral",
+          "tags": [
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 26.7,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-17T23:05:26+09:00",
+          "processed_at": "2026-11-18T00:15:15.599135+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "194c60ccd5425570cefbc2a2eaed3002",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611170101",
-          "title": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림",
-          "summary": "배민, 배달·음식 별점 분리…가게 평점에 음식 평가만 반영새 창 열림 한편 배달앱 리뷰 정책을 둘러싼 소비자 불만도 이어지고 있다",
-          "sentiment": "negative",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140052",
+          "title": "배민, 별점은 최근 6개월·리뷰는 누적…가게 평가 기준 이원화새 창 열림",
+          "summary": "배민, 별점은 최근 6개월·리뷰는 누적…가게 평가 기준 이원화새 창 열림 배달 평가 결과는 배달 서비스 개선에 활용하며 라이더 개인의 평가나 배차 및 보상에는 반영하지 않는다",
+          "sentiment": "neutral",
+          "tags": [
+            "#서비스·품질",
+            "#점주·자영업",
+            "#소비자반응"
+          ],
+          "viral_score": 28.1,
+          "status": "Stable",
+          "stakeholders": [
+            "점주",
+            "라이더"
+          ],
+          "published_at": "2026-11-17T17:26:53+09:00",
+          "processed_at": "2026-11-18T00:17:15.357355+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "a140e66065515927bedf1dae045e2e79",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://zdnet.co.kr/view/?no=20261117164922",
+          "title": "배민 상생책에 소상공인 단체들 환영…\"현장 목소리 잘 반영\"새 창 열림",
+          "summary": "배민 상생책에 소상공인 단체들 환영…\"현장 목소리 잘 반영\"새 창 열림 이어 쿠팡이츠를 비롯한 다른 배달 플랫폼에도 할인 수수료 부과 방식의 즉각적인 개선을 촉구했다",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#점주·자영업",
+            "#소비자반응"
+          ],
+          "viral_score": 48.0,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-17T17:20:35+09:00",
+          "processed_at": "2026-11-18T00:15:31.823225+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "772722bc25fa903d00d76107f4695ee6",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87919",
+          "title": "배달 지연에 깎이던 식당 별점 사라진다…배민, 리뷰 시스템 개편새 창 열림",
+          "summary": "배달 지연에 깎이던 식당 별점 사라진다…배민, 리뷰 시스템 개편새 창 열림 배달 별점 데이터는 배민의 배달 서비스 품질 개선에만 쓰이며, 라이더 개인의 평가나 배차, 보상 기준에는 영",
+          "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
             "#소비자반응",
             "#마케팅·광고"
           ],
-          "viral_score": 57.3,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-17T10:52:02+09:00",
-          "processed_at": "2026-11-17T14:42:50.985921+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 11,
-          "duplicates": [
-            {
-              "title": "배달의민족, 리뷰 시스템 전면 개편…음식·배달 별점 분리 운영새 창 열림",
-              "url": "https://www.widedaily.com/news/articleView.html?idxno=303877",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 배달·음식 따로 평가한다…리뷰 서비스 전면 개편새 창 열림",
-              "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084265",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식만 반영새 창 열림",
-              "url": "http://www.inews24.com/view/2027134",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 음식·배달 별점 분리…가게 평점은 '음식'만 반영새 창 열림",
-              "url": "http://www.newsprime.co.kr/news/article.html?no=755221",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-              "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101415",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 배달·음식 별점 따로 매긴다…가게 평균별점은 '음식'으로만새 창 열림",
-              "url": "https://www.slist.kr/news/articleView.html?idxno=782430",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배달의민족, 배달·음식 '별점 분리'…가게 평점엔 음식 평가만 반영새 창 열림",
-              "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367679",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 음식·배달 별점 분리…가게 평점엔 음식 평가만 반영새 창 열림",
-              "url": "https://www.sedaily.com/article/20115323?ref=naver",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배민, 음식·배달 별점 분리…업주 불만에 리뷰제도 손질새 창 열림",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2122024",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "배달·음식 따로 평가…배민 리뷰 더 '공정'해진다새 창 열림",
-              "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/17/0010",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "“배달이 늦은건데 별점 테러 억울해”…배민, 음식·배달 평가 분리한...새 창 열림",
-              "url": "https://www.mk.co.kr/article/12210897",
-              "channel": "네이버뉴스"
-            }
-          ]
-        },
-        {
-          "uid": "fac05b0175cb9846c4686143c71effe7",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754619",
-          "title": "성심당 서울 온다… '2026 광화문 빵축제' 참여 빵집 라인업·입장·배민...새 창 열림",
-          "summary": "성심당 서울 온다… '2026 광화문 빵축제' 참여 빵집 라인업·입장·배민 행사 현장에서 앱 내 픽업 탭을 통해 매장과 상품을 선택해 주문한 뒤 준비 완료 알림에 맞춰 행사장 내 배민",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#마케팅·광고"
-          ],
-          "viral_score": 37.6,
+          "viral_score": 30.7,
           "status": "Stable",
           "stakeholders": [
-            "소비자"
+            "소비자",
+            "점주",
+            "라이더"
           ],
-          "published_at": "2026-11-17T14:30:40+09:00",
-          "processed_at": "2026-11-17T14:41:48.297627+09:00",
+          "published_at": "2026-11-17T17:17:06+09:00",
+          "processed_at": "2026-11-18T00:17:19.136507+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9355,81 +9432,26 @@
           "duplicates": []
         },
         {
-          "uid": "0b6e214c439e4b36d1c48c47011457fa",
+          "uid": "3d7ea6e93e51b7f78ac21daed2c0b914",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.etnews.com/20261117000248",
-          "title": "배민 '여러 가게 담기' 도입…최대 5곳 메뉴 한 번에 담는다새 창 열림",
-          "summary": "배민 '여러 가게 담기' 도입…최대 5곳 메뉴 한 번에 담는다새 창 열림 요기요에 이어 배민 도입…업계 표준 기능될까 배달의민족(배민)이 여러 가게 메뉴를 한 번에 볼 수 있는 '여",
-          "sentiment": "neutral",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083905",
+          "title": "배달팁 할인해도 수수료는 줄어든다…배민, 점주 부담 연 1100억원 낮춘...새 창 열림",
+          "summary": "배달팁 할인해도 수수료는 줄어든다…배민, 점주 부담 연 1100억원 낮춘 이에 따라 2만5000원 주문에 업주가 3000원을 할인하면 실제 결제금액인 2만2000원을 기준으로 수수료",
+          "sentiment": "positive",
           "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 34.8,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-17T14:30:00+09:00",
-          "processed_at": "2026-11-17T14:41:51.945796+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "f39d90b29fa4356d495a0b1994983c9b",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=293532",
-          "title": "[굿모닝! 17일 유통가 소식] bhc·이디야커피·배민·신라면세점·피죤·...새 창 열림",
-          "summary": "17일 유통가 소식] bhc·이디야커피·배민·신라면세점·피죤· 다이닝브랜즈그룹의 치킨 브랜드 bhc는 인도네시아 제2의 도시 수라바야에 현지 3호점이자 첫 독립형 로드숍을",
-          "sentiment": "neutral",
-          "tags": [
+            "#가격·수수료",
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 34.2,
-          "status": "Stable",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-17T11:23:49+09:00",
-          "processed_at": "2026-11-17T14:42:12.853557+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "216c3a3b1375c4d23085af172284e709",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871155",
-          "title": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림",
-          "summary": "\"음식에만 집중\"…배민, 리뷰 평가 방식 분리한다새 창 열림 최근 메뉴 개선이나 서비스 변화에 따른 고객 평가를 반영하기 위한 조치다",
-          "sentiment": "neutral",
-          "tags": [
-            "#가격·수수료",
-            "#서비스·품질",
-            "#기업·정책"
-          ],
-          "viral_score": 36.9,
+          "viral_score": 47.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
-          "published_at": "2026-11-17T11:20:09+09:00",
-          "processed_at": "2026-11-17T14:42:16.302794+09:00",
+          "published_at": "2026-11-17T17:10:00+09:00",
+          "processed_at": "2026-11-18T00:16:30.197716+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9439,25 +9461,110 @@
           "duplicates": []
         },
         {
-          "uid": "ee424591bf8b83aa8942f164afcfc993",
+          "uid": "e7d392b90d186450482c2e4aa330a8c9",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.sidae.com/article/2026111709180272375",
-          "title": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림",
-          "summary": "'배달 탓 별점 테러' 없다…음식점주 숙원 푼 배민새 창 열림 배민은 입점 업체와의 상생을 위해 점주 불편을 덜어주는 정책·서비스 개편에 나섰다",
+          "url": "https://www.dailian.co.kr/news/view/1716280/?sc=Naver",
+          "title": "\"리뷰는 사장님의 소중한 자산\"…배민 리뷰 개편에 업주단체 '환영'새 창 열림",
+          "summary": "\"리뷰는 사장님의 소중한 자산\"…배민 리뷰 개편에 업주단체 '환영'새 창 열림 배달의민족(이하 배민)이 음식과 배달에 대한 별점을 분리하고 리뷰 수를 전체 기간 누적으로 표시하는 등 리뷰",
           "sentiment": "positive",
+          "tags": [
+            "#점주·자영업",
+            "#소비자반응",
+            "#마케팅·광고"
+          ],
+          "viral_score": 39.6,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-17T17:05:00+09:00",
+          "processed_at": "2026-11-18T00:16:34.625512+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "d272841f367fe5216a03db1676569e1e",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=104642",
+          "title": "배달비 3000원 깎아준 사장님, 수수료는 얼마 낼까 [솔로이코노미]새 창 열림",
+          "summary": "배달비 3000원 깎아준 사장님, 수수료는 얼마 낼까 [솔로이코노미]새 창 열림 배민, 배달비 할인액도 수수료 계산 단계에서 제외 배민 운영사 우아한형제들은 지난 12일 점주가 부담한 배달",
+          "sentiment": "neutral",
           "tags": [
             "#가격·수수료",
             "#서비스·품질",
             "#기업·정책"
+          ],
+          "viral_score": 32.7,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-11-17T16:22:00+09:00",
+          "processed_at": "2026-11-18T00:16:38.711819+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달비"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "67ff4cc9d7ba4f20936128897826021f",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.etnews.com/20261117000375",
+          "title": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림",
+          "summary": "배민, 일주일 새 업주 지원책 2건…'핀셋 상생책'으로 현장 애로 해소새 창 열림 수수료율 자체보다 할인 정산 방식, 별점처럼 체감 부담이 큰 세부 운영 문제를 겨냥한 '핀셋형' 정책을 꺼내",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#점주·자영업",
+            "#마케팅·광고"
           ],
           "viral_score": 50.5,
           "status": "Rising",
           "stakeholders": [
             "점주"
           ],
-          "published_at": "2026-11-17T09:42:39+09:00",
-          "processed_at": "2026-11-17T14:43:28.761756+09:00",
+          "published_at": "2026-11-17T16:09:47+09:00",
+          "processed_at": "2026-11-18T00:16:47.134016+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "668a8ea740aefcb160d8579d83c033f3",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.g-enews.com/view.php?ud=202611171529365058a96f092d0c_1",
+          "title": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주...새 창 열림",
+          "summary": "한가협 “배민 ‘통합할인’, 약관에 없는 수수료 인상”…배민 “업주 한가협은 이번 논란이 단순히 약관을 바꿀 문제가 아니라고 지적했다",
+          "sentiment": "negative",
+          "tags": [
+            "#가격·수수료",
+            "#서비스·품질",
+            "#소비자반응"
+          ],
+          "viral_score": 80.3,
+          "status": "Hot",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-17T15:32:06+09:00",
+          "processed_at": "2026-11-18T00:16:04.131946+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9467,81 +9574,102 @@
           "duplicates": []
         }
       ],
-      "total": 7,
-      "avg_score": 41.7,
+      "total": 10,
+      "avg_score": 44.0,
       "ratio": {
-        "negative": 14,
-        "positive": 14,
-        "neutral": 71
+        "negative": 20,
+        "positive": 40,
+        "neutral": 40
       },
-      "mentions": 24
+      "mentions": 27
     },
     "coupang": {
       "issues": [
         {
-          "uid": "8a29e5839dd5c0dc290d344f2571fd9a",
+          "uid": "32fad4845c8762a02f0916fe06527ebb",
           "brand": "쿠팡이츠",
           "channel": "네이버뉴스",
-          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5378",
-          "title": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 교육새 창 열림",
-          "summary": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 교육새 창 열림 쿠팡이츠서비스가 한국도로교통공단과 손잡고 배달파트너를 대상으로 이륜차 주행 실습 중심의 안전교육을 확대한다",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261117223133433204ead0791_12",
+          "title": "쿠팡이츠서비스, 배달파트너 대상 이륜차 주행 안전교육 확대새 창 열림",
+          "summary": "쿠팡이츠서비스, 배달파트너 대상 이륜차 주행 안전교육 확대새 창 열림 쿠팡이츠서비스가 한국도로교통공단과 함께 배달파트너의 이륜차 운전 역량을 높이기 위한 실습 교육을 진행했다",
           "sentiment": "positive",
           "tags": [
             "#서비스·품질",
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 53.2,
+          "viral_score": 51.2,
           "status": "Rising",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-17T14:12:58+09:00",
-          "processed_at": "2026-11-17T14:42:31.184774+09:00",
+          "published_at": "2026-11-17T22:31:58+09:00",
+          "processed_at": "2026-11-18T00:15:23.923499+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "쿠팡이츠"
           ],
-          "duplicate_count": 3,
+          "duplicate_count": 2,
           "duplicates": [
             {
-              "title": "쿠팡이츠, 찾아가는 배달파트너 안전교육 실시새 창 열림",
-              "url": "https://view.asiae.co.kr/article/2026111714122995078",
+              "title": "쿠팡이츠서비스, 한국도로교통공단과 배달파트너 주행 안전교육 실시새 창 열림",
+              "url": "http://www.kdfnews.com/news/articleView.html?idxno=191064",
               "channel": "네이버뉴스"
             },
             {
-              "title": "쿠팡이츠, 배달기사 이륜차 주행 실습교육 확대새 창 열림",
-              "url": "http://www.4th.kr/news/articleView.html?idxno=2122041",
-              "channel": "네이버뉴스"
-            },
-            {
-              "title": "쿠팡이츠서비스, 배달파트너 이륜차 주행 안전교육 실시새 창 열림",
-              "url": "http://www.breaknews.com/1251581",
+              "title": "쿠팡이츠서비스, 배달파트너 이륜차 안전교육…울산 이어 30일 인천서 진...새 창 열림",
+              "url": "https://www.todayeconomic.com/news/article.html?no=32885",
               "channel": "네이버뉴스"
             }
           ]
         },
         {
-          "uid": "92ef4f8af9fc26bfbbe382a31d2c4bec",
+          "uid": "5bac848f5be989a0e34c4488c2304c1c",
           "brand": "쿠팡이츠",
           "channel": "네이버뉴스",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=919879",
-          "title": "급제동·장애물 회피까지…쿠팡이츠, 배달기사 이륜차 실습새 창 열림",
-          "summary": "급제동·장애물 회피까지…쿠팡이츠, 배달기사 이륜차 실습새 창 열림 16일 울산서 첫 실습…30일 인천운전면허시험장서 교육 쿠팡이츠서비스가 배달기사들을 대상으로 이륜차 급제동과",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
+          "title": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림",
+          "summary": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림 문제는 지난 7월께 신한은행의 배달 애플리케이션 '땡겨요' 사업단 간부가 경쟁사인 쿠팡이츠의 영업 비밀을 무",
+          "sentiment": "negative",
+          "tags": [
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 74.9,
+          "status": "Rising",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-17T21:29:10+09:00",
+          "processed_at": "2026-11-18T00:15:27.686338+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "b513bdee1c0fc081858ba179fe397c65",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024208",
+          "title": "[유통가 오늘] GS리테일ㆍ쿠팡이츠ㆍLFㆍ유한킴벌리새 창 열림",
+          "summary": "[유통가 오늘] GS리테일ㆍ쿠팡이츠ㆍLFㆍ유한킴벌리새 창 열림 쿠팡이츠, 한국도로교통공단과 찾아가는 배달파트너 주행 안전교육 실시 쿠팡이츠서비스(CES)가 한국도로교통공단",
           "sentiment": "neutral",
           "tags": [
             "#서비스·품질",
-            "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 33.8,
+          "viral_score": 30.4,
           "status": "Stable",
           "stakeholders": [
-            "라이더"
+            "소비자"
           ],
-          "published_at": "2026-11-17T13:40:34+09:00",
-          "processed_at": "2026-11-17T14:42:38.600309+09:00",
+          "published_at": "2026-11-17T16:57:06+09:00",
+          "processed_at": "2026-11-18T00:15:39.446864+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9563,14 +9691,14 @@
             "#점주·자영업",
             "#소비자반응"
           ],
-          "viral_score": 29.3,
+          "viral_score": 24.3,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-16T15:40:48+09:00",
-          "processed_at": "2026-11-17T14:44:28.534042+09:00",
+          "processed_at": "2026-11-18T00:17:31.778294+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9584,16 +9712,45 @@
               "channel": "네이버뉴스"
             }
           ]
+        },
+        {
+          "uid": "6d8b467d4a57132303481c9db87123b7",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=727877",
+          "title": "점주가 깎아준 돈에도 수수료…배달앱 정산 관행에 '제동'새 창 열림",
+          "summary": "점주가 깎아준 돈에도 수수료…배달앱 정산 관행에 '제동'새 창 열림 쿠팡이츠는 올해 4월부터 일반적인 점주 부담 할인액을 결제수수료 산정에서 제외했지만, 중개수수료는 할인 전 ",
+          "sentiment": "negative",
+          "tags": [
+            "#가격·수수료",
+            "#점주·자영업",
+            "#기업·정책"
+          ],
+          "viral_score": 33.1,
+          "status": "Stable",
+          "stakeholders": [
+            "점주",
+            "직원"
+          ],
+          "published_at": "2026-11-16T07:54:06+09:00",
+          "processed_at": "2026-11-18T00:17:44.464332+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
         }
       ],
-      "total": 3,
-      "avg_score": 38.8,
+      "total": 5,
+      "avg_score": 42.8,
       "ratio": {
-        "negative": 0,
-        "positive": 67,
-        "neutral": 33
+        "negative": 40,
+        "positive": 40,
+        "neutral": 20
       },
-      "mentions": 8
+      "mentions": 10
     }
   }
 }
