@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:45:41.577024+09:00",
+  "updated_at": "2026-11-21T23:01:08.606381+09:00",
   "hot": [
     {
       "uid": "116c89b0231dcb808b81a40f56ee2b26",
@@ -14,14 +14,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 54.1,
-      "status": "Rising",
+      "viral_score": 47.6,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T15:10:00+09:00",
-      "processed_at": "2026-11-21T13:45:06.961347+09:00",
+      "processed_at": "2026-11-21T23:00:08.927580+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -43,13 +43,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 45.5,
+      "viral_score": 35.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-21T08:00:00+09:00",
-      "processed_at": "2026-11-21T13:45:02.099239+09:00",
+      "processed_at": "2026-11-21T23:00:03.851398+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -76,8 +76,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-21T13:44:00+09:00",
-      "processed_at": "2026-11-21T13:45:37.918517+09:00",
+      "published_at": "2026-11-21T22:59:00+09:00",
+      "processed_at": "2026-11-21T23:01:05.746700+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -99,13 +99,13 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 33.7,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-20T08:39:36+09:00",
-      "processed_at": "2026-11-21T13:45:39.728149+09:00",
+      "processed_at": "2026-11-21T23:01:08.602215+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -121,36 +121,6 @@
       ]
     },
     {
-      "uid": "935a2f6d1f2f860cc9807ae881eaf16b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://economist.co.kr/article/view/ecn202611180068",
-      "title": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은? [이지완의 유통기한]새 창 열림",
-      "summary": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은 [이지완의 유통기한]새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#점주·자영업"
-      ],
-      "viral_score": 30.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-11-21T09:00:00+09:00",
-      "processed_at": "2026-11-21T13:45:00.444098+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "da23ba157dbcf4bcd3755b40a015ad81",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -163,13 +133,72 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 29.8,
+      "viral_score": 24.8,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-20T15:30:10+09:00",
-      "processed_at": "2026-11-21T13:45:31.005530+09:00",
+      "processed_at": "2026-11-21T23:00:54.295289+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "397ec29f3c0ffc064202ad5f1eac1b68",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://dealsite.co.kr/articles/173090",
+      "title": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지...새 창 열림",
+      "summary": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지 ①양사 합산 6319억 '과징금 폭탄'…입점업체 지원책 담은 자진시정안도 기각 국내 배달앱 1~2위 사업자인",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 22.8,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-20T07:00:00+09:00",
+      "processed_at": "2026-11-21T23:00:14.594466+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "935a2f6d1f2f860cc9807ae881eaf16b",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://economist.co.kr/article/view/ecn202611180068",
+      "title": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은? [이지완의 유통기한]새 창 열림",
+      "summary": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은 [이지완의 유통기한]새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 22.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-21T09:00:00+09:00",
+      "processed_at": "2026-11-21T23:00:01.142730+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -191,13 +220,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 28.6,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T19:22:40+09:00",
-      "processed_at": "2026-11-21T13:45:03.917598+09:00",
+      "processed_at": "2026-11-21T23:00:51.703768+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -207,25 +236,25 @@
       "duplicates": []
     },
     {
-      "uid": "667098d2e49939feda2735dda70b161f",
+      "uid": "6e8d2f4aedb07bf6ad84fcc6629af9c5",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "http://www.kdfnews.com/news/articleView.html?idxno=191210",
-      "title": "[리테일 인사이드] 배민·알럭스·무신사·GS25·아이파크몰...\"명품 직구...새 창 열림",
-      "summary": "[리테일 인사이드] 배민·알럭스·무신사·GS25·아이파크몰 배달 플랫폼은 전국 베이커리 상품을 축제 현장에서 받을 수 있는 픽업 서비스를 운영하고, 패션 플랫폼은 블랙",
-      "sentiment": "neutral",
+      "url": "https://www.mk.co.kr/article/12214658",
+      "title": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림",
+      "summary": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림 전국 유명 빵집이 광화문에…배민, ‘베이커리 픽업존’ 운영 성심당·김영모과자점 등 12곳 참여…앱 주문 후 ",
+      "sentiment": "positive",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
+        "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 24.3,
+      "viral_score": 20.9,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-20T16:52:53+09:00",
-      "processed_at": "2026-11-21T13:45:41.572832+09:00",
+      "published_at": "2026-11-20T15:42:12+09:00",
+      "processed_at": "2026-11-21T22:59:58.389122+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -247,46 +276,18 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 18.9,
+      "viral_score": 16.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T10:43:12+09:00",
-      "processed_at": "2026-11-21T13:45:08.725637+09:00",
+      "processed_at": "2026-11-21T23:00:11.658708+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6d232cb40fee170908a8c801df72c8d5",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=678999",
-      "title": "[데스크시각] 쿠팡과 배민의 한계새 창 열림",
-      "summary": "[데스크시각] 쿠팡과 배민의 한계새 창 열림 쿠팡과 배민 모두 최혜대우 요구로 공정위 제재를 받았고 국회에는 배달앱 수수료 상한제 법안이 여럿 올라와 있",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#기업·정책"
-      ],
-      "viral_score": 17.4,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-20T06:30:00+09:00",
-      "processed_at": "2026-11-21T13:45:18.897848+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -311,8 +312,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-21T13:44:00+09:00",
-      "processed_at": "2026-11-21T13:45:37.918517+09:00",
+      "published_at": "2026-11-21T22:59:00+09:00",
+      "processed_at": "2026-11-21T23:01:05.746700+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -334,7 +335,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 30.0,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -342,7 +343,7 @@
         "라이더"
       ],
       "published_at": "2026-11-21T09:00:00+09:00",
-      "processed_at": "2026-11-21T13:45:00.444098+09:00",
+      "processed_at": "2026-11-21T23:00:01.142730+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -364,13 +365,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 45.5,
+      "viral_score": 35.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-21T08:00:00+09:00",
-      "processed_at": "2026-11-21T13:45:02.099239+09:00",
+      "processed_at": "2026-11-21T23:00:03.851398+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -392,13 +393,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 28.6,
+      "viral_score": 22.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T19:22:40+09:00",
-      "processed_at": "2026-11-21T13:45:03.917598+09:00",
+      "processed_at": "2026-11-21T23:00:51.703768+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -464,6 +465,34 @@
       "duplicates": []
     },
     {
+      "uid": "6e8d2f4aedb07bf6ad84fcc6629af9c5",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12214658",
+      "title": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림",
+      "summary": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림 전국 유명 빵집이 광화문에…배민, ‘베이커리 픽업존’ 운영 성심당·김영모과자점 등 12곳 참여…앱 주문 후 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#점주·자영업",
+        "#마케팅·광고"
+      ],
+      "viral_score": 20.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-20T15:42:12+09:00",
+      "processed_at": "2026-11-21T22:59:58.389122+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "a4578c325bd6368b2ea6e92057691c00",
       "brand": "배달의민족",
       "channel": "다음뉴스",
@@ -510,14 +539,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 54.1,
-      "status": "Rising",
+      "viral_score": 47.6,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T15:10:00+09:00",
-      "processed_at": "2026-11-21T13:45:06.961347+09:00",
+      "processed_at": "2026-11-21T23:00:08.927580+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -792,25 +821,25 @@
       "duplicates": []
     },
     {
-      "uid": "397ec29f3c0ffc064202ad5f1eac1b68",
+      "uid": "c141cf3f69178d98037471027f91fead",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://dealsite.co.kr/articles/173090",
-      "title": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지...새 창 열림",
-      "summary": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지 ①양사 합산 6319억 '과징금 폭탄'…입점업체 지원책 담은 자진시정안도 기각 국내 배달앱 1~2위 사업자인",
+      "url": "https://www.thebigdata.co.kr/view.php?ud=2026111016104053910a47484cf8_23",
+      "title": "배달앱 과징금 파장에...배민·쿠팡 플랫폼 사업 모델 '시험대'새 창 열림",
+      "summary": "배달앱 과징금 파장에 배민·쿠팡 플랫폼 사업 모델 '시험대'새 창 열림",
       "sentiment": "negative",
       "tags": [
-        "#가격·수수료",
+        "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 31.7,
+      "viral_score": 26.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-20T07:00:00+09:00",
-      "processed_at": "2026-11-21T07:36:31.329051+09:00",
+      "published_at": "2026-11-10T16:18:21+09:00",
+      "processed_at": "2026-11-12T13:51:47.020340+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -820,8 +849,8 @@
       "duplicate_count": 1,
       "duplicates": [
         {
-          "title": "배달앱 과징금 파장에...배민·쿠팡 플랫폼 사업 모델 '시험대'새 창 열림",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=2026111016104053910a47484cf8_23",
+          "title": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지...새 창 열림",
+          "url": "https://dealsite.co.kr/articles/173090",
           "channel": "네이버뉴스"
         }
       ]
@@ -872,13 +901,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 17.4,
+      "viral_score": 15.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T06:30:00+09:00",
-      "processed_at": "2026-11-21T13:45:18.897848+09:00",
+      "processed_at": "2026-11-21T23:00:30.969966+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -929,14 +958,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 16.9,
+      "viral_score": 15.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-19T16:45:45+09:00",
-      "processed_at": "2026-11-21T13:45:20.670250+09:00",
+      "processed_at": "2026-11-21T23:00:33.814146+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1016,14 +1045,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 13.2,
+      "viral_score": 12.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-19T10:58:00+09:00",
-      "processed_at": "2026-11-21T13:45:22.452074+09:00",
+      "processed_at": "2026-11-21T23:00:36.761048+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1279,14 +1308,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 34.2,
+      "viral_score": 34.0,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-16T14:46:00+09:00",
-      "processed_at": "2026-11-21T13:45:17.377814+09:00",
+      "processed_at": "2026-11-21T23:00:28.453549+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1353,13 +1382,13 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 14.2,
+      "viral_score": 13.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-18T17:08:45+09:00",
-      "processed_at": "2026-11-21T13:45:27.724085+09:00",
+      "processed_at": "2026-11-21T23:00:45.651617+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1642,13 +1671,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 45.2,
+      "viral_score": 44.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-17T15:32:06+09:00",
-      "processed_at": "2026-11-21T13:45:15.428933+09:00",
+      "processed_at": "2026-11-21T23:00:25.516034+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1738,13 +1767,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 0.8,
+      "viral_score": 0.5,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-17T23:05:26+09:00",
-      "processed_at": "2026-11-21T13:45:05.262089+09:00",
+      "processed_at": "2026-11-21T23:00:06.155151+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1766,13 +1795,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.9,
+      "viral_score": 29.5,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-17T21:29:00+09:00",
-      "processed_at": "2026-11-21T13:45:34.397618+09:00",
+      "processed_at": "2026-11-21T23:01:00.011331+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -8999,34 +9028,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "49da49438e164f5051f1632a9409c76c",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261027065630412",
-      "title": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상",
-      "summary": "'미국판 배민' 도어대시, 인스타카트 22조에 인수 협상 [이데일리 김겨레 기자] 미국 최대 음식 배달업체 도어대시가 식료품 배달업체 인스타카트를 약 170억달러(약",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 34.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-10-27T06:56:00+09:00",
-      "processed_at": "2026-10-27T07:07:13.890234+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9045,7 +9046,7 @@
             "#라이더",
             "#점주·자영업"
           ],
-          "viral_score": 30.0,
+          "viral_score": 22.6,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9053,7 +9054,7 @@
             "라이더"
           ],
           "published_at": "2026-11-21T09:00:00+09:00",
-          "processed_at": "2026-11-21T13:45:00.444098+09:00",
+          "processed_at": "2026-11-21T23:00:01.142730+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9075,13 +9076,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 45.5,
+          "viral_score": 35.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-21T08:00:00+09:00",
-          "processed_at": "2026-11-21T13:45:02.099239+09:00",
+          "processed_at": "2026-11-21T23:00:03.851398+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9103,13 +9104,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 28.6,
+          "viral_score": 22.6,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-20T19:22:40+09:00",
-          "processed_at": "2026-11-21T13:45:03.917598+09:00",
+          "processed_at": "2026-11-21T23:00:51.703768+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9119,25 +9120,25 @@
           "duplicates": []
         },
         {
-          "uid": "667098d2e49939feda2735dda70b161f",
+          "uid": "6e8d2f4aedb07bf6ad84fcc6629af9c5",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=191210",
-          "title": "[리테일 인사이드] 배민·알럭스·무신사·GS25·아이파크몰...\"명품 직구...새 창 열림",
-          "summary": "[리테일 인사이드] 배민·알럭스·무신사·GS25·아이파크몰 배달 플랫폼은 전국 베이커리 상품을 축제 현장에서 받을 수 있는 픽업 서비스를 운영하고, 패션 플랫폼은 블랙",
-          "sentiment": "neutral",
+          "url": "https://www.mk.co.kr/article/12214658",
+          "title": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림",
+          "summary": "성심당부터 김영모과자점까지…배민 앱으로 빵 주문한다새 창 열림 전국 유명 빵집이 광화문에…배민, ‘베이커리 픽업존’ 운영 성심당·김영모과자점 등 12곳 참여…앱 주문 후 ",
+          "sentiment": "positive",
           "tags": [
-            "#가격·수수료",
             "#서비스·품질",
+            "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 24.3,
+          "viral_score": 20.9,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-20T16:52:53+09:00",
-          "processed_at": "2026-11-21T13:45:41.572832+09:00",
+          "published_at": "2026-11-20T15:42:12+09:00",
+          "processed_at": "2026-11-21T22:59:58.389122+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9159,17 +9160,46 @@
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 29.8,
+          "viral_score": 24.8,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-20T15:30:10+09:00",
-          "processed_at": "2026-11-21T13:45:31.005530+09:00",
+          "processed_at": "2026-11-21T23:00:54.295289+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "397ec29f3c0ffc064202ad5f1eac1b68",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://dealsite.co.kr/articles/173090",
+          "title": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지...새 창 열림",
+          "summary": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지 ①양사 합산 6319억 '과징금 폭탄'…입점업체 지원책 담은 자진시정안도 기각 국내 배달앱 1~2위 사업자인",
+          "sentiment": "negative",
+          "tags": [
+            "#가격·수수료",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 22.8,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-20T07:00:00+09:00",
+          "processed_at": "2026-11-21T23:00:14.594466+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족",
+            "배달앱"
           ],
           "duplicate_count": 0,
           "duplicates": []
@@ -9187,13 +9217,13 @@
             "#서비스·품질",
             "#기업·정책"
           ],
-          "viral_score": 17.4,
+          "viral_score": 15.0,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-20T06:30:00+09:00",
-          "processed_at": "2026-11-21T13:45:18.897848+09:00",
+          "processed_at": "2026-11-21T23:00:30.969966+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9203,12 +9233,12 @@
           "duplicates": []
         }
       ],
-      "total": 6,
-      "avg_score": 29.3,
+      "total": 7,
+      "avg_score": 23.4,
       "ratio": {
-        "negative": 0,
-        "positive": 50,
-        "neutral": 50
+        "negative": 14,
+        "positive": 57,
+        "neutral": 29
       },
       "mentions": 8
     },
@@ -9221,7 +9251,7 @@
         "positive": 0,
         "neutral": 0
       },
-      "mentions": 2
+      "mentions": 1
     }
   }
 }
