@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:01:08.606381+09:00",
+  "updated_at": "2026-11-22T05:27:41.572212+09:00",
   "hot": [
     {
       "uid": "116c89b0231dcb808b81a40f56ee2b26",
@@ -14,46 +14,18 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 47.6,
+      "viral_score": 44.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T15:10:00+09:00",
-      "processed_at": "2026-11-21T23:00:08.927580+09:00",
+      "processed_at": "2026-11-22T05:27:03.901011+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "36a5d7ca22535b13b27cc5983b2f1bfb",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302281",
-      "title": "[CEO 리더십] 김범석 우아한형제들 대표, 주문 전에 움직이는 배민 만든...새 창 열림",
-      "summary": "[CEO 리더십] 김범석 우아한형제들 대표, 주문 전에 움직이는 배민 만든 김범석 대표는 고객 경험을 최우선 가치로 내세워 음식배달 중심의 배달의민족(배민)을 장보기와 쇼핑까지 아우르",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 35.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-21T08:00:00+09:00",
-      "processed_at": "2026-11-21T23:00:03.851398+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -76,12 +48,40 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-21T22:59:00+09:00",
-      "processed_at": "2026-11-21T23:01:05.746700+09:00",
+      "published_at": "2026-11-22T05:26:00+09:00",
+      "processed_at": "2026-11-22T05:27:39.731872+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "36a5d7ca22535b13b27cc5983b2f1bfb",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302281",
+      "title": "[CEO 리더십] 김범석 우아한형제들 대표, 주문 전에 움직이는 배민 만든...새 창 열림",
+      "summary": "[CEO 리더십] 김범석 우아한형제들 대표, 주문 전에 움직이는 배민 만든 김범석 대표는 고객 경험을 최우선 가치로 내세워 음식배달 중심의 배달의민족(배민)을 장보기와 쇼핑까지 아우르",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 30.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-21T08:00:00+09:00",
+      "processed_at": "2026-11-22T05:27:00.738728+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -99,26 +99,20 @@
         "#서비스·품질",
         "#소비자반응"
       ],
-      "viral_score": 28.7,
+      "viral_score": 26.2,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-20T08:39:36+09:00",
-      "processed_at": "2026-11-21T23:01:08.602215+09:00",
+      "processed_at": "2026-11-22T05:27:41.568629+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "무료배달"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "“1만4000원 넘게 시켜도 배달비 ‘2000원’”…무료 배달 없애는 KFC, 대...새 창 열림",
-          "url": "https://www.sedaily.com/article/20116543?ref=naver",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "da23ba157dbcf4bcd3755b40a015ad81",
@@ -133,13 +127,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 24.8,
+      "viral_score": 22.2,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-20T15:30:10+09:00",
-      "processed_at": "2026-11-21T23:00:54.295289+09:00",
+      "processed_at": "2026-11-22T05:27:32.430349+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -161,48 +155,18 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 22.8,
+      "viral_score": 20.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T07:00:00+09:00",
-      "processed_at": "2026-11-21T23:00:14.594466+09:00",
+      "processed_at": "2026-11-22T05:27:07.536475+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족",
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "935a2f6d1f2f860cc9807ae881eaf16b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://economist.co.kr/article/view/ecn202611180068",
-      "title": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은? [이지완의 유통기한]새 창 열림",
-      "summary": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은 [이지완의 유통기한]새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#점주·자영업"
-      ],
-      "viral_score": 22.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주",
-        "라이더"
-      ],
-      "published_at": "2026-11-21T09:00:00+09:00",
-      "processed_at": "2026-11-21T23:00:01.142730+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -220,13 +184,43 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 22.6,
+      "viral_score": 19.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T19:22:40+09:00",
-      "processed_at": "2026-11-21T23:00:51.703768+09:00",
+      "processed_at": "2026-11-22T05:27:30.872222+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "935a2f6d1f2f860cc9807ae881eaf16b",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://economist.co.kr/article/view/ecn202611180068",
+      "title": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은? [이지완의 유통기한]새 창 열림",
+      "summary": "잘못은 배민이 했는데 점주가 고개 숙인 까닭은 [이지완의 유통기한]새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#점주·자영업"
+      ],
+      "viral_score": 18.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-11-21T09:00:00+09:00",
+      "processed_at": "2026-11-22T05:26:59.023910+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -248,13 +242,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 20.9,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-20T15:42:12+09:00",
-      "processed_at": "2026-11-21T22:59:58.389122+09:00",
+      "processed_at": "2026-11-22T05:26:57.232455+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -276,14 +270,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 16.0,
+      "viral_score": 14.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T10:43:12+09:00",
-      "processed_at": "2026-11-21T23:00:11.658708+09:00",
+      "processed_at": "2026-11-22T05:27:05.668044+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -312,8 +306,8 @@
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-21T22:59:00+09:00",
-      "processed_at": "2026-11-21T23:01:05.746700+09:00",
+      "published_at": "2026-11-22T05:26:00+09:00",
+      "processed_at": "2026-11-22T05:27:39.731872+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -335,7 +329,7 @@
         "#라이더",
         "#점주·자영업"
       ],
-      "viral_score": 22.6,
+      "viral_score": 18.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -343,7 +337,7 @@
         "라이더"
       ],
       "published_at": "2026-11-21T09:00:00+09:00",
-      "processed_at": "2026-11-21T23:00:01.142730+09:00",
+      "processed_at": "2026-11-22T05:26:59.023910+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -365,13 +359,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 35.4,
+      "viral_score": 30.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-21T08:00:00+09:00",
-      "processed_at": "2026-11-21T23:00:03.851398+09:00",
+      "processed_at": "2026-11-22T05:27:00.738728+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -393,13 +387,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 22.6,
+      "viral_score": 19.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T19:22:40+09:00",
-      "processed_at": "2026-11-21T23:00:51.703768+09:00",
+      "processed_at": "2026-11-22T05:27:30.872222+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -477,13 +471,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 20.9,
+      "viral_score": 18.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-20T15:42:12+09:00",
-      "processed_at": "2026-11-21T22:59:58.389122+09:00",
+      "processed_at": "2026-11-22T05:26:57.232455+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -539,14 +533,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 47.6,
+      "viral_score": 44.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-20T15:10:00+09:00",
-      "processed_at": "2026-11-21T23:00:08.927580+09:00",
+      "processed_at": "2026-11-22T05:27:03.901011+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -901,13 +895,13 @@
         "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 15.0,
+      "viral_score": 13.8,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T06:30:00+09:00",
-      "processed_at": "2026-11-21T23:00:30.969966+09:00",
+      "processed_at": "2026-11-22T05:27:17.876300+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -958,14 +952,14 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 15.5,
+      "viral_score": 14.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-19T16:45:45+09:00",
-      "processed_at": "2026-11-21T23:00:33.814146+09:00",
+      "processed_at": "2026-11-22T05:27:19.710207+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1045,14 +1039,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 12.1,
+      "viral_score": 11.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-19T10:58:00+09:00",
-      "processed_at": "2026-11-21T23:00:36.761048+09:00",
+      "processed_at": "2026-11-22T05:27:21.565751+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1315,7 +1309,7 @@
         "점주"
       ],
       "published_at": "2026-11-16T14:46:00+09:00",
-      "processed_at": "2026-11-21T23:00:28.453549+09:00",
+      "processed_at": "2026-11-22T05:27:16.310478+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1382,13 +1376,13 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 13.7,
+      "viral_score": 13.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-18T17:08:45+09:00",
-      "processed_at": "2026-11-21T23:00:45.651617+09:00",
+      "processed_at": "2026-11-22T05:27:27.095562+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1671,13 +1665,13 @@
         "#서비스·품질",
         "#점주·자영업"
       ],
-      "viral_score": 44.9,
+      "viral_score": 44.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-17T15:32:06+09:00",
-      "processed_at": "2026-11-21T23:00:25.516034+09:00",
+      "processed_at": "2026-11-22T05:27:14.394381+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1767,13 +1761,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 0.5,
+      "viral_score": 0.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-17T23:05:26+09:00",
-      "processed_at": "2026-11-21T23:00:06.155151+09:00",
+      "processed_at": "2026-11-22T05:27:02.114166+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1795,13 +1789,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 29.5,
+      "viral_score": 29.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-17T21:29:00+09:00",
-      "processed_at": "2026-11-21T23:01:00.011331+09:00",
+      "processed_at": "2026-11-22T05:27:36.112513+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9046,7 +9040,7 @@
             "#라이더",
             "#점주·자영업"
           ],
-          "viral_score": 22.6,
+          "viral_score": 18.9,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9054,7 +9048,7 @@
             "라이더"
           ],
           "published_at": "2026-11-21T09:00:00+09:00",
-          "processed_at": "2026-11-21T23:00:01.142730+09:00",
+          "processed_at": "2026-11-22T05:26:59.023910+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9076,13 +9070,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 35.4,
+          "viral_score": 30.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-21T08:00:00+09:00",
-          "processed_at": "2026-11-21T23:00:03.851398+09:00",
+          "processed_at": "2026-11-22T05:27:00.738728+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9104,13 +9098,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 22.6,
+          "viral_score": 19.7,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-20T19:22:40+09:00",
-          "processed_at": "2026-11-21T23:00:51.703768+09:00",
+          "processed_at": "2026-11-22T05:27:30.872222+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9132,13 +9126,13 @@
             "#점주·자영업",
             "#마케팅·광고"
           ],
-          "viral_score": 20.9,
+          "viral_score": 18.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-20T15:42:12+09:00",
-          "processed_at": "2026-11-21T22:59:58.389122+09:00",
+          "processed_at": "2026-11-22T05:26:57.232455+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9160,13 +9154,13 @@
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 24.8,
+          "viral_score": 22.2,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-20T15:30:10+09:00",
-          "processed_at": "2026-11-21T23:00:54.295289+09:00",
+          "processed_at": "2026-11-22T05:27:32.430349+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9188,13 +9182,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 22.8,
+          "viral_score": 20.5,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-20T07:00:00+09:00",
-          "processed_at": "2026-11-21T23:00:14.594466+09:00",
+          "processed_at": "2026-11-22T05:27:07.536475+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9217,13 +9211,13 @@
             "#서비스·품질",
             "#기업·정책"
           ],
-          "viral_score": 15.0,
+          "viral_score": 13.8,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-20T06:30:00+09:00",
-          "processed_at": "2026-11-21T23:00:30.969966+09:00",
+          "processed_at": "2026-11-22T05:27:17.876300+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9234,7 +9228,7 @@
         }
       ],
       "total": 7,
-      "avg_score": 23.4,
+      "avg_score": 20.5,
       "ratio": {
         "negative": 14,
         "positive": 57,
