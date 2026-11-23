@@ -1,33 +1,39 @@
 {
-  "updated_at": "2026-11-23T13:42:19.941665+09:00",
+  "updated_at": "2026-11-24T02:03:10.134034+09:00",
   "hot": [
     {
-      "uid": "9af28625f212660ada6623a4217bedc5",
+      "uid": "12e5e18bc1fd459ae0018a7b222add58",
       "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.joongang.co.kr/article/25481018",
-      "title": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림",
-      "summary": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림 대구시 관계자는 “대구로 배달시장 점유율은 8% 수준으로, 예산을 투입해 할인쿠폰을 발급할 때만 점유율이 소",
+      "url": "https://www.joongang.co.kr/article/25481271",
+      "title": "107억 쏟아부은 대구 공공배달앱, 5년 만에 문 닫는다새 창 열림",
+      "summary": "107억 쏟아부은 대구 공공배달앱, 5년 만에 문 닫는다새 창 열림 대구시 경제정책과 관계자는 “대구로 배달시장 점유율은 8% 수준으로, 예산을 투입해 할인쿠폰을 발급할 때만 ",
       "sentiment": "negative",
       "tags": [
         "#가격·수수료",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 70.7,
-      "status": "Rising",
+      "viral_score": 82.0,
+      "status": "Hot",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-23T11:25:32+09:00",
-      "processed_at": "2026-11-23T13:40:49.353922+09:00",
+      "published_at": "2026-11-24T00:12:57+09:00",
+      "processed_at": "2026-11-24T02:02:09.327079+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 0,
-      "duplicates": []
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림",
+          "url": "https://www.joongang.co.kr/article/25481018",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "7e052c2c85c08bbd01da0c518d0a8ad1",
@@ -48,8 +54,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-23T13:38:00+09:00",
-      "processed_at": "2026-11-23T13:41:28.054216+09:00",
+      "published_at": "2026-11-24T01:59:00+09:00",
+      "processed_at": "2026-11-24T02:02:44.372170+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -59,66 +65,25 @@
       "duplicates": []
     },
     {
-      "uid": "472c4ef3c674fc17da6bc614406bc61b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.seoultimes.news/news/article.html?no=2000102535",
-      "title": "배민, 위기가구에 ‘배민드림도시락’ 1만 세트 지원새 창 열림",
-      "summary": "배민, 위기가구에 ‘배민드림도시락’ 1만 세트 지원새 창 열림 보건복지부 ‘그냥드림’ 사업 동참…지자체·전국푸드뱅크 통해 전달 임직원 직접 포장한 도시락 200세트 전남 ",
-      "sentiment": "positive",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 57.8,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "직원"
-      ],
-      "published_at": "2026-11-23T13:32:10+09:00",
-      "processed_at": "2026-11-23T13:40:45.081871+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "배민, 위기가구에 간편식 도시락 1만 세트 지원새 창 열림",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611231322122519204ead0791_12",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민, 위기가구에 '배민드림도시락' 1만 세트 지원…먹거리 안전망 강화새 창 열림",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132939",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "6a299b32db30a17b3ff98458d52a777f",
+      "uid": "1213134357107a7a95afec6cd4453753",
       "brand": "배달앱 일반",
       "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/living/2026/11/23/2026112219504855172",
-      "title": "\"치킨 3만원인데 남는 게 없다고?\"…사장님들 주머니 터는 배달앱의 비...새 창 열림",
-      "summary": "\"치킨 3만원인데 남는 게 없다고 \"…사장님들 주머니 터는 배달앱의 비",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112302202.html",
+      "title": "배달앱 ‘할인 미끼’ 덥석 물어선 안 될 이유… “건강에 안 좋은 음식...새 창 열림",
+      "summary": "배달앱 ‘할인 미끼’ 덥석 물어선 안 될 이유… “건강에 안 좋은 음식 배달앱을 켜면 첫 화면부터 잘 보이는 곳에 할인 메뉴가 뜬다",
       "sentiment": "negative",
       "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
       ],
-      "viral_score": 54.4,
+      "viral_score": 62.2,
       "status": "Rising",
       "stakeholders": [
-        "소비자",
-        "점주"
+        "소비자"
       ],
-      "published_at": "2026-11-23T05:00:00+09:00",
-      "processed_at": "2026-11-23T13:42:19.932982+09:00",
+      "published_at": "2026-11-23T22:00:00+09:00",
+      "processed_at": "2026-11-24T02:02:16.366692+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -128,57 +93,189 @@
       "duplicates": []
     },
     {
-      "uid": "ff696ba38658c3bec65113b016cb5cc3",
-      "brand": "배달의민족",
+      "uid": "f661db9726d19d3b14eeb22d97221e2c",
+      "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/tech/2026/11/23/2026111711265742960",
-      "title": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구...새 창 열림",
-      "summary": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328089",
+      "title": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림",
+      "summary": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림 수제버거 브랜드 프랭크버거가 배달 플랫폼 쿠팡이츠와 함께 와우회원에게 최대 1만원의 할인 혜택을 제공하는 프",
       "sentiment": "positive",
       "tags": [
+        "#가격·수수료",
         "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 50.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T11:30:00+09:00",
-      "processed_at": "2026-11-23T13:40:33.355577+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "57d15a3b406f5dd2489d6ecb13af62fe",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.inews24.com/view/2029127",
-      "title": "CJ제일제당·배민, 연말 먹거리 나눔…취약계층 식사 지원새 창 열림",
-      "summary": "CJ제일제당·배민, 연말 먹거리 나눔…취약계층 식사 지원새 창 열림 배달의민족 운영사 우아한형제들은 보건복지부 '그냥드림' 사업에 참여해 위기가구에 '배민드림도시락' 1만세트를",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
+        "#마케팅·광고"
       ],
       "viral_score": 47.0,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
-      "published_at": "2026-11-23T11:49:06+09:00",
-      "processed_at": "2026-11-23T13:40:21.038725+09:00",
+      "published_at": "2026-11-23T18:19:36+09:00",
+      "processed_at": "2026-11-24T02:02:14.165017+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "ddf6d243bd41ed417be79b5e8a68cc71",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668582",
+      "title": "배민, 위기가구에 도시락 1만 세트 지원새 창 열림",
+      "summary": "배민, 위기가구에 도시락 1만 세트 지원새 창 열림 사진=우아한형제들 한국금융경제신문=조희경 기자 | 배달의민족(배민)이 정부의 위기가구 먹거리 지원 사업에 참",
+      "sentiment": "positive",
+      "tags": [
+        "#마케팅·광고",
+        "#기업·정책",
+        "#감동·긍정"
+      ],
+      "viral_score": 38.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-23T17:44:45+09:00",
+      "processed_at": "2026-11-24T02:01:57.155976+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민이 채우는 이웃의 한 끼…도시락 1만 세트 지원새 창 열림",
+          "url": "https://www.sportsseoul.com/news/read/1651687?ref=naver",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "52a2690abfd1261b9c469bfb6de4c872",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.dt.co.kr/article/12096741?ref=naver",
+      "title": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림",
+      "summary": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림 시장 1위 배달의민족은 지난달 1일 기존 구독 서비스에 포인트 적립 기능을 더한 '배민클럽 에디션 2'를 출",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 31.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-23T16:13:45+09:00",
+      "processed_at": "2026-11-24T02:02:41.926180+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "06823c84d64ddf9c813954b7f37eba10",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.ajunews.com/view/20261120155423260",
+      "title": "\"수수료 상한제 강행, '알뜰배달 무료' 폐지 검토\"...배달앱 규제 역풍 ...새 창 열림",
+      "summary": "\"수수료 상한제 강행, '알뜰배달 무료' 폐지 검토\" 23일 유통·외식업계에 따르면 현재 배달의민족과 쿠팡이츠는 매출 구간을 최대 4개로 나누어 기존 9",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#점주·자영업",
+        "#기업·정책"
+      ],
+      "viral_score": 30.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-23T18:38:38+09:00",
+      "processed_at": "2026-11-24T02:02:11.796169+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "7f59308bd2a216583e7ca4895dbeb76a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12216436",
+      "title": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림",
+      "summary": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림 회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 29.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-23T18:04:55+09:00",
+      "processed_at": "2026-11-24T02:01:54.869350+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "네이버 물류 자회사 연내 출범 … 첫 수장에 배민 CEO출신 김범준새 창 열림",
+          "url": "https://www.mk.co.kr/article/12216352",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "네이버, 물류 자회사 ‘네이버로직스’ 출범…초대 대표에 배민 출신 김...새 창 열림",
+          "url": "https://byline.network/?p=9004111222628763",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "57cd755ceb0ef8156f8552e66dfa3d64",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "http://www.inews24.com/view/2029308",
+      "title": "[법률돋보기]㉖ 배달앱 수수료 15% 제한되나…“계약서부터 점검해야”새 창 열림",
+      "summary": "[법률돋보기]㉖ 배달앱 수수료 15% 제한되나…“계약서부터 점검해야”새 창 열림 수수료율은 물론 광고비와 배달비, 프로모션 조건까지 규제 범위에 포함될 가능성이 있어 계약서와 약관을 미리 ",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 28.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-23T16:08:51+09:00",
+      "processed_at": "2026-11-24T02:03:10.131163+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -192,107 +289,21 @@
       "summary": "650억 '반짝 효과' 그친 공공 배달앱 소비쿠폰…\"경쟁력부터 높여야\"새 창 열림 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
       "sentiment": "neutral",
       "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 38.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T11:40:00+09:00",
-      "processed_at": "2026-11-23T13:40:29.249245+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "a08b22c4619c425a64135943e33819d1",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.thepowernews.co.kr/view.php?ud=202611231327456503de3f0aa1be_7",
-      "title": "서울시의회 민주당 민생실천위, 지역상품권·배달앱·상가 관리비 개선...새 창 열림",
-      "summary": "서울시의회 민주당 민생실천위, 지역상품권·배달앱·상가 관리비 개선 상생배달앱에 대해서도 지배구조 개선 등 공공성을 높일 수 있는 서울시 차원의 행정 지원 방안을 마련하기로 했",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 37.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T13:28:29+09:00",
-      "processed_at": "2026-11-23T13:40:53.459340+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ffb2f9a2f5996aa25967a11c4ed761dd",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/tech/2026/11/23/2026111710350447856",
-      "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림",
-      "summary": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
-      "sentiment": "neutral",
-      "tags": [
         "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#점주·자영업",
+        "#마케팅·광고"
       ],
-      "viral_score": 35.0,
+      "viral_score": 28.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-23T11:10:00+09:00",
-      "processed_at": "2026-11-23T13:40:57.701782+09:00",
+      "published_at": "2026-11-23T11:40:00+09:00",
+      "processed_at": "2026-11-24T02:02:32.276189+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족",
         "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "915412135382aa45060430c773d4d055",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/tech/2026/11/23/2026111711385751899",
-      "title": "무료 배달에 제휴사까지…배민·쿠팡이츠에 '손이 가는' 이유는?새 창 열림",
-      "summary": "무료 배달에 제휴사까지…배민·쿠팡이츠에 '손이 가는' 이유는 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#마케팅·광고"
-      ],
-      "viral_score": 33.1,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T12:00:00+09:00",
-      "processed_at": "2026-11-23T13:40:17.001538+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -318,8 +329,8 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-23T13:38:00+09:00",
-      "processed_at": "2026-11-23T13:41:28.054216+09:00",
+      "published_at": "2026-11-24T01:59:00+09:00",
+      "processed_at": "2026-11-24T02:02:44.372170+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -327,6 +338,181 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "12e5e18bc1fd459ae0018a7b222add58",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.joongang.co.kr/article/25481271",
+      "title": "107억 쏟아부은 대구 공공배달앱, 5년 만에 문 닫는다새 창 열림",
+      "summary": "107억 쏟아부은 대구 공공배달앱, 5년 만에 문 닫는다새 창 열림 대구시 경제정책과 관계자는 “대구로 배달시장 점유율은 8% 수준으로, 예산을 투입해 할인쿠폰을 발급할 때만 ",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 82.0,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-24T00:12:57+09:00",
+      "processed_at": "2026-11-24T02:02:09.327079+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림",
+          "url": "https://www.joongang.co.kr/article/25481018",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "1213134357107a7a95afec6cd4453753",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112302202.html",
+      "title": "배달앱 ‘할인 미끼’ 덥석 물어선 안 될 이유… “건강에 안 좋은 음식...새 창 열림",
+      "summary": "배달앱 ‘할인 미끼’ 덥석 물어선 안 될 이유… “건강에 안 좋은 음식 배달앱을 켜면 첫 화면부터 잘 보이는 곳에 할인 메뉴가 뜬다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 62.2,
+      "status": "Rising",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-23T22:00:00+09:00",
+      "processed_at": "2026-11-24T02:02:16.366692+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "a8b7d9728a9777b56bd43b60c00da489",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.ceoscoredaily.com/page/view/2026091616513276662",
+      "title": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부...새 창 열림",
+      "summary": "배달앱 수수료 상한제 논란 ‘재점화’…‘15% 제한’ 입법 급물살, 부 중소벤처기업부는 저렴한 수수료를 내세운 공공·상생배달앱에 1200억원대 예산을 편성했고, 국회에서는 민간 배",
+      "sentiment": "negative",
+      "tags": [
+        "#가격·수수료",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 84.3,
+      "status": "Hot",
+      "stakeholders": [
+        "소비자",
+        "점주",
+        "라이더"
+      ],
+      "published_at": "2026-09-16T17:22:18+09:00",
+      "processed_at": "2026-09-16T18:05:28.339759+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "\"수수료 상한제 강행, '알뜰배달 무료' 폐지 검토\"...배달앱 규제 역풍 ...새 창 열림",
+          "url": "https://www.ajunews.com/view/20261120155423260",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "[법률돋보기]㉖ 배달앱 수수료 15% 제한되나…“계약서부터 점검해야”새 창 열림",
+          "url": "http://www.inews24.com/view/2029308",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "f661db9726d19d3b14eeb22d97221e2c",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.thepublic.kr/news/articleView.html?idxno=328089",
+      "title": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림",
+      "summary": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림 수제버거 브랜드 프랭크버거가 배달 플랫폼 쿠팡이츠와 함께 와우회원에게 최대 1만원의 할인 혜택을 제공하는 프",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 47.0,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-23T18:19:36+09:00",
+      "processed_at": "2026-11-24T02:02:14.165017+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "7f59308bd2a216583e7ca4895dbeb76a",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12216436",
+      "title": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림",
+      "summary": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림 회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 29.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-23T18:04:55+09:00",
+      "processed_at": "2026-11-24T02:01:54.869350+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 2,
+      "duplicates": [
+        {
+          "title": "네이버 물류 자회사 연내 출범 … 첫 수장에 배민 CEO출신 김범준새 창 열림",
+          "url": "https://www.mk.co.kr/article/12216352",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "네이버, 물류 자회사 ‘네이버로직스’ 출범…초대 대표에 배민 출신 김...새 창 열림",
+          "url": "https://byline.network/?p=9004111222628763",
+          "channel": "네이버뉴스"
+        }
+      ]
     },
     {
       "uid": "472c4ef3c674fc17da6bc614406bc61b",
@@ -362,14 +548,112 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 위기가구에 간편식 도시락 1만 세트 지원새 창 열림",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611231322122519204ead0791_12",
+          "title": "배민, 위기가구에 도시락 1만 세트 지원새 창 열림",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668582",
           "channel": "네이버뉴스"
         },
         {
-          "title": "배민, 위기가구에 '배민드림도시락' 1만 세트 지원…먹거리 안전망 강화새 창 열림",
-          "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132939",
+          "title": "배민이 채우는 이웃의 한 끼…도시락 1만 세트 지원새 창 열림",
+          "url": "https://www.sportsseoul.com/news/read/1651687?ref=naver",
           "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "52a2690abfd1261b9c469bfb6de4c872",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.dt.co.kr/article/12096741?ref=naver",
+      "title": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림",
+      "summary": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림 시장 1위 배달의민족은 지난달 1일 기존 구독 서비스에 포인트 적립 기능을 더한 '배민클럽 에디션 2'를 출",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 31.2,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-23T16:13:45+09:00",
+      "processed_at": "2026-11-24T02:02:41.926180+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "4661724ce927c57b8d13dd59e51d6ac4",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.hankyung.com/article/2026112223621",
+      "title": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱새 창 열림",
+      "summary": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱새 창 열림 무료 배달과 할인쿠폰 등만으로 이용자를 붙잡기 어려워진 가운데 경쟁사에 없는 전용 메뉴와 상품을 앞세워 충성",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 27.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-22T17:03:13+09:00",
+      "processed_at": "2026-11-23T08:07:26.495648+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "'여기서만 팝니다'…단독상품 내놓는 배달앱",
+          "url": "https://www.clien.net/service/board/news/19297393",
+          "channel": "클리앙"
+        }
+      ]
+    },
+    {
+      "uid": "ffb2f9a2f5996aa25967a11c4ed761dd",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mt.co.kr/tech/2026/11/23/2026111710350447856",
+      "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림",
+      "summary": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림 배민은 지역화폐 결제 건에 대해서는 공공 배달앱(0~2%) 수준의 낮은 중개수수료율을 적용할 예정이다",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 24.9,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-23T11:10:00+09:00",
+      "processed_at": "2026-11-24T02:02:37.278932+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "배달앱"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준",
+          "url": "https://www.clien.net/service/board/news/19297376",
+          "channel": "클리앙"
         }
       ]
     },
@@ -508,17 +792,17 @@
       "summary": "650억 '반짝 효과' 그친 공공 배달앱 소비쿠폰…\"경쟁력부터 높여야\"새 창 열림 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
       "sentiment": "neutral",
       "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#가격·수수료",
+        "#점주·자영업",
+        "#마케팅·광고"
       ],
-      "viral_score": 38.4,
+      "viral_score": 28.0,
       "status": "Stable",
       "stakeholders": [
-        "소비자"
+        "점주"
       ],
       "published_at": "2026-11-23T11:40:00+09:00",
-      "processed_at": "2026-11-23T13:40:29.249245+09:00",
+      "processed_at": "2026-11-24T02:02:32.276189+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -533,87 +817,24 @@
       "channel": "네이버뉴스",
       "url": "https://www.mt.co.kr/tech/2026/11/23/2026111711265742960",
       "title": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구...새 창 열림",
-      "summary": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
-      "sentiment": "positive",
-      "tags": [
-        "#소비자반응",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 50.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T11:30:00+09:00",
-      "processed_at": "2026-11-23T13:40:33.355577+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "9af28625f212660ada6623a4217bedc5",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.joongang.co.kr/article/25481018",
-      "title": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림",
-      "summary": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림 대구시 관계자는 “대구로 배달시장 점유율은 8% 수준으로, 예산을 투입해 할인쿠폰을 발급할 때만 점유율이 소",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 70.7,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-23T11:25:32+09:00",
-      "processed_at": "2026-11-23T13:40:49.353922+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "ffb2f9a2f5996aa25967a11c4ed761dd",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/tech/2026/11/23/2026111710350447856",
-      "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림",
-      "summary": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
+      "summary": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구 배민 운영사 우아한형제들은 지역화폐 결제 건에 대해 공공 배달앱 수준의 중개수수료(2% 내외)를 적용하는 방",
       "sentiment": "neutral",
       "tags": [
         "#가격·수수료",
-        "#마케팅·광고",
-        "#기업·정책"
+        "#점주·자영업",
+        "#마케팅·광고"
       ],
-      "viral_score": 35.0,
+      "viral_score": 25.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-23T11:10:00+09:00",
-      "processed_at": "2026-11-23T13:40:57.701782+09:00",
+      "published_at": "2026-11-23T11:30:00+09:00",
+      "processed_at": "2026-11-24T02:02:34.918567+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "배달의민족",
-        "배달앱"
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -687,14 +908,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 31.0,
+      "viral_score": 22.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-23T07:00:00+09:00",
-      "processed_at": "2026-11-23T13:41:23.371139+09:00",
+      "processed_at": "2026-11-24T02:02:39.567139+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -798,34 +1019,6 @@
           "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "4661724ce927c57b8d13dd59e51d6ac4",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.hankyung.com/article/2026112223621",
-      "title": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱새 창 열림",
-      "summary": "\"여기서만 팝니다\"…단독상품 내놓는 배달앱새 창 열림 무료 배달과 할인쿠폰 등만으로 이용자를 붙잡기 어려워진 가운데 경쟁사에 없는 전용 메뉴와 상품을 앞세워 충성",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 27.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-22T17:03:13+09:00",
-      "processed_at": "2026-11-23T08:07:26.495648+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "810137ed23acd9539ff43e9ad2e5850b",
@@ -1036,10 +1229,10 @@
       "sentiment": "neutral",
       "tags": [
         "#가격·수수료",
-        "#소비자반응",
+        "#서비스·품질",
         "#기업·정책"
       ],
-      "viral_score": 23.4,
+      "viral_score": 20.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -1047,7 +1240,7 @@
         "라이더"
       ],
       "published_at": "2026-11-22T07:30:00+09:00",
-      "processed_at": "2026-11-23T13:41:56.537165+09:00",
+      "processed_at": "2026-11-24T02:03:00.335077+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1069,14 +1262,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 25.3,
+      "viral_score": 20.8,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-22T07:20:00+09:00",
-      "processed_at": "2026-11-23T13:41:31.868093+09:00",
+      "processed_at": "2026-11-24T02:02:46.610361+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1127,14 +1320,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 10.1,
+      "viral_score": 8.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-21T09:00:00+09:00",
-      "processed_at": "2026-11-23T13:41:35.838487+09:00",
+      "processed_at": "2026-11-24T02:02:48.875931+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1156,14 +1349,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 14.3,
+      "viral_score": 12.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-21T08:00:00+09:00",
-      "processed_at": "2026-11-23T13:41:48.689554+09:00",
+      "processed_at": "2026-11-24T02:02:53.738891+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1185,13 +1378,13 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 12.5,
+      "viral_score": 11.5,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-20T19:22:40+09:00",
-      "processed_at": "2026-11-23T13:41:40.284163+09:00",
+      "processed_at": "2026-11-24T02:02:51.454888+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1677,14 +1870,14 @@
         "#점주·자영업",
         "#마케팅·광고"
       ],
-      "viral_score": 13.2,
+      "viral_score": 12.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-19T16:45:45+09:00",
-      "processed_at": "2026-11-23T13:42:10.792746+09:00",
+      "processed_at": "2026-11-24T02:03:07.795519+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2305,7 +2498,7 @@
         "점주"
       ],
       "published_at": "2026-11-17T15:32:06+09:00",
-      "processed_at": "2026-11-23T13:41:14.787600+09:00",
+      "processed_at": "2026-11-24T02:02:27.472731+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2367,7 +2560,7 @@
         "소비자"
       ],
       "published_at": "2026-11-17T23:05:26+09:00",
-      "processed_at": "2026-11-23T13:40:40.864306+09:00",
+      "processed_at": "2026-11-24T02:02:06.928166+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2385,16 +2578,17 @@
       "summary": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림 문제는 지난 7월께 신한은행의 배달 애플리케이션 '땡겨요' 사업단 간부가 경쟁사인 쿠팡이츠의 영업 비밀을 무",
       "sentiment": "negative",
       "tags": [
+        "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 28.8,
+      "viral_score": 28.7,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-17T21:29:00+09:00",
-      "processed_at": "2026-11-23T13:41:52.396498+09:00",
+      "processed_at": "2026-11-24T02:02:58.108635+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -8869,150 +9063,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "5a122f661fa2fefa67eca1b21ccfc770",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.ceoscoredaily.com/page/view/2026102816321071150",
-      "title": "배민, 배달 넘어 ‘심리스 시티’로…김범석 “불필요한 ‘기다림 제로...새 창 열림",
-      "summary": "배민, 배달 넘어 ‘심리스 시티’로…김범석 “불필요한 ‘기다림 제로 배달의민족(배민) 운영사 우아한형제들이 AI(인공지능)와 실시간 데이터를 기반으로 고객의 대기 시간을 지우는",
-      "sentiment": "positive",
-      "tags": [
-        "#마케팅·광고",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 10.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-10-28T17:00:32+09:00",
-      "processed_at": "2026-11-02T10:16:46.800588+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "007a329b41f4d88d56e55bfe641b5e6b",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028165211040",
-      "title": "[현장] 주문하기도 전에 배달까지 AI로 예측…배민 ‘심리스시티’ 공개",
-      "summary": "[현장] 주문하기도 전에 배달까지 AI로 예측…배민 ‘심리스시티’ 공개 AI로 수요 예측해 지연 줄인다 이날 우아한형제들 구성원들은 각자의 전문 분야를 주제로 직접 강연했다",
-      "sentiment": "positive",
-      "tags": [
-        "#라이더",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 33.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-28T16:52:00+09:00",
-      "processed_at": "2026-10-29T05:54:55.726811+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "fd8696021be90084e923f8520efe9cc7",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261028164758841",
-      "title": "배민, 라이더 '몇 명'보다 '몇 시간'…배차 25% 빨라졌다",
-      "summary": "배민, 라이더 '몇 명'보다 '몇 시간'…배차 25% 빨라졌다 신성찬 데이터 분석가가 28일 열린 '우아한테크콘퍼런스(우아콘) 2026'에서 '비오는 날, 배민은 라이더를",
-      "sentiment": "neutral",
-      "tags": [
-        "#라이더",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 23.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-28T16:47:00+09:00",
-      "processed_at": "2026-10-29T05:55:04.377725+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "efee7365cc3f123296bc5116793bbb60",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.insight.co.kr/news/579570",
-      "title": "조리시간 오차는 절반으로, 배달 예측 정확도는 2배로... 배민의 AI 승부...새 창 열림",
-      "summary": "조리시간 오차는 절반으로, 배달 예측 정확도는 2배로 배달의민족(이하 배민)이 인공지능(AI)을 활용해 음식 조리시간과 배달 도착 예정 시간 예측의 정확도를 높이",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#라이더",
-        "#마케팅·광고"
-      ],
-      "viral_score": 49.7,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "라이더"
-      ],
-      "published_at": "2026-10-28T16:36:31+09:00",
-      "processed_at": "2026-10-28T16:47:51.866927+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "335e8b741e156eda2dd1319499ed331f",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942439",
-      "title": "배민, '우아콘2026' 개최…AI·로봇 등 배달 기술 공개새 창 열림",
-      "summary": "배민, '우아콘2026' 개최…AI·로봇 등 배달 기술 공개새 창 열림 배민은 비가 오기 전 지역별 라이더 수요를 예측해 우천 상황에서 대응하는 데 걸리는 시간을 기존보다 약 80",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 49.7,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-10-28T16:36:01+09:00",
-      "processed_at": "2026-10-28T16:48:16.492670+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9037,8 +9087,8 @@
             "소비자",
             "점주"
           ],
-          "published_at": "2026-11-23T13:38:00+09:00",
-          "processed_at": "2026-11-23T13:41:28.054216+09:00",
+          "published_at": "2026-11-24T01:59:00+09:00",
+          "processed_at": "2026-11-24T02:02:44.372170+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9048,26 +9098,25 @@
           "duplicates": []
         },
         {
-          "uid": "472c4ef3c674fc17da6bc614406bc61b",
+          "uid": "7f59308bd2a216583e7ca4895dbeb76a",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "https://www.seoultimes.news/news/article.html?no=2000102535",
-          "title": "배민, 위기가구에 ‘배민드림도시락’ 1만 세트 지원새 창 열림",
-          "summary": "배민, 위기가구에 ‘배민드림도시락’ 1만 세트 지원새 창 열림 보건복지부 ‘그냥드림’ 사업 동참…지자체·전국푸드뱅크 통해 전달 임직원 직접 포장한 도시락 200세트 전남 ",
-          "sentiment": "positive",
+          "url": "https://www.mk.co.kr/article/12216436",
+          "title": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림",
+          "summary": "[단독] 네이버 물류자회사 수장에 ‘배민 CEO’…배달의 기운 심는다새 창 열림 회사명 ‘네이버로직스’로 낙점 배민출신 김범준 초대수장 임명 2030년까지 물류에 1조 투자 이커머스 경쟁구",
+          "sentiment": "neutral",
           "tags": [
+            "#서비스·품질",
             "#마케팅·광고",
-            "#기업·정책",
-            "#감동·긍정"
+            "#기업·정책"
           ],
-          "viral_score": 57.8,
-          "status": "Rising",
+          "viral_score": 29.9,
+          "status": "Stable",
           "stakeholders": [
-            "소비자",
-            "직원"
+            "소비자"
           ],
-          "published_at": "2026-11-23T13:32:10+09:00",
-          "processed_at": "2026-11-23T13:40:45.081871+09:00",
+          "published_at": "2026-11-23T18:04:55+09:00",
+          "processed_at": "2026-11-24T02:01:54.869350+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9076,44 +9125,114 @@
           "duplicate_count": 2,
           "duplicates": [
             {
-              "title": "배민, 위기가구에 간편식 도시락 1만 세트 지원새 창 열림",
-              "url": "https://www.lawissue.co.kr/view.php?ud=202611231322122519204ead0791_12",
+              "title": "네이버 물류 자회사 연내 출범 … 첫 수장에 배민 CEO출신 김범준새 창 열림",
+              "url": "https://www.mk.co.kr/article/12216352",
               "channel": "네이버뉴스"
             },
             {
-              "title": "배민, 위기가구에 '배민드림도시락' 1만 세트 지원…먹거리 안전망 강화새 창 열림",
-              "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132939",
+              "title": "네이버, 물류 자회사 ‘네이버로직스’ 출범…초대 대표에 배민 출신 김...새 창 열림",
+              "url": "https://byline.network/?p=9004111222628763",
               "channel": "네이버뉴스"
             }
           ]
         },
         {
-          "uid": "57d15a3b406f5dd2489d6ecb13af62fe",
+          "uid": "ddf6d243bd41ed417be79b5e8a68cc71",
           "brand": "배달의민족",
           "channel": "네이버뉴스",
-          "url": "http://www.inews24.com/view/2029127",
-          "title": "CJ제일제당·배민, 연말 먹거리 나눔…취약계층 식사 지원새 창 열림",
-          "summary": "CJ제일제당·배민, 연말 먹거리 나눔…취약계층 식사 지원새 창 열림 배달의민족 운영사 우아한형제들은 보건복지부 '그냥드림' 사업에 참여해 위기가구에 '배민드림도시락' 1만세트를",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668582",
+          "title": "배민, 위기가구에 도시락 1만 세트 지원새 창 열림",
+          "summary": "배민, 위기가구에 도시락 1만 세트 지원새 창 열림 사진=우아한형제들 한국금융경제신문=조희경 기자 | 배달의민족(배민)이 정부의 위기가구 먹거리 지원 사업에 참",
           "sentiment": "positive",
           "tags": [
-            "#서비스·품질",
+            "#마케팅·광고",
             "#기업·정책",
             "#감동·긍정"
           ],
-          "viral_score": 47.0,
+          "viral_score": 38.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
-          "published_at": "2026-11-23T11:49:06+09:00",
-          "processed_at": "2026-11-23T13:40:21.038725+09:00",
+          "published_at": "2026-11-23T17:44:45+09:00",
+          "processed_at": "2026-11-24T02:01:57.155976+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "배민이 채우는 이웃의 한 끼…도시락 1만 세트 지원새 창 열림",
+              "url": "https://www.sportsseoul.com/news/read/1651687?ref=naver",
+              "channel": "네이버뉴스"
+            }
+          ]
+        },
+        {
+          "uid": "52a2690abfd1261b9c469bfb6de4c872",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.dt.co.kr/article/12096741?ref=naver",
+          "title": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림",
+          "summary": "\"할인 끝, 단골 모셔라\"… 배달앱 ‘구독·적립’ 록인 전쟁새 창 열림 시장 1위 배달의민족은 지난달 1일 기존 구독 서비스에 포인트 적립 기능을 더한 '배민클럽 에디션 2'를 출",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#서비스·품질",
+            "#마케팅·광고"
+          ],
+          "viral_score": 31.2,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자",
+            "점주"
+          ],
+          "published_at": "2026-11-23T16:13:45+09:00",
+          "processed_at": "2026-11-24T02:02:41.926180+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달앱"
+          ],
           "duplicate_count": 0,
           "duplicates": []
+        },
+        {
+          "uid": "ffb2f9a2f5996aa25967a11c4ed761dd",
+          "brand": "배달의민족",
+          "channel": "네이버뉴스",
+          "url": "https://www.mt.co.kr/tech/2026/11/23/2026111710350447856",
+          "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림",
+          "summary": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림 배민은 지역화폐 결제 건에 대해서는 공공 배달앱(0~2%) 수준의 낮은 중개수수료율을 적용할 예정이다",
+          "sentiment": "neutral",
+          "tags": [
+            "#가격·수수료",
+            "#마케팅·광고",
+            "#기업·정책"
+          ],
+          "viral_score": 24.9,
+          "status": "Stable",
+          "stakeholders": [
+            "점주"
+          ],
+          "published_at": "2026-11-23T11:10:00+09:00",
+          "processed_at": "2026-11-24T02:02:37.278932+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "배달의민족",
+            "배달앱"
+          ],
+          "duplicate_count": 1,
+          "duplicates": [
+            {
+              "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준",
+              "url": "https://www.clien.net/service/board/news/19297376",
+              "channel": "클리앙"
+            }
+          ]
         },
         {
           "uid": "85190aba37a4a69822392bd69265b37b",
@@ -9124,17 +9243,17 @@
           "summary": "650억 '반짝 효과' 그친 공공 배달앱 소비쿠폰…\"경쟁력부터 높여야\"새 창 열림 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
           "sentiment": "neutral",
           "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
+            "#가격·수수료",
+            "#점주·자영업",
+            "#마케팅·광고"
           ],
-          "viral_score": 38.4,
+          "viral_score": 28.0,
           "status": "Stable",
           "stakeholders": [
-            "소비자"
+            "점주"
           ],
           "published_at": "2026-11-23T11:40:00+09:00",
-          "processed_at": "2026-11-23T13:40:29.249245+09:00",
+          "processed_at": "2026-11-24T02:02:32.276189+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9149,53 +9268,24 @@
           "channel": "네이버뉴스",
           "url": "https://www.mt.co.kr/tech/2026/11/23/2026111711265742960",
           "title": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구...새 창 열림",
-          "summary": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구 아산페이로 시작하는 배민의 지역화폐 결제 도입이 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
-          "sentiment": "positive",
-          "tags": [
-            "#소비자반응",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 50.5,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자"
-          ],
-          "published_at": "2026-11-23T11:30:00+09:00",
-          "processed_at": "2026-11-23T13:40:33.355577+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "ffb2f9a2f5996aa25967a11c4ed761dd",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.mt.co.kr/tech/2026/11/23/2026111710350447856",
-          "title": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림",
-          "summary": "[단독]배민서도 아산페이 쓴다…수수료는 공공 배달앱 수준새 창 열림 배달 앱 시장과 지역화폐에 미칠 영향을 다각도로 짚어본다",
+          "summary": "\"쓸 곳 없어\" 꼬리표 뗀다…배민 손 잡는 지역화폐, 웃고 우는 사람 누구 배민 운영사 우아한형제들은 지역화폐 결제 건에 대해 공공 배달앱 수준의 중개수수료(2% 내외)를 적용하는 방",
           "sentiment": "neutral",
           "tags": [
             "#가격·수수료",
-            "#마케팅·광고",
-            "#기업·정책"
+            "#점주·자영업",
+            "#마케팅·광고"
           ],
-          "viral_score": 35.0,
+          "viral_score": 25.1,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
-          "published_at": "2026-11-23T11:10:00+09:00",
-          "processed_at": "2026-11-23T13:40:57.701782+09:00",
+          "published_at": "2026-11-23T11:30:00+09:00",
+          "processed_at": "2026-11-24T02:02:34.918567+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
-            "배달의민족",
-            "배달앱"
+            "배달의민족"
           ],
           "duplicate_count": 0,
           "duplicates": []
@@ -9213,14 +9303,14 @@
             "#소비자반응",
             "#기업·정책"
           ],
-          "viral_score": 31.0,
+          "viral_score": 22.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-23T07:00:00+09:00",
-          "processed_at": "2026-11-23T13:41:23.371139+09:00",
+          "processed_at": "2026-11-24T02:02:39.567139+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9242,14 +9332,14 @@
             "#점주·자영업",
             "#소비자반응"
           ],
-          "viral_score": 25.3,
+          "viral_score": 20.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-22T07:20:00+09:00",
-          "processed_at": "2026-11-23T13:41:31.868093+09:00",
+          "processed_at": "2026-11-24T02:02:46.610361+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9259,25 +9349,54 @@
           "duplicates": []
         }
       ],
-      "total": 8,
-      "avg_score": 44.4,
+      "total": 9,
+      "avg_score": 32.3,
       "ratio": {
-        "negative": 12,
-        "positive": 50,
-        "neutral": 38
+        "negative": 11,
+        "positive": 22,
+        "neutral": 67
       },
-      "mentions": 12
+      "mentions": 17
     },
     "coupang": {
-      "issues": [],
-      "total": 0,
-      "avg_score": 0,
+      "issues": [
+        {
+          "uid": "f661db9726d19d3b14eeb22d97221e2c",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=328089",
+          "title": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림",
+          "summary": "프랭크버거, 쿠팡이츠 신규·장기 미이용 와우회원에 최대 1만원 할인새 창 열림 수제버거 브랜드 프랭크버거가 배달 플랫폼 쿠팡이츠와 함께 와우회원에게 최대 1만원의 할인 혜택을 제공하는 프",
+          "sentiment": "positive",
+          "tags": [
+            "#가격·수수료",
+            "#소비자반응",
+            "#마케팅·광고"
+          ],
+          "viral_score": 47.0,
+          "status": "Stable",
+          "stakeholders": [
+            "소비자"
+          ],
+          "published_at": "2026-11-23T18:19:36+09:00",
+          "processed_at": "2026-11-24T02:02:14.165017+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "쿠팡이츠"
+          ],
+          "duplicate_count": 0,
+          "duplicates": []
+        }
+      ],
+      "total": 1,
+      "avg_score": 47.0,
       "ratio": {
         "negative": 0,
-        "positive": 0,
+        "positive": 100,
         "neutral": 0
       },
-      "mentions": 2
+      "mentions": 5
     }
   }
 }
