@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:31:23.746457+09:00",
+  "updated_at": "2026-11-27T07:52:58.607305+09:00",
   "hot": [
     {
       "uid": "7e052c2c85c08bbd01da0c518d0a8ad1",
@@ -20,40 +20,12 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-26T22:29:00+09:00",
-      "processed_at": "2026-11-26T22:30:48.984785+09:00",
+      "published_at": "2026-11-27T07:50:00+09:00",
+      "processed_at": "2026-11-27T07:52:18.043892+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "ef5fa4038930713cab2b94baebcedb5b",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "http://www.popcornnews.net/news/articleView.html?idxno=141698",
-      "title": "배민, 금융·판로·수수료 지원 확대...소상공인 상생 접점 넓힌다새 창 열림",
-      "summary": "배민, 금융·판로·수수료 지원 확대 소상공인 상생 접점 넓힌다새 창 열림",
-      "sentiment": "positive",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 48.9,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-26T16:18:52+09:00",
-      "processed_at": "2026-11-26T22:29:59.087205+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -71,13 +43,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.8,
+      "viral_score": 44.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T16:43:40+09:00",
-      "processed_at": "2026-11-26T22:30:21.716713+09:00",
+      "processed_at": "2026-11-27T07:51:45.122258+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -88,35 +60,35 @@
       "duplicates": []
     },
     {
-      "uid": "405133c280a00d82bffc420eefd694d5",
+      "uid": "991f25a869bac8f27fda9d045efba9db",
       "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
-      "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
-      "summary": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림 쿠팡과 쿠팡이츠서비스가 지역 소상공인의 온라인 매출 성장과 배달 라이더의 정산 안전망 강화를 아우르는 동반성",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2392250",
+      "title": "[은행] 우리은행, 쿠팡이츠서비스와 라이더 배달료 보호…KB금융, AI 기술...새 창 열림",
+      "summary": "[은행] 우리은행, 쿠팡이츠서비스와 라이더 배달료 보호…KB금융, AI 기술 우리은행, 쿠팡이츠서비스와 배달 라이더 정산금 보호 추진 우리은행은 지난 25일 쿠팡이츠서비스와 배달대행사 ",
       "sentiment": "positive",
       "tags": [
+        "#서비스·품질",
         "#라이더",
-        "#점주·자영업",
-        "#마케팅·광고"
+        "#기업·정책"
       ],
-      "viral_score": 45.3,
+      "viral_score": 39.1,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-26T19:29:25+09:00",
-      "processed_at": "2026-11-26T22:30:14.197061+09:00",
+      "published_at": "2026-11-27T00:16:02+09:00",
+      "processed_at": "2026-11-27T07:51:36.665309+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 6,
+      "duplicate_count": 7,
       "duplicates": [
         {
-          "title": "쿠팡이츠서비스, 우리은행과 라이더 정산금 보호 추진새 창 열림",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=268086",
+          "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
           "channel": "네이버뉴스"
         },
         {
@@ -130,6 +102,11 @@
           "channel": "네이버뉴스"
         },
         {
+          "title": "우리은행·쿠팡이츠서비스, 라이더 배달료 정산금 보호 협약새 창 열림",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764630",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "\"배달 라이더 정산금 지킨다\"…우리은행, 쿠팡이츠와 협약새 창 열림",
           "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102103",
           "channel": "네이버뉴스"
@@ -140,60 +117,60 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠서비스, ﻿라이더 안전정산 서비스 추진 MOU 체결새 창 열림",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327639",
+          "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
           "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "b2c856e7655ae623b92c7e889bbb8228",
-      "brand": "쿠팡이츠",
+      "uid": "ef5fa4038930713cab2b94baebcedb5b",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
-      "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
-      "summary": "우리은, 라이더 배달료 미지급 막는다 쿠팡이츠와 '안전결제망' 맞손새 창 열림",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=141698",
+      "title": "배민, 금융·판로·수수료 지원 확대...소상공인 상생 접점 넓힌다새 창 열림",
+      "summary": "배민, 금융·판로·수수료 지원 확대 소상공인 상생 접점 넓힌다새 창 열림",
       "sentiment": "positive",
       "tags": [
-        "#서비스·품질",
+        "#점주·자영업",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 43.2,
+      "viral_score": 38.9,
       "status": "Stable",
       "stakeholders": [
-        "라이더"
+        "점주"
       ],
-      "published_at": "2026-11-26T18:03:29+09:00",
-      "processed_at": "2026-11-26T22:31:16.057280+09:00",
+      "published_at": "2026-11-26T16:18:52+09:00",
+      "processed_at": "2026-11-27T07:51:22.140812+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
-        "쿠팡이츠"
+        "배달의민족"
       ],
       "duplicate_count": 0,
       "duplicates": []
     },
     {
-      "uid": "f709f49ff5a83e55decf0fa2387b6247",
+      "uid": "4a73ece51b8dd39156575eadffc963f5",
       "brand": "쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888623",
-      "title": "[유통단신] G마켓, 내년 1분기 '뷰티 전문 몰' 공개 外 쿠팡이츠·한솥도...새 창 열림",
-      "summary": "[유통단신] G마켓, 내년 1분기 '뷰티 전문 몰' 공개 外 쿠팡이츠·한솥도 ■쿠팡이츠서비스(CES)가 라이더의 정산 피해 방지를 위해 지난 25일 우리은행과 '라이더 안전정산 서비스'",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32183",
+      "title": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림",
+      "summary": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림 우리銀, 쿠팡이츠와 협약 체결 우리은행(은행장 정진완)은 지난 25일 서울 중구 우리은행 본점에서 쿠팡이츠서",
       "sentiment": "neutral",
       "tags": [
         "#서비스·품질",
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 33.0,
+      "viral_score": 33.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
-      "published_at": "2026-11-26T18:03:03+09:00",
-      "processed_at": "2026-11-26T22:31:13.207339+09:00",
+      "published_at": "2026-11-27T06:40:00+09:00",
+      "processed_at": "2026-11-27T07:51:33.908931+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -215,13 +192,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 31.1,
+      "viral_score": 26.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T13:00:00+09:00",
-      "processed_at": "2026-11-26T22:30:24.505260+09:00",
+      "processed_at": "2026-11-27T07:51:48.613923+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -231,53 +208,25 @@
       "duplicates": []
     },
     {
-      "uid": "ad344f3a1aa89d6bf87ba679408d81a2",
-      "brand": "배달앱 일반",
+      "uid": "fa205781ab8d7f8c728895ddac8f715b",
+      "brand": "배달의민족",
       "channel": "네이버뉴스",
-      "url": "https://dgmbc.com/NewsArticle/875543",
-      "title": "\"음식점 외 불가?\"···공공 배달앱 운영사 교체 앞두고 반발새 창 열림",
-      "summary": "\"···공공 배달앱 운영사 교체 앞두고 반발새 창 열림 ◀앵커▶ 대구 공공 배달앱 '대구로' 운영이 12월 종료함에 따라 대구시가 최근 우선 협상 대상자를 선정했습",
+      "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=131103",
+      "title": "우버 인수 심사 중인 배민, 업주 상생안 연타새 창 열림",
+      "summary": "우버 인수 심사 중인 배민, 업주 상생안 연타새 창 열림 당시 배민 측은 기업결합에 따른 수수료 인상이나 혜택 축소와 관련해 공정위 측에 \"이런 우려는 전혀 없다\"고",
       "sentiment": "neutral",
       "tags": [
-        "#점주·자영업",
+        "#소비자반응",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 28.9,
+      "viral_score": 22.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
-      "published_at": "2026-11-26T13:16:01+09:00",
-      "processed_at": "2026-11-26T22:30:17.022735+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "4ec288e2ccd001583509673fe5f29bf1",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087801",
-      "title": "배민에서만 만나는 뚜레쥬르 케이크…쿠키 크럼블·장식 픽 13종 구성새 창 열림",
-      "summary": "배민에서만 만나는 뚜레쥬르 케이크…쿠키 크럼블·장식 픽 13종 구성새 창 열림 배달의민족(배민)이 뚜레쥬르와 협업해 연말 시즌 케이크를 선보인다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 26.8,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-26T14:10:00+09:00",
-      "processed_at": "2026-11-26T22:30:01.887044+09:00",
+      "published_at": "2026-11-25T10:14:10+09:00",
+      "processed_at": "2026-11-27T07:51:51.765438+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -299,7 +248,7 @@
         "#라이더",
         "#마케팅·광고"
       ],
-      "viral_score": 26.4,
+      "viral_score": 22.4,
       "status": "Stable",
       "stakeholders": [
         "소비자",
@@ -307,7 +256,7 @@
         "라이더"
       ],
       "published_at": "2026-11-25T18:29:29+09:00",
-      "processed_at": "2026-11-26T22:30:56.770070+09:00",
+      "processed_at": "2026-11-27T07:52:26.894738+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -326,6 +275,62 @@
           "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "4ec288e2ccd001583509673fe5f29bf1",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087801",
+      "title": "배민에서만 만나는 뚜레쥬르 케이크…쿠키 크럼블·장식 픽 13종 구성새 창 열림",
+      "summary": "배민에서만 만나는 뚜레쥬르 케이크…쿠키 크럼블·장식 픽 13종 구성새 창 열림 배달의민족(배민)이 뚜레쥬르와 협업해 연말 시즌 케이크를 선보인다",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 20.4,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-26T14:10:00+09:00",
+      "processed_at": "2026-11-27T07:51:25.408790+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "0457a38cb86bd5bd9e0aaf9c8f8ec2ac",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://kpenews.com/View.aspx?No=4330368",
+      "title": "매출 22% 늘었지만 이익은 뒷걸음..배민, 픽업·로봇으로 비용 구조 손질새 창 열림",
+      "summary": "매출 22% 늘었지만 이익은 뒷걸음 배민, 픽업·로봇으로 비용 구조 손질새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 18.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-26T10:44:46+09:00",
+      "processed_at": "2026-11-27T07:51:28.699397+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     }
   ],
   "feed": [
@@ -348,12 +353,40 @@
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-26T22:29:00+09:00",
-      "processed_at": "2026-11-26T22:30:48.984785+09:00",
+      "published_at": "2026-11-27T07:50:00+09:00",
+      "processed_at": "2026-11-27T07:52:18.043892+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달비"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "4a73ece51b8dd39156575eadffc963f5",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32183",
+      "title": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림",
+      "summary": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림 우리銀, 쿠팡이츠와 협약 체결 우리은행(은행장 정진완)은 지난 25일 서울 중구 우리은행 본점에서 쿠팡이츠서",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#라이더",
+        "#기업·정책"
+      ],
+      "viral_score": 33.6,
+      "status": "Stable",
+      "stakeholders": [
+        "라이더"
+      ],
+      "published_at": "2026-11-27T06:40:00+09:00",
+      "processed_at": "2026-11-27T07:51:33.908931+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -386,18 +419,13 @@
       "duplicate_count": 8,
       "duplicates": [
         {
+          "title": "[은행] 우리은행, 쿠팡이츠서비스와 라이더 배달료 보호…KB금융, AI 기술...새 창 열림",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2392250",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
           "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "쿠팡이츠서비스, 우리은행과 라이더 정산금 보호 추진새 창 열림",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=268086",
           "channel": "네이버뉴스"
         },
         {
@@ -411,6 +439,11 @@
           "channel": "네이버뉴스"
         },
         {
+          "title": "우리은행·쿠팡이츠서비스, 라이더 배달료 정산금 보호 협약새 창 열림",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764630",
+          "channel": "네이버뉴스"
+        },
+        {
           "title": "\"배달 라이더 정산금 지킨다\"…우리은행, 쿠팡이츠와 협약새 창 열림",
           "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102103",
           "channel": "네이버뉴스"
@@ -421,8 +454,8 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠서비스, ﻿라이더 안전정산 서비스 추진 MOU 체결새 창 열림",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327639",
+          "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
+          "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
           "channel": "네이버뉴스"
         }
       ]
@@ -468,13 +501,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.9,
+      "viral_score": 38.9,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-26T16:18:52+09:00",
-      "processed_at": "2026-11-26T22:29:59.087205+09:00",
+      "processed_at": "2026-11-27T07:51:22.140812+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -502,13 +535,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 26.8,
+      "viral_score": 20.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-26T14:10:00+09:00",
-      "processed_at": "2026-11-26T22:30:01.887044+09:00",
+      "processed_at": "2026-11-27T07:51:25.408790+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -516,40 +549,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "66ea18ca86598b9aea208d6d376cabe4",
-      "brand": "배달앱 일반",
-      "channel": "네이버뉴스",
-      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
-      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
-      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
-      "sentiment": "positive",
-      "tags": [
-        "#가격·수수료",
-        "#서비스·품질",
-        "#점주·자영업"
-      ],
-      "viral_score": 59.5,
-      "status": "Rising",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-02T01:00:00+09:00",
-      "processed_at": "2026-11-02T02:31:32.469991+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "\"음식점 외 불가?\"···공공 배달앱 운영사 교체 앞두고 반발새 창 열림",
-          "url": "https://dgmbc.com/NewsArticle/875543",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "0457a38cb86bd5bd9e0aaf9c8f8ec2ac",
@@ -564,13 +563,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.2,
+      "viral_score": 18.6,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-26T10:44:46+09:00",
-      "processed_at": "2026-11-26T22:30:04.688727+09:00",
+      "processed_at": "2026-11-27T07:51:28.699397+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -781,13 +780,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 48.8,
+      "viral_score": 44.0,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T16:43:40+09:00",
-      "processed_at": "2026-11-26T22:30:21.716713+09:00",
+      "processed_at": "2026-11-27T07:51:45.122258+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -845,13 +844,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 24.4,
+      "viral_score": 22.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T10:14:10+09:00",
-      "processed_at": "2026-11-26T22:30:27.150157+09:00",
+      "processed_at": "2026-11-27T07:51:51.765438+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1036,13 +1035,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 13.1,
+      "viral_score": 12.1,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-24T19:28:43+09:00",
-      "processed_at": "2026-11-26T22:30:32.542529+09:00",
+      "processed_at": "2026-11-27T07:51:58.393852+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1149,14 +1148,14 @@
         "#소비자반응",
         "#기업·정책"
       ],
-      "viral_score": 21.8,
+      "viral_score": 20.6,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-24T06:30:00+09:00",
-      "processed_at": "2026-11-26T22:30:37.785888+09:00",
+      "processed_at": "2026-11-27T07:52:04.820728+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1598,14 +1597,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 13.7,
+      "viral_score": 13.3,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-23T16:13:45+09:00",
-      "processed_at": "2026-11-26T22:30:43.046847+09:00",
+      "processed_at": "2026-11-27T07:52:11.120123+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1906,14 +1905,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 7.7,
+      "viral_score": 7.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-23T07:00:00+09:00",
-      "processed_at": "2026-11-26T22:30:45.841395+09:00",
+      "processed_at": "2026-11-27T07:52:14.424065+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2540,14 +2539,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[유통가 오늘] 쿠팡ㆍ세븐일레븐ㆍ유한킴벌리ㆍ배달의민족새 창 열림",
-          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024509",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "bcf4fb5827e3aef6884c1b285a42e7c4",
@@ -2630,24 +2623,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
-      "duplicates": [
-        {
-          "title": "구례군, 배달의민족 도시락 200세트 기탁받아…취약계층 먹거리 지원새 창 열림",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2020052",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배달의민족, 라이더 안전·복지 위해 3000만원 기부",
-          "url": "http://v.daum.net/v/20261104180821666",
-          "channel": "다음뉴스"
-        },
-        {
-          "title": "배민, 겨울철 라이더에 1억원 규모 안전용품 지원새 창 열림",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390224.html",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "ffb6d459ee8faa8ff6a931bf60d63d1b",
@@ -2701,14 +2678,8 @@
       "matched_keywords": [
         "쿠팡이츠"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "쿠팡이츠 콜센터 상담사들, 노조 만들었다새 창 열림",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237821",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "6d232cb40fee170908a8c801df72c8d5",
@@ -3049,14 +3020,8 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "[현장] \"VR 기기부터 밀착 교육까지\"…배민라이더스쿨, 주행 중 사고 위...새 창 열림",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=230016",
-          "channel": "네이버뉴스"
-        }
-      ]
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "a11117538a2a4a634c2b6ffa0798fb70",
@@ -9030,6 +8995,34 @@
       "duplicates": []
     },
     {
+      "uid": "66ea18ca86598b9aea208d6d376cabe4",
+      "brand": "배달앱 일반",
+      "channel": "네이버뉴스",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078109",
+      "title": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림",
+      "summary": "화순군, 매주 수요일 공공배달앱 '먹깨비 데이' 운영새 창 열림 전남광주통합특별시 화순군은 지역 소상공인 지원과 공공배달앱 활성화를 위해 '먹깨비 데이' 할인 이벤트를 오는",
+      "sentiment": "positive",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 59.5,
+      "status": "Rising",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-02T01:00:00+09:00",
+      "processed_at": "2026-11-02T02:31:32.469991+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "8573ca01186a0ea38c7e1552d73ec8ec",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -9084,34 +9077,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "b7b8debda57e7188c5f7595504637731",
-      "brand": "배달의민족",
-      "channel": "다음뉴스",
-      "url": "http://v.daum.net/v/20261101105342080",
-      "title": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상",
-      "summary": "이토록 아름다운 안전교육장…배민 라이더스쿨 건축상 수상 배민 운영사 우아한형제들은 지난달 31일 부산 벡스코에서 열린 제49회 한국건축가협회 건축상 시상식에서 '배",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#기업·정책",
-        "#감동·긍정"
-      ],
-      "viral_score": 16.9,
-      "status": "Stable",
-      "stakeholders": [
-        "라이더"
-      ],
-      "published_at": "2026-11-01T10:53:00+09:00",
-      "processed_at": "2026-11-03T05:02:32.198701+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     }
   ],
   "versus": {
@@ -9136,8 +9101,8 @@
             "소비자",
             "점주"
           ],
-          "published_at": "2026-11-26T22:29:00+09:00",
-          "processed_at": "2026-11-26T22:30:48.984785+09:00",
+          "published_at": "2026-11-27T07:50:00+09:00",
+          "processed_at": "2026-11-27T07:52:18.043892+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9159,13 +9124,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 48.9,
+          "viral_score": 38.9,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-26T16:18:52+09:00",
-          "processed_at": "2026-11-26T22:29:59.087205+09:00",
+          "processed_at": "2026-11-27T07:51:22.140812+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9187,13 +9152,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 26.8,
+          "viral_score": 20.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-26T14:10:00+09:00",
-          "processed_at": "2026-11-26T22:30:01.887044+09:00",
+          "processed_at": "2026-11-27T07:51:25.408790+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9215,13 +9180,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 24.2,
+          "viral_score": 18.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-26T10:44:46+09:00",
-          "processed_at": "2026-11-26T22:30:04.688727+09:00",
+          "processed_at": "2026-11-27T07:51:28.699397+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9243,7 +9208,7 @@
             "#라이더",
             "#마케팅·광고"
           ],
-          "viral_score": 26.4,
+          "viral_score": 22.4,
           "status": "Stable",
           "stakeholders": [
             "소비자",
@@ -9251,7 +9216,7 @@
             "라이더"
           ],
           "published_at": "2026-11-25T18:29:29+09:00",
-          "processed_at": "2026-11-26T22:30:56.770070+09:00",
+          "processed_at": "2026-11-27T07:52:26.894738+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9284,14 +9249,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 18.3,
+          "viral_score": 15.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-25T17:49:00+09:00",
-          "processed_at": "2026-11-26T22:31:05.026428+09:00",
+          "processed_at": "2026-11-27T07:52:36.401893+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9313,13 +9278,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 31.1,
+          "viral_score": 26.9,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-25T13:00:00+09:00",
-          "processed_at": "2026-11-26T22:30:24.505260+09:00",
+          "processed_at": "2026-11-27T07:51:48.613923+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9341,13 +9306,13 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 24.4,
+          "viral_score": 22.4,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-25T10:14:10+09:00",
-          "processed_at": "2026-11-26T22:30:27.150157+09:00",
+          "processed_at": "2026-11-27T07:51:51.765438+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9358,7 +9323,7 @@
         }
       ],
       "total": 8,
-      "avg_score": 33.8,
+      "avg_score": 29.4,
       "ratio": {
         "negative": 25,
         "positive": 25,
@@ -9369,35 +9334,63 @@
     "coupang": {
       "issues": [
         {
-          "uid": "405133c280a00d82bffc420eefd694d5",
+          "uid": "4a73ece51b8dd39156575eadffc963f5",
           "brand": "쿠팡이츠",
           "channel": "네이버뉴스",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
-          "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
-          "summary": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림 쿠팡과 쿠팡이츠서비스가 지역 소상공인의 온라인 매출 성장과 배달 라이더의 정산 안전망 강화를 아우르는 동반성",
-          "sentiment": "positive",
+          "url": "https://www.rcast.co.kr/news/articleView.html?idxno=32183",
+          "title": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림",
+          "summary": "우리銀, 쿠팡이츠와 협약 체결 外새 창 열림 우리銀, 쿠팡이츠와 협약 체결 우리은행(은행장 정진완)은 지난 25일 서울 중구 우리은행 본점에서 쿠팡이츠서",
+          "sentiment": "neutral",
           "tags": [
+            "#서비스·품질",
             "#라이더",
-            "#점주·자영업",
-            "#마케팅·광고"
+            "#기업·정책"
           ],
-          "viral_score": 45.3,
+          "viral_score": 33.6,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
-          "published_at": "2026-11-26T19:29:25+09:00",
-          "processed_at": "2026-11-26T22:30:14.197061+09:00",
+          "published_at": "2026-11-27T06:40:00+09:00",
+          "processed_at": "2026-11-27T07:51:33.908931+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "쿠팡이츠"
           ],
-          "duplicate_count": 6,
+          "duplicate_count": 0,
+          "duplicates": []
+        },
+        {
+          "uid": "991f25a869bac8f27fda9d045efba9db",
+          "brand": "쿠팡이츠",
+          "channel": "네이버뉴스",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2392250",
+          "title": "[은행] 우리은행, 쿠팡이츠서비스와 라이더 배달료 보호…KB금융, AI 기술...새 창 열림",
+          "summary": "[은행] 우리은행, 쿠팡이츠서비스와 라이더 배달료 보호…KB금융, AI 기술 우리은행, 쿠팡이츠서비스와 배달 라이더 정산금 보호 추진 우리은행은 지난 25일 쿠팡이츠서비스와 배달대행사 ",
+          "sentiment": "positive",
+          "tags": [
+            "#서비스·품질",
+            "#라이더",
+            "#기업·정책"
+          ],
+          "viral_score": 39.1,
+          "status": "Stable",
+          "stakeholders": [
+            "라이더"
+          ],
+          "published_at": "2026-11-27T00:16:02+09:00",
+          "processed_at": "2026-11-27T07:51:36.665309+09:00",
+          "views": 0,
+          "comments": 0,
+          "matched_keywords": [
+            "쿠팡이츠"
+          ],
+          "duplicate_count": 7,
           "duplicates": [
             {
-              "title": "쿠팡이츠서비스, 우리은행과 라이더 정산금 보호 추진새 창 열림",
-              "url": "http://www.finomy.com/news/articleView.html?idxno=268086",
+              "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
+              "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
               "channel": "네이버뉴스"
             },
             {
@@ -9411,6 +9404,11 @@
               "channel": "네이버뉴스"
             },
             {
+              "title": "우리은행·쿠팡이츠서비스, 라이더 배달료 정산금 보호 협약새 창 열림",
+              "url": "https://www.gukjenews.com/news/articleView.html?idxno=3764630",
+              "channel": "네이버뉴스"
+            },
+            {
               "title": "\"배달 라이더 정산금 지킨다\"…우리은행, 쿠팡이츠와 협약새 창 열림",
               "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102103",
               "channel": "네이버뉴스"
@@ -9421,75 +9419,19 @@
               "channel": "네이버뉴스"
             },
             {
-              "title": "쿠팡이츠서비스, ﻿라이더 안전정산 서비스 추진 MOU 체결새 창 열림",
-              "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327639",
+              "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
+              "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
               "channel": "네이버뉴스"
             }
           ]
-        },
-        {
-          "uid": "b2c856e7655ae623b92c7e889bbb8228",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://www.dongponews.net/news/articleView.html?idxno=61925",
-          "title": "우리은, 라이더 배달료 미지급 막는다...쿠팡이츠와 '안전결제망' 맞손새 창 열림",
-          "summary": "우리은, 라이더 배달료 미지급 막는다 쿠팡이츠와 '안전결제망' 맞손새 창 열림",
-          "sentiment": "positive",
-          "tags": [
-            "#서비스·품질",
-            "#마케팅·광고",
-            "#기업·정책"
-          ],
-          "viral_score": 43.2,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-26T18:03:29+09:00",
-          "processed_at": "2026-11-26T22:31:16.057280+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "f709f49ff5a83e55decf0fa2387b6247",
-          "brand": "쿠팡이츠",
-          "channel": "네이버뉴스",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=888623",
-          "title": "[유통단신] G마켓, 내년 1분기 '뷰티 전문 몰' 공개 外 쿠팡이츠·한솥도...새 창 열림",
-          "summary": "[유통단신] G마켓, 내년 1분기 '뷰티 전문 몰' 공개 外 쿠팡이츠·한솥도 ■쿠팡이츠서비스(CES)가 라이더의 정산 피해 방지를 위해 지난 25일 우리은행과 '라이더 안전정산 서비스'",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 33.0,
-          "status": "Stable",
-          "stakeholders": [
-            "라이더"
-          ],
-          "published_at": "2026-11-26T18:03:03+09:00",
-          "processed_at": "2026-11-26T22:31:13.207339+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "쿠팡이츠"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
         }
       ],
-      "total": 3,
-      "avg_score": 40.5,
+      "total": 2,
+      "avg_score": 36.4,
       "ratio": {
         "negative": 0,
-        "positive": 67,
-        "neutral": 33
+        "positive": 50,
+        "neutral": 50
       },
       "mentions": 10
     }
