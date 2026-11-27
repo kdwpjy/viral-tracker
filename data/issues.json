@@ -1,64 +1,6 @@
 {
-  "updated_at": "2026-11-28T00:58:23.881108+09:00",
+  "updated_at": "2026-11-28T08:58:45.092567+09:00",
   "hot": [
-    {
-      "uid": "7e052c2c85c08bbd01da0c518d0a8ad1",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.news2day.co.kr/article/20261122500025",
-      "title": "중개료 내리자 배달비 올라…'배달비 포함' 이견에 수수료 상한법 표류새 창 열림",
-      "summary": "중개료 내리자 배달비 올라…'배달비 포함' 이견에 수수료 상한법 표류새 창 열림 협회는 상생요금제 시행 전 배민1플러스 요금(중개수수료율 9",
-      "sentiment": "negative",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 70.1,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-28T00:55:00+09:00",
-      "processed_at": "2026-11-28T00:57:18.322390+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달비"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "232e280fd1f5aa24e073f91551387c50",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.pn.or.kr/news/articleView.html?idxno=34452",
-      "title": "세금 107억, '대구로' 5년 만에 종료...지자체 '공공배달앱' 실효성 논란새 창 열림",
-      "summary": "세금 107억, '대구로' 5년 만에 종료 지자체 '공공배달앱' 실효성 논란새 창 열림",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 66.5,
-      "status": "Rising",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-27T20:25:23+09:00",
-      "processed_at": "2026-11-28T00:56:08.560289+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
     {
       "uid": "45fd7a38f83ead035d1b9f7a9175db7e",
       "brand": "배달앱 일반",
@@ -72,15 +14,15 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 58.8,
-      "status": "Rising",
+      "viral_score": 47.3,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주",
         "라이더"
       ],
       "published_at": "2026-11-27T19:00:00+09:00",
-      "processed_at": "2026-11-28T00:56:20.911311+09:00",
+      "processed_at": "2026-11-28T08:58:05.534257+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -102,18 +44,47 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 51.9,
-      "status": "Rising",
+      "viral_score": 42.4,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-27T14:34:05+09:00",
-      "processed_at": "2026-11-28T00:57:30.704554+09:00",
+      "processed_at": "2026-11-28T08:58:27.057017+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "879f85507bb2f31fef306f5164f272d4",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88517",
+      "title": "[시선] 신한은행 '땡겨요', 배민·쿠팡이츠 균열 속 존재감↑...자생력·...새 창 열림",
+      "summary": "[시선] 신한은행 '땡겨요', 배민·쿠팡이츠 균열 속 존재감↑ 배달 양강, 과징금·수수료 상한제 압박에 '흔들' '배민애즈' 등장, 광고비 필수",
+      "sentiment": "negative",
+      "tags": [
+        "#점주·자영업",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 41.8,
+      "status": "Stable",
+      "stakeholders": [
+        "점주"
+      ],
+      "published_at": "2026-11-27T08:00:00+09:00",
+      "processed_at": "2026-11-28T08:58:13.240462+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -131,14 +102,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 51.8,
-      "status": "Rising",
+      "viral_score": 40.8,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-27T17:56:28+09:00",
-      "processed_at": "2026-11-28T00:56:16.686647+09:00",
+      "processed_at": "2026-11-28T08:58:03.827190+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -149,73 +120,6 @@
         {
           "title": "\"포장에도 배달비 적용\"...'배달 앱' 음식값, 매장 보다 400∼3천500원↑새 창 열림",
           "url": "https://www.youthdaily.co.kr/news/article.html?no=230434",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
-      "uid": "879f85507bb2f31fef306f5164f272d4",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88517",
-      "title": "[시선] 신한은행 '땡겨요', 배민·쿠팡이츠 균열 속 존재감↑...자생력·...새 창 열림",
-      "summary": "[시선] 신한은행 '땡겨요', 배민·쿠팡이츠 균열 속 존재감↑ 배달 양강, 과징금·수수료 상한제 압박에 '흔들' '배민애즈' 등장, 광고비 필수",
-      "sentiment": "negative",
-      "tags": [
-        "#점주·자영업",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 49.1,
-      "status": "Stable",
-      "stakeholders": [
-        "점주"
-      ],
-      "published_at": "2026-11-27T08:00:00+09:00",
-      "processed_at": "2026-11-28T00:56:41.263920+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "6626a4492c49ac02aff46572d808f48d",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117360",
-      "title": "배민B마트, 장보기 불편 줄인다…평균 30분 즉시 배송 강조새 창 열림",
-      "summary": "배민B마트, 장보기 불편 줄인다…평균 30분 즉시 배송 강조새 창 열림 |데일리포스트=송협 대표기자| \"필요한 순간 필요한 만큼, 걱정 없는 장보기를 배민B마트에서 경험해 보시길 ",
-      "sentiment": "positive",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고"
-      ],
-      "viral_score": 44.0,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자"
-      ],
-      "published_at": "2026-11-27T21:02:17+09:00",
-      "processed_at": "2026-11-28T00:55:50.909934+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 2,
-      "duplicates": [
-        {
-          "title": "필요할 때 필요한 만큼…배민B마트, 즉시 배달 경쟁력 앞세운다새 창 열림",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214938",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "언제 오나 기다리지 마세요... 배민B마트 '30분 배송' 캠페인새 창 열림",
-          "url": "https://www.insight.co.kr/news/583905",
           "channel": "네이버뉴스"
         }
       ]
@@ -233,18 +137,80 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 43.8,
+      "viral_score": 36.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-27T14:24:04+09:00",
-      "processed_at": "2026-11-28T00:56:36.861583+09:00",
+      "processed_at": "2026-11-28T08:58:11.513180+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "6626a4492c49ac02aff46572d808f48d",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117360",
+      "title": "배민B마트, 장보기 불편 줄인다…평균 30분 즉시 배송 강조새 창 열림",
+      "summary": "배민B마트, 장보기 불편 줄인다…평균 30분 즉시 배송 강조새 창 열림 |데일리포스트=송협 대표기자| \"필요한 순간 필요한 만큼, 걱정 없는 장보기를 배민B마트에서 경험해 보시길 ",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#마케팅·광고"
+      ],
+      "viral_score": 34.3,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-27T21:02:17+09:00",
+      "processed_at": "2026-11-28T08:57:56.688779+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "언제 오나 기다리지 마세요... 배민B마트 '30분 배송' 캠페인새 창 열림",
+          "url": "https://www.insight.co.kr/news/583905",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
+    {
+      "uid": "aa1be609ae308a3e8563c8a50708610e",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233341",
+      "title": "\"AI로 뚝딱, 음식사진 이래도 돼?\"…배민·쿠팡이츠에 물었다 [올댓체크...새 창 열림",
+      "summary": "\"AI로 뚝딱, 음식사진 이래도 돼 \"…배민·쿠팡이츠에 물었다 [올댓체크",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 33.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-28T08:00:00+09:00",
+      "processed_at": "2026-11-28T08:57:55.267325+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -261,13 +227,13 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 39.9,
+      "viral_score": 31.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-27T17:56:33+09:00",
-      "processed_at": "2026-11-28T00:55:54.456996+09:00",
+      "processed_at": "2026-11-28T08:57:57.997936+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -277,26 +243,55 @@
       "duplicates": []
     },
     {
-      "uid": "3a990bb98af611ca3d6233c7e5fdfd2a",
-      "brand": "배달앱 일반",
+      "uid": "232e280fd1f5aa24e073f91551387c50",
+      "brand": "배달의민족, 쿠팡이츠",
       "channel": "네이버뉴스",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724539&ref=A",
-      "title": "소비자연맹 “배달앱 입점 음식점 68.9% 이중 가격…포장에 배달가 적용...새 창 열림",
-      "summary": "소비자연맹 “배달앱 입점 음식점 68 9% 이중 가격…포장에 배달가 적용",
-      "sentiment": "negative",
+      "url": "https://www.pn.or.kr/news/articleView.html?idxno=34452",
+      "title": "세금 107억, '대구로' 5년 만에 종료...지자체 '공공배달앱' 실효성 논란새 창 열림",
+      "summary": "세금 107억, '대구로' 5년 만에 종료 지자체 '공공배달앱' 실효성 논란새 창 열림",
+      "sentiment": "neutral",
       "tags": [
-        "#가격·수수료",
         "#서비스·품질",
-        "#소비자반응"
+        "#마케팅·광고",
+        "#기업·정책"
       ],
-      "viral_score": 31.4,
+      "viral_score": 29.2,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
-      "published_at": "2026-11-27T00:00:00+09:00",
-      "processed_at": "2026-11-28T00:58:23.875867+09:00",
+      "published_at": "2026-11-27T20:25:23+09:00",
+      "processed_at": "2026-11-28T08:58:02.148747+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "2c51ef1b665eeefebb4886581a12fba8",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12220278",
+      "title": "“직접 포장하는데 왜 더 비싸?”…배달앱 가격의 함정새 창 열림",
+      "summary": "“직접 포장하는데 왜 더 비싸 ”…배달앱 가격의 함정새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 23.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-27T16:24:27+09:00",
+      "processed_at": "2026-11-28T08:58:28.601775+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -307,6 +302,41 @@
     }
   ],
   "feed": [
+    {
+      "uid": "aa1be609ae308a3e8563c8a50708610e",
+      "brand": "배달의민족, 쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233341",
+      "title": "\"AI로 뚝딱, 음식사진 이래도 돼?\"…배민·쿠팡이츠에 물었다 [올댓체크...새 창 열림",
+      "summary": "\"AI로 뚝딱, 음식사진 이래도 돼 \"…배민·쿠팡이츠에 물었다 [올댓체크",
+      "sentiment": "neutral",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 33.9,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-28T08:00:00+09:00",
+      "processed_at": "2026-11-28T08:57:55.267325+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족",
+        "쿠팡이츠"
+      ],
+      "duplicate_count": 1,
+      "duplicates": [
+        {
+          "title": "배민·쿠팡이츠, AI로 리뷰 사전 검수 강화…악성 후기 차단새 창 열림",
+          "url": "https://www.etnews.com/20261119000239",
+          "channel": "네이버뉴스"
+        }
+      ]
+    },
     {
       "uid": "7e052c2c85c08bbd01da0c518d0a8ad1",
       "brand": "배달의민족",
@@ -348,83 +378,82 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 44.0,
+      "viral_score": 34.3,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-27T21:02:17+09:00",
-      "processed_at": "2026-11-28T00:55:50.909934+09:00",
+      "processed_at": "2026-11-28T08:57:56.688779+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 3,
+      "duplicate_count": 2,
       "duplicates": [
         {
-          "title": "필요할 때 필요한 만큼…배민B마트, 즉시 배달 경쟁력 앞세운다새 창 열림",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214938",
+          "title": "배민B마트, ‘평균 30분 배송’ 내세운 새 광고 공개새 창 열림",
+          "url": "https://www.dailian.co.kr/news/view/1720430/?sc=Naver",
           "channel": "네이버뉴스"
         },
         {
           "title": "언제 오나 기다리지 마세요... 배민B마트 '30분 배송' 캠페인새 창 열림",
           "url": "https://www.insight.co.kr/news/583905",
           "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민B마트, ‘평균 30분 배송’ 내세운 새 광고 공개새 창 열림",
-          "url": "https://www.dailian.co.kr/news/view/1720430/?sc=Naver",
-          "channel": "네이버뉴스"
         }
       ]
     },
     {
-      "uid": "232e280fd1f5aa24e073f91551387c50",
-      "brand": "배달의민족, 쿠팡이츠",
+      "uid": "a0e3e55e559b1efcbce9a43ee1a57383",
+      "brand": "배달앱 일반",
       "channel": "네이버뉴스",
-      "url": "https://www.pn.or.kr/news/articleView.html?idxno=34452",
-      "title": "세금 107억, '대구로' 5년 만에 종료...지자체 '공공배달앱' 실효성 논란새 창 열림",
-      "summary": "세금 107억, '대구로' 5년 만에 종료 지자체 '공공배달앱' 실효성 논란새 창 열림",
+      "url": "https://www.hankookilbo.com/news/article/A2026112509080004439?did=NA",
+      "title": "공공배달앱 대구로 5년 만에 퇴출... 대구로택시로 '불똥'새 창 열림",
+      "summary": "공공배달앱 대구로 5년 만에 퇴출 대구로택시로 '불똥'새 창 열림",
       "sentiment": "negative",
       "tags": [
-        "#서비스·품질",
+        "#가격·수수료",
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 66.5,
+      "viral_score": 51.8,
       "status": "Rising",
       "stakeholders": [
-        "소비자",
-        "점주"
+        "소비자"
       ],
-      "published_at": "2026-11-27T20:25:23+09:00",
-      "processed_at": "2026-11-28T00:56:08.560289+09:00",
+      "published_at": "2026-11-25T15:30:00+09:00",
+      "processed_at": "2026-11-26T05:58:52.024859+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
         "배달앱"
       ],
-      "duplicate_count": 4,
+      "duplicate_count": 5,
       "duplicates": [
-        {
-          "title": "공공배달앱 대구로 5년 만에 퇴출... 대구로택시로 '불똥'새 창 열림",
-          "url": "https://www.hankookilbo.com/news/article/A2026112509080004439?did=NA",
-          "channel": "네이버뉴스"
-        },
         {
           "title": "107억 쏟아부은 대구 공공배달앱, 5년 만에 문 닫는다새 창 열림",
           "url": "https://www.joongang.co.kr/article/25481271",
           "channel": "네이버뉴스"
         },
         {
-          "title": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림",
-          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
+          "title": "세금 107억, '대구로' 5년 만에 종료...지자체 '공공배달앱' 실효성 논란새 창 열림",
+          "url": "https://www.pn.or.kr/news/articleView.html?idxno=34452",
           "channel": "네이버뉴스"
         },
         {
           "title": "100억 쏟은 ‘대구로’ 문 닫는다…줄줄이 퇴장하는 공공배달앱새 창 열림",
           "url": "https://www.joongang.co.kr/article/25481018",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
+          "channel": "네이버뉴스"
+        },
+        {
+          "title": "공공 배달앱 성공 모델 ‘대구로’ 어쩌다가…결국 ‘땡겨요’가 맡는...새 창 열림",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1289106.html",
           "channel": "네이버뉴스"
         }
       ]
@@ -476,41 +505,6 @@
       ]
     },
     {
-      "uid": "2c51ef1b665eeefebb4886581a12fba8",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mk.co.kr/article/12220278",
-      "title": "“직접 포장하는데 왜 더 비싸?”…배달앱 가격의 함정새 창 열림",
-      "summary": "“직접 포장하는데 왜 더 비싸 ”…배달앱 가격의 함정새 창 열림",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#소비자반응"
-      ],
-      "viral_score": 29.4,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-27T16:24:27+09:00",
-      "processed_at": "2026-11-28T00:57:34.645505+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "배달비 아끼려고 포장했는데 “더 비싼 게 말이 돼?”…배달앱 가격의 ...새 창 열림",
-          "url": "https://www.sedaily.com/article/20120040?ref=naver",
-          "channel": "네이버뉴스"
-        }
-      ]
-    },
-    {
       "uid": "47a0700e46c97a8912e1803f8b430d9c",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -522,13 +516,13 @@
         "#서비스·품질",
         "#마케팅·광고"
       ],
-      "viral_score": 39.9,
+      "viral_score": 31.4,
       "status": "Stable",
       "stakeholders": [
         "소비자"
       ],
       "published_at": "2026-11-27T17:56:33+09:00",
-      "processed_at": "2026-11-28T00:55:54.456996+09:00",
+      "processed_at": "2026-11-28T08:57:57.997936+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -550,14 +544,14 @@
         "#점주·자영업",
         "#소비자반응"
       ],
-      "viral_score": 51.8,
-      "status": "Rising",
+      "viral_score": 40.8,
+      "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-27T17:56:28+09:00",
-      "processed_at": "2026-11-28T00:56:16.686647+09:00",
+      "processed_at": "2026-11-28T08:58:03.827190+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -571,6 +565,35 @@
           "channel": "네이버뉴스"
         }
       ]
+    },
+    {
+      "uid": "2c51ef1b665eeefebb4886581a12fba8",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mk.co.kr/article/12220278",
+      "title": "“직접 포장하는데 왜 더 비싸?”…배달앱 가격의 함정새 창 열림",
+      "summary": "“직접 포장하는데 왜 더 비싸 ”…배달앱 가격의 함정새 창 열림",
+      "sentiment": "neutral",
+      "tags": [
+        "#가격·수수료",
+        "#서비스·품질",
+        "#점주·자영업"
+      ],
+      "viral_score": 23.8,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-27T16:24:27+09:00",
+      "processed_at": "2026-11-28T08:58:28.601775+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     },
     {
       "uid": "c660571b756bca774b6545226b0bf1c0",
@@ -619,14 +642,14 @@
         "#점주·자영업",
         "#기업·정책"
       ],
-      "viral_score": 43.8,
+      "viral_score": 36.5,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-27T14:24:04+09:00",
-      "processed_at": "2026-11-28T00:56:36.861583+09:00",
+      "processed_at": "2026-11-28T08:58:11.513180+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -763,13 +786,13 @@
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
-          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
+          "title": "쿠팡이츠서비스, 우리은행과 대금예치 기반 라이더 정산 협약 체결새 창 열림",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55203",
           "channel": "네이버뉴스"
         },
         {
-          "title": "쿠팡이츠서비스, 우리은행과 대금예치 기반 라이더 정산 협약 체결새 창 열림",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55203",
+          "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
           "channel": "네이버뉴스"
         },
         {
@@ -834,13 +857,13 @@
         "#라이더",
         "#기업·정책"
       ],
-      "viral_score": 20.1,
+      "viral_score": 16.4,
       "status": "Stable",
       "stakeholders": [
         "라이더"
       ],
       "published_at": "2026-11-27T06:40:00+09:00",
-      "processed_at": "2026-11-28T00:57:57.863941+09:00",
+      "processed_at": "2026-11-28T08:58:36.204226+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -981,14 +1004,14 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 12.7,
+      "viral_score": 11.1,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "라이더"
       ],
       "published_at": "2026-11-26T10:44:46+09:00",
-      "processed_at": "2026-11-28T00:57:22.393164+09:00",
+      "processed_at": "2026-11-28T08:58:25.500886+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1022,16 +1045,11 @@
       "matched_keywords": [
         "배달의민족"
       ],
-      "duplicate_count": 2,
+      "duplicate_count": 1,
       "duplicates": [
         {
           "title": "\"아파트 '배달 갈등' 해법 될까\"… 배민 로봇 '딜리', 현관문 앞까지 간...새 창 열림",
           "url": "https://www.economytalk.kr/news/articleView.html?idxno=425537",
-          "channel": "네이버뉴스"
-        },
-        {
-          "title": "배민 '딜리', 엘리베이터 타고 집 앞 배달 추진…내년 서울 아파트 목표새 창 열림",
-          "url": "https://www.tournews21.com/news/articleView.html?idxno=149292",
           "channel": "네이버뉴스"
         }
       ]
@@ -1074,35 +1092,6 @@
           "channel": "네이버뉴스"
         }
       ]
-    },
-    {
-      "uid": "65800a35465b063e26dbf730f6b24426",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.hani.co.kr/arti/area/yeongnam/1289106.html",
-      "title": "공공 배달앱 성공 모델 ‘대구로’ 어쩌다가…결국 ‘땡겨요’가 맡는...새 창 열림",
-      "summary": "공공 배달앱 성공 모델 ‘대구로’ 어쩌다가…결국 ‘땡겨요’가 맡는 공공 배달앱은 기본적으로 수수료가 적기 때문에 아주 많은 업체와 고객이 있어야 수익을 낼 수 있는데, 지역만",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 12.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-25T17:49:00+09:00",
-      "processed_at": "2026-11-28T00:57:38.385971+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
     },
     {
       "uid": "6b297b8abe05e4cdb0831175de235b1a",
@@ -1174,13 +1163,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 38.8,
+      "viral_score": 37.4,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T16:43:40+09:00",
-      "processed_at": "2026-11-28T00:56:27.685300+09:00",
+      "processed_at": "2026-11-28T08:58:08.291649+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1238,13 +1227,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 20.3,
+      "viral_score": 19.7,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-25T10:14:10+09:00",
-      "processed_at": "2026-11-28T00:56:49.100232+09:00",
+      "processed_at": "2026-11-28T08:58:16.305944+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1429,13 +1418,13 @@
         "#마케팅·광고",
         "#기업·정책"
       ],
-      "viral_score": 10.9,
+      "viral_score": 10.6,
       "status": "Stable",
       "stakeholders": [
         "점주"
       ],
       "published_at": "2026-11-24T19:28:43+09:00",
-      "processed_at": "2026-11-28T00:56:57.149239+09:00",
+      "processed_at": "2026-11-28T08:58:17.744527+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -1528,41 +1517,6 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
-    },
-    {
-      "uid": "aeb2689573a5f0b2060fa03d87bda14e",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.mt.co.kr/tech/2026/11/24/2026112321350256927",
-      "title": "쿠폰 뿌려도 다시 배민으로…지역화폐까지 품으면 공공앱 어쩌나새 창 열림",
-      "summary": "쿠폰 뿌려도 다시 배민으로…지역화폐까지 품으면 공공앱 어쩌나새 창 열림 배민은 티빙, 유튜브 프리미엄 이용권 등과 연계한 구독상품도 운영한다",
-      "sentiment": "negative",
-      "tags": [
-        "#서비스·품질",
-        "#소비자반응",
-        "#기업·정책"
-      ],
-      "viral_score": 20.6,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-24T06:30:00+09:00",
-      "processed_at": "2026-11-27T07:52:04.820728+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족"
-      ],
-      "duplicate_count": 1,
-      "duplicates": [
-        {
-          "title": "공공앱 버팀목 ‘지역화폐’, 배민으로…‘소비 편의’와 ‘공공성’의...새 창 열림",
-          "url": "https://www.ceoscoredaily.com/page/view/2026112417061326575",
-          "channel": "네이버뉴스"
-        }
-      ]
     },
     {
       "uid": "f280cc1a3297e662bc9454970e95e7d7",
@@ -1820,6 +1774,35 @@
       "duplicates": []
     },
     {
+      "uid": "aeb2689573a5f0b2060fa03d87bda14e",
+      "brand": "배달의민족",
+      "channel": "네이버뉴스",
+      "url": "https://www.mt.co.kr/tech/2026/11/24/2026112321350256927",
+      "title": "쿠폰 뿌려도 다시 배민으로…지역화폐까지 품으면 공공앱 어쩌나새 창 열림",
+      "summary": "쿠폰 뿌려도 다시 배민으로…지역화폐까지 품으면 공공앱 어쩌나새 창 열림 배민은 티빙, 유튜브 프리미엄 이용권 등과 연계한 구독상품도 운영한다",
+      "sentiment": "negative",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#기업·정책"
+      ],
+      "viral_score": 20.6,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자",
+        "점주"
+      ],
+      "published_at": "2026-11-24T06:30:00+09:00",
+      "processed_at": "2026-11-27T07:52:04.820728+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
       "uid": "ff696ba38658c3bec65113b016cb5cc3",
       "brand": "배달의민족",
       "channel": "네이버뉴스",
@@ -1950,14 +1933,14 @@
         "#소비자반응",
         "#마케팅·광고"
       ],
-      "viral_score": 13.0,
+      "viral_score": 12.9,
       "status": "Stable",
       "stakeholders": [
         "소비자",
         "점주"
       ],
       "published_at": "2026-11-23T16:13:45+09:00",
-      "processed_at": "2026-11-28T00:57:09.631444+09:00",
+      "processed_at": "2026-11-28T08:58:22.406279+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -2265,7 +2248,7 @@
         "점주"
       ],
       "published_at": "2026-11-23T07:00:00+09:00",
-      "processed_at": "2026-11-28T00:57:13.789129+09:00",
+      "processed_at": "2026-11-28T08:58:23.973645+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -3121,36 +3104,6 @@
       "duplicates": []
     },
     {
-      "uid": "10b6e84299c4284d90c8e3648eda2f85",
-      "brand": "배달의민족, 쿠팡이츠",
-      "channel": "네이버뉴스",
-      "url": "https://www.etnews.com/20261119000239",
-      "title": "배민·쿠팡이츠, AI로 리뷰 사전 검수 강화…악성 후기 차단새 창 열림",
-      "summary": "배민·쿠팡이츠, AI로 리뷰 사전 검수 강화…악성 후기 차단새 창 열림 배달의민족과 쿠팡이츠가 인공지능(AI)을 활용한 리뷰 사전 검수를 강화한다",
-      "sentiment": "neutral",
-      "tags": [
-        "#서비스·품질",
-        "#마케팅·광고",
-        "#기업·정책"
-      ],
-      "viral_score": 24.5,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-19T16:29:00+09:00",
-      "processed_at": "2026-11-20T07:58:19.841470+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달의민족",
-        "쿠팡이츠"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
       "uid": "9a5f37f7742b4741ceca083a28bc861d",
       "brand": "배달앱 일반",
       "channel": "네이버뉴스",
@@ -3697,6 +3650,34 @@
       "comments": 0,
       "matched_keywords": [
         "배달의민족"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
+    },
+    {
+      "uid": "5bac848f5be989a0e34c4488c2304c1c",
+      "brand": "쿠팡이츠",
+      "channel": "네이버뉴스",
+      "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565701",
+      "title": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림",
+      "summary": "대구시, 공공배달앱 운영사 우선협상자 선정 평가과정 부실 논란새 창 열림 문제는 지난 7월께 신한은행의 배달 애플리케이션 '땡겨요' 사업단 간부가 경쟁사인 쿠팡이츠의 영업 비밀을 무",
+      "sentiment": "negative",
+      "tags": [
+        "#소비자반응",
+        "#마케팅·광고",
+        "#기업·정책"
+      ],
+      "viral_score": 28.7,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-17T21:29:00+09:00",
+      "processed_at": "2026-11-24T12:46:49.659859+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
       ],
       "duplicate_count": 0,
       "duplicates": []
@@ -4428,35 +4409,6 @@
       ],
       "published_at": "2026-11-15T14:30:00+09:00",
       "processed_at": "2026-11-16T01:49:34.279759+09:00",
-      "views": 0,
-      "comments": 0,
-      "matched_keywords": [
-        "배달앱"
-      ],
-      "duplicate_count": 0,
-      "duplicates": []
-    },
-    {
-      "uid": "08ef73fe666742e33ed76bef1eca2225",
-      "brand": "배달의민족",
-      "channel": "네이버뉴스",
-      "url": "https://www.yeongnam.com/web/view.php?key=20261115025367827",
-      "title": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림",
-      "summary": "화장품까지 배달하는 배달앱…대구 공공배달앱도 새 판 짠다새 창 열림 배민이 상품을 직접 매입해 판매하는 방식이다",
-      "sentiment": "neutral",
-      "tags": [
-        "#가격·수수료",
-        "#점주·자영업",
-        "#기업·정책"
-      ],
-      "viral_score": 14.2,
-      "status": "Stable",
-      "stakeholders": [
-        "소비자",
-        "점주"
-      ],
-      "published_at": "2026-11-15T11:52:58+09:00",
-      "processed_at": "2026-11-17T08:15:18.820630+09:00",
       "views": 0,
       "comments": 0,
       "matched_keywords": [
@@ -9085,40 +9037,39 @@
       ],
       "duplicate_count": 0,
       "duplicates": []
+    },
+    {
+      "uid": "d1049823e2d37af23fbc6db53a34fdf3",
+      "brand": "배달의민족",
+      "channel": "다음뉴스",
+      "url": "http://v.daum.net/v/20261102190713574",
+      "title": "고객 경쟁 플랫폼 “경계는 없다”…패션앱서 빵 사고 배달앱서 옷 산다",
+      "summary": "고객 경쟁 플랫폼 “경계는 없다”…패션앱서 빵 사고 배달앱서 옷 산다 갑작스러운 약속이나 출근 등으로 옷이나 신발이 급하게 필요할 때 빠르게 받아볼 수 있다는 점을 내세운다",
+      "sentiment": "positive",
+      "tags": [
+        "#서비스·품질",
+        "#소비자반응",
+        "#마케팅·광고"
+      ],
+      "viral_score": 40.5,
+      "status": "Stable",
+      "stakeholders": [
+        "소비자"
+      ],
+      "published_at": "2026-11-02T19:07:00+09:00",
+      "processed_at": "2026-11-03T04:59:11.469596+09:00",
+      "views": 0,
+      "comments": 0,
+      "matched_keywords": [
+        "배달앱"
+      ],
+      "duplicate_count": 0,
+      "duplicates": []
     }
   ],
   "versus": {
     "baemin": {
       "issues": [
-        {
-          "uid": "7e052c2c85c08bbd01da0c518d0a8ad1",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.news2day.co.kr/article/20261122500025",
-          "title": "중개료 내리자 배달비 올라…'배달비 포함' 이견에 수수료 상한법 표류새 창 열림",
-          "summary": "중개료 내리자 배달비 올라…'배달비 포함' 이견에 수수료 상한법 표류새 창 열림 협회는 상생요금제 시행 전 배민1플러스 요금(중개수수료율 9",
-          "sentiment": "negative",
-          "tags": [
-            "#가격·수수료",
-            "#점주·자영업",
-            "#소비자반응"
-          ],
-          "viral_score": 70.1,
-          "status": "Rising",
-          "stakeholders": [
-            "소비자",
-            "점주"
-          ],
-          "published_at": "2026-11-28T00:55:00+09:00",
-          "processed_at": "2026-11-28T00:57:18.322390+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달비"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
         {
           "uid": "6626a4492c49ac02aff46572d808f48d",
           "brand": "배달의민족",
@@ -9131,25 +9082,20 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 44.0,
+          "viral_score": 34.3,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-27T21:02:17+09:00",
-          "processed_at": "2026-11-28T00:55:50.909934+09:00",
+          "processed_at": "2026-11-28T08:57:56.688779+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
             "배달의민족"
           ],
-          "duplicate_count": 2,
+          "duplicate_count": 1,
           "duplicates": [
-            {
-              "title": "필요할 때 필요한 만큼…배민B마트, 즉시 배달 경쟁력 앞세운다새 창 열림",
-              "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214938",
-              "channel": "네이버뉴스"
-            },
             {
               "title": "언제 오나 기다리지 마세요... 배민B마트 '30분 배송' 캠페인새 창 열림",
               "url": "https://www.insight.co.kr/news/583905",
@@ -9169,13 +9115,13 @@
             "#서비스·품질",
             "#마케팅·광고"
           ],
-          "viral_score": 39.9,
+          "viral_score": 31.4,
           "status": "Stable",
           "stakeholders": [
             "소비자"
           ],
           "published_at": "2026-11-27T17:56:33+09:00",
-          "processed_at": "2026-11-28T00:55:54.456996+09:00",
+          "processed_at": "2026-11-28T08:57:57.997936+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9194,17 +9140,17 @@
           "sentiment": "neutral",
           "tags": [
             "#가격·수수료",
-            "#점주·자영업",
-            "#소비자반응"
+            "#서비스·품질",
+            "#점주·자영업"
           ],
-          "viral_score": 29.4,
+          "viral_score": 23.8,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-27T16:24:27+09:00",
-          "processed_at": "2026-11-28T00:57:34.645505+09:00",
+          "processed_at": "2026-11-28T08:58:28.601775+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9226,14 +9172,14 @@
             "#점주·자영업",
             "#기업·정책"
           ],
-          "viral_score": 43.8,
+          "viral_score": 36.5,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "점주"
           ],
           "published_at": "2026-11-27T14:24:04+09:00",
-          "processed_at": "2026-11-28T00:56:36.861583+09:00",
+          "processed_at": "2026-11-28T08:58:11.513180+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9251,17 +9197,17 @@
           "summary": "배민, 금융·판로·수수료 지원 확대 소상공인 상생 접점 넓힌다새 창 열림",
           "sentiment": "positive",
           "tags": [
-            "#가격·수수료",
             "#점주·자영업",
+            "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 24.3,
+          "viral_score": 21.4,
           "status": "Stable",
           "stakeholders": [
             "점주"
           ],
           "published_at": "2026-11-26T16:18:52+09:00",
-          "processed_at": "2026-11-28T00:56:45.163879+09:00",
+          "processed_at": "2026-11-28T08:58:14.785863+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9283,43 +9229,14 @@
             "#마케팅·광고",
             "#기업·정책"
           ],
-          "viral_score": 12.7,
+          "viral_score": 11.1,
           "status": "Stable",
           "stakeholders": [
             "소비자",
             "라이더"
           ],
           "published_at": "2026-11-26T10:44:46+09:00",
-          "processed_at": "2026-11-28T00:57:22.393164+09:00",
-          "views": 0,
-          "comments": 0,
-          "matched_keywords": [
-            "배달의민족"
-          ],
-          "duplicate_count": 0,
-          "duplicates": []
-        },
-        {
-          "uid": "a64fce7f21c536df52789c5dbec8f1a2",
-          "brand": "배달의민족",
-          "channel": "네이버뉴스",
-          "url": "https://www.economytalk.kr/news/articleView.html?idxno=425537",
-          "title": "\"아파트 '배달 갈등' 해법 될까\"… 배민 로봇 '딜리', 현관문 앞까지 간...새 창 열림",
-          "summary": "\"아파트 '배달 갈등' 해법 될까\"… 배민 로봇 '딜리', 현관문 앞까지 간 오토바이 출입 통제를 둘러싼 고급 아파트 입주민과 배달 라이더 간 갈등이 깊어지는 가운데, 배달의민족(이하 ",
-          "sentiment": "neutral",
-          "tags": [
-            "#서비스·품질",
-            "#라이더",
-            "#기업·정책"
-          ],
-          "viral_score": 14.8,
-          "status": "Stable",
-          "stakeholders": [
-            "점주",
-            "라이더"
-          ],
-          "published_at": "2026-11-26T07:28:30+09:00",
-          "processed_at": "2026-11-28T00:57:01.221077+09:00",
+          "processed_at": "2026-11-28T08:58:25.500886+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9329,14 +9246,14 @@
           "duplicates": []
         }
       ],
-      "total": 8,
-      "avg_score": 34.9,
+      "total": 6,
+      "avg_score": 26.4,
       "ratio": {
-        "negative": 12,
-        "positive": 50,
-        "neutral": 38
+        "negative": 0,
+        "positive": 67,
+        "neutral": 33
       },
-      "mentions": 12
+      "mentions": 9
     },
     "coupang": {
       "issues": [
@@ -9353,13 +9270,13 @@
             "#라이더",
             "#기업·정책"
           ],
-          "viral_score": 24.8,
+          "viral_score": 20.5,
           "status": "Stable",
           "stakeholders": [
             "라이더"
           ],
           "published_at": "2026-11-27T09:59:00+09:00",
-          "processed_at": "2026-11-28T00:57:54.314441+09:00",
+          "processed_at": "2026-11-28T08:58:34.850577+09:00",
           "views": 0,
           "comments": 0,
           "matched_keywords": [
@@ -9373,13 +9290,13 @@
               "channel": "네이버뉴스"
             },
             {
-              "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
-              "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
+              "title": "쿠팡이츠서비스, 우리은행과 대금예치 기반 라이더 정산 협약 체결새 창 열림",
+              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55203",
               "channel": "네이버뉴스"
             },
             {
-              "title": "쿠팡이츠서비스, 우리은행과 대금예치 기반 라이더 정산 협약 체결새 창 열림",
-              "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55203",
+              "title": "쿠팡·쿠팡이츠서비스, 소상공인 판로 확대·라이더 정산 보호 강화새 창 열림",
+              "url": "https://www.globale.co.kr/news/articleView.html?idxno=41871",
               "channel": "네이버뉴스"
             },
             {
@@ -9401,7 +9318,7 @@
         }
       ],
       "total": 1,
-      "avg_score": 24.8,
+      "avg_score": 20.5,
       "ratio": {
         "negative": 0,
         "positive": 0,
